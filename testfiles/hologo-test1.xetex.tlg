@@ -10,16 +10,13 @@ Package: ltxcmds ....-..-.. v... LaTeX kernel commands for general use (HO)
 Package: infwarerr ....-..-.. v... Providing info/warning/error messages (HO)
 ) (../kvsetkeys.sty
 Package: kvsetkeys ....-..-.. v... Key value parser (HO)
-(../etexcmds.sty
-Package: etexcmds ....-..-.. v... Avoid name clashes with e-TeX commands (HO)
-(../ifluatex.sty
-Package: ifluatex ....-..-.. v... ifluatex legacy package. Use iftex instead.
-(../iftex.sty
-Package: iftex ....-..-.. v... TeX engine tests
-)))) (../kvdefinekeys.sty
+) (../kvdefinekeys.sty
 Package: kvdefinekeys ....-..-.. v... Define keys (HO)
 ) (../pdftexcmds.sty
 Package: pdftexcmds ....-..-.. v... Utility functions of pdfTeX for LuaTeX (HO)
+(../iftex.sty
+Package: iftex ....-..-.. v... TeX engine tests
+)
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode not found.
