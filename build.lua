@@ -14,6 +14,8 @@ unpackfiles = {'hologo.dtx'}
 
 packtdszip  = true
 
+tagfiles = {"*.dtx", "*.md"}
+
 maxprintline=10000
 checkruns = 2
 
