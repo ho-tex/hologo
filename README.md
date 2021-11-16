@@ -2,7 +2,7 @@
 
 hologo package for LaTeX
 
-Version: 2019/12/05 v1.14
+Version: 2021-11-16 v1.15
 
 This package starts a collection of logos with support for bookmarks
 strings.
