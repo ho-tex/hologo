@@ -12,7 +12,7 @@ installfiles = {
 textfiles = {"README.md"}
 unpackfiles = {'hologo.dtx'}
 
-packtdszip  = true
+packtdszip  = false
 
 tagfiles = {"*.dtx", "*.md"}
 
