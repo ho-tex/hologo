@@ -19,10 +19,12 @@ tagfiles = {"*.dtx", "*.md"}
 maxprintline=10000
 checkruns = 2
 
+tdsroot = "generic"
+
 tdslocations={
-"doc/latex/hologo/example/hologo-example.tex",
-"doc/latex/hologo/hologo.pdf",
-"source/latex/hologo/hologo.dtx",
+"doc/generic/hologo/example/hologo-example.tex",
+"doc/generic/hologo/hologo.pdf",
+"source/generic/hologo/hologo.dtx",
 "tex/generic/hologo/hologo.sty",
 }
 
