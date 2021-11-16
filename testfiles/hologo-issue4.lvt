@@ -1,0 +1,18 @@
+%% This is file `hologo-test1.lvt',
+%% The original source files were:
+%%
+%% hologo.dtx  (with options: `test1')
+\input{regression-test}
+\documentclass{article}
+
+\usepackage{hologo}
+\usepackage{hyperref}
+
+\begin{document}
+
+\START
+\section{\hologo{LaTeXe}}
+
+\end{document}
+%%
+%% End of file `hologo-test1.tex'.
