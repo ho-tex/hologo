@@ -1339,62 +1339,17 @@ and the derived files
 %
 % \subsubsection{\cs{hologo} and friends}
 %
-%    \begin{macrocode}
-\ifluatex
-  \expandafter\ltx@firstofone
-\else
-  \expandafter\ltx@gobble
-\fi
-{%
-  \ltx@IfUndefined{ifincsname}{%
-    \ifnum\luatexversion<36 %
-      \expandafter\ltx@gobble
-    \else
-      \expandafter\ltx@firstofone
-    \fi
-    {%
-      \begingroup
-        \ifcase0%
-            \directlua{%
-              if tex.enableprimitives then %
-                tex.enableprimitives('HOLOGO@', {'ifincsname'})%
-              else %
-                tex.print('1')%
-              end%
-            }%
-            \ifx\HOLOGO@ifincsname\@undefined 1\fi%
-            \relax
-          \expandafter\ltx@firstofone
-        \else
-          \endgroup
-          \expandafter\ltx@gobble
-        \fi
-        {%
-          \global\let\ifincsname\HOLOGO@ifincsname
-        }%
-      \HOLOGO@temp
-    }%
-  }{}%
-}
-%    \end{macrocode}
-%    \begin{macrocode}
-\ltx@IfUndefined{ifincsname}{%
-  \catcode`$=14 %
-}{%
-  \catcode`$=9 %
-}
-%    \end{macrocode}
 %
 %    \begin{macro}{\hologo}
 %    \begin{macrocode}
 \def\hologo#1{%
-$ \ifincsname
-$   \ltx@ifundefined{HoLogoCs@\HOLOGO@Variant{#1}}{%
-$     #1%
-$   }{%
-$     \csname HoLogoCs@\HOLOGO@Variant{#1}\endcsname\ltx@firstoftwo
-$   }%
-$ \else
+ \ifincsname
+   \ltx@ifundefined{HoLogoCs@\HOLOGO@Variant{#1}}{%
+     #1%
+   }{%
+     \csname HoLogoCs@\HOLOGO@Variant{#1}\endcsname\ltx@firstoftwo
+   }%
+ \else
     \HOLOGO@IfExists\texorpdfstring\texorpdfstring\ltx@firstoftwo
     {%
       \hologoRobust{#1}%
@@ -1406,20 +1361,20 @@ $ \else
         \ltx@firstoftwo
       }%
     }%
-$ \fi
+ \fi
 }
 %    \end{macrocode}
 %    \end{macro}
 %    \begin{macro}{\Hologo}
 %    \begin{macrocode}
 \def\Hologo#1{%
-$ \ifincsname
-$   \ltx@ifundefined{HoLogoCs@\HOLOGO@Variant{#1}}{%
-$     #1%
-$   }{%
-$     \csname HoLogoCs@\HOLOGO@Variant{#1}\endcsname\ltx@secondoftwo
-$   }%
-$ \else
+ \ifincsname
+   \ltx@ifundefined{HoLogoCs@\HOLOGO@Variant{#1}}{%
+     #1%
+   }{%
+     \csname HoLogoCs@\HOLOGO@Variant{#1}\endcsname\ltx@secondoftwo
+   }%
+ \else
     \HOLOGO@IfExists\texorpdfstring\texorpdfstring\ltx@firstoftwo
     {%
       \HologoRobust{#1}%
@@ -1431,7 +1386,7 @@ $ \else
         \ltx@secondoftwo
       }%
     }%
-$ \fi
+ \fi
 }
 %    \end{macrocode}
 %    \end{macro}
@@ -1442,13 +1397,13 @@ $ \fi
   \ifx\relax#2\relax
     \hologo{#1}%
   \else
-$   \ifincsname
-$     \ltx@ifundefined{HoLogoCs@#1@#2}{%
-$       #1%
-$     }{%
-$       \csname HoLogoCs@#1@#2\endcsname\ltx@firstoftwo
-$     }%
-$   \else
+   \ifincsname
+     \ltx@ifundefined{HoLogoCs@#1@#2}{%
+       #1%
+     }{%
+       \csname HoLogoCs@#1@#2\endcsname\ltx@firstoftwo
+     }%
+   \else
       \HOLOGO@IfExists\texorpdfstring\texorpdfstring\ltx@firstoftwo
       {%
         \hologoVariantRobust{#1}{#2}%
@@ -1460,7 +1415,7 @@ $   \else
           \ltx@firstoftwo
         }%
       }%
-$   \fi
+   \fi
   \fi
 }
 %    \end{macrocode}
@@ -1471,13 +1426,13 @@ $   \fi
   \ifx\relax#2\relax
     \Hologo{#1}%
   \else
-$   \ifincsname
-$     \ltx@ifundefined{HoLogoCs@#1@#2}{%
-$       #1%
-$     }{%
-$       \csname HoLogoCs@#1@#2\endcsname\ltx@secondoftwo
-$     }%
-$   \else
+   \ifincsname
+     \ltx@ifundefined{HoLogoCs@#1@#2}{%
+       #1%
+     }{%
+       \csname HoLogoCs@#1@#2\endcsname\ltx@secondoftwo
+     }%
+   \else
       \HOLOGO@IfExists\texorpdfstring\texorpdfstring\ltx@firstoftwo
       {%
         \HologoVariantRobust{#1}{#2}%
@@ -1489,7 +1444,7 @@ $   \else
           \ltx@secondoftwo
         }%
       }%
-$   \fi
+   \fi
   \fi
 }
 %    \end{macrocode}
