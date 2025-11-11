@@ -1450,24 +1450,11 @@ and the derived files
 %    \end{macrocode}
 %    \end{macro}
 %
-%    \begin{macrocode}
-\catcode`\$=3 %
-%    \end{macrocode}
-%
 % \subsubsection{\cs{hologoRobust} and friends}
 %
 %    \begin{macro}{\hologoRobust}
 %    \begin{macrocode}
-\ltx@IfUndefined{protected}{%
-  \ltx@IfUndefined{DeclareRobustCommand}{%
-    \def\hologoRobust#1%
-  }{%
-    \DeclareRobustCommand*\hologoRobust[1]%
-  }%
-}{%
-  \protected\def\hologoRobust#1%
-}%
-{%
+\protected\def\hologoRobust#1{%
   \edef\HOLOGO@name{#1}%
   \ltx@IfUndefined{HoLogo@\HOLOGO@Variant\HOLOGO@name}{%
     \@PackageError{hologo}{%
@@ -1494,16 +1481,7 @@ and the derived files
 %    \end{macro}
 %    \begin{macro}{\HologoRobust}
 %    \begin{macrocode}
-\ltx@IfUndefined{protected}{%
-  \ltx@IfUndefined{DeclareRobustCommand}{%
-    \def\HologoRobust#1%
-  }{%
-    \DeclareRobustCommand*\HologoRobust[1]%
-  }%
-}{%
-  \protected\def\HologoRobust#1%
-}%
-{%
+\protected\def\HologoRobust#1{%
   \edef\HOLOGO@name{#1}%
   \ltx@IfUndefined{HoLogo@\HOLOGO@Variant\HOLOGO@name}{%
     \@PackageError{hologo}{%
@@ -1530,16 +1508,7 @@ and the derived files
 %    \end{macro}
 %    \begin{macro}{\hologoVariantRobust}
 %    \begin{macrocode}
-\ltx@IfUndefined{protected}{%
-  \ltx@IfUndefined{DeclareRobustCommand}{%
-    \def\hologoVariantRobust#1#2%
-  }{%
-    \DeclareRobustCommand*\hologoVariantRobust[2]%
-  }%
-}{%
-  \protected\def\hologoVariantRobust#1#2%
-}%
-{%
+\protected\def\hologoVariantRobust#1#2{%
   \begingroup
     \hologoLogoSetup{#1}{variant={#2}}%
     \hologoRobust{#1}%
@@ -1549,16 +1518,7 @@ and the derived files
 %    \end{macro}
 %    \begin{macro}{\HologoVariantRobust}
 %    \begin{macrocode}
-\ltx@IfUndefined{protected}{%
-  \ltx@IfUndefined{DeclareRobustCommand}{%
-    \def\HologoVariantRobust#1#2%
-  }{%
-    \DeclareRobustCommand*\HologoVariantRobust[2]%
-  }%
-}{%
-  \protected\def\HologoVariantRobust#1#2%
-}%
-{%
+\protected\def\HologoVariantRobust#1#2{%
   \begingroup
     \hologoLogoSetup{#1}{variant={#2}}%
     \HologoRobust{#1}%
@@ -4861,7 +4821,8 @@ $ #1{\string ^^^^0395}{\string ^^^^03b5}%
 %     \hologo{ApTeX},
 %     \hologo{ApLaTeX},
 %     \hologo{TeXLive}. (GitHub PR \#11 from myhsia)
-%   \item require that \cs{ifincsname} is supported  
+%   \item require that \cs{ifincsname} is supported 
+%   \item require that \cs{protected} is supported 
 %   \end{Version}
 % \end{History}
 %
