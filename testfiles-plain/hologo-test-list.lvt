@@ -1,0 +1,11 @@
+\showoutput
+\input regression-test
+\input{hologo.sty}
+\tracingonline1
+\tracingoutput1
+\showboxbreadth\maxdimen
+\showboxdepth\maxdimen
+\def\hologoEntry#1#2#3{\hologoLogoSetup{#1}{variant=#2}\hologo{#1}\par}
+\START
+\hologoList
+\bye
