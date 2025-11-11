@@ -1204,7 +1204,7 @@ and the derived files
   \HoLogoFont@Def{bibsf}{\tensc}%
 }{%
   \HoLogoFont@Def{bibsf}{%
-    $\mathsurround=0pt$%
+    $\m@th$%
     \csname S@\f@size\endcsname
     \fontsize\sf@size{0pt}%
     \math@fontsfalse
@@ -1562,6 +1562,7 @@ and the derived files
 %    \begin{macrocode}
 \def\HOLOGO@MathSetup{%
   \mathsurround0pt\relax
+  \csname m@th\endcsname
   \HOLOGO@IfExists\f@series{%
     \if b\expandafter\ltx@car\f@series x\@nil
       \csname boldmath\endcsname
@@ -1647,7 +1648,7 @@ and the derived files
       }%
     }{%
       \ltx@mbox{%
-        \mathsurround=0pt\relax
+        \m@th\relax
         $_{\text{#1}}$%
       }%
     }%
