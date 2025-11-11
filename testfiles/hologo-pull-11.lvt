@@ -1,0 +1,19 @@
+%% This is file `hologo-test1.lvt',
+%% The original source files were:
+%%
+%% hologo.dtx  (with options: `test1')
+\input{regression-test}
+\documentclass{article}
+
+\usepackage{hologo}
+
+
+\begin{document}
+
+\START
+
+\sbox0{\hologo{upTeX} and \hologo{ApLaTeX} and \hologo{TeXLive}}
+\showbox0
+\usebox0
+
+\end{document}
