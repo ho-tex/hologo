@@ -1203,7 +1203,7 @@ Completed box being shipped out [2]
 ...\glue(\parskip) 0.0 plus 1.0
 ...\glue(\parskip) 0.0
 ...\glue(\baselineskip) 3.015
-...\hbox(6.83+2.155)x345.0, glue set 291.2503fil
+...\hbox(6.83+2.155)x345.0, glue set 289.58702fil
 ....\hbox(0.0+0.0)x15.0
 ....\TU/lmr/m/n/10 T
 ....\kern -1.66702
@@ -1211,8 +1211,9 @@ Completed box being shipped out [2]
 .....\TU/lmr/m/n/10 E
 ....\kern -1.25
 ....\TU/lmr/m/n/10 X
-....\hbox(6.83+0.10999)x20.13672
-.....\kern 1.66672
+....\penalty 10000
+....\glue 3.33 plus 1.665 minus 1.11
+....\hbox(6.83+0.10999)x18.47
 .....\TU/lmr/m/n/10 Live
 ....\penalty 10000
 ....\glue(\parfillskip) 0.0 plus 1.0fil

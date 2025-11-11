@@ -1613,7 +1613,7 @@ Completed box being shipped out [2]
 ...\glue(\parskip) 0.0 plus 1.0
 ...\glue(\parskip) 0.0
 ...\glue(\baselineskip) 3.015
-...\hbox(6.83+2.155)x345.0, glue set 291.2503fil, direction TLT
+...\hbox(6.83+2.155)x345.0, glue set 289.58704fil, direction TLT
 ....\localpar
 .....\localinterlinepenalty=0
 .....\localbrokenpenalty=0
@@ -1626,8 +1626,9 @@ Completed box being shipped out [2]
 .....\TU/lmr/m/n/10 E
 ....\kern-1.25
 ....\TU/lmr/m/n/10 X
-....\hbox(6.83+0.11)x20.13672, direction TLT
-.....\kern1.66672
+....\penalty 10000
+....\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+....\hbox(6.83+0.11)x18.47, direction TLT
 .....\TU/lmr/m/n/10 L
 .....\TU/lmr/m/n/10 i
 .....\TU/lmr/m/n/10 v

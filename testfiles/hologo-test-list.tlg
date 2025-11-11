@@ -1314,7 +1314,7 @@ Completed box being shipped out [2]
 ...\glue(\parskip) 0.0 plus 1.0
 ...\glue(\parskip) 0.0
 ...\glue(\baselineskip) 3.01392
-...\hbox(6.83331+2.15277)x345.0, glue set 291.25023fil
+...\hbox(6.83331+2.15277)x345.0, glue set 289.58362fil
 ....\hbox(0.0+0.0)x15.0
 ....\OT1/cmr/m/n/10 T
 ....\kern -1.66702
@@ -1322,8 +1322,9 @@ Completed box being shipped out [2]
 .....\OT1/cmr/m/n/10 E
 ....\kern -1.25
 ....\OT1/cmr/m/n/10 X
-....\hbox(6.83331+0.0)x20.13898
-.....\kern 1.66672
+....\penalty 10000
+....\glue 3.33333 plus 1.66666 minus 1.11111
+....\hbox(6.83331+0.0)x18.47226
 .....\OT1/cmr/m/n/10 L
 .....\OT1/cmr/m/n/10 i
 .....\OT1/cmr/m/n/10 v
