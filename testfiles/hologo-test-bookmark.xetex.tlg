@@ -1,0 +1,4684 @@
+This is a generated file for the l3build validation system.
+Don't change this file in any respect.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line ....
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line ....
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line ....
+LaTeX Font Warning: Font shape `TU/lmr/bx/sc' undefined
+(Font)              using `TU/lmr/bx/n' instead on input line ....
+Completed box being shipped out [1]
+\vbox(633.0+0.0)x407.0
+.\hbox(0.0+0.0)x0.0
+..\special{pdf:docinfo<</Title()/Subject()/Creator(LaTeX with hyperref)/Author()/Keywords()>>}
+.\vbox(0.0+0.0)x0.0, glue set - 14.99626fil
+..\kern 0.0
+..\kern 16.0
+..\kern -1.00374
+..\hbox(0.0+0.0)x0.0, glue set - 60.99626fil
+...\kern 0.0
+...\kern 62.0
+...\kern -1.00374
+...\special{pdf:dest (page.1) [@thispage /XYZ @xpos @ypos null]}
+...\penalty 10000
+...\glue 0.0 plus 1.0fil minus 1.0fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+.\glue(\lineskip) 0.0
+.\vbox(633.0+0.0)x407.0
+..\glue 16.0
+..\vbox(617.0+0.0)x345.0, shifted 62.0
+...\vbox(12.0+0.0)x345.0, glue set 12.0fil
+....\glue 0.0 plus 1.0fil
+....\hbox(0.0+0.0)x345.0
+.....\hbox(0.0+0.0)x345.0
+...\glue 25.0
+...\glue(\lineskip) 0.0
+...\vbox(550.0+0.0)x345.0, glue set >20000.0fil
+....\write-{}
+....\special{pdf:majorversion 1}
+....\special{pdf:minorversion 7}
+....\special{pdf:outline [-] 1<</Title(\376\377\000\050\000L\000a\000\051\000T\000e\000X\000,\000\040\000\050\000L\000a\000\051\000T\000e\000X)/A<</S/GoTo/D(section.1)>>>>}
+....\special{pdf:outline [-] 1<</Title(\376\377\000A\000p\000L\000a\000T\000e\000X\000,\000\040\000A\000p\000L\000a\000T\000e\000X)/A<</S/GoTo/D(section.2)>>>>}
+....\special{pdf:outline [-] 1<</Title(\376\377\000A\000p\000T\000e\000X\000,\000\040\000A\000p\000T\000e\000X)/A<</S/GoTo/D(section.3)>>>>}
+....\special{pdf:outline [-] 1<</Title(\376\377\000A\000m\000S\000-\000L\000a\000T\000e\000X\000,\000\040\000A\000m\000S\000-\000L\000a\000T\000e\000X)/A<</S/GoTo/D(section.4)>>>>}
+....\special{pdf:outline [-] 1<</Title(\376\377\000A\000m\000S\000-\000T\000e\000X\000,\000\040\000A\000m\000S\000-\000T\000e\000X)/A<</S/GoTo/D(section.5)>>>>}
+....\special{pdf:outline [-] 1<</Title(\376\377\000b\000i\000b\000e\000r\000,\000\040\000B\000i\000b\000e\000r)/A<</S/GoTo/D(section.6)>>>>}
+....\special{pdf:outline [-] 1<</Title(\376\377\000B\000i\000b\000T\000e\000X\000,\000\040\000B\000i\000b\000T\000e\000X)/A<</S/GoTo/D(section.7)>>>>}
+....\special{pdf:outline [-] 1<</Title(\376\377\000B\000i\000b\000T\000e\000X\000,\000\040\000B\000i\000b\000T\000e\000X)/A<</S/GoTo/D(section.8)>>>>}
+....\special{pdf:outline [-] 1<</Title(\376\377\000B\000i\000b\000T\000e\000X\000,\000\040\000B\000i\000b\000T\000e\000X)/A<</S/GoTo/D(section.9)>>>>}
+....\special{pdf:outline [-] 1<</Title(\376\377\000B\000i\000b\000T\000e\000X\0008\000,\000\040\000B\000i\000b\000T\000e\000X\0008)/A<</S/GoTo/D(section.10)>>>>}
+....\special{pdf:outline [-] 1<</Title(\376\377\000C\000o\000n\000T\000e\000X\000t\000,\000\040\000C\000o\000n\000T\000e\000X\000t)/A<</S/GoTo/D(section.11)>>>>}
+....\special{pdf:outline [-] 1<</Title(\376\377\000C\000o\000n\000T\000e\000X\000t\000,\000\040\000C\000o\000n\000T\000e\000X\000t)/A<</S/GoTo/D(section.12)>>>>}
+....\special{pdf:outline [-] 1<</Title(\376\377\000C\000o\000n\000T\000e\000X\000t\000,\000\040\000C\000o\000n\000T\000e\000X\000t)/A<</S/GoTo/D(section.13)>>>>}
+....\special{pdf:outline [-] 1<</Title(\376\377\000e\000m\000T\000e\000X\000,\000\040\000E\000m\000T\000e\000X)/A<</S/GoTo/D(section.14)>>>>}
+....\special{pdf:outline [-] 1<</Title(\376\377\003\265\000-\000T\000e\000X\000,\000\040\003\265\000-\000T\000e\000X)/A<</S/GoTo/D(section.15)>>>>}
+....\special{pdf:outline [-] 1<</Title(\376\377\003\265\003\247\000T\000e\000X\000,\000\040\003\265\003\247\000T\000e\000X)/A<</S/GoTo/D(section.16)>>>>}
+....\special{pdf:outline [-] 1<</Title(\376\377\000H\000\340\000n\000\040\000T\000h\036\277\000\040\000T\000h\000\340\000n\000h\000,\000\040\000H\000\340\000n\000\040\000T\000h\036\277\000\040\000T\000h\000\340\000n\000h)/A<</S/GoTo/D(section.17)>>>>}
+....\special{pdf:outline [-] 1<</Title(\376\377\000i\000n\000i\000T\000e\000X\000,\000\040\000I\000n\000i\000T\000e\000X)/A<</S/GoTo/D(section.18)>>>>}
+....\special{pdf:outline [-] 1<</Title(\376\377\000K\000O\000M\000A\000-\000S\000c\000r\000i\000p\000t\000,\000\040\000K\000O\000M\000A\000-\000S\000c\000r\000i\000p\000t)/A<</S/GoTo/D(section.19)>>>>}
+....\special{pdf:outline [-] 1<</Title(\376\377\000L\000a\000,\000\040\000L\000a)/A<</S/GoTo/D(section.20)>>>>}
+....\special{pdf:outline [-] 1<</Title(\376\377\000L\000a\000T\000e\000X\000,\000\040\000L\000a\000T\000e\000X)/A<</S/GoTo/D(section.21)>>>>}
+....\special{pdf:outline [-] 1<</Title(\376\377\000L\000a\000T\000e\000X\0002\003\265\000,\000\040\000L\000a\000T\000e\000X\0002\003\265)/A<</S/GoTo/D(section.22)>>>>}
+....\special{pdf:outline [-] 1<</Title(\376\377\000L\000a\000T\000e\000X\0003\000,\000\040\000L\000a\000T\000e\000X\0003)/A<</S/GoTo/D(section.23)>>>>}
+....\special{pdf:outline [-] 1<</Title(\376\377\000L\000a\000T\000e\000X\0002\003\265\000,\000\040\000L\000a\000T\000e\000X\0002\003\265)/A<</S/GoTo/D(section.24)>>>>}
+....\special{pdf:outline [-] 1<</Title(\376\377\000L\000a\000T\000e\000X\000M\000L\000,\000\040\000L\000a\000T\000e\000X\000M\000L)/A<</S/GoTo/D(section.25)>>>>}
+....\special{pdf:outline [-] 1<</Title(\376\377\000\050\000L\000a\000\051\000T\000e\000X\000,\000\040\000\050\000L\000a\000\051\000T\000e\000X)/A<</S/GoTo/D(section.26)>>>>}
+....\special{pdf:outline [-] 1<</Title(\376\377\000L\000u\000a\000L\000a\000T\000e\000X\000,\000\040\000L\000u\000a\000L\000a\000T\000e\000X)/A<</S/GoTo/D(section.27)>>>>}
+....\special{pdf:outline [-] 1<</Title(\376\377\000L\000u\000a\000T\000e\000X\000,\000\040\000L\000u\000a\000T\000e\000X)/A<</S/GoTo/D(section.28)>>>>}
+....\special{pdf:outline [-] 1<</Title(\376\377\000L\000y\000X\000,\000\040\000L\000y\000X)/A<</S/GoTo/D(section.29)>>>>}
+....\special{pdf:outline [-] 1<</Title(\376\377\000M\000E\000T\000A\000F\000O\000N\000T\000,\000\040\000M\000E\000T\000A\000F\000O\000N\000T)/A<</S/GoTo/D(section.30)>>>>}
+....\special{pdf:outline [-] 1<</Title(\376\377\000M\000e\000t\000a\000F\000u\000n\000,\000\040\000M\000e\000t\000a\000F\000u\000n)/A<</S/GoTo/D(section.31)>>>>}
+....\special{pdf:outline [-] 1<</Title(\376\377\000M\000E\000T\000A\000P\000O\000S\000T\000,\000\040\000M\000E\000T\000A\000P\000O\000S\000T)/A<</S/GoTo/D(section.32)>>>>}
+....\special{pdf:outline [-] 1<</Title(\376\377\000M\000e\000t\000a\000P\000o\000s\000t\000,\000\040\000M\000e\000t\000a\000P\000o\000s\000t)/A<</S/GoTo/D(section.33)>>>>}
+....\special{pdf:outline [-] 1<</Title(\376\377\000M\000i\000K\000T\000e\000X\000,\000\040\000M\000i\000K\000T\000e\000X)/A<</S/GoTo/D(section.34)>>>>}
+....\special{pdf:outline [-] 1<</Title(\376\377\000N\000T\000S\000,\000\040\000N\000T\000S)/A<</S/GoTo/D(section.35)>>>>}
+....\special{pdf:outline [-] 1<</Title(\376\377\000O\000z\000M\000F\000,\000\040\000O\000z\000M\000F)/A<</S/GoTo/D(section.36)>>>>}
+....\special{pdf:outline [-] 1<</Title(\376\377\000O\000z\000M\000P\000,\000\040\000O\000z\000M\000P)/A<</S/GoTo/D(section.37)>>>>}
+....\special{pdf:outline [-] 1<</Title(\376\377\000O\000z\000T\000e\000X\000,\000\040\000O\000z\000T\000e\000X)/A<</S/GoTo/D(section.38)>>>>}
+....\special{pdf:outline [-] 1<</Title(\376\377\000O\000z\000T\000t\000H\000,\000\040\000O\000z\000T\000t\000H)/A<</S/GoTo/D(section.39)>>>>}
+....\special{pdf:outline [-] 1<</Title(\376\377\000P\000C\000T\000e\000X\000,\000\040\000P\000C\000T\000e\000X)/A<</S/GoTo/D(section.40)>>>>}
+....\special{pdf:outline [-] 1<</Title(\376\377\000p\000d\000f\000T\000e\000X\000,\000\040\000P\000d\000f\000T\000e\000X)/A<</S/GoTo/D(section.41)>>>>}
+....\special{pdf:outline [-] 1<</Title(\376\377\000p\000d\000f\000L\000a\000T\000e\000X\000,\000\040\000P\000d\000f\000L\000a\000T\000e\000X)/A<</S/GoTo/D(section.42)>>>>}
+....\special{pdf:outline [-] 1<</Title(\376\377\000P\000i\000C\000,\000\040\000P\000i\000C)/A<</S/GoTo/D(section.43)>>>>}
+....\special{pdf:outline [-] 1<</Title(\376\377\000P\000i\000C\000T\000e\000X\000,\000\040\000P\000i\000C\000T\000e\000X)/A<</S/GoTo/D(section.44)>>>>}
+....\special{pdf:outline [-] 1<</Title(\376\377\000p\000l\000a\000i\000n\000\040\000T\000e\000X\000,\000\040\000P\000l\000a\000i\000n\000\040\000T\000e\000X)/A<</S/GoTo/D(section.45)>>>>}
+....\special{pdf:outline [-] 1<</Title(\376\377\000p\000l\000a\000i\000n\000\040\000T\000e\000X\000,\000\040\000P\000l\000a\000i\000n\000\040\000T\000e\000X)/A<</S/GoTo/D(section.46)>>>>}
+....\special{pdf:outline [-] 1<</Title(\376\377\000p\000l\000a\000i\000n\000-\000T\000e\000X\000,\000\040\000P\000l\000a\000i\000n\000-\000T\000e\000X)/A<</S/GoTo/D(section.47)>>>>}
+....\special{pdf:outline [-] 1<</Title(\376\377\000p\000l\000a\000i\000n\000T\000e\000X\000,\000\040\000P\000l\000a\000i\000n\000T\000e\000X)/A<</S/GoTo/D(section.48)>>>>}
+....\special{pdf:outline [-] 1<</Title(\376\377\000p\000L\000a\000T\000e\000X\000,\000\040\000p\000L\000a\000T\000e\000X)/A<</S/GoTo/D(section.49)>>>>}
+....\special{pdf:outline [-] 1<</Title(\376\377\000p\000T\000e\000X\000,\000\040\000p\000T\000e\000X)/A<</S/GoTo/D(section.50)>>>>}
+....\special{pdf:outline [-] 1<</Title(\376\377\000S\000a\000g\000e\000T\000e\000X\000,\000\040\000S\000a\000g\000e\000T\000e\000X)/A<</S/GoTo/D(section.51)>>>>}
+....\special{pdf:outline [-] 1<</Title(\376\377\000S\000L\000i\000T\000e\000X\000,\000\040\000S\000L\000i\000T\000e\000X)/A<</S/GoTo/D(section.52)>>>>}
+....\special{pdf:outline [-] 1<</Title(\376\377\000S\000L\000i\000T\000e\000X\000,\000\040\000S\000L\000i\000T\000e\000X)/A<</S/GoTo/D(section.53)>>>>}
+....\special{pdf:outline [-] 1<</Title(\376\377\000S\000l\000i\000T\000e\000X\000,\000\040\000S\000l\000i\000T\000e\000X)/A<</S/GoTo/D(section.54)>>>>}
+....\special{pdf:outline [-] 1<</Title(\376\377\000S\000l\000i\000T\000e\000X\000,\000\040\000S\000l\000i\000T\000e\000X)/A<</S/GoTo/D(section.55)>>>>}
+....\special{pdf:outline [-] 1<</Title(\376\377\000S\000l\000i\000T\000e\000X\000,\000\040\000S\000l\000i\000T\000e\000X)/A<</S/GoTo/D(section.56)>>>>}
+....\special{pdf:outline [-] 1<</Title(\376\377\000S\000l\000i\000T\000e\000X\000,\000\040\000S\000l\000i\000T\000e\000X)/A<</S/GoTo/D(section.57)>>>>}
+....\special{pdf:outline [-] 1<</Title(\376\377\000S\000l\000i\000T\000e\000X\000,\000\040\000S\000l\000i\000T\000e\000X)/A<</S/GoTo/D(section.58)>>>>}
+....\special{pdf:outline [-] 1<</Title(\376\377\000S\000L\000i\000T\000e\000X\000,\000\040\000S\000L\000i\000T\000e\000X)/A<</S/GoTo/D(section.59)>>>>}
+....\special{pdf:outline [-] 1<</Title(\376\377\000t\000e\000T\000e\000X\000,\000\040\000T\000e\000T\000e\000X)/A<</S/GoTo/D(section.60)>>>>}
+....\special{pdf:outline [-] 1<</Title(\376\377\000T\000e\000X\000,\000\040\000T\000e\000X)/A<</S/GoTo/D(section.61)>>>>}
+....\special{pdf:outline [-] 1<</Title(\376\377\000T\000e\000X\0004\000h\000t\000,\000\040\000T\000e\000X\0004\000h\000t)/A<</S/GoTo/D(section.62)>>>>}
+....\special{pdf:outline [-] 1<</Title(\376\377\000T\000e\000X\000L\000i\000v\000e\000,\000\040\000T\000e\000X\000L\000i\000v\000e)/A<</S/GoTo/D(section.63)>>>>}
+....\special{pdf:outline [-] 1<</Title(\376\377\000T\000T\000H\000,\000\040\000T\000T\000H)/A<</S/GoTo/D(section.64)>>>>}
+....\special{pdf:outline [-] 1<</Title(\376\377\000u\000p\000L\000a\000T\000e\000X\000,\000\040\000u\000p\000L\000a\000T\000e\000X)/A<</S/GoTo/D(section.65)>>>>}
+....\special{pdf:outline [-] 1<</Title(\376\377\000u\000p\000T\000e\000X\000,\000\040\000u\000p\000T\000e\000X)/A<</S/GoTo/D(section.66)>>>>}
+....\special{pdf:outline [-] 1<</Title(\376\377\000v\000i\000r\000T\000e\000X\000,\000\040\000V\000i\000r\000T\000e\000X)/A<</S/GoTo/D(section.67)>>>>}
+....\special{pdf:outline [-] 1<</Title(\376\377\000V\000T\000e\000X\000,\000\040\000V\000T\000e\000X)/A<</S/GoTo/D(section.68)>>>>}
+....\special{pdf:outline [-] 1<</Title(\376\377\000X\000e\000,\000\040\000X\000e)/A<</S/GoTo/D(section.69)>>>>}
+....\special{pdf:outline [-] 1<</Title(\376\377\000X\000e\000L\000a\000T\000e\000X\000,\000\040\000X\000e\000L\000a\000T\000e\000X)/A<</S/GoTo/D(section.70)>>>>}
+....\special{pdf:outline [-] 1<</Title(\376\377\000X\000e\000T\000e\000X\000,\000\040\000X\000e\000T\000e\000X)/A<</S/GoTo/D(section.71)>>>>}
+....\special{pdf:docview<</OpenAction[@page1/Fit]/PageMode/UseOutlines>>}
+....\special{pdf:dest (Doc-Start) [@thispage /XYZ @xpos @ypos null]}
+....\special{pdf:dest (section.1) [@thispage /XYZ @xpos @ypos null]}
+....\glue(\topskip) 0.0
+....\hbox(10.8+3.61438)x345.0, glue set 215.42058fil
+.....\hbox(9.4464+0.0)x22.50719
+......\glue 0.0
+......\TU/lmr/bx/sc/14.4 1
+......\glue 14.4
+.....\TU/lmr/bx/sc/14.4 (
+.....\kern -2.1599
+.....\TU/lmr/bx/sc/14.4 L
+.....\kern -5.184
+.....\vbox(9.7488+0.0)x8.69, glue set 2.7688fil
+......\hbox(6.98+0.0)x8.69
+.......\TU/lmr/bx/n/10 A
+......\glue 0.0 plus 1.0fil minus 1.0fil
+.....\kern -2.87994
+.....\TU/lmr/bx/sc/14.4 )
+.....\kern -2.1599
+.....\TU/lmr/bx/sc/14.4 T
+.....\kern -2.4005
+.....\hbox(9.8064+0.0)x10.6272, shifted 3.1968
+......\TU/lmr/bx/sc/14.4 E
+.....\kern -1.79999
+.....\TU/lmr/bx/sc/14.4 X,
+.....\glue 5.4 plus 3.37498 minus 1.43999
+.....\TU/lmr/bx/sc/14.4 (
+.....\kern -2.1599
+.....\TU/lmr/bx/sc/14.4 L
+.....\kern -5.184
+.....\vbox(9.7488+0.0)x8.69, glue set 2.7688fil
+......\hbox(6.98+0.0)x8.69
+.......\TU/lmr/bx/n/10 A
+......\glue 0.0 plus 1.0fil minus 1.0fil
+.....\kern -2.87994
+.....\TU/lmr/bx/sc/14.4 )
+.....\kern -2.1599
+.....\TU/lmr/bx/sc/14.4 T
+.....\kern -2.4005
+.....\hbox(9.8064+0.0)x10.6272, shifted 3.1968
+......\TU/lmr/bx/sc/14.4 E
+.....\kern -1.79999
+.....\TU/lmr/bx/sc/14.4 X
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\write3{\protect \BOOKMARK [1][-]{section.1}{\376\377\000\050\000L\000a\000\051\000T\000e\000X\000,\000\040\000\050\000L\000a\000\051\000T\000e\000X}{}% 1}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {1}\hologoRobust {(La)TeX}, \HologoRobust {(La)TeX}}{\thepage }{section.1}\protected@file@percent }}
+....\penalty 10000
+....\glue 9.913 plus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 0.88562
+....\hbox(7.5+2.49998)x345.0, glue set 315.05588fil
+.....\TU/lmr/m/n/10 (
+.....\kern -1.49994
+.....\TU/lmr/m/n/10 L
+.....\kern -3.6
+.....\vbox(6.77+0.0)x5.901, glue set 1.779fil
+......\hbox(4.991+0.0)x5.901
+.......\TU/lmr/m/n/7 A
+......\glue 0.0 plus 1.0fil minus 1.0fil
+.....\kern -1.99997
+.....\TU/lmr/m/n/10 )
+.....\kern -1.49994
+.....\TU/lmr/m/n/10 T
+.....\kern -1.66702
+.....\hbox(6.8+0.0)x6.81, shifted 2.155
+......\TU/lmr/m/n/10 E
+.....\kern -1.25
+.....\TU/lmr/m/n/10 X
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\penalty -300
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\special{pdf:dest (section.2) [@thispage /XYZ @xpos @ypos null]}
+....\penalty 10000
+....\glue -15.08499 plus -4.31 minus -0.86198
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 5.42001
+....\hbox(10.08+3.1968)x345.0, glue set 189.52974fil
+.....\hbox(9.4464+0.0)x22.50719
+......\glue 0.0
+......\TU/lmr/bx/sc/14.4 2
+......\glue 14.4
+.....\hbox(10.08+0.0)x12.23999
+......\TU/lmr/bx/sc/14.4 A
+.....\hbox(6.48+2.79358)x8.27997
+......\TU/lmr/bx/sc/14.4 p
+......\kern -0.72003
+.....\TU/lmr/bx/sc/14.4 L
+.....\kern -5.184
+.....\vbox(9.7488+0.0)x8.69, glue set 2.7688fil
+......\hbox(6.98+0.0)x8.69
+.......\TU/lmr/bx/n/10 A
+......\glue 0.0 plus 1.0fil minus 1.0fil
+.....\kern -2.1599
+.....\TU/lmr/bx/sc/14.4 T
+.....\kern -2.4005
+.....\hbox(9.8064+0.0)x10.6272, shifted 3.1968
+......\TU/lmr/bx/sc/14.4 E
+.....\kern -1.79999
+.....\TU/lmr/bx/sc/14.4 X,
+.....\glue 5.4 plus 3.37498 minus 1.43999
+.....\hbox(10.08+0.0)x12.23999
+......\TU/lmr/bx/sc/14.4 A
+.....\hbox(6.48+2.79358)x8.27997
+......\TU/lmr/bx/sc/14.4 p
+......\kern -0.72003
+.....\TU/lmr/bx/sc/14.4 L
+.....\kern -5.184
+.....\vbox(9.7488+0.0)x8.69, glue set 2.7688fil
+......\hbox(6.98+0.0)x8.69
+.......\TU/lmr/bx/n/10 A
+......\glue 0.0 plus 1.0fil minus 1.0fil
+.....\kern -2.1599
+.....\TU/lmr/bx/sc/14.4 T
+.....\kern -2.4005
+.....\hbox(9.8064+0.0)x10.6272, shifted 3.1968
+......\TU/lmr/bx/sc/14.4 E
+.....\kern -1.79999
+.....\TU/lmr/bx/sc/14.4 X
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\write3{\protect \BOOKMARK [1][-]{section.2}{\376\377\000A\000p\000L\000a\000T\000e\000X\000,\000\040\000A\000p\000L\000a\000T\000e\000X}{}% 2}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {2}\hologoRobust {ApLaTeX}, \HologoRobust {ApLaTeX}}{\thepage }{section.2}\protected@file@percent }}
+....\penalty 10000
+....\glue 9.913 plus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 1.6432
+....\hbox(7.16+2.155)x345.0, glue set 306.776fil
+.....\hbox(7.16+0.0)x7.5
+......\TU/lmr/m/n/10 A
+.....\hbox(4.42+1.93999)x5.05997
+......\TU/lmr/m/n/10 p
+......\kern -0.50003
+.....\TU/lmr/m/n/10 L
+.....\kern -3.6
+.....\vbox(6.77+0.0)x5.901, glue set 1.779fil
+......\hbox(4.991+0.0)x5.901
+.......\TU/lmr/m/n/7 A
+......\glue 0.0 plus 1.0fil minus 1.0fil
+.....\kern -1.49994
+.....\TU/lmr/m/n/10 T
+.....\kern -1.66702
+.....\hbox(6.8+0.0)x6.81, shifted 2.155
+......\TU/lmr/m/n/10 E
+.....\kern -1.25
+.....\TU/lmr/m/n/10 X
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\penalty -300
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\special{pdf:dest (section.3) [@thispage /XYZ @xpos @ypos null]}
+....\penalty 10000
+....\glue -15.08499 plus -4.31 minus -0.86198
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 5.765
+....\hbox(10.08+3.1968)x345.0, glue set 216.01051fil
+.....\hbox(9.4464+0.17279)x22.50719
+......\glue 0.0
+......\TU/lmr/bx/sc/14.4 3
+......\glue 14.4
+.....\hbox(10.08+0.0)x11.51996
+......\TU/lmr/bx/sc/14.4 A
+......\kern -0.72003
+.....\hbox(6.48+2.79358)x6.8401
+......\TU/lmr/bx/sc/14.4 p
+......\kern -2.1599
+.....\TU/lmr/bx/sc/14.4 T
+.....\kern -2.4005
+.....\hbox(9.8064+0.0)x10.6272, shifted 3.1968
+......\TU/lmr/bx/sc/14.4 E
+.....\kern -1.79999
+.....\TU/lmr/bx/sc/14.4 X,
+.....\glue 5.4 plus 3.37498 minus 1.43999
+.....\hbox(10.08+0.0)x11.51996
+......\TU/lmr/bx/sc/14.4 A
+......\kern -0.72003
+.....\hbox(6.48+2.79358)x6.8401
+......\TU/lmr/bx/sc/14.4 p
+......\kern -2.1599
+.....\TU/lmr/bx/sc/14.4 T
+.....\kern -2.4005
+.....\hbox(9.8064+0.0)x10.6272, shifted 3.1968
+......\TU/lmr/bx/sc/14.4 E
+.....\kern -1.79999
+.....\TU/lmr/bx/sc/14.4 X
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\write3{\protect \BOOKMARK [1][-]{section.3}{\376\377\000A\000p\000T\000e\000X\000,\000\040\000A\000p\000T\000e\000X}{}% 3}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {3}\hologoRobust {ApTeX}, \HologoRobust {ApTeX}}{\thepage }{section.3}\protected@file@percent }}
+....\penalty 10000
+....\glue 9.913 plus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 1.6432
+....\hbox(7.16+2.155)x345.0, glue set 315.327fil
+.....\hbox(7.16+0.0)x6.99997
+......\TU/lmr/m/n/10 A
+......\kern -0.50003
+.....\hbox(4.42+1.93999)x4.06006
+......\TU/lmr/m/n/10 p
+......\kern -1.49994
+.....\TU/lmr/m/n/10 T
+.....\kern -1.66702
+.....\hbox(6.8+0.0)x6.81, shifted 2.155
+......\TU/lmr/m/n/10 E
+.....\kern -1.25
+.....\TU/lmr/m/n/10 X
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\penalty -300
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\special{pdf:dest (section.4) [@thispage /XYZ @xpos @ypos null]}
+....\penalty 10000
+....\glue -15.08499 plus -4.31 minus -0.86198
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 5.9666
+....\hbox(9.8784+3.1968)x345.0, glue set 153.14879fil
+.....\hbox(9.47519+0.0)x22.50719
+......\glue 0.0
+......\TU/lmr/bx/sc/14.4 4
+......\glue 14.4
+.....\OMS/cmsy/m/n/14.4 A
+.....\kern -2.40051
+.....\hbox(9.83998+0.0)x17.29295, shifted 3.09999
+......\OMS/cmsy/m/n/14.4 M
+.....\kern -1.8
+.....\OMS/cmsy/m/n/14.4 S
+.....\hbox(3.85919+0.0)x5.4
+......\TU/lmr/bx/sc/14.4 -
+.....\TU/lmr/bx/sc/14.4 L
+.....\kern -5.184
+.....\vbox(9.7488+0.0)x8.69, glue set 2.7688fil
+......\hbox(6.98+0.0)x8.69
+.......\TU/lmr/bx/n/10 A
+......\glue 0.0 plus 1.0fil minus 1.0fil
+.....\kern -2.1599
+.....\TU/lmr/bx/sc/14.4 T
+.....\kern -2.4005
+.....\hbox(9.8064+0.0)x10.6272, shifted 3.1968
+......\TU/lmr/bx/sc/14.4 E
+.....\kern -1.79999
+.....\TU/lmr/bx/sc/14.4 X,
+.....\glue 5.4 plus 3.37498 minus 1.43999
+.....\OMS/cmsy/m/n/14.4 A
+.....\kern -2.40051
+.....\hbox(9.83998+0.0)x17.29295, shifted 3.09999
+......\OMS/cmsy/m/n/14.4 M
+.....\kern -1.8
+.....\OMS/cmsy/m/n/14.4 S
+.....\hbox(3.85919+0.0)x5.4
+......\TU/lmr/bx/sc/14.4 -
+.....\TU/lmr/bx/sc/14.4 L
+.....\kern -5.184
+.....\vbox(9.7488+0.0)x8.69, glue set 2.7688fil
+......\hbox(6.98+0.0)x8.69
+.......\TU/lmr/bx/n/10 A
+......\glue 0.0 plus 1.0fil minus 1.0fil
+.....\kern -2.1599
+.....\TU/lmr/bx/sc/14.4 T
+.....\kern -2.4005
+.....\hbox(9.8064+0.0)x10.6272, shifted 3.1968
+......\TU/lmr/bx/sc/14.4 E
+.....\kern -1.79999
+.....\TU/lmr/bx/sc/14.4 X
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\write3{\protect \BOOKMARK [1][-]{section.4}{\376\377\000A\000m\000S\000-\000L\000a\000T\000e\000X\000,\000\040\000A\000m\000S\000-\000L\000a\000T\000e\000X}{}% 4}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {4}\hologoRobust {AmSLaTeX}, \HologoRobust {AmSLaTeX}}{\thepage }{section.4}\protected@file@percent }}
+....\penalty 10000
+....\glue 9.913 plus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 1.9699
+....\hbox(6.83331+2.155)x345.0, glue set 292.87372fil
+.....\OMS/cmsy/m/n/10 A
+.....\kern -1.66702
+.....\hbox(6.83331+0.0)x12.00899, shifted 2.15277
+......\OMS/cmsy/m/n/10 M
+.....\kern -1.25
+.....\OMS/cmsy/m/n/10 S
+.....\hbox(2.45+0.0)x3.33
+......\TU/lmr/m/n/10 -
+.....\TU/lmr/m/n/10 L
+.....\kern -3.6
+.....\vbox(6.77+0.0)x5.901, glue set 1.779fil
+......\hbox(4.991+0.0)x5.901
+.......\TU/lmr/m/n/7 A
+......\glue 0.0 plus 1.0fil minus 1.0fil
+.....\kern -1.49994
+.....\TU/lmr/m/n/10 T
+.....\kern -1.66702
+.....\hbox(6.8+0.0)x6.81, shifted 2.155
+......\TU/lmr/m/n/10 E
+.....\kern -1.25
+.....\TU/lmr/m/n/10 X
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\penalty -300
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\special{pdf:dest (section.5) [@thispage /XYZ @xpos @ypos null]}
+....\penalty 10000
+....\glue -15.08499 plus -4.31 minus -0.86198
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 5.9666
+....\hbox(9.8784+3.1968)x345.0, glue set 175.30977fil
+.....\hbox(9.4464+0.17279)x22.50719
+......\glue 0.0
+......\TU/lmr/bx/sc/14.4 5
+......\glue 14.4
+.....\OMS/cmsy/m/n/14.4 A
+.....\kern -2.40051
+.....\hbox(9.83998+0.0)x17.29295, shifted 3.09999
+......\OMS/cmsy/m/n/14.4 M
+.....\kern -1.8
+.....\OMS/cmsy/m/n/14.4 S
+.....\hbox(3.85919+0.0)x5.4
+......\TU/lmr/bx/sc/14.4 -
+.....\TU/lmr/bx/sc/14.4 T
+.....\kern -2.4005
+.....\hbox(9.8064+0.0)x10.6272, shifted 3.1968
+......\TU/lmr/bx/sc/14.4 E
+.....\kern -1.79999
+.....\TU/lmr/bx/sc/14.4 X,
+.....\glue 5.4 plus 3.37498 minus 1.43999
+.....\OMS/cmsy/m/n/14.4 A
+.....\kern -2.40051
+.....\hbox(9.83998+0.0)x17.29295, shifted 3.09999
+......\OMS/cmsy/m/n/14.4 M
+.....\kern -1.8
+.....\OMS/cmsy/m/n/14.4 S
+.....\hbox(3.85919+0.0)x5.4
+......\TU/lmr/bx/sc/14.4 -
+.....\TU/lmr/bx/sc/14.4 T
+.....\kern -2.4005
+.....\hbox(9.8064+0.0)x10.6272, shifted 3.1968
+......\TU/lmr/bx/sc/14.4 E
+.....\kern -1.79999
+.....\TU/lmr/bx/sc/14.4 X
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\write3{\protect \BOOKMARK [1][-]{section.5}{\376\377\000A\000m\000S\000-\000T\000e\000X\000,\000\040\000A\000m\000S\000-\000T\000e\000X}{}% 5}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {5}\hologoRobust {AmSTeX}, \HologoRobust {AmSTeX}}{\thepage }{section.5}\protected@file@percent }}
+....\penalty 10000
+....\glue 9.913 plus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 1.9699
+....\hbox(6.83331+2.155)x345.0, glue set 299.92477fil
+.....\OMS/cmsy/m/n/10 A
+.....\kern -1.66702
+.....\hbox(6.83331+0.0)x12.00899, shifted 2.15277
+......\OMS/cmsy/m/n/10 M
+.....\kern -1.25
+.....\OMS/cmsy/m/n/10 S
+.....\hbox(2.45+0.0)x3.33
+......\TU/lmr/m/n/10 -
+.....\TU/lmr/m/n/10 T
+.....\kern -1.66702
+.....\hbox(6.8+0.0)x6.81, shifted 2.155
+......\TU/lmr/m/n/10 E
+.....\kern -1.25
+.....\TU/lmr/m/n/10 X
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\penalty -300
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\special{pdf:dest (section.6) [@thispage /XYZ @xpos @ypos null]}
+....\penalty 10000
+....\glue -15.08499 plus -4.31 minus -0.86198
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 5.85141
+....\hbox(9.99359+2.79358)x345.0, glue set 236.13603fil
+.....\hbox(9.4464+0.17279)x22.50719
+......\glue 0.0
+......\TU/lmr/bx/sc/14.4 6
+......\glue 14.4
+.....\hbox(9.99359+0.08638)x13.5072
+......\TU/lmr/bx/sc/14.4 bi
+.....\hbox(9.99359+0.08638)x23.4576
+......\TU/lmr/bx/sc/14.4 ber
+.....\TU/lmr/bx/sc/14.4 ,
+.....\glue 5.4 plus 3.37498 minus 1.43999
+.....\hbox(9.8784+0.0)x16.02719
+......\TU/lmr/bx/sc/14.4 Bi
+.....\hbox(9.99359+0.08638)x23.4576
+......\TU/lmr/bx/sc/14.4 ber
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\write3{\protect \BOOKMARK [1][-]{section.6}{\376\377\000b\000i\000b\000e\000r\000,\000\040\000B\000i\000b\000e\000r}{}% 6}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {6}\hologoRobust {biber}, \HologoRobust {biber}}{\thepage }{section.6}\protected@file@percent }}
+....\penalty 10000
+....\glue 9.913 plus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 2.26642
+....\hbox(6.94+0.10999)x345.0, glue set 322.46fil
+.....\hbox(6.94+0.10999)x8.34
+......\TU/lmr/m/n/10 bi
+.....\hbox(6.94+0.10999)x14.2
+......\TU/lmr/m/n/10 ber
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\penalty -300
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\special{pdf:dest (section.7) [@thispage /XYZ @xpos @ypos null]}
+....\penalty 10000
+....\glue -15.08499 plus -4.31 minus -0.86198
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 8.01161
+....\hbox(9.8784+3.1968)x345.0, glue set 208.85463fil
+.....\hbox(9.73439+0.17279)x22.50719
+......\glue 0.0
+......\TU/lmr/bx/sc/14.4 7
+......\glue 14.4
+.....\TU/lmr/bx/sc/14.4 B
+.....\kern -0.72003
+.....\mathon
+.....\mathoff
+.....\TU/lmr/bx/n/10 I
+.....\kern -0.24994
+.....\TU/lmr/bx/n/10 B
+.....\kern -1.15202
+.....\TU/lmr/bx/sc/14.4 T
+.....\kern -2.4005
+.....\hbox(9.8064+0.0)x10.6272, shifted 3.1968
+......\TU/lmr/bx/sc/14.4 E
+.....\kern -1.79999
+.....\TU/lmr/bx/sc/14.4 X,
+.....\glue 5.4 plus 3.37498 minus 1.43999
+.....\TU/lmr/bx/sc/14.4 B
+.....\kern -0.72003
+.....\mathon
+.....\mathoff
+.....\TU/lmr/bx/n/10 I
+.....\kern -0.24994
+.....\TU/lmr/bx/n/10 B
+.....\kern -1.15202
+.....\TU/lmr/bx/sc/14.4 T
+.....\kern -2.4005
+.....\hbox(9.8064+0.0)x10.6272, shifted 3.1968
+......\TU/lmr/bx/sc/14.4 E
+.....\kern -1.79999
+.....\TU/lmr/bx/sc/14.4 X
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\write3{\protect \BOOKMARK [1][-]{section.7}{\376\377\000B\000i\000b\000T\000e\000X\000,\000\040\000B\000i\000b\000T\000e\000X}{}% 7}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {7}\hologoRobust {BibTeX}, \HologoRobust {BibTeX}}{\thepage }{section.7}\protected@file@percent }}
+....\penalty 10000
+....\glue 9.913 plus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 1.9732
+....\hbox(6.83+2.155)x345.0, glue set 312.29802fil
+.....\TU/lmr/m/n/10 B
+.....\kern -0.50003
+.....\mathon
+.....\mathoff
+.....\TU/lmr/m/n/7 I
+.....\kern -0.17496
+.....\TU/lmr/m/n/7 B
+.....\kern -0.80002
+.....\TU/lmr/m/n/10 T
+.....\kern -1.66702
+.....\hbox(6.8+0.0)x6.81, shifted 2.155
+......\TU/lmr/m/n/10 E
+.....\kern -1.25
+.....\TU/lmr/m/n/10 X
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\penalty -300
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\special{pdf:dest (section.8) [@thispage /XYZ @xpos @ypos null]}
+....\penalty 10000
+....\glue -15.08499 plus -4.31 minus -0.86198
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 5.9666
+....\hbox(9.8784+3.1968)x345.0, glue set 208.85463fil
+.....\hbox(9.4464+0.17279)x22.50719
+......\glue 0.0
+......\TU/lmr/bx/sc/14.4 8
+......\glue 14.4
+.....\TU/lmr/bx/sc/14.4 B
+.....\kern -0.72003
+.....\mathon
+.....\mathoff
+.....\TU/lmr/bx/n/10 I
+.....\kern -0.24994
+.....\TU/lmr/bx/n/10 B
+.....\kern -1.15202
+.....\TU/lmr/bx/sc/14.4 T
+.....\kern -2.4005
+.....\hbox(9.8064+0.0)x10.6272, shifted 3.1968
+......\TU/lmr/bx/sc/14.4 E
+.....\kern -1.79999
+.....\TU/lmr/bx/sc/14.4 X,
+.....\glue 5.4 plus 3.37498 minus 1.43999
+.....\TU/lmr/bx/sc/14.4 B
+.....\kern -0.72003
+.....\mathon
+.....\mathoff
+.....\TU/lmr/bx/n/10 I
+.....\kern -0.24994
+.....\TU/lmr/bx/n/10 B
+.....\kern -1.15202
+.....\TU/lmr/bx/sc/14.4 T
+.....\kern -2.4005
+.....\hbox(9.8064+0.0)x10.6272, shifted 3.1968
+......\TU/lmr/bx/sc/14.4 E
+.....\kern -1.79999
+.....\TU/lmr/bx/sc/14.4 X
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\write3{\protect \BOOKMARK [1][-]{section.8}{\376\377\000B\000i\000b\000T\000e\000X\000,\000\040\000B\000i\000b\000T\000e\000X}{}% 8}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {8}\hologoRobust {BibTeX}, \HologoRobust {BibTeX}}{\thepage }{section.8}\protected@file@percent }}
+....\penalty 10000
+....\glue 9.913 plus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 1.9732
+....\hbox(6.83+2.155)x345.0, glue set 312.29802fil
+.....\TU/lmr/m/n/10 B
+.....\kern -0.50003
+.....\mathon
+.....\mathoff
+.....\TU/lmr/m/n/7 I
+.....\kern -0.17496
+.....\TU/lmr/m/n/7 B
+.....\kern -0.80002
+.....\TU/lmr/m/n/10 T
+.....\kern -1.66702
+.....\hbox(6.8+0.0)x6.81, shifted 2.155
+......\TU/lmr/m/n/10 E
+.....\kern -1.25
+.....\TU/lmr/m/n/10 X
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\penalty -300
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\special{pdf:dest (section.9) [@thispage /XYZ @xpos @ypos null]}
+....\penalty 10000
+....\glue -15.08499 plus -4.31 minus -0.86198
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 5.85141
+....\hbox(9.99359+3.1968)x345.0, glue set 207.14018fil
+.....\hbox(9.4464+0.17279)x22.50719
+......\glue 0.0
+......\TU/lmr/bx/sc/14.4 9
+......\glue 14.4
+.....\TU/lmr/bx/sc/14.4 B
+.....\kern -0.72003
+.....\TU/lmr/bx/sc/14.4 i
+.....\kern -0.35991
+.....\TU/lmr/bx/sc/14.4 b
+.....\kern -1.15202
+.....\TU/lmr/bx/sc/14.4 T
+.....\kern -2.4005
+.....\hbox(9.8064+0.0)x10.6272, shifted 3.1968
+......\TU/lmr/bx/sc/14.4 E
+.....\kern -1.79999
+.....\TU/lmr/bx/sc/14.4 X,
+.....\glue 5.4 plus 3.37498 minus 1.43999
+.....\TU/lmr/bx/sc/14.4 B
+.....\kern -0.72003
+.....\TU/lmr/bx/sc/14.4 i
+.....\kern -0.35991
+.....\TU/lmr/bx/sc/14.4 b
+.....\kern -1.15202
+.....\TU/lmr/bx/sc/14.4 T
+.....\kern -2.4005
+.....\hbox(9.8064+0.0)x10.6272, shifted 3.1968
+......\TU/lmr/bx/sc/14.4 E
+.....\kern -1.79999
+.....\TU/lmr/bx/sc/14.4 X
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\write3{\protect \BOOKMARK [1][-]{section.9}{\376\377\000B\000i\000b\000T\000e\000X\000,\000\040\000B\000i\000b\000T\000e\000X}{}% 9}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {9}\hologoRobust {BibTeX}, \HologoRobust {BibTeX}}{\thepage }{section.9}\protected@file@percent }}
+....\penalty 10000
+....\glue 9.913 plus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 1.9732
+....\hbox(6.83+2.155)x345.0, glue set 312.037fil
+.....\TU/lmr/m/n/10 B
+.....\kern -0.50003
+.....\TU/lmr/m/sc/10 i
+.....\kern -0.24994
+.....\TU/lmr/m/sc/10 b
+.....\kern -0.80002
+.....\TU/lmr/m/n/10 T
+.....\kern -1.66702
+.....\hbox(6.8+0.0)x6.81, shifted 2.155
+......\TU/lmr/m/n/10 E
+.....\kern -1.25
+.....\TU/lmr/m/n/10 X
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\penalty -300
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\special{pdf:dest (section.10) [@thispage /XYZ @xpos @ypos null]}
+....\penalty 10000
+....\glue -15.08499 plus -4.31 minus -0.86198
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 5.85141
+....\hbox(9.99359+3.1968)x345.0, glue set 182.81857fil
+.....\hbox(9.4464+0.17279)x30.6144
+......\glue 0.0
+......\TU/lmr/bx/sc/14.4 10
+......\glue 14.4
+.....\TU/lmr/bx/sc/14.4 B
+.....\kern -0.72003
+.....\TU/lmr/bx/sc/14.4 i
+.....\kern -0.35991
+.....\TU/lmr/bx/sc/14.4 b
+.....\kern -1.15202
+.....\TU/lmr/bx/sc/14.4 T
+.....\kern -2.4005
+.....\hbox(9.8064+0.0)x10.6272, shifted 3.1968
+......\TU/lmr/bx/sc/14.4 E
+.....\kern -1.79999
+.....\TU/lmr/bx/sc/14.4 X8,
+.....\glue 5.4 plus 3.37498 minus 1.43999
+.....\TU/lmr/bx/sc/14.4 B
+.....\kern -0.72003
+.....\TU/lmr/bx/sc/14.4 i
+.....\kern -0.35991
+.....\TU/lmr/bx/sc/14.4 b
+.....\kern -1.15202
+.....\TU/lmr/bx/sc/14.4 T
+.....\kern -2.4005
+.....\hbox(9.8064+0.0)x10.6272, shifted 3.1968
+......\TU/lmr/bx/sc/14.4 E
+.....\kern -1.79999
+.....\TU/lmr/bx/sc/14.4 X8
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\write3{\protect \BOOKMARK [1][-]{section.10}{\376\377\000B\000i\000b\000T\000e\000X\0008\000,\000\040\000B\000i\000b\000T\000e\000X\0008}{}% 10}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {10}\hologoRobust {BibTeX8}, \HologoRobust {BibTeX8}}{\thepage }{section.10}\protected@file@percent }}
+....\penalty 10000
+....\glue 9.913 plus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 1.9732
+....\hbox(6.83+2.155)x345.0, glue set 307.037fil
+.....\TU/lmr/m/n/10 B
+.....\kern -0.50003
+.....\TU/lmr/m/sc/10 i
+.....\kern -0.24994
+.....\TU/lmr/m/sc/10 b
+.....\kern -0.80002
+.....\TU/lmr/m/n/10 T
+.....\kern -1.66702
+.....\hbox(6.8+0.0)x6.81, shifted 2.155
+......\TU/lmr/m/n/10 E
+.....\kern -1.25
+.....\TU/lmr/m/n/10 X8
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\glue -2.155
+....\glue 0.0 plus 0.0001fil
+...\glue(\baselineskip) 23.34
+...\hbox(6.66+0.0)x345.0
+....\hbox(6.66+0.0)x345.0, glue set 170.0fil
+.....\glue 0.0 plus 1.0fil
+.....\TU/lmr/m/n/10 1
+.....\glue 0.0 plus 1.0fil
+.\kern 0.0
+Completed box being shipped out [2]
+\vbox(633.0+0.0)x407.0
+.\vbox(0.0+0.0)x0.0, glue set - 14.99626fil
+..\kern 0.0
+..\kern 16.0
+..\kern -1.00374
+..\hbox(0.0+0.0)x0.0, glue set - 60.99626fil
+...\kern 0.0
+...\kern 62.0
+...\kern -1.00374
+...\special{pdf:dest (page.2) [@thispage /XYZ @xpos @ypos null]}
+...\penalty 10000
+...\glue 0.0 plus 1.0fil minus 1.0fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+.\glue(\lineskip) 0.0
+.\vbox(633.0+0.0)x407.0
+..\glue 16.0
+..\vbox(617.0+0.0)x345.0, shifted 62.0
+...\vbox(12.0+0.0)x345.0, glue set 12.0fil
+....\glue 0.0 plus 1.0fil
+....\hbox(0.0+0.0)x345.0
+.....\hbox(0.0+0.0)x345.0
+...\glue 25.0
+...\glue(\lineskip) 0.0
+...\vbox(550.0+0.0)x345.0, glue set >20000.0fil
+....\special{pdf:dest (section.11) [@thispage /XYZ @xpos @ypos null]}
+....\glue(\topskip) 0.0
+....\hbox(10.0512+3.1968)x345.0, glue set 178.21883fil
+.....\hbox(9.4464+0.0)x30.6144
+......\glue 0.0
+......\TU/lmr/bx/sc/14.4 11
+......\glue 14.4
+.....\hbox(10.0512+0.17279)x28.33496
+......\TU/lmr/bx/sc/14.4 C
+......\kern -0.47943
+......\TU/lmr/bx/sc/14.4 on
+.....\kern -0.96042
+.....\hbox(9.8784+3.1968)x35.75525
+......\TU/lmr/bx/sc/14.4 T
+......\kern -2.4005
+......\hbox(9.8064+0.0)x10.6272, shifted 3.1968
+.......\TU/lmr/bx/sc/14.4 E
+......\kern -1.79999
+......\TU/lmr/bx/sc/14.4 X
+......\kern -0.47943
+......\TU/lmr/bx/sc/14.4 t
+.....\TU/lmr/bx/sc/14.4 ,
+.....\glue 5.4 plus 3.37498 minus 1.43999
+.....\hbox(10.0512+0.17279)x28.33496
+......\TU/lmr/bx/sc/14.4 C
+......\kern -0.47943
+......\TU/lmr/bx/sc/14.4 on
+.....\kern -0.96042
+.....\hbox(9.8784+3.1968)x35.75525
+......\TU/lmr/bx/sc/14.4 T
+......\kern -2.4005
+......\hbox(9.8064+0.0)x10.6272, shifted 3.1968
+.......\TU/lmr/bx/sc/14.4 E
+......\kern -1.79999
+......\TU/lmr/bx/sc/14.4 X
+......\kern -0.47943
+......\TU/lmr/bx/sc/14.4 t
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\write3{\protect \BOOKMARK [1][-]{section.11}{\376\377\000C\000o\000n\000T\000e\000X\000t\000,\000\040\000C\000o\000n\000T\000e\000X\000t}{}% 11}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {11}\hologoRobust {ConTeXt}, \HologoRobust {ConTeXt}}{\thepage }{section.11}\protected@file@percent }}
+....\penalty 10000
+....\glue 9.913 plus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 1.7532
+....\hbox(7.05+2.155)x345.0, glue set 306.04988fil
+.....\hbox(7.05+0.21999)x17.44705
+......\TU/lmr/m/n/10 C
+......\kern -0.33295
+......\TU/lmr/m/n/10 on
+.....\kern -0.66696
+.....\hbox(6.83+2.155)x22.17003
+......\TU/lmr/m/n/10 T
+......\kern -1.66702
+......\hbox(6.8+0.0)x6.81, shifted 2.155
+.......\TU/lmr/m/n/10 E
+......\kern -1.25
+......\TU/lmr/m/n/10 X
+......\kern -0.33295
+......\TU/lmr/m/n/10 t
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\penalty -300
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\special{pdf:dest (section.12) [@thispage /XYZ @xpos @ypos null]}
+....\penalty 10000
+....\glue -15.08499 plus -4.31 minus -0.86198
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 5.79381
+....\hbox(10.0512+3.1968)x345.0, glue set 178.21883fil
+.....\hbox(9.4464+0.0)x30.6144
+......\glue 0.0
+......\TU/lmr/bx/sc/14.4 12
+......\glue 14.4
+.....\hbox(10.0512+0.17279)x28.33496
+......\TU/lmr/bx/sc/14.4 C
+......\kern -0.47943
+......\TU/lmr/bx/sc/14.4 on
+.....\kern -0.96042
+.....\hbox(9.8784+3.1968)x35.75525
+......\TU/lmr/bx/sc/14.4 T
+......\kern -2.4005
+......\hbox(9.8064+0.0)x10.6272, shifted 3.1968
+.......\TU/lmr/bx/sc/14.4 E
+......\kern -1.79999
+......\TU/lmr/bx/sc/14.4 X
+......\kern -0.47943
+......\TU/lmr/bx/sc/14.4 t
+.....\TU/lmr/bx/sc/14.4 ,
+.....\glue 5.4 plus 3.37498 minus 1.43999
+.....\hbox(10.0512+0.17279)x28.33496
+......\TU/lmr/bx/sc/14.4 C
+......\kern -0.47943
+......\TU/lmr/bx/sc/14.4 on
+.....\kern -0.96042
+.....\hbox(9.8784+3.1968)x35.75525
+......\TU/lmr/bx/sc/14.4 T
+......\kern -2.4005
+......\hbox(9.8064+0.0)x10.6272, shifted 3.1968
+.......\TU/lmr/bx/sc/14.4 E
+......\kern -1.79999
+......\TU/lmr/bx/sc/14.4 X
+......\kern -0.47943
+......\TU/lmr/bx/sc/14.4 t
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\write3{\protect \BOOKMARK [1][-]{section.12}{\376\377\000C\000o\000n\000T\000e\000X\000t\000,\000\040\000C\000o\000n\000T\000e\000X\000t}{}% 12}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {12}\hologoRobust {ConTeXt}, \HologoRobust {ConTeXt}}{\thepage }{section.12}\protected@file@percent }}
+....\penalty 10000
+....\glue 9.913 plus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 1.7532
+....\hbox(7.05+2.155)x345.0, glue set 306.04988fil
+.....\hbox(7.05+0.21999)x17.44705
+......\TU/lmr/m/n/10 C
+......\kern -0.33295
+......\TU/lmr/m/n/10 on
+.....\kern -0.66696
+.....\hbox(6.83+2.155)x22.17003
+......\TU/lmr/m/n/10 T
+......\kern -1.66702
+......\hbox(6.8+0.0)x6.81, shifted 2.155
+.......\TU/lmr/m/n/10 E
+......\kern -1.25
+......\TU/lmr/m/n/10 X
+......\kern -0.33295
+......\TU/lmr/m/n/10 t
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\penalty -300
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\special{pdf:dest (section.13) [@thispage /XYZ @xpos @ypos null]}
+....\penalty 10000
+....\glue -15.08499 plus -4.31 minus -0.86198
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 5.79381
+....\hbox(10.0512+3.1968)x345.0, glue set 174.38023fil
+.....\hbox(9.4464+0.17279)x30.6144
+......\glue 0.0
+......\TU/lmr/bx/sc/14.4 13
+......\glue 14.4
+.....\hbox(10.0512+0.17279)x28.81439
+......\TU/lmr/bx/sc/14.4 Con
+.....\hbox(9.8784+3.1968)x36.2347
+......\TU/lmr/bx/sc/14.4 T
+......\kern -2.4005
+......\hbox(9.8064+0.0)x10.6272, shifted 3.1968
+.......\TU/lmr/bx/sc/14.4 E
+......\kern -1.79999
+......\TU/lmr/bx/sc/14.4 Xt
+.....\TU/lmr/bx/sc/14.4 ,
+.....\glue 5.4 plus 3.37498 minus 1.43999
+.....\hbox(10.0512+0.17279)x28.81439
+......\TU/lmr/bx/sc/14.4 Con
+.....\hbox(9.8784+3.1968)x36.2347
+......\TU/lmr/bx/sc/14.4 T
+......\kern -2.4005
+......\hbox(9.8064+0.0)x10.6272, shifted 3.1968
+.......\TU/lmr/bx/sc/14.4 E
+......\kern -1.79999
+......\TU/lmr/bx/sc/14.4 Xt
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\write3{\protect \BOOKMARK [1][-]{section.13}{\376\377\000C\000o\000n\000T\000e\000X\000t\000,\000\040\000C\000o\000n\000T\000e\000X\000t}{}% 13}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {13}\hologoRobust {ConTeXt}, \HologoRobust {ConTeXt}}{\thepage }{section.13}\protected@file@percent }}
+....\penalty 10000
+....\glue 9.913 plus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 1.7532
+....\hbox(7.05+2.155)x345.0, glue set 304.71703fil
+.....\hbox(7.05+0.21999)x17.78
+......\TU/lmr/m/n/10 Con
+.....\hbox(6.83+2.155)x22.50298
+......\TU/lmr/m/n/10 T
+......\kern -1.66702
+......\hbox(6.8+0.0)x6.81, shifted 2.155
+.......\TU/lmr/m/n/10 E
+......\kern -1.25
+......\TU/lmr/m/n/10 Xt
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\penalty -300
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\special{pdf:dest (section.14) [@thispage /XYZ @xpos @ypos null]}
+....\penalty 10000
+....\glue -15.08499 plus -4.31 minus -0.86198
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 5.9666
+....\hbox(9.8784+3.1968)x345.0, glue set 199.59465fil
+.....\hbox(9.47519+0.0)x30.6144
+......\glue 0.0
+......\TU/lmr/bx/sc/14.4 14
+......\glue 14.4
+.....\hbox(6.5232+0.08638)x20.8944
+......\TU/lmr/bx/sc/14.4 em
+.....\TU/lmr/bx/sc/14.4 T
+.....\kern -2.4005
+.....\hbox(9.8064+0.0)x10.6272, shifted 3.1968
+......\TU/lmr/bx/sc/14.4 E
+.....\kern -1.79999
+.....\TU/lmr/bx/sc/14.4 X,
+.....\glue 5.4 plus 3.37498 minus 1.43999
+.....\hbox(9.8064+0.0)x24.13438
+......\TU/lmr/bx/sc/14.4 Em
+.....\TU/lmr/bx/sc/14.4 T
+.....\kern -2.4005
+.....\hbox(9.8064+0.0)x10.6272, shifted 3.1968
+......\TU/lmr/bx/sc/14.4 E
+.....\kern -1.79999
+.....\TU/lmr/bx/sc/14.4 X
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\write3{\protect \BOOKMARK [1][-]{section.14}{\376\377\000e\000m\000T\000e\000X\000,\000\040\000E\000m\000T\000e\000X}{}% 14}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {14}\hologoRobust {emTeX}, \HologoRobust {emTeX}}{\thepage }{section.14}\protected@file@percent }}
+....\penalty 10000
+....\glue 9.913 plus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 1.9732
+....\hbox(6.83+2.155)x345.0, glue set 313.61702fil
+.....\hbox(4.48+0.10999)x12.77
+......\TU/lmr/m/n/10 em
+.....\TU/lmr/m/n/10 T
+.....\kern -1.66702
+.....\hbox(6.8+0.0)x6.81, shifted 2.155
+......\TU/lmr/m/n/10 E
+.....\kern -1.25
+.....\TU/lmr/m/n/10 X
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\penalty -300
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\special{pdf:dest (section.15) [@thispage /XYZ @xpos @ypos null]}
+....\penalty 10000
+....\glue -15.08499 plus -4.31 minus -0.86198
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 5.9666
+....\hbox(9.8784+3.1968)x345.0, glue set 218.59346fil
+.....\hbox(9.4464+0.17279)x30.6144
+......\glue 0.0
+......\TU/lmr/bx/sc/14.4 15
+......\glue 14.4
+.....\hbox(9.8784+3.1968)x42.94247
+......\mathon
+......\OML/cmm/b/it/14.4 "
+......\mathoff
+......\TU/lmr/bx/sc/14.4 -T
+......\kern -2.4005
+......\hbox(9.8064+0.0)x10.6272, shifted 3.1968
+.......\TU/lmr/bx/sc/14.4 E
+......\kern -1.79999
+......\TU/lmr/bx/sc/14.4 X
+.....\TU/lmr/bx/sc/14.4 ,
+.....\glue 5.4 plus 3.37498 minus 1.43999
+.....\hbox(9.8784+3.1968)x42.94247
+......\mathon
+......\OML/cmm/b/it/14.4 "
+......\mathoff
+......\TU/lmr/bx/sc/14.4 -T
+......\kern -2.4005
+......\hbox(9.8064+0.0)x10.6272, shifted 3.1968
+.......\TU/lmr/bx/sc/14.4 E
+......\kern -1.79999
+......\TU/lmr/bx/sc/14.4 X
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\write3{\protect \BOOKMARK [1][-]{section.15}{\376\377\003\265\000-\000T\000e\000X\000,\000\040\003\265\000-\000T\000e\000X}{}% 15}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {15}\hologoRobust {eTeX}, \HologoRobust {eTeX}}{\thepage }{section.15}\protected@file@percent }}
+....\penalty 10000
+....\glue 9.913 plus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 1.9732
+....\hbox(6.83+2.155)x345.0, glue set 319.22385fil
+.....\hbox(6.83+2.155)x25.77615
+......\mathon
+......\OML/cmm/m/it/10 "
+......\mathoff
+......\TU/lmr/m/n/10 -
+......\kern -0.83
+......\TU/lmr/m/n/10 T
+......\kern -1.66702
+......\hbox(6.8+0.0)x6.81, shifted 2.155
+.......\TU/lmr/m/n/10 E
+......\kern -1.25
+......\TU/lmr/m/n/10 X
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\penalty -300
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\special{pdf:dest (section.16) [@thispage /XYZ @xpos @ypos null]}
+....\penalty 10000
+....\glue -15.08499 plus -4.31 minus -0.86198
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 5.9666
+....\hbox(9.8784+3.1968)x345.0, glue set 216.53322fil
+.....\hbox(9.4464+0.17279)x30.6144
+......\glue 0.0
+......\TU/lmr/bx/sc/14.4 16
+......\glue 14.4
+.....\hbox(6.4+2.15999)x16.205
+......\mathon
+......\OML/cmm/b/it/14.4 "
+......\hbox(6.86111+0.0)x8.59003, shifted 2.15999
+.......\kern -2.1599
+.......\OML/cmm/b/it/10 X
+.......\kern0.77776
+......\mathoff
+.....\kern -2.1599
+.....\TU/lmr/bx/sc/14.4 T
+.....\kern -2.4005
+.....\hbox(9.8064+0.0)x10.6272, shifted 3.1968
+......\TU/lmr/bx/sc/14.4 E
+.....\kern -1.79999
+.....\TU/lmr/bx/sc/14.4 X,
+.....\glue 5.4 plus 3.37498 minus 1.43999
+.....\hbox(6.4+2.15999)x16.205
+......\mathon
+......\OML/cmm/b/it/14.4 "
+......\hbox(6.86111+0.0)x8.59003, shifted 2.15999
+.......\kern -2.1599
+.......\OML/cmm/b/it/10 X
+.......\kern0.77776
+......\mathoff
+.....\kern -2.1599
+.....\TU/lmr/bx/sc/14.4 T
+.....\kern -2.4005
+.....\hbox(9.8064+0.0)x10.6272, shifted 3.1968
+......\TU/lmr/bx/sc/14.4 E
+.....\kern -1.79999
+.....\TU/lmr/bx/sc/14.4 X
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\write3{\protect \BOOKMARK [1][-]{section.16}{\376\377\003\265\003\247\000T\000e\000X\000,\000\040\003\265\003\247\000T\000e\000X}{}% 16}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {16}\hologoRobust {ExTeX}, \HologoRobust {ExTeX}}{\thepage }{section.16}\protected@file@percent }}
+....\penalty 10000
+....\glue 9.913 plus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 1.9732
+....\hbox(6.83+2.155)x345.0, glue set 317.12161fil
+.....\hbox(4.30554+1.49998)x10.76535
+......\mathon
+......\OML/cmm/m/it/10 "
+......\hbox(4.78334+0.0)x6.10217, shifted 1.49998
+.......\kern -1.49994
+.......\OML/cmm/m/it/7 X
+.......\kern0.5441
+......\mathoff
+.....\kern -1.49994
+.....\TU/lmr/m/n/10 T
+.....\kern -1.66702
+.....\hbox(6.8+0.0)x6.81, shifted 2.155
+......\TU/lmr/m/n/10 E
+.....\kern -1.25
+.....\TU/lmr/m/n/10 X
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\penalty -300
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\special{pdf:dest (section.17) [@thispage /XYZ @xpos @ypos null]}
+....\penalty 10000
+....\glue -15.08499 plus -4.31 minus -0.86198
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 3.28821
+....\hbox(12.5568+2.79358)x345.0, glue set 76.2097fil
+.....\hbox(9.73439+0.17279)x30.6144
+......\glue 0.0
+......\TU/lmr/bx/sc/14.4 17
+......\glue 14.4
+.....\hbox(10.1376+0.08638)x29.54878
+......\TU/lmr/bx/sc/14.4 H^^e0n
+.....\penalty 10000
+.....\glue 5.4 plus 2.7 minus 1.79999
+.....\hbox(12.5568+0.08638)x27.648
+......\TU/lmr/bx/sc/14.4 Thế
+.....\penalty 10000
+.....\glue 5.4 plus 2.7 minus 1.79999
+.....\hbox(10.1376+0.08638)x46.13759
+......\TU/lmr/bx/sc/14.4 Th^^e0nh
+.....\TU/lmr/bx/sc/14.4 ,
+.....\glue 5.4 plus 3.37498 minus 1.43999
+.....\hbox(10.1376+0.08638)x29.54878
+......\TU/lmr/bx/sc/14.4 H^^e0n
+.....\penalty 10000
+.....\glue 5.4 plus 2.7 minus 1.79999
+.....\hbox(12.5568+0.08638)x27.648
+......\TU/lmr/bx/sc/14.4 Thế
+.....\penalty 10000
+.....\glue 5.4 plus 2.7 minus 1.79999
+.....\hbox(10.1376+0.08638)x46.13759
+......\TU/lmr/bx/sc/14.4 Th^^e0nh
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\write3{\protect \BOOKMARK [1][-]{section.17}{\376\377\000H\000\340\000n\000\040\000T\000h\036\277\000\040\000T\000h\000\340\000n\000h\000,\000\040\000H\000\340\000n\000\040\000T\000h\036\277\000\040\000T\000h\000\340\000n\000h}{}% 17}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {17}\hologoRobust {HanTheThanh}, \HologoRobust {HanTheThanh}}{\thepage }{section.17}\protected@file@percent }}
+....\penalty 10000
+....\glue 9.913 plus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 0.88641
+....\hbox(8.32+0.10999)x345.0, glue set 274.16fil
+.....\hbox(6.98+0.10999)x18.06
+......\TU/lmr/m/n/10 H^^e0n
+.....\penalty 10000
+.....\glue 3.33 plus 1.665 minus 1.11
+.....\hbox(8.32+0.10999)x17.22
+......\TU/lmr/m/n/10 Thế
+.....\penalty 10000
+.....\glue 3.33 plus 1.665 minus 1.11
+.....\hbox(6.98+0.10999)x28.9
+......\TU/lmr/m/n/10 Th^^e0nh
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\penalty -300
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\special{pdf:dest (section.18) [@thispage /XYZ @xpos @ypos null]}
+....\penalty 10000
+....\glue -15.08499 plus -4.31 minus -0.86198
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 8.01161
+....\hbox(9.8784+3.1968)x345.0, glue set 207.06822fil
+.....\hbox(9.4464+0.17279)x30.6144
+......\glue 0.0
+......\TU/lmr/bx/sc/14.4 18
+......\glue 14.4
+.....\hbox(9.8784+3.1968)x47.9419
+......\TU/lmr/bx/sc/14.4 iniT
+......\kern -2.4005
+......\hbox(9.8064+0.0)x10.6272, shifted 3.1968
+.......\TU/lmr/bx/sc/14.4 E
+......\kern -1.79999
+......\TU/lmr/bx/sc/14.4 X
+.....\TU/lmr/bx/sc/14.4 ,
+.....\glue 5.4 plus 3.37498 minus 1.43999
+.....\hbox(9.8784+3.1968)x49.46829
+......\TU/lmr/bx/sc/14.4 IniT
+......\kern -2.4005
+......\hbox(9.8064+0.0)x10.6272, shifted 3.1968
+.......\TU/lmr/bx/sc/14.4 E
+......\kern -1.79999
+......\TU/lmr/bx/sc/14.4 X
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\write3{\protect \BOOKMARK [1][-]{section.18}{\376\377\000i\000n\000i\000T\000e\000X\000,\000\040\000I\000n\000i\000T\000e\000X}{}% 18}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {18}\hologoRobust {iniTeX}, \HologoRobust {iniTeX}}{\thepage }{section.18}\protected@file@percent }}
+....\penalty 10000
+....\glue 9.913 plus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 1.9732
+....\hbox(6.83+2.155)x345.0, glue set 315.26703fil
+.....\hbox(6.83+2.155)x29.73297
+......\TU/lmr/m/n/10 iniT
+......\kern -1.66702
+......\hbox(6.8+0.0)x6.81, shifted 2.155
+.......\TU/lmr/m/n/10 E
+......\kern -1.25
+......\TU/lmr/m/n/10 X
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\penalty -300
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\special{pdf:dest (section.19) [@thispage /XYZ @xpos @ypos null]}
+....\penalty 10000
+....\glue -15.08499 plus -4.31 minus -0.86198
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 5.5346
+....\hbox(10.3104+2.79358)x345.0, glue set 112.12276fil
+.....\hbox(9.4464+0.17279)x30.6144
+......\glue 0.0
+......\TU/lmr/bx/sc/14.4 19
+......\glue 14.4
+.....\hbox(10.3104+0.31679)x49.23367
+......\TU/lmss/bx/n/14.4 K
+......\kern 0.72003
+......\TU/lmss/bx/n/14.4 O
+......\kern 0.72003
+......\TU/lmss/bx/n/14.4 M
+......\kern 0.72003
+......\TU/lmss/bx/n/14.4 A
+.....\kern 1.44008
+.....\hbox(3.816+0.0)x5.2848
+......\TU/lmss/bx/n/14.4 -
+.....\kern 1.44008
+.....\hbox(10.3104+2.79358)x38.77919
+......\TU/lmss/bx/n/14.4 Script
+.....\TU/lmr/bx/sc/14.4 ,
+.....\glue 5.4 plus 3.37498 minus 1.43999
+.....\hbox(10.3104+0.31679)x49.23367
+......\TU/lmss/bx/n/14.4 K
+......\kern 0.72003
+......\TU/lmss/bx/n/14.4 O
+......\kern 0.72003
+......\TU/lmss/bx/n/14.4 M
+......\kern 0.72003
+......\TU/lmss/bx/n/14.4 A
+.....\kern 1.44008
+.....\hbox(3.816+0.0)x5.2848
+......\TU/lmss/bx/n/14.4 -
+.....\kern 1.44008
+.....\hbox(10.3104+2.79358)x38.77919
+......\TU/lmss/bx/n/14.4 Script
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\write3{\protect \BOOKMARK [1][-]{section.19}{\376\377\000K\000O\000M\000A\000-\000S\000c\000r\000i\000p\000t\000,\000\040\000K\000O\000M\000A\000-\000S\000c\000r\000i\000p\000t}{}% 19}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {19}\hologoRobust {KOMAScript}, \HologoRobust {KOMAScript}}{\thepage }{section.19}\protected@file@percent }}
+....\penalty 10000
+....\glue 9.913 plus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 2.04642
+....\hbox(7.16+1.93999)x345.0, glue set 283.85979fil
+.....\hbox(7.16+0.21999)x31.2201
+......\TU/lmss/m/n/10 K
+......\kern 0.50003
+......\TU/lmss/m/n/10 O
+......\kern 0.50003
+......\TU/lmss/m/n/10 M
+......\kern 0.50003
+......\TU/lmss/m/n/10 A
+.....\kern 1.00006
+.....\hbox(2.51+0.0)x3.33
+......\TU/lmss/m/n/10 -
+.....\kern 1.00006
+.....\hbox(7.16+1.93999)x24.59
+......\TU/lmss/m/n/10 Script
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\penalty -300
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\special{pdf:dest (section.20) [@thispage /XYZ @xpos @ypos null]}
+....\penalty 10000
+....\glue -15.08499 plus -4.31 minus -0.86198
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 6.18161
+....\hbox(9.8784+2.79358)x345.0, glue set 277.99763fil
+.....\hbox(9.4464+0.17279)x30.6144
+......\glue 0.0
+......\TU/lmr/bx/sc/14.4 20
+......\glue 14.4
+.....\TU/lmr/bx/sc/14.4 L
+.....\kern -5.184
+.....\vbox(9.7488+0.0)x8.69, glue set 2.7688fil
+......\hbox(6.98+0.0)x8.69
+.......\TU/lmr/bx/n/10 A
+......\glue 0.0 plus 1.0fil minus 1.0fil
+.....\TU/lmr/bx/sc/14.4 ,
+.....\glue 5.4 plus 3.37498 minus 1.43999
+.....\TU/lmr/bx/sc/14.4 L
+.....\kern -5.184
+.....\vbox(9.7488+0.0)x8.69, glue set 2.7688fil
+......\hbox(6.98+0.0)x8.69
+.......\TU/lmr/bx/n/10 A
+......\glue 0.0 plus 1.0fil minus 1.0fil
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\write3{\protect \BOOKMARK [1][-]{section.20}{\376\377\000L\000a\000,\000\040\000L\000a}{}% 20}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {20}\hologoRobust {La}, \HologoRobust {La}}{\thepage }{section.20}\protected@file@percent }}
+....\penalty 10000
+....\glue 9.913 plus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 2.37642
+....\hbox(6.83+0.0)x345.0, glue set 336.449fil
+.....\TU/lmr/m/n/10 L
+.....\kern -3.6
+.....\vbox(6.77+0.0)x5.901, glue set 1.779fil
+......\hbox(4.991+0.0)x5.901
+.......\TU/lmr/m/n/7 A
+......\glue 0.0 plus 1.0fil minus 1.0fil
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\glue 0.0
+....\glue 0.0 plus 0.0001fil
+...\glue(\baselineskip) 23.34
+...\hbox(6.66+0.0)x345.0
+....\hbox(6.66+0.0)x345.0, glue set 170.0fil
+.....\glue 0.0 plus 1.0fil
+.....\TU/lmr/m/n/10 2
+.....\glue 0.0 plus 1.0fil
+LaTeX Font Info:    Trying to load font information for U+logo on input line ....
+LaTeX Font Info:    Font shape `U/logo/bx/n' in size <14.4> not available
+(Font)              Font shape `U/logo/b/n' tried instead on input line ....
+Completed box being shipped out [3]
+\vbox(633.0+0.21999)x407.0
+.\vbox(0.0+0.0)x0.0, glue set - 14.99626fil
+..\kern 0.0
+..\kern 16.0
+..\kern -1.00374
+..\hbox(0.0+0.0)x0.0, glue set - 60.99626fil
+...\kern 0.0
+...\kern 62.0
+...\kern -1.00374
+...\special{pdf:dest (page.3) [@thispage /XYZ @xpos @ypos null]}
+...\penalty 10000
+...\glue 0.0 plus 1.0fil minus 1.0fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+.\glue(\lineskip) 0.0
+.\vbox(633.0+0.21999)x407.0
+..\glue 16.0
+..\vbox(617.0+0.21999)x345.0, shifted 62.0
+...\vbox(12.0+0.0)x345.0, glue set 12.0fil
+....\glue 0.0 plus 1.0fil
+....\hbox(0.0+0.0)x345.0
+.....\hbox(0.0+0.0)x345.0
+...\glue 25.0
+...\glue(\lineskip) 0.0
+...\vbox(550.0+0.0)x345.0, glue set >20000.0fil
+....\special{pdf:dest (section.21) [@thispage /XYZ @xpos @ypos null]}
+....\glue(\topskip) 0.1216
+....\hbox(9.8784+3.1968)x345.0, glue set 222.46245fil
+.....\hbox(9.4464+0.0)x30.6144
+......\glue 0.0
+......\TU/lmr/bx/sc/14.4 21
+......\glue 14.4
+.....\TU/lmr/bx/sc/14.4 L
+.....\kern -5.184
+.....\vbox(9.7488+0.0)x8.69, glue set 2.7688fil
+......\hbox(6.98+0.0)x8.69
+.......\TU/lmr/bx/n/10 A
+......\glue 0.0 plus 1.0fil minus 1.0fil
+.....\kern -2.1599
+.....\TU/lmr/bx/sc/14.4 T
+.....\kern -2.4005
+.....\hbox(9.8064+0.0)x10.6272, shifted 3.1968
+......\TU/lmr/bx/sc/14.4 E
+.....\kern -1.79999
+.....\TU/lmr/bx/sc/14.4 X,
+.....\glue 5.4 plus 3.37498 minus 1.43999
+.....\TU/lmr/bx/sc/14.4 L
+.....\kern -5.184
+.....\vbox(9.7488+0.0)x8.69, glue set 2.7688fil
+......\hbox(6.98+0.0)x8.69
+.......\TU/lmr/bx/n/10 A
+......\glue 0.0 plus 1.0fil minus 1.0fil
+.....\kern -2.1599
+.....\TU/lmr/bx/sc/14.4 T
+.....\kern -2.4005
+.....\hbox(9.8064+0.0)x10.6272, shifted 3.1968
+......\TU/lmr/bx/sc/14.4 E
+.....\kern -1.79999
+.....\TU/lmr/bx/sc/14.4 X
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\write3{\protect \BOOKMARK [1][-]{section.21}{\376\377\000L\000a\000T\000e\000X\000,\000\040\000L\000a\000T\000e\000X}{}% 21}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {21}\hologoRobust {LaTeX}, \HologoRobust {LaTeX}}{\thepage }{section.21}\protected@file@percent }}
+....\penalty 10000
+....\glue 9.913 plus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 1.9732
+....\hbox(6.83+2.155)x345.0, glue set 319.33597fil
+.....\TU/lmr/m/n/10 L
+.....\kern -3.6
+.....\vbox(6.77+0.0)x5.901, glue set 1.779fil
+......\hbox(4.991+0.0)x5.901
+.......\TU/lmr/m/n/7 A
+......\glue 0.0 plus 1.0fil minus 1.0fil
+.....\kern -1.49994
+.....\TU/lmr/m/n/10 T
+.....\kern -1.66702
+.....\hbox(6.8+0.0)x6.81, shifted 2.155
+......\TU/lmr/m/n/10 E
+.....\kern -1.25
+.....\TU/lmr/m/n/10 X
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\penalty -300
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\special{pdf:dest (section.22) [@thispage /XYZ @xpos @ypos null]}
+....\penalty 10000
+....\glue -15.08499 plus -4.31 minus -0.86198
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 5.9666
+....\hbox(9.8784+3.1968)x345.0, glue set 185.69832fil
+.....\hbox(9.4464+0.0)x30.6144
+......\glue 0.0
+......\TU/lmr/bx/sc/14.4 22
+......\glue 14.4
+.....\TU/lmr/bx/sc/14.4 L
+.....\kern -5.184
+.....\vbox(9.7488+0.0)x8.69, glue set 2.7688fil
+......\hbox(6.98+0.0)x8.69
+.......\TU/lmr/bx/n/10 A
+......\glue 0.0 plus 1.0fil minus 1.0fil
+.....\kern -2.1599
+.....\TU/lmr/bx/sc/14.4 T
+.....\kern -2.4005
+.....\hbox(9.8064+0.0)x10.6272, shifted 3.1968
+......\TU/lmr/bx/sc/14.4 E
+.....\kern -1.79999
+.....\TU/lmr/bx/sc/14.4 X
+.....\kern 2.1599
+.....\hbox(9.4464+2.15999)x16.22217
+......\TU/lmr/bx/sc/14.4 2
+......\mathon
+......\hbox(6.4+0.0)x8.11497, shifted 2.15999
+.......\OML/cmm/b/it/14.4 "
+......\mathoff
+.....\TU/lmr/bx/sc/14.4 ,
+.....\glue 5.4 plus 3.37498 minus 1.43999
+.....\TU/lmr/bx/sc/14.4 L
+.....\kern -5.184
+.....\vbox(9.7488+0.0)x8.69, glue set 2.7688fil
+......\hbox(6.98+0.0)x8.69
+.......\TU/lmr/bx/n/10 A
+......\glue 0.0 plus 1.0fil minus 1.0fil
+.....\kern -2.1599
+.....\TU/lmr/bx/sc/14.4 T
+.....\kern -2.4005
+.....\hbox(9.8064+0.0)x10.6272, shifted 3.1968
+......\TU/lmr/bx/sc/14.4 E
+.....\kern -1.79999
+.....\TU/lmr/bx/sc/14.4 X
+.....\kern 2.1599
+.....\hbox(9.4464+2.15999)x16.22217
+......\TU/lmr/bx/sc/14.4 2
+......\mathon
+......\hbox(6.4+0.0)x8.11497, shifted 2.15999
+.......\OML/cmm/b/it/14.4 "
+......\mathoff
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\write3{\protect \BOOKMARK [1][-]{section.22}{\376\377\000L\000a\000T\000e\000X\0002\003\265\000,\000\040\000L\000a\000T\000e\000X\0002\003\265}{}% 22}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {22}\hologoRobust {LaTeX2e}, \HologoRobust {LaTeX2e}}{\thepage }{section.22}\protected@file@percent }}
+....\penalty 10000
+....\glue 9.913 plus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 1.9732
+....\hbox(6.83+2.155)x345.0, glue set 307.67285fil
+.....\TU/lmr/m/n/10 L
+.....\kern -3.6
+.....\vbox(6.77+0.0)x5.901, glue set 1.779fil
+......\hbox(4.991+0.0)x5.901
+.......\TU/lmr/m/n/7 A
+......\glue 0.0 plus 1.0fil minus 1.0fil
+.....\kern -1.49994
+.....\TU/lmr/m/n/10 T
+.....\kern -1.66702
+.....\hbox(6.8+0.0)x6.81, shifted 2.155
+......\TU/lmr/m/n/10 E
+.....\kern -1.25
+.....\TU/lmr/m/n/10 X
+.....\kern 1.49994
+.....\hbox(6.66+1.49998)x10.16318
+......\TU/lmr/m/n/10 2
+......\mathon
+......\hbox(4.30554+0.0)x5.16318, shifted 1.49998
+.......\OML/cmm/m/it/10 "
+......\mathoff
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\penalty -300
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\special{pdf:dest (section.23) [@thispage /XYZ @xpos @ypos null]}
+....\penalty 10000
+....\glue -15.08499 plus -4.31 minus -0.86198
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 5.9666
+....\hbox(9.8784+3.1968)x345.0, glue set 206.24805fil
+.....\hbox(9.4464+0.17279)x30.6144
+......\glue 0.0
+......\TU/lmr/bx/sc/14.4 23
+......\glue 14.4
+.....\TU/lmr/bx/sc/14.4 L
+.....\kern -5.184
+.....\vbox(9.7488+0.0)x8.69, glue set 2.7688fil
+......\hbox(6.98+0.0)x8.69
+.......\TU/lmr/bx/n/10 A
+......\glue 0.0 plus 1.0fil minus 1.0fil
+.....\kern -2.1599
+.....\TU/lmr/bx/sc/14.4 T
+.....\kern -2.4005
+.....\hbox(9.8064+0.0)x10.6272, shifted 3.1968
+......\TU/lmr/bx/sc/14.4 E
+.....\kern -1.79999
+.....\TU/lmr/bx/sc/14.4 X3,
+.....\glue 5.4 plus 3.37498 minus 1.43999
+.....\TU/lmr/bx/sc/14.4 L
+.....\kern -5.184
+.....\vbox(9.7488+0.0)x8.69, glue set 2.7688fil
+......\hbox(6.98+0.0)x8.69
+.......\TU/lmr/bx/n/10 A
+......\glue 0.0 plus 1.0fil minus 1.0fil
+.....\kern -2.1599
+.....\TU/lmr/bx/sc/14.4 T
+.....\kern -2.4005
+.....\hbox(9.8064+0.0)x10.6272, shifted 3.1968
+......\TU/lmr/bx/sc/14.4 E
+.....\kern -1.79999
+.....\TU/lmr/bx/sc/14.4 X3
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\write3{\protect \BOOKMARK [1][-]{section.23}{\376\377\000L\000a\000T\000e\000X\0003\000,\000\040\000L\000a\000T\000e\000X\0003}{}% 23}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {23}\hologoRobust {LaTeX3}, \HologoRobust {LaTeX3}}{\thepage }{section.23}\protected@file@percent }}
+....\penalty 10000
+....\glue 9.913 plus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 1.9732
+....\hbox(6.83+2.155)x345.0, glue set 314.33597fil
+.....\TU/lmr/m/n/10 L
+.....\kern -3.6
+.....\vbox(6.77+0.0)x5.901, glue set 1.779fil
+......\hbox(4.991+0.0)x5.901
+.......\TU/lmr/m/n/7 A
+......\glue 0.0 plus 1.0fil minus 1.0fil
+.....\kern -1.49994
+.....\TU/lmr/m/n/10 T
+.....\kern -1.66702
+.....\hbox(6.8+0.0)x6.81, shifted 2.155
+......\TU/lmr/m/n/10 E
+.....\kern -1.25
+.....\TU/lmr/m/n/10 X3
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\penalty -300
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\special{pdf:dest (section.24) [@thispage /XYZ @xpos @ypos null]}
+....\penalty 10000
+....\glue -15.08499 plus -4.31 minus -0.86198
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 5.9666
+....\hbox(9.8784+3.1968)x345.0, glue set 185.69832fil
+.....\hbox(9.47519+0.0)x30.6144
+......\glue 0.0
+......\TU/lmr/bx/sc/14.4 24
+......\glue 14.4
+.....\TU/lmr/bx/sc/14.4 L
+.....\kern -5.184
+.....\vbox(9.7488+0.0)x8.69, glue set 2.7688fil
+......\hbox(6.98+0.0)x8.69
+.......\TU/lmr/bx/n/10 A
+......\glue 0.0 plus 1.0fil minus 1.0fil
+.....\kern -2.1599
+.....\TU/lmr/bx/sc/14.4 T
+.....\kern -2.4005
+.....\hbox(9.8064+0.0)x10.6272, shifted 3.1968
+......\TU/lmr/bx/sc/14.4 E
+.....\kern -1.79999
+.....\TU/lmr/bx/sc/14.4 X
+.....\kern 2.1599
+.....\hbox(9.4464+2.15999)x16.22217
+......\TU/lmr/bx/sc/14.4 2
+......\mathon
+......\hbox(6.4+0.0)x8.11497, shifted 2.15999
+.......\OML/cmm/b/it/14.4 "
+......\mathoff
+.....\TU/lmr/bx/sc/14.4 ,
+.....\glue 5.4 plus 3.37498 minus 1.43999
+.....\TU/lmr/bx/sc/14.4 L
+.....\kern -5.184
+.....\vbox(9.7488+0.0)x8.69, glue set 2.7688fil
+......\hbox(6.98+0.0)x8.69
+.......\TU/lmr/bx/n/10 A
+......\glue 0.0 plus 1.0fil minus 1.0fil
+.....\kern -2.1599
+.....\TU/lmr/bx/sc/14.4 T
+.....\kern -2.4005
+.....\hbox(9.8064+0.0)x10.6272, shifted 3.1968
+......\TU/lmr/bx/sc/14.4 E
+.....\kern -1.79999
+.....\TU/lmr/bx/sc/14.4 X
+.....\kern 2.1599
+.....\hbox(9.4464+2.15999)x16.22217
+......\TU/lmr/bx/sc/14.4 2
+......\mathon
+......\hbox(6.4+0.0)x8.11497, shifted 2.15999
+.......\OML/cmm/b/it/14.4 "
+......\mathoff
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\write3{\protect \BOOKMARK [1][-]{section.24}{\376\377\000L\000a\000T\000e\000X\0002\003\265\000,\000\040\000L\000a\000T\000e\000X\0002\003\265}{}% 24}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {24}\hologoRobust {LaTeXe}, \HologoRobust {LaTeXe}}{\thepage }{section.24}\protected@file@percent }}
+....\penalty 10000
+....\glue 9.913 plus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 1.9732
+....\hbox(6.83+2.155)x345.0, glue set 307.67285fil
+.....\TU/lmr/m/n/10 L
+.....\kern -3.6
+.....\vbox(6.77+0.0)x5.901, glue set 1.779fil
+......\hbox(4.991+0.0)x5.901
+.......\TU/lmr/m/n/7 A
+......\glue 0.0 plus 1.0fil minus 1.0fil
+.....\kern -1.49994
+.....\TU/lmr/m/n/10 T
+.....\kern -1.66702
+.....\hbox(6.8+0.0)x6.81, shifted 2.155
+......\TU/lmr/m/n/10 E
+.....\kern -1.25
+.....\TU/lmr/m/n/10 X
+.....\kern 1.49994
+.....\hbox(6.66+1.49998)x10.16318
+......\TU/lmr/m/n/10 2
+......\mathon
+......\hbox(4.30554+0.0)x5.16318, shifted 1.49998
+.......\OML/cmm/m/it/10 "
+......\mathoff
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\penalty -300
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\special{pdf:dest (section.25) [@thispage /XYZ @xpos @ypos null]}
+....\penalty 10000
+....\glue -15.08499 plus -4.31 minus -0.86198
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 5.85141
+....\hbox(9.99359+3.1968)x345.0, glue set 193.80644fil
+.....\hbox(9.4464+0.17279)x30.6144
+......\glue 0.0
+......\TU/lmr/bx/sc/14.4 25
+......\glue 14.4
+.....\hbox(9.99359+3.1968)x55.33598
+......\TU/lmr/bx/sc/14.4 L
+......\kern -5.184
+......\vbox(9.7488+0.0)x8.69, glue set 2.7688fil
+.......\hbox(6.98+0.0)x8.69
+........\TU/lmr/bx/n/10 A
+.......\glue 0.0 plus 1.0fil minus 1.0fil
+......\kern -2.1599
+......\TU/lmr/bx/sc/14.4 T
+......\kern -2.4005
+......\hbox(9.8064+0.0)x10.6272, shifted 3.1968
+.......\TU/lmr/bx/sc/14.4 E
+......\kern -1.79999
+......\TU/lmr/bx/sc/14.4 xml
+.....\TU/lmr/bx/sc/14.4 ,
+.....\glue 5.4 plus 3.37498 minus 1.43999
+.....\hbox(9.99359+3.1968)x55.33598
+......\TU/lmr/bx/sc/14.4 L
+......\kern -5.184
+......\vbox(9.7488+0.0)x8.69, glue set 2.7688fil
+.......\hbox(6.98+0.0)x8.69
+........\TU/lmr/bx/n/10 A
+.......\glue 0.0 plus 1.0fil minus 1.0fil
+......\kern -2.1599
+......\TU/lmr/bx/sc/14.4 T
+......\kern -2.4005
+......\hbox(9.8064+0.0)x10.6272, shifted 3.1968
+.......\TU/lmr/bx/sc/14.4 E
+......\kern -1.79999
+......\TU/lmr/bx/sc/14.4 xml
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\write3{\protect \BOOKMARK [1][-]{section.25}{\376\377\000L\000a\000T\000e\000X\000M\000L\000,\000\040\000L\000a\000T\000e\000X\000M\000L}{}% 25}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {25}\hologoRobust {LaTeXML}, \HologoRobust {LaTeXML}}{\thepage }{section.25}\protected@file@percent }}
+....\penalty 10000
+....\glue 9.913 plus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 1.9732
+....\hbox(6.83+2.155)x345.0, glue set 308.10597fil
+.....\hbox(6.83+2.155)x36.89403
+......\TU/lmr/m/n/10 L
+......\kern -3.6
+......\vbox(6.77+0.0)x5.901, glue set 1.779fil
+.......\hbox(4.991+0.0)x5.901
+........\TU/lmr/m/n/7 A
+.......\glue 0.0 plus 1.0fil minus 1.0fil
+......\kern -1.49994
+......\TU/lmr/m/n/10 T
+......\kern -1.66702
+......\hbox(6.8+0.0)x6.81, shifted 2.155
+.......\TU/lmr/m/n/10 E
+......\kern -1.25
+......\TU/lmr/m/sc/10 xml
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\penalty -300
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\special{pdf:dest (section.26) [@thispage /XYZ @xpos @ypos null]}
+....\penalty 10000
+....\glue -15.08499 plus -4.31 minus -0.86198
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 5.045
+....\hbox(10.8+3.61438)x345.0, glue set 207.31337fil
+.....\hbox(9.4464+0.17279)x30.6144
+......\glue 0.0
+......\TU/lmr/bx/sc/14.4 26
+......\glue 14.4
+.....\TU/lmr/bx/sc/14.4 (
+.....\kern -2.1599
+.....\TU/lmr/bx/sc/14.4 L
+.....\kern -5.184
+.....\vbox(9.7488+0.0)x8.69, glue set 2.7688fil
+......\hbox(6.98+0.0)x8.69
+.......\TU/lmr/bx/n/10 A
+......\glue 0.0 plus 1.0fil minus 1.0fil
+.....\kern -2.87994
+.....\TU/lmr/bx/sc/14.4 )
+.....\kern -2.1599
+.....\TU/lmr/bx/sc/14.4 T
+.....\kern -2.4005
+.....\hbox(9.8064+0.0)x10.6272, shifted 3.1968
+......\TU/lmr/bx/sc/14.4 E
+.....\kern -1.79999
+.....\TU/lmr/bx/sc/14.4 X,
+.....\glue 5.4 plus 3.37498 minus 1.43999
+.....\TU/lmr/bx/sc/14.4 (
+.....\kern -2.1599
+.....\TU/lmr/bx/sc/14.4 L
+.....\kern -5.184
+.....\vbox(9.7488+0.0)x8.69, glue set 2.7688fil
+......\hbox(6.98+0.0)x8.69
+.......\TU/lmr/bx/n/10 A
+......\glue 0.0 plus 1.0fil minus 1.0fil
+.....\kern -2.87994
+.....\TU/lmr/bx/sc/14.4 )
+.....\kern -2.1599
+.....\TU/lmr/bx/sc/14.4 T
+.....\kern -2.4005
+.....\hbox(9.8064+0.0)x10.6272, shifted 3.1968
+......\TU/lmr/bx/sc/14.4 E
+.....\kern -1.79999
+.....\TU/lmr/bx/sc/14.4 X
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\write3{\protect \BOOKMARK [1][-]{section.26}{\376\377\000\050\000L\000a\000\051\000T\000e\000X\000,\000\040\000\050\000L\000a\000\051\000T\000e\000X}{}% 26}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {26}\hologoRobust {LaTeXTeX}, \HologoRobust {LaTeXTeX}}{\thepage }{section.26}\protected@file@percent }}
+....\penalty 10000
+....\glue 9.913 plus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 0.88562
+....\hbox(7.5+2.49998)x345.0, glue set 315.05588fil
+.....\TU/lmr/m/n/10 (
+.....\kern -1.49994
+.....\TU/lmr/m/n/10 L
+.....\kern -3.6
+.....\vbox(6.77+0.0)x5.901, glue set 1.779fil
+......\hbox(4.991+0.0)x5.901
+.......\TU/lmr/m/n/7 A
+......\glue 0.0 plus 1.0fil minus 1.0fil
+.....\kern -1.99997
+.....\TU/lmr/m/n/10 )
+.....\kern -1.49994
+.....\TU/lmr/m/n/10 T
+.....\kern -1.66702
+.....\hbox(6.8+0.0)x6.81, shifted 2.155
+......\TU/lmr/m/n/10 E
+.....\kern -1.25
+.....\TU/lmr/m/n/10 X
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\penalty -300
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\special{pdf:dest (section.27) [@thispage /XYZ @xpos @ypos null]}
+....\penalty 10000
+....\glue -15.08499 plus -4.31 minus -0.86198
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 5.62161
+....\hbox(9.8784+3.1968)x345.0, glue set 169.24007fil
+.....\hbox(9.73439+0.17279)x30.6144
+......\glue 0.0
+......\TU/lmr/bx/sc/14.4 27
+......\glue 14.4
+.....\hbox(9.8784+3.1968)x67.61917
+......\TU/lmr/bx/sc/14.4 LuaL
+......\kern -5.184
+......\vbox(9.7488+0.0)x8.69, glue set 2.7688fil
+.......\hbox(6.98+0.0)x8.69
+........\TU/lmr/bx/n/10 A
+.......\glue 0.0 plus 1.0fil minus 1.0fil
+......\kern -2.1599
+......\TU/lmr/bx/sc/14.4 T
+......\kern -2.4005
+......\hbox(9.8064+0.0)x10.6272, shifted 3.1968
+.......\TU/lmr/bx/sc/14.4 E
+......\kern -1.79999
+......\TU/lmr/bx/sc/14.4 X
+.....\TU/lmr/bx/sc/14.4 ,
+.....\glue 5.4 plus 3.37498 minus 1.43999
+.....\hbox(9.8784+3.1968)x67.61917
+......\TU/lmr/bx/sc/14.4 LuaL
+......\kern -5.184
+......\vbox(9.7488+0.0)x8.69, glue set 2.7688fil
+.......\hbox(6.98+0.0)x8.69
+........\TU/lmr/bx/n/10 A
+.......\glue 0.0 plus 1.0fil minus 1.0fil
+......\kern -2.1599
+......\TU/lmr/bx/sc/14.4 T
+......\kern -2.4005
+......\hbox(9.8064+0.0)x10.6272, shifted 3.1968
+.......\TU/lmr/bx/sc/14.4 E
+......\kern -1.79999
+......\TU/lmr/bx/sc/14.4 X
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\write3{\protect \BOOKMARK [1][-]{section.27}{\376\377\000L\000u\000a\000L\000a\000T\000e\000X\000,\000\040\000L\000u\000a\000L\000a\000T\000e\000X}{}% 27}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {27}\hologoRobust {LuaLaTeX}, \HologoRobust {LuaLaTeX}}{\thepage }{section.27}\protected@file@percent }}
+....\penalty 10000
+....\glue 9.913 plus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 1.9732
+....\hbox(6.83+2.155)x345.0, glue set 302.52597fil
+.....\hbox(6.83+2.155)x42.47403
+......\TU/lmr/m/n/10 LuaL
+......\kern -3.6
+......\vbox(6.77+0.0)x5.901, glue set 1.779fil
+.......\hbox(4.991+0.0)x5.901
+........\TU/lmr/m/n/7 A
+.......\glue 0.0 plus 1.0fil minus 1.0fil
+......\kern -1.49994
+......\TU/lmr/m/n/10 T
+......\kern -1.66702
+......\hbox(6.8+0.0)x6.81, shifted 2.155
+.......\TU/lmr/m/n/10 E
+......\kern -1.25
+......\TU/lmr/m/n/10 X
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\penalty -300
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\special{pdf:dest (section.28) [@thispage /XYZ @xpos @ypos null]}
+....\penalty 10000
+....\glue -15.08499 plus -4.31 minus -0.86198
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 5.9666
+....\hbox(9.8784+3.1968)x345.0, glue set 191.40105fil
+.....\hbox(9.4464+0.17279)x30.6144
+......\glue 0.0
+......\TU/lmr/bx/sc/14.4 28
+......\glue 14.4
+.....\hbox(9.8784+3.1968)x56.53868
+......\TU/lmr/bx/sc/14.4 LuaT
+......\kern -2.4005
+......\hbox(9.8064+0.0)x10.6272, shifted 3.1968
+.......\TU/lmr/bx/sc/14.4 E
+......\kern -1.79999
+......\TU/lmr/bx/sc/14.4 X
+.....\TU/lmr/bx/sc/14.4 ,
+.....\glue 5.4 plus 3.37498 minus 1.43999
+.....\hbox(9.8784+3.1968)x56.53868
+......\TU/lmr/bx/sc/14.4 LuaT
+......\kern -2.4005
+......\hbox(9.8064+0.0)x10.6272, shifted 3.1968
+.......\TU/lmr/bx/sc/14.4 E
+......\kern -1.79999
+......\TU/lmr/bx/sc/14.4 X
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\write3{\protect \BOOKMARK [1][-]{section.28}{\376\377\000L\000u\000a\000T\000e\000X\000,\000\040\000L\000u\000a\000T\000e\000X}{}% 28}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {28}\hologoRobust {LuaTeX}, \HologoRobust {LuaTeX}}{\thepage }{section.28}\protected@file@percent }}
+....\penalty 10000
+....\glue 9.913 plus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 1.9732
+....\hbox(6.83+2.155)x345.0, glue set 310.40703fil
+.....\hbox(6.83+2.155)x34.59297
+......\TU/lmr/m/n/10 Lua
+......\kern -0.83
+......\TU/lmr/m/n/10 T
+......\kern -1.66702
+......\hbox(6.8+0.0)x6.81, shifted 2.155
+.......\TU/lmr/m/n/10 E
+......\kern -1.25
+......\TU/lmr/m/n/10 X
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\penalty -300
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\special{pdf:dest (section.29) [@thispage /XYZ @xpos @ypos null]}
+....\penalty 10000
+....\glue -15.08499 plus -4.31 minus -0.86198
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 5.9666
+....\hbox(9.8784+3.59999)x345.0, glue set 244.45064fil
+.....\hbox(9.4464+0.17279)x30.6144
+......\glue 0.0
+......\TU/lmr/bx/sc/14.4 29
+......\glue 14.4
+.....\TU/lmr/bx/sc/14.4 L
+.....\kern -2.4005
+.....\hbox(9.8784+0.0)x12.23999, shifted 3.59999
+......\TU/lmr/bx/sc/14.4 Y
+.....\kern -1.79999
+.....\TU/lmr/bx/sc/14.4 X,
+.....\glue 5.4 plus 3.37498 minus 1.43999
+.....\TU/lmr/bx/sc/14.4 L
+.....\kern -2.4005
+.....\hbox(9.8784+0.0)x12.23999, shifted 3.59999
+......\TU/lmr/bx/sc/14.4 Y
+.....\kern -1.79999
+.....\TU/lmr/bx/sc/14.4 X
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\write3{\protect \BOOKMARK [1][-]{section.29}{\376\377\000L\000y\000X\000,\000\040\000L\000y\000X}{}% 29}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {29}\hologoRobust {LyX}, \HologoRobust {LyX}}{\thepage }{section.29}\protected@file@percent }}
+....\penalty 10000
+....\glue 9.913 plus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 1.57
+....\hbox(6.83+2.5)x345.0, glue set 326.66702fil
+.....\TU/lmr/m/n/10 L
+.....\kern -1.66702
+.....\hbox(6.83+0.0)x7.5, shifted 2.5
+......\TU/lmr/m/n/10 Y
+.....\kern -1.25
+.....\TU/lmr/m/n/10 X
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\penalty -300
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\special{pdf:dest (section.30) [@thispage /XYZ @xpos @ypos null]}
+....\penalty 10000
+....\glue -15.08499 plus -4.31 minus -0.86198
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 6.0536
+....\hbox(9.4464+2.79358)x345.0, glue set 149.24907fil
+.....\hbox(9.4464+0.17279)x30.6144
+......\glue 0.0
+......\TU/lmr/bx/sc/14.4 30
+......\glue 14.4
+.....\hbox(8.64+0.0)x39.9833
+......\U/logo/b/n/14.4 M
+......\U/logo/b/n/14.4 E
+......\U/logo/b/n/14.4 T
+......\kern-0.33601
+......\U/logo/b/n/14.4 A
+.....\hbox(8.64+0.0)x37.63136
+......\U/logo/b/n/14.4 F
+......\kern-0.672
+......\U/logo/b/n/14.4 O
+......\U/logo/b/n/14.4 N
+......\U/logo/b/n/14.4 T
+.....\TU/lmr/bx/sc/14.4 ,
+.....\glue 5.4 plus 3.37498 minus 1.43999
+.....\hbox(8.64+0.0)x39.9833
+......\U/logo/b/n/14.4 M
+......\U/logo/b/n/14.4 E
+......\U/logo/b/n/14.4 T
+......\kern-0.33601
+......\U/logo/b/n/14.4 A
+.....\hbox(8.64+0.0)x37.63136
+......\U/logo/b/n/14.4 F
+......\kern-0.672
+......\U/logo/b/n/14.4 O
+......\U/logo/b/n/14.4 N
+......\U/logo/b/n/14.4 T
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\write3{\protect \BOOKMARK [1][-]{section.30}{\376\377\000M\000E\000T\000A\000F\000O\000N\000T\000,\000\040\000M\000E\000T\000A\000F\000O\000N\000T}{}% 30}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {30}\hologoRobust {METAFONT}, \HologoRobust {METAFONT}}{\thepage }{section.30}\protected@file@percent }}
+....\penalty 10000
+....\glue 9.913 plus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 3.20642
+....\hbox(6.0+0.0)x345.0, glue set 293.66687fil
+.....\hbox(6.0+0.0)x26.44434
+......\U/logo/m/n/10 M
+......\U/logo/m/n/10 E
+......\U/logo/m/n/10 T
+......\kern-0.22223
+......\U/logo/m/n/10 A
+.....\hbox(6.0+0.0)x24.8888
+......\U/logo/m/n/10 F
+......\kern-0.44444
+......\U/logo/m/n/10 O
+......\U/logo/m/n/10 N
+......\U/logo/m/n/10 T
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\glue 0.0
+....\glue 0.0 plus 0.0001fil
+...\glue(\baselineskip) 23.34
+...\hbox(6.66+0.21999)x345.0
+....\hbox(6.66+0.21999)x345.0, glue set 170.0fil
+.....\glue 0.0 plus 1.0fil
+.....\TU/lmr/m/n/10 3
+.....\glue 0.0 plus 1.0fil
+Completed box being shipped out [4]
+\vbox(633.0+0.0)x407.0
+.\vbox(0.0+0.0)x0.0, glue set - 14.99626fil
+..\kern 0.0
+..\kern 16.0
+..\kern -1.00374
+..\hbox(0.0+0.0)x0.0, glue set - 60.99626fil
+...\kern 0.0
+...\kern 62.0
+...\kern -1.00374
+...\special{pdf:dest (page.4) [@thispage /XYZ @xpos @ypos null]}
+...\penalty 10000
+...\glue 0.0 plus 1.0fil minus 1.0fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+.\glue(\lineskip) 0.0
+.\vbox(633.0+0.0)x407.0
+..\glue 16.0
+..\vbox(617.0+0.0)x345.0, shifted 62.0
+...\vbox(12.0+0.0)x345.0, glue set 12.0fil
+....\glue 0.0 plus 1.0fil
+....\hbox(0.0+0.0)x345.0
+.....\hbox(0.0+0.0)x345.0
+...\glue 25.0
+...\glue(\lineskip) 0.0
+...\vbox(550.0+0.0)x345.0, glue set >20000.0fil
+....\special{pdf:dest (section.31) [@thispage /XYZ @xpos @ypos null]}
+....\glue(\topskip) 0.1216
+....\hbox(9.8784+2.79358)x345.0, glue set 176.95204fil
+.....\hbox(9.4464+0.17279)x30.6144
+......\glue 0.0
+......\TU/lmr/bx/sc/14.4 31
+......\glue 14.4
+.....\hbox(9.8784+0.08638)x36.93599
+......\TU/lmr/bx/sc/14.4 Meta
+.....\hbox(9.8064+0.08638)x26.8272
+......\TU/lmr/bx/sc/14.4 Fun
+.....\TU/lmr/bx/sc/14.4 ,
+.....\glue 5.4 plus 3.37498 minus 1.43999
+.....\hbox(9.8784+0.08638)x36.93599
+......\TU/lmr/bx/sc/14.4 Meta
+.....\hbox(9.8064+0.08638)x26.8272
+......\TU/lmr/bx/sc/14.4 Fun
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\write3{\protect \BOOKMARK [1][-]{section.31}{\376\377\000M\000e\000t\000a\000F\000u\000n\000,\000\040\000M\000e\000t\000a\000F\000u\000n}{}% 31}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {31}\hologoRobust {MetaFun}, \HologoRobust {MetaFun}}{\thepage }{section.31}\protected@file@percent }}
+....\penalty 10000
+....\glue 9.913 plus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 2.37642
+....\hbox(6.83+0.10999)x345.0, glue set 305.68fil
+.....\hbox(6.83+0.10999)x22.5
+......\TU/lmr/m/n/10 Meta
+.....\hbox(6.8+0.10999)x16.82
+......\TU/lmr/m/n/10 Fun
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\penalty -300
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\special{pdf:dest (section.32) [@thispage /XYZ @xpos @ypos null]}
+....\penalty 10000
+....\glue -15.08499 plus -4.31 minus -0.86198
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 8.44362
+....\hbox(9.4464+2.79358)x345.0, glue set 147.9051fil
+.....\hbox(9.4464+0.17279)x30.6144
+......\glue 0.0
+......\TU/lmr/bx/sc/14.4 32
+......\glue 14.4
+.....\hbox(8.64+0.0)x39.9833
+......\U/logo/b/n/14.4 M
+......\U/logo/b/n/14.4 E
+......\U/logo/b/n/14.4 T
+......\kern-0.33601
+......\U/logo/b/n/14.4 A
+.....\hbox(8.64+0.0)x38.30334
+......\U/logo/b/n/14.4 P
+......\kern0.67198
+......\U/logo/b/n/14.4 O
+......\U/logo/b/n/14.4 S
+......\U/logo/b/n/14.4 T
+.....\TU/lmr/bx/sc/14.4 ,
+.....\glue 5.4 plus 3.37498 minus 1.43999
+.....\hbox(8.64+0.0)x39.9833
+......\U/logo/b/n/14.4 M
+......\U/logo/b/n/14.4 E
+......\U/logo/b/n/14.4 T
+......\kern-0.33601
+......\U/logo/b/n/14.4 A
+.....\hbox(8.64+0.0)x38.30334
+......\U/logo/b/n/14.4 P
+......\kern0.67198
+......\U/logo/b/n/14.4 O
+......\U/logo/b/n/14.4 S
+......\U/logo/b/n/14.4 T
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\write3{\protect \BOOKMARK [1][-]{section.32}{\376\377\000M\000E\000T\000A\000P\000O\000S\000T\000,\000\040\000M\000E\000T\000A\000P\000O\000S\000T}{}% 32}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {32}\hologoRobust {METAPOST}, \HologoRobust {METAPOST}}{\thepage }{section.32}\protected@file@percent }}
+....\penalty 10000
+....\glue 9.913 plus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 3.20642
+....\hbox(6.0+0.0)x345.0, glue set 293.22244fil
+.....\hbox(6.0+0.0)x26.44434
+......\U/logo/m/n/10 M
+......\U/logo/m/n/10 E
+......\U/logo/m/n/10 T
+......\kern-0.22223
+......\U/logo/m/n/10 A
+.....\hbox(6.0+0.0)x25.33322
+......\U/logo/m/n/10 P
+......\kern0.44443
+......\U/logo/m/n/10 O
+......\U/logo/m/n/10 S
+......\U/logo/m/n/10 T
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\penalty -300
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\special{pdf:dest (section.33) [@thispage /XYZ @xpos @ypos null]}
+....\penalty 10000
+....\glue -15.08499 plus -4.31 minus -0.86198
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 8.1216
+....\hbox(9.8784+2.79358)x345.0, glue set 167.73604fil
+.....\hbox(9.4464+0.17279)x30.6144
+......\glue 0.0
+......\TU/lmr/bx/sc/14.4 33
+......\glue 14.4
+.....\hbox(9.8784+0.08638)x36.93599
+......\TU/lmr/bx/sc/14.4 Meta
+.....\hbox(9.8784+0.08638)x31.4352
+......\TU/lmr/bx/sc/14.4 Post
+.....\TU/lmr/bx/sc/14.4 ,
+.....\glue 5.4 plus 3.37498 minus 1.43999
+.....\hbox(9.8784+0.08638)x36.93599
+......\TU/lmr/bx/sc/14.4 Meta
+.....\hbox(9.8784+0.08638)x31.4352
+......\TU/lmr/bx/sc/14.4 Post
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\write3{\protect \BOOKMARK [1][-]{section.33}{\376\377\000M\000e\000t\000a\000P\000o\000s\000t\000,\000\040\000M\000e\000t\000a\000P\000o\000s\000t}{}% 33}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {33}\hologoRobust {MetaPost}, \HologoRobust {MetaPost}}{\thepage }{section.33}\protected@file@percent }}
+....\penalty 10000
+....\glue 9.913 plus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 2.37642
+....\hbox(6.83+0.10999)x345.0, glue set 303.14fil
+.....\hbox(6.83+0.10999)x22.5
+......\TU/lmr/m/n/10 Meta
+.....\hbox(6.83+0.10999)x19.36
+......\TU/lmr/m/n/10 Post
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\penalty -300
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\special{pdf:dest (section.34) [@thispage /XYZ @xpos @ypos null]}
+....\penalty 10000
+....\glue -15.08499 plus -4.31 minus -0.86198
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 8.01161
+....\hbox(9.8784+3.1968)x345.0, glue set 179.50664fil
+.....\hbox(9.47519+0.17279)x30.6144
+......\glue 0.0
+......\TU/lmr/bx/sc/14.4 34
+......\glue 14.4
+.....\hbox(9.8784+0.0)x32.5584
+......\TU/lmr/bx/sc/14.4 MiK
+.....\TU/lmr/bx/sc/14.4 T
+.....\kern -2.4005
+.....\hbox(9.8064+0.0)x10.6272, shifted 3.1968
+......\TU/lmr/bx/sc/14.4 E
+.....\kern -1.79999
+.....\TU/lmr/bx/sc/14.4 X,
+.....\glue 5.4 plus 3.37498 minus 1.43999
+.....\hbox(9.8784+0.0)x32.5584
+......\TU/lmr/bx/sc/14.4 MiK
+.....\TU/lmr/bx/sc/14.4 T
+.....\kern -2.4005
+.....\hbox(9.8064+0.0)x10.6272, shifted 3.1968
+......\TU/lmr/bx/sc/14.4 E
+.....\kern -1.79999
+.....\TU/lmr/bx/sc/14.4 X
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\write3{\protect \BOOKMARK [1][-]{section.34}{\376\377\000M\000i\000K\000T\000e\000X\000,\000\040\000M\000i\000K\000T\000e\000X}{}% 34}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {34}\hologoRobust {MiKTeX}, \HologoRobust {MiKTeX}}{\thepage }{section.34}\protected@file@percent }}
+....\penalty 10000
+....\glue 9.913 plus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 1.9732
+....\hbox(6.83+2.155)x345.0, glue set 306.65703fil
+.....\hbox(6.83+0.0)x19.73
+......\TU/lmr/m/n/10 MiK
+.....\TU/lmr/m/n/10 T
+.....\kern -1.66702
+.....\hbox(6.8+0.0)x6.81, shifted 2.155
+......\TU/lmr/m/n/10 E
+.....\kern -1.25
+.....\TU/lmr/m/n/10 X
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\penalty -300
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\special{pdf:dest (section.35) [@thispage /XYZ @xpos @ypos null]}
+....\penalty 10000
+....\glue -15.08499 plus -4.31 minus -0.86198
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 6.00502
+....\hbox(9.83998+3.09999)x345.0, glue set 249.83879fil
+.....\hbox(9.4464+0.17279)x30.6144
+......\glue 0.0
+......\TU/lmr/bx/sc/14.4 35
+......\glue 14.4
+.....\OMS/cmsy/m/n/14.4 N
+.....\kern 2.12198
+.....\kern -5.04008
+.....\hbox(9.83998+0.0)x11.50287, shifted 3.09999
+......\OMS/cmsy/m/n/14.4 T
+......\kern 3.66
+.....\kern -2.87996
+.....\OMS/cmsy/m/n/14.4 S
+.....\kern 1.07993
+.....\TU/lmr/bx/sc/14.4 ,
+.....\glue 5.4 plus 3.37498 minus 1.43999
+.....\OMS/cmsy/m/n/14.4 N
+.....\kern 2.12198
+.....\kern -5.04008
+.....\hbox(9.83998+0.0)x11.50287, shifted 3.09999
+......\OMS/cmsy/m/n/14.4 T
+......\kern 3.66
+.....\kern -2.87996
+.....\OMS/cmsy/m/n/14.4 S
+.....\kern 1.07993
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\write3{\protect \BOOKMARK [1][-]{section.35}{\376\377\000N\000T\000S\000,\000\040\000N\000T\000S}{}% 35}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {35}\hologoRobust {NTS}, \HologoRobust {NTS}}{\thepage }{section.35}\protected@file@percent }}
+....\penalty 10000
+....\glue 9.913 plus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 2.0667
+....\hbox(6.83331+2.15277)x345.0, glue set 326.02792fil
+.....\OMS/cmsy/m/n/10 N
+.....\kern 1.47359
+.....\kern -3.50006
+.....\hbox(6.83331+0.0)x7.98811, shifted 2.15277
+......\OMS/cmsy/m/n/10 T
+......\kern 2.54167
+.....\kern -1.99997
+.....\OMS/cmsy/m/n/10 S
+.....\kern 0.74994
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\penalty -300
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\special{pdf:dest (section.36) [@thispage /XYZ @xpos @ypos null]}
+....\penalty 10000
+....\glue -15.08499 plus -4.31 minus -0.86198
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 5.79604
+....\hbox(10.0512+2.79358)x345.0, glue set 214.65123fil
+.....\hbox(9.4464+0.17279)x30.6144
+......\glue 0.0
+......\TU/lmr/bx/sc/14.4 36
+......\glue 14.4
+.....\hbox(10.0512+0.17279)x44.91359
+......\TU/lmr/bx/sc/14.4 OzMF
+.....\TU/lmr/bx/sc/14.4 ,
+.....\glue 5.4 plus 3.37498 minus 1.43999
+.....\hbox(10.0512+0.17279)x44.91359
+......\TU/lmr/bx/sc/14.4 OzMF
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\write3{\protect \BOOKMARK [1][-]{section.36}{\376\377\000O\000z\000M\000F\000,\000\040\000O\000z\000M\000F}{}% 36}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {36}\hologoRobust {OzMF}, \HologoRobust {OzMF}}{\thepage }{section.36}\protected@file@percent }}
+....\penalty 10000
+....\glue 9.913 plus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 2.15642
+....\hbox(7.05+0.21999)x345.0, glue set 317.08fil
+.....\hbox(7.05+0.21999)x27.92
+......\TU/lmr/m/n/10 OzMF
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\penalty -300
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\special{pdf:dest (section.37) [@thispage /XYZ @xpos @ypos null]}
+....\penalty 10000
+....\glue -15.08499 plus -4.31 minus -0.86198
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 7.72882
+....\hbox(10.0512+2.79358)x345.0, glue set 212.86565fil
+.....\hbox(9.73439+0.17279)x30.6144
+......\glue 0.0
+......\TU/lmr/bx/sc/14.4 37
+......\glue 14.4
+.....\hbox(10.0512+0.17279)x45.80638
+......\TU/lmr/bx/sc/14.4 OzMP
+.....\TU/lmr/bx/sc/14.4 ,
+.....\glue 5.4 plus 3.37498 minus 1.43999
+.....\hbox(10.0512+0.17279)x45.80638
+......\TU/lmr/bx/sc/14.4 OzMP
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\write3{\protect \BOOKMARK [1][-]{section.37}{\376\377\000O\000z\000M\000P\000,\000\040\000O\000z\000M\000P}{}% 37}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {37}\hologoRobust {OzMP}, \HologoRobust {OzMP}}{\thepage }{section.37}\protected@file@percent }}
+....\penalty 10000
+....\glue 9.913 plus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 2.15642
+....\hbox(7.05+0.21999)x345.0, glue set 316.8fil
+.....\hbox(7.05+0.21999)x28.2
+......\TU/lmr/m/n/10 OzMP
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\penalty -300
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\special{pdf:dest (section.38) [@thispage /XYZ @xpos @ypos null]}
+....\penalty 10000
+....\glue -15.08499 plus -4.31 minus -0.86198
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 7.72882
+....\hbox(10.0512+3.1968)x345.0, glue set 211.07118fil
+.....\hbox(9.4464+0.17279)x30.6144
+......\glue 0.0
+......\TU/lmr/bx/sc/14.4 38
+......\glue 14.4
+.....\TU/lmr/bx/sc/14.4 O
+.....\kern -0.43198
+.....\TU/lmr/bx/sc/14.4 z
+.....\kern -2.1599
+.....\TU/lmr/bx/sc/14.4 T
+.....\kern -2.4005
+.....\hbox(9.8064+0.0)x10.6272, shifted 3.1968
+......\TU/lmr/bx/sc/14.4 E
+.....\kern -1.79999
+.....\TU/lmr/bx/sc/14.4 X,
+.....\glue 5.4 plus 3.37498 minus 1.43999
+.....\TU/lmr/bx/sc/14.4 O
+.....\kern -0.43198
+.....\TU/lmr/bx/sc/14.4 z
+.....\kern -2.1599
+.....\TU/lmr/bx/sc/14.4 T
+.....\kern -2.4005
+.....\hbox(9.8064+0.0)x10.6272, shifted 3.1968
+......\TU/lmr/bx/sc/14.4 E
+.....\kern -1.79999
+.....\TU/lmr/bx/sc/14.4 X
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\write3{\protect \BOOKMARK [1][-]{section.38}{\376\377\000O\000z\000T\000e\000X\000,\000\040\000O\000z\000T\000e\000X}{}% 38}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {38}\hologoRobust {OzTeX}, \HologoRobust {OzTeX}}{\thepage }{section.38}\protected@file@percent }}
+....\penalty 10000
+....\glue 9.913 plus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 1.7532
+....\hbox(7.05+2.155)x345.0, glue set 315.96695fil
+.....\TU/lmr/m/n/10 O
+.....\kern -0.29999
+.....\TU/lmr/m/n/10 z
+.....\kern -1.49994
+.....\TU/lmr/m/n/10 T
+.....\kern -1.66702
+.....\hbox(6.8+0.0)x6.81, shifted 2.155
+......\TU/lmr/m/n/10 E
+.....\kern -1.25
+.....\TU/lmr/m/n/10 X
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\penalty -300
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\special{pdf:dest (section.39) [@thispage /XYZ @xpos @ypos null]}
+....\penalty 10000
+....\glue -15.08499 plus -4.31 minus -0.86198
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 5.79381
+....\hbox(10.0512+2.79358)x345.0, glue set 205.26244fil
+.....\hbox(9.4464+0.17279)x30.6144
+......\glue 0.0
+......\TU/lmr/bx/sc/14.4 39
+......\glue 14.4
+.....\hbox(10.0512+0.17279)x49.60799
+......\TU/lmr/bx/sc/14.4 OzTtH
+.....\TU/lmr/bx/sc/14.4 ,
+.....\glue 5.4 plus 3.37498 minus 1.43999
+.....\hbox(10.0512+0.17279)x49.60799
+......\TU/lmr/bx/sc/14.4 OzTtH
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\write3{\protect \BOOKMARK [1][-]{section.39}{\376\377\000O\000z\000T\000t\000H\000,\000\040\000O\000z\000T\000t\000H}{}% 39}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {39}\hologoRobust {OzTtH}, \HologoRobust {OzTtH}}{\thepage }{section.39}\protected@file@percent }}
+....\penalty 10000
+....\glue 9.913 plus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 2.15642
+....\hbox(7.05+0.21999)x345.0, glue set 314.17fil
+.....\hbox(7.05+0.21999)x30.83
+......\TU/lmr/m/n/10 OzTtH
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\penalty -300
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\special{pdf:dest (section.40) [@thispage /XYZ @xpos @ypos null]}
+....\penalty 10000
+....\glue -15.08499 plus -4.31 minus -0.86198
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 7.72882
+....\hbox(10.0512+3.1968)x345.0, glue set 199.06184fil
+.....\hbox(9.47519+0.17279)x30.6144
+......\glue 0.0
+......\TU/lmr/bx/sc/14.4 40
+......\glue 14.4
+.....\hbox(10.0512+0.17279)x22.78079
+......\TU/lmr/bx/sc/14.4 PC
+.....\TU/lmr/bx/sc/14.4 T
+.....\kern -2.4005
+.....\hbox(9.8064+0.0)x10.6272, shifted 3.1968
+......\TU/lmr/bx/sc/14.4 E
+.....\kern -1.79999
+.....\TU/lmr/bx/sc/14.4 X,
+.....\glue 5.4 plus 3.37498 minus 1.43999
+.....\hbox(10.0512+0.17279)x22.78079
+......\TU/lmr/bx/sc/14.4 PC
+.....\TU/lmr/bx/sc/14.4 T
+.....\kern -2.4005
+.....\hbox(9.8064+0.0)x10.6272, shifted 3.1968
+......\TU/lmr/bx/sc/14.4 E
+.....\kern -1.79999
+.....\TU/lmr/bx/sc/14.4 X
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\write3{\protect \BOOKMARK [1][-]{section.40}{\376\377\000P\000C\000T\000e\000X\000,\000\040\000P\000C\000T\000e\000X}{}% 40}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {40}\hologoRobust {PCTeX}, \HologoRobust {PCTeX}}{\thepage }{section.40}\protected@file@percent }}
+....\penalty 10000
+....\glue 9.913 plus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 1.7532
+....\hbox(7.05+2.155)x345.0, glue set 312.35703fil
+.....\hbox(7.05+0.21999)x14.03
+......\TU/lmr/m/n/10 PC
+.....\TU/lmr/m/n/10 T
+.....\kern -1.66702
+.....\hbox(6.8+0.0)x6.81, shifted 2.155
+......\TU/lmr/m/n/10 E
+.....\kern -1.25
+.....\TU/lmr/m/n/10 X
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\glue -2.155
+....\glue 0.0 plus 0.0001fil
+...\glue(\baselineskip) 23.23
+...\hbox(6.77+0.0)x345.0
+....\hbox(6.77+0.0)x345.0, glue set 170.0fil
+.....\glue 0.0 plus 1.0fil
+.....\TU/lmr/m/n/10 4
+.....\glue 0.0 plus 1.0fil
+Completed box being shipped out [5]
+\vbox(633.0+0.21999)x407.0
+.\vbox(0.0+0.0)x0.0, glue set - 14.99626fil
+..\kern 0.0
+..\kern 16.0
+..\kern -1.00374
+..\hbox(0.0+0.0)x0.0, glue set - 60.99626fil
+...\kern 0.0
+...\kern 62.0
+...\kern -1.00374
+...\special{pdf:dest (page.5) [@thispage /XYZ @xpos @ypos null]}
+...\penalty 10000
+...\glue 0.0 plus 1.0fil minus 1.0fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+.\glue(\lineskip) 0.0
+.\vbox(633.0+0.21999)x407.0
+..\glue 16.0
+..\vbox(617.0+0.21999)x345.0, shifted 62.0
+...\vbox(12.0+0.0)x345.0, glue set 12.0fil
+....\glue 0.0 plus 1.0fil
+....\hbox(0.0+0.0)x345.0
+.....\hbox(0.0+0.0)x345.0
+...\glue 25.0
+...\glue(\lineskip) 0.0
+...\vbox(550.0+0.0)x345.0, glue set >20000.0fil
+....\special{pdf:dest (section.41) [@thispage /XYZ @xpos @ypos null]}
+....\glue(\topskip) 0.0
+....\hbox(10.08+3.1968)x345.0, glue set 196.19624fil
+.....\hbox(9.47519+0.0)x30.6144
+......\glue 0.0
+......\TU/lmr/bx/sc/14.4 41
+......\glue 14.4
+.....\hbox(10.08+3.1968)x53.32748
+......\TU/lmr/bx/sc/14.4 pdfT
+......\kern -2.4005
+......\hbox(9.8064+0.0)x10.6272, shifted 3.1968
+.......\TU/lmr/bx/sc/14.4 E
+......\kern -1.79999
+......\TU/lmr/bx/sc/14.4 X
+.....\TU/lmr/bx/sc/14.4 ,
+.....\glue 5.4 plus 3.37498 minus 1.43999
+.....\hbox(10.08+3.1968)x54.95468
+......\TU/lmr/bx/sc/14.4 PdfT
+......\kern -2.4005
+......\hbox(9.8064+0.0)x10.6272, shifted 3.1968
+.......\TU/lmr/bx/sc/14.4 E
+......\kern -1.79999
+......\TU/lmr/bx/sc/14.4 X
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\write3{\protect \BOOKMARK [1][-]{section.41}{\376\377\000p\000d\000f\000T\000e\000X\000,\000\040\000P\000d\000f\000T\000e\000X}{}% 41}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {41}\hologoRobust {pdfTeX}, \HologoRobust {pdfTeX}}{\thepage }{section.41}\protected@file@percent }}
+....\penalty 10000
+....\glue 9.913 plus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 1.7532
+....\hbox(7.05+2.155)x345.0, glue set 311.92702fil
+.....\hbox(7.05+2.155)x33.07298
+......\TU/lmr/m/n/10 pdfT
+......\kern -1.66702
+......\hbox(6.8+0.0)x6.81, shifted 2.155
+.......\TU/lmr/m/n/10 E
+......\kern -1.25
+......\TU/lmr/m/n/10 X
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\penalty -300
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\special{pdf:dest (section.42) [@thispage /XYZ @xpos @ypos null]}
+....\penalty 10000
+....\glue -15.08499 plus -4.31 minus -0.86198
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 5.765
+....\hbox(10.08+3.1968)x345.0, glue set 174.03526fil
+.....\hbox(9.47519+0.0)x30.6144
+......\glue 0.0
+......\TU/lmr/bx/sc/14.4 42
+......\glue 14.4
+.....\hbox(10.08+3.1968)x64.40797
+......\TU/lmr/bx/sc/14.4 pdfL
+......\kern -5.184
+......\vbox(9.7488+0.0)x8.69, glue set 2.7688fil
+.......\hbox(6.98+0.0)x8.69
+........\TU/lmr/bx/n/10 A
+.......\glue 0.0 plus 1.0fil minus 1.0fil
+......\kern -2.1599
+......\TU/lmr/bx/sc/14.4 T
+......\kern -2.4005
+......\hbox(9.8064+0.0)x10.6272, shifted 3.1968
+.......\TU/lmr/bx/sc/14.4 E
+......\kern -1.79999
+......\TU/lmr/bx/sc/14.4 X
+.....\TU/lmr/bx/sc/14.4 ,
+.....\glue 5.4 plus 3.37498 minus 1.43999
+.....\hbox(10.08+3.1968)x66.03517
+......\TU/lmr/bx/sc/14.4 PdfL
+......\kern -5.184
+......\vbox(9.7488+0.0)x8.69, glue set 2.7688fil
+.......\hbox(6.98+0.0)x8.69
+........\TU/lmr/bx/n/10 A
+.......\glue 0.0 plus 1.0fil minus 1.0fil
+......\kern -2.1599
+......\TU/lmr/bx/sc/14.4 T
+......\kern -2.4005
+......\hbox(9.8064+0.0)x10.6272, shifted 3.1968
+.......\TU/lmr/bx/sc/14.4 E
+......\kern -1.79999
+......\TU/lmr/bx/sc/14.4 X
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\write3{\protect \BOOKMARK [1][-]{section.42}{\376\377\000p\000d\000f\000L\000a\000T\000e\000X\000,\000\040\000P\000d\000f\000L\000a\000T\000e\000X}{}% 42}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {42}\hologoRobust {pdfLaTeX}, \HologoRobust {pdfLaTeX}}{\thepage }{section.42}\protected@file@percent }}
+....\penalty 10000
+....\glue 9.913 plus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 1.7532
+....\hbox(7.05+2.155)x345.0, glue set 304.87596fil
+.....\hbox(7.05+2.155)x40.12404
+......\TU/lmr/m/n/10 pdfL
+......\kern -3.6
+......\vbox(6.77+0.0)x5.901, glue set 1.779fil
+.......\hbox(4.991+0.0)x5.901
+........\TU/lmr/m/n/7 A
+.......\glue 0.0 plus 1.0fil minus 1.0fil
+......\kern -1.49994
+......\TU/lmr/m/n/10 T
+......\kern -1.66702
+......\hbox(6.8+0.0)x6.81, shifted 2.155
+.......\TU/lmr/m/n/10 E
+......\kern -1.25
+......\TU/lmr/m/n/10 X
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\penalty -300
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\special{pdf:dest (section.43) [@thispage /XYZ @xpos @ypos null]}
+....\penalty 10000
+....\glue -15.08499 plus -4.31 minus -0.86198
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 5.79381
+....\hbox(10.0512+3.1968)x345.0, glue set 252.46535fil
+.....\hbox(9.47519+0.17279)x30.6144
+......\glue 0.0
+......\TU/lmr/bx/sc/14.4 43
+......\glue 14.4
+.....\TU/lmr/bx/sc/14.4 P
+.....\kern -1.72792
+.....\hbox(9.8784+0.0)x6.0336, shifted 3.1968
+......\TU/lmr/bx/sc/14.4 I
+.....\kern -1.07994
+.....\TU/lmr/bx/sc/14.4 C,
+.....\glue 5.4 plus 3.37498 minus 1.43999
+.....\TU/lmr/bx/sc/14.4 P
+.....\kern -1.72792
+.....\hbox(9.8784+0.0)x6.0336, shifted 3.1968
+......\TU/lmr/bx/sc/14.4 I
+.....\kern -1.07994
+.....\TU/lmr/bx/sc/14.4 C
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\write3{\protect \BOOKMARK [1][-]{section.43}{\376\377\000P\000i\000C\000,\000\040\000P\000i\000C}{}% 43}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {43}\hologoRobust {PiC}, \HologoRobust {PiC}}{\thepage }{section.43}\protected@file@percent }}
+....\penalty 10000
+....\glue 9.913 plus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 1.7532
+....\hbox(7.05+2.155)x345.0, glue set 329.30992fil
+.....\TU/lmr/m/n/10 P
+.....\kern -1.19995
+.....\hbox(6.83+0.0)x3.61, shifted 2.155
+......\TU/lmr/m/n/10 I
+.....\kern -0.74997
+.....\TU/lmr/m/n/10 C
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\penalty -300
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\special{pdf:dest (section.44) [@thispage /XYZ @xpos @ypos null]}
+....\penalty 10000
+....\glue -15.08499 plus -4.31 minus -0.86198
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 5.79381
+....\hbox(10.0512+3.1968)x345.0, glue set 195.77837fil
+.....\hbox(9.47519+0.0)x30.6144
+......\glue 0.0
+......\TU/lmr/bx/sc/14.4 44
+......\glue 14.4
+.....\TU/lmr/bx/sc/14.4 P
+.....\kern -1.72792
+.....\hbox(9.8784+0.0)x6.0336, shifted 3.1968
+......\TU/lmr/bx/sc/14.4 I
+.....\kern -1.07994
+.....\TU/lmr/bx/sc/14.4 C
+.....\kern -1.584
+.....\TU/lmr/bx/sc/14.4 T
+.....\kern -2.4005
+.....\hbox(9.8064+0.0)x10.6272, shifted 3.1968
+......\TU/lmr/bx/sc/14.4 E
+.....\kern -1.79999
+.....\TU/lmr/bx/sc/14.4 X,
+.....\glue 5.4 plus 3.37498 minus 1.43999
+.....\TU/lmr/bx/sc/14.4 P
+.....\kern -1.72792
+.....\hbox(9.8784+0.0)x6.0336, shifted 3.1968
+......\TU/lmr/bx/sc/14.4 I
+.....\kern -1.07994
+.....\TU/lmr/bx/sc/14.4 C
+.....\kern -1.584
+.....\TU/lmr/bx/sc/14.4 T
+.....\kern -2.4005
+.....\hbox(9.8064+0.0)x10.6272, shifted 3.1968
+......\TU/lmr/bx/sc/14.4 E
+.....\kern -1.79999
+.....\TU/lmr/bx/sc/14.4 X
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\write3{\protect \BOOKMARK [1][-]{section.44}{\376\377\000P\000i\000C\000T\000e\000X\000,\000\040\000P\000i\000C\000T\000e\000X}{}% 44}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {44}\hologoRobust {PiCTeX}, \HologoRobust {PiCTeX}}{\thepage }{section.44}\protected@file@percent }}
+....\penalty 10000
+....\glue 9.913 plus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 1.7532
+....\hbox(7.05+2.155)x345.0, glue set 311.79695fil
+.....\TU/lmr/m/n/10 P
+.....\kern -1.19995
+.....\hbox(6.83+0.0)x3.61, shifted 2.155
+......\TU/lmr/m/n/10 I
+.....\kern -0.74997
+.....\TU/lmr/m/n/10 C
+.....\kern -1.1
+.....\TU/lmr/m/n/10 T
+.....\kern -1.66702
+.....\hbox(6.8+0.0)x6.81, shifted 2.155
+......\TU/lmr/m/n/10 E
+.....\kern -1.25
+.....\TU/lmr/m/n/10 X
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\penalty -300
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\special{pdf:dest (section.45) [@thispage /XYZ @xpos @ypos null]}
+....\penalty 10000
+....\glue -15.08499 plus -4.31 minus -0.86198
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 5.85141
+....\hbox(9.99359+3.1968)x345.0, glue set 161.96747fil
+.....\hbox(9.47519+0.17279)x30.6144
+......\glue 0.0
+......\TU/lmr/bx/sc/14.4 45
+......\glue 14.4
+.....\hbox(9.99359+2.79358)x34.89119
+......\TU/lmr/bx/sc/14.4 plain
+.....\penalty 10000
+.....\glue 5.4 plus 2.7 minus 1.79999
+.....\TU/lmr/bx/sc/14.4 T
+.....\kern -2.4005
+.....\hbox(9.8064+0.0)x10.6272, shifted 3.1968
+......\TU/lmr/bx/sc/14.4 E
+.....\kern -1.79999
+.....\TU/lmr/bx/sc/14.4 X,
+.....\glue 5.4 plus 3.37498 minus 1.43999
+.....\hbox(9.99359+0.08638)x36.96478
+......\TU/lmr/bx/sc/14.4 Plain
+.....\penalty 10000
+.....\glue 5.4 plus 2.7 minus 1.79999
+.....\TU/lmr/bx/sc/14.4 T
+.....\kern -2.4005
+.....\hbox(9.8064+0.0)x10.6272, shifted 3.1968
+......\TU/lmr/bx/sc/14.4 E
+.....\kern -1.79999
+.....\TU/lmr/bx/sc/14.4 X
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\write3{\protect \BOOKMARK [1][-]{section.45}{\376\377\000p\000l\000a\000i\000n\000\040\000T\000e\000X\000,\000\040\000P\000l\000a\000i\000n\000\040\000T\000e\000X}{}% 45}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {45}\hologoRobust {plainTeX}, \HologoRobust {plainTeX}}{\thepage }{section.45}\protected@file@percent }}
+....\penalty 10000
+....\glue 9.913 plus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 1.8632
+....\hbox(6.94+2.155)x345.0, glue set 301.37701fil
+.....\hbox(6.94+1.93999)x21.68001
+......\TU/lmr/m/n/10 plain
+.....\penalty 10000
+.....\glue 3.33 plus 1.665 minus 1.11
+.....\TU/lmr/m/n/10 T
+.....\kern -1.66702
+.....\hbox(6.8+0.0)x6.81, shifted 2.155
+......\TU/lmr/m/n/10 E
+.....\kern -1.25
+.....\TU/lmr/m/n/10 X
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\penalty -300
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\special{pdf:dest (section.46) [@thispage /XYZ @xpos @ypos null]}
+....\penalty 10000
+....\glue -15.08499 plus -4.31 minus -0.86198
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 5.85141
+....\hbox(9.99359+3.1968)x345.0, glue set 161.96747fil
+.....\hbox(9.47519+0.17279)x30.6144
+......\glue 0.0
+......\TU/lmr/bx/sc/14.4 46
+......\glue 14.4
+.....\hbox(9.99359+2.79358)x34.89119
+......\TU/lmr/bx/sc/14.4 plain
+.....\penalty 10000
+.....\glue 5.4 plus 2.7 minus 1.79999
+.....\TU/lmr/bx/sc/14.4 T
+.....\kern -2.4005
+.....\hbox(9.8064+0.0)x10.6272, shifted 3.1968
+......\TU/lmr/bx/sc/14.4 E
+.....\kern -1.79999
+.....\TU/lmr/bx/sc/14.4 X,
+.....\glue 5.4 plus 3.37498 minus 1.43999
+.....\hbox(9.99359+0.08638)x36.96478
+......\TU/lmr/bx/sc/14.4 Plain
+.....\penalty 10000
+.....\glue 5.4 plus 2.7 minus 1.79999
+.....\TU/lmr/bx/sc/14.4 T
+.....\kern -2.4005
+.....\hbox(9.8064+0.0)x10.6272, shifted 3.1968
+......\TU/lmr/bx/sc/14.4 E
+.....\kern -1.79999
+.....\TU/lmr/bx/sc/14.4 X
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\write3{\protect \BOOKMARK [1][-]{section.46}{\376\377\000p\000l\000a\000i\000n\000\040\000T\000e\000X\000,\000\040\000P\000l\000a\000i\000n\000\040\000T\000e\000X}{}% 46}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {46}\hologoRobust {plainTeX}, \HologoRobust {plainTeX}}{\thepage }{section.46}\protected@file@percent }}
+....\penalty 10000
+....\glue 9.913 plus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 1.8632
+....\hbox(6.94+2.155)x345.0, glue set 301.37701fil
+.....\hbox(6.94+1.93999)x21.68001
+......\TU/lmr/m/n/10 plain
+.....\penalty 10000
+.....\glue 3.33 plus 1.665 minus 1.11
+.....\TU/lmr/m/n/10 T
+.....\kern -1.66702
+.....\hbox(6.8+0.0)x6.81, shifted 2.155
+......\TU/lmr/m/n/10 E
+.....\kern -1.25
+.....\TU/lmr/m/n/10 X
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\penalty -300
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\special{pdf:dest (section.47) [@thispage /XYZ @xpos @ypos null]}
+....\penalty 10000
+....\glue -15.08499 plus -4.31 minus -0.86198
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 5.85141
+....\hbox(9.99359+3.1968)x345.0, glue set 161.96747fil
+.....\hbox(9.73439+0.17279)x30.6144
+......\glue 0.0
+......\TU/lmr/bx/sc/14.4 47
+......\glue 14.4
+.....\hbox(9.99359+2.79358)x34.89119
+......\TU/lmr/bx/sc/14.4 plain
+.....\hbox(3.85919+0.0)x5.4
+......\TU/lmr/bx/sc/14.4 -
+.....\TU/lmr/bx/sc/14.4 T
+.....\kern -2.4005
+.....\hbox(9.8064+0.0)x10.6272, shifted 3.1968
+......\TU/lmr/bx/sc/14.4 E
+.....\kern -1.79999
+.....\TU/lmr/bx/sc/14.4 X,
+.....\glue 5.4 plus 3.37498 minus 1.43999
+.....\hbox(9.99359+0.08638)x36.96478
+......\TU/lmr/bx/sc/14.4 Plain
+.....\hbox(3.85919+0.0)x5.4
+......\TU/lmr/bx/sc/14.4 -
+.....\TU/lmr/bx/sc/14.4 T
+.....\kern -2.4005
+.....\hbox(9.8064+0.0)x10.6272, shifted 3.1968
+......\TU/lmr/bx/sc/14.4 E
+.....\kern -1.79999
+.....\TU/lmr/bx/sc/14.4 X
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\write3{\protect \BOOKMARK [1][-]{section.47}{\376\377\000p\000l\000a\000i\000n\000-\000T\000e\000X\000,\000\040\000P\000l\000a\000i\000n\000-\000T\000e\000X}{}% 47}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {47}\hologoRobust {plainTeX}, \HologoRobust {plainTeX}}{\thepage }{section.47}\protected@file@percent }}
+....\penalty 10000
+....\glue 9.913 plus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 1.8632
+....\hbox(6.94+2.155)x345.0, glue set 301.37701fil
+.....\hbox(6.94+1.93999)x21.68001
+......\TU/lmr/m/n/10 plain
+.....\hbox(2.45+0.0)x3.33
+......\TU/lmr/m/n/10 -
+.....\TU/lmr/m/n/10 T
+.....\kern -1.66702
+.....\hbox(6.8+0.0)x6.81, shifted 2.155
+......\TU/lmr/m/n/10 E
+.....\kern -1.25
+.....\TU/lmr/m/n/10 X
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\penalty -300
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\special{pdf:dest (section.48) [@thispage /XYZ @xpos @ypos null]}
+....\penalty 10000
+....\glue -15.08499 plus -4.31 minus -0.86198
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 5.85141
+....\hbox(9.99359+3.1968)x345.0, glue set 172.76744fil
+.....\hbox(9.47519+0.17279)x30.6144
+......\glue 0.0
+......\TU/lmr/bx/sc/14.4 48
+......\glue 14.4
+.....\hbox(9.99359+3.1968)x64.81868
+......\TU/lmr/bx/sc/14.4 plainT
+......\kern -2.4005
+......\hbox(9.8064+0.0)x10.6272, shifted 3.1968
+.......\TU/lmr/bx/sc/14.4 E
+......\kern -1.79999
+......\TU/lmr/bx/sc/14.4 X
+.....\TU/lmr/bx/sc/14.4 ,
+.....\glue 5.4 plus 3.37498 minus 1.43999
+.....\hbox(9.99359+3.1968)x66.89229
+......\TU/lmr/bx/sc/14.4 PlainT
+......\kern -2.4005
+......\hbox(9.8064+0.0)x10.6272, shifted 3.1968
+.......\TU/lmr/bx/sc/14.4 E
+......\kern -1.79999
+......\TU/lmr/bx/sc/14.4 X
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\write3{\protect \BOOKMARK [1][-]{section.48}{\376\377\000p\000l\000a\000i\000n\000T\000e\000X\000,\000\040\000P\000l\000a\000i\000n\000T\000e\000X}{}% 48}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {48}\hologoRobust {plainTeX}, \HologoRobust {plainTeX}}{\thepage }{section.48}\protected@file@percent }}
+....\penalty 10000
+....\glue 9.913 plus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 1.8632
+....\hbox(6.94+2.155)x345.0, glue set 304.70703fil
+.....\hbox(6.94+2.155)x40.29297
+......\TU/lmr/m/n/10 plainT
+......\kern -1.66702
+......\hbox(6.8+0.0)x6.81, shifted 2.155
+.......\TU/lmr/m/n/10 E
+......\kern -1.25
+......\TU/lmr/m/n/10 X
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\penalty -300
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\special{pdf:dest (section.49) [@thispage /XYZ @xpos @ypos null]}
+....\penalty 10000
+....\glue -15.08499 plus -4.31 minus -0.86198
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 5.9666
+....\hbox(9.8784+3.1968)x345.0, glue set 205.90251fil
+.....\hbox(9.47519+0.17279)x30.6144
+......\glue 0.0
+......\TU/lmr/bx/sc/14.4 49
+......\glue 14.4
+.....\hbox(6.48+2.79358)x8.27997
+......\TU/lmr/bx/sc/14.4 p
+......\kern -0.72003
+.....\TU/lmr/bx/sc/14.4 L
+.....\kern -5.184
+.....\vbox(9.7488+0.0)x8.69, glue set 2.7688fil
+......\hbox(6.98+0.0)x8.69
+.......\TU/lmr/bx/n/10 A
+......\glue 0.0 plus 1.0fil minus 1.0fil
+.....\kern -2.1599
+.....\TU/lmr/bx/sc/14.4 T
+.....\kern -2.4005
+.....\hbox(9.8064+0.0)x10.6272, shifted 3.1968
+......\TU/lmr/bx/sc/14.4 E
+.....\kern -1.79999
+.....\TU/lmr/bx/sc/14.4 X,
+.....\glue 5.4 plus 3.37498 minus 1.43999
+.....\hbox(6.48+2.79358)x8.27997
+......\TU/lmr/bx/sc/14.4 p
+......\kern -0.72003
+.....\TU/lmr/bx/sc/14.4 L
+.....\kern -5.184
+.....\vbox(9.7488+0.0)x8.69, glue set 2.7688fil
+......\hbox(6.98+0.0)x8.69
+.......\TU/lmr/bx/n/10 A
+......\glue 0.0 plus 1.0fil minus 1.0fil
+.....\kern -2.1599
+.....\TU/lmr/bx/sc/14.4 T
+.....\kern -2.4005
+.....\hbox(9.8064+0.0)x10.6272, shifted 3.1968
+......\TU/lmr/bx/sc/14.4 E
+.....\kern -1.79999
+.....\TU/lmr/bx/sc/14.4 X
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\write3{\protect \BOOKMARK [1][-]{section.49}{\376\377\000p\000L\000a\000T\000e\000X\000,\000\040\000p\000L\000a\000T\000e\000X}{}% 49}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {49}\hologoRobust {pLaTeX}, \HologoRobust {pLaTeX}}{\thepage }{section.49}\protected@file@percent }}
+....\penalty 10000
+....\glue 9.913 plus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 1.9732
+....\hbox(6.83+2.155)x345.0, glue set 314.276fil
+.....\hbox(4.42+1.93999)x5.05997
+......\TU/lmr/m/n/10 p
+......\kern -0.50003
+.....\TU/lmr/m/n/10 L
+.....\kern -3.6
+.....\vbox(6.77+0.0)x5.901, glue set 1.779fil
+......\hbox(4.991+0.0)x5.901
+.......\TU/lmr/m/n/7 A
+......\glue 0.0 plus 1.0fil minus 1.0fil
+.....\kern -1.49994
+.....\TU/lmr/m/n/10 T
+.....\kern -1.66702
+.....\hbox(6.8+0.0)x6.81, shifted 2.155
+......\TU/lmr/m/n/10 E
+.....\kern -1.25
+.....\TU/lmr/m/n/10 X
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\penalty -300
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\special{pdf:dest (section.50) [@thispage /XYZ @xpos @ypos null]}
+....\penalty 10000
+....\glue -15.08499 plus -4.31 minus -0.86198
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 5.9666
+....\hbox(9.8784+3.1968)x345.0, glue set 230.94322fil
+.....\hbox(9.4464+0.17279)x30.6144
+......\glue 0.0
+......\TU/lmr/bx/sc/14.4 50
+......\glue 14.4
+.....\hbox(6.48+2.79358)x6.8401
+......\TU/lmr/bx/sc/14.4 p
+......\kern -2.1599
+.....\TU/lmr/bx/sc/14.4 T
+.....\kern -2.4005
+.....\hbox(9.8064+0.0)x10.6272, shifted 3.1968
+......\TU/lmr/bx/sc/14.4 E
+.....\kern -1.79999
+.....\TU/lmr/bx/sc/14.4 X,
+.....\glue 5.4 plus 3.37498 minus 1.43999
+.....\hbox(6.48+2.79358)x6.8401
+......\TU/lmr/bx/sc/14.4 p
+......\kern -2.1599
+.....\TU/lmr/bx/sc/14.4 T
+.....\kern -2.4005
+.....\hbox(9.8064+0.0)x10.6272, shifted 3.1968
+......\TU/lmr/bx/sc/14.4 E
+.....\kern -1.79999
+.....\TU/lmr/bx/sc/14.4 X
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\write3{\protect \BOOKMARK [1][-]{section.50}{\376\377\000p\000T\000e\000X\000,\000\040\000p\000T\000e\000X}{}% 50}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {50}\hologoRobust {pTeX}, \HologoRobust {pTeX}}{\thepage }{section.50}\protected@file@percent }}
+....\penalty 10000
+....\glue 9.913 plus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 1.9732
+....\hbox(6.83+2.155)x345.0, glue set 322.32697fil
+.....\hbox(4.42+1.93999)x4.06006
+......\TU/lmr/m/n/10 p
+......\kern -1.49994
+.....\TU/lmr/m/n/10 T
+.....\kern -1.66702
+.....\hbox(6.8+0.0)x6.81, shifted 2.155
+......\TU/lmr/m/n/10 E
+.....\kern -1.25
+.....\TU/lmr/m/n/10 X
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\glue -2.155
+....\glue 0.0 plus 0.0001fil
+...\glue(\baselineskip) 23.34
+...\hbox(6.66+0.21999)x345.0
+....\hbox(6.66+0.21999)x345.0, glue set 170.0fil
+.....\glue 0.0 plus 1.0fil
+.....\TU/lmr/m/n/10 5
+.....\glue 0.0 plus 1.0fil
+Completed box being shipped out [6]
+\vbox(633.0+0.21999)x407.0
+.\vbox(0.0+0.0)x0.0, glue set - 14.99626fil
+..\kern 0.0
+..\kern 16.0
+..\kern -1.00374
+..\hbox(0.0+0.0)x0.0, glue set - 60.99626fil
+...\kern 0.0
+...\kern 62.0
+...\kern -1.00374
+...\special{pdf:dest (page.6) [@thispage /XYZ @xpos @ypos null]}
+...\penalty 10000
+...\glue 0.0 plus 1.0fil minus 1.0fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+.\glue(\lineskip) 0.0
+.\vbox(633.0+0.21999)x407.0
+..\glue 16.0
+..\vbox(617.0+0.21999)x345.0, shifted 62.0
+...\vbox(12.0+0.0)x345.0, glue set 12.0fil
+....\glue 0.0 plus 1.0fil
+....\hbox(0.0+0.0)x345.0
+.....\hbox(0.0+0.0)x345.0
+...\glue 25.0
+...\glue(\lineskip) 0.0
+...\vbox(550.0+0.0)x345.0, glue set >20000.0fil
+....\special{pdf:dest (section.51) [@thispage /XYZ @xpos @ypos null]}
+....\glue(\topskip) 0.0
+....\hbox(10.0512+3.1968)x345.0, glue set 179.88106fil
+.....\hbox(9.4464+0.17279)x30.6144
+......\glue 0.0
+......\TU/lmr/bx/sc/14.4 51
+......\glue 14.4
+.....\hbox(10.0512+2.89438)x32.37119
+......\TU/lmr/bx/sc/14.4 Sage
+.....\TU/lmr/bx/sc/14.4 T
+.....\kern -2.4005
+.....\hbox(9.8064+0.0)x10.6272, shifted 3.1968
+......\TU/lmr/bx/sc/14.4 E
+.....\kern -1.79999
+.....\TU/lmr/bx/sc/14.4 X,
+.....\glue 5.4 plus 3.37498 minus 1.43999
+.....\hbox(10.0512+2.89438)x32.37119
+......\TU/lmr/bx/sc/14.4 Sage
+.....\TU/lmr/bx/sc/14.4 T
+.....\kern -2.4005
+.....\hbox(9.8064+0.0)x10.6272, shifted 3.1968
+......\TU/lmr/bx/sc/14.4 E
+.....\kern -1.79999
+.....\TU/lmr/bx/sc/14.4 X
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\write3{\protect \BOOKMARK [1][-]{section.51}{\376\377\000S\000a\000g\000e\000T\000e\000X\000,\000\040\000S\000a\000g\000e\000T\000e\000X}{}% 51}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {51}\hologoRobust {SageTeX}, \HologoRobust {SageTeX}}{\thepage }{section.51}\protected@file@percent }}
+....\penalty 10000
+....\glue 9.913 plus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 1.7532
+....\hbox(7.05+2.155)x345.0, glue set 307.21703fil
+.....\hbox(7.05+2.05998)x20.0
+......\TU/lmr/m/n/10 Sage
+.....\kern -0.83
+.....\TU/lmr/m/n/10 T
+.....\kern -1.66702
+.....\hbox(6.8+0.0)x6.81, shifted 2.155
+......\TU/lmr/m/n/10 E
+.....\kern -1.25
+.....\TU/lmr/m/n/10 X
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\penalty -300
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\special{pdf:dest (section.52) [@thispage /XYZ @xpos @ypos null]}
+....\penalty 10000
+....\glue -15.08499 plus -4.31 minus -0.86198
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 4.00702
+....\hbox(11.83798+3.1968)x345.0, glue set 206.77983fil
+.....\hbox(9.4464+0.17279)x30.6144
+......\glue 0.0
+......\TU/lmr/bx/sc/14.4 52
+......\glue 14.4
+.....\TU/lmr/bx/sc/14.4 S
+.....\kern -0.86395
+.....\TU/lmr/bx/sc/14.4 L
+.....\kern -2.59189
+.....\hbox(9.79199+0.0)x4.5072, shifted -2.04599
+......\TU/lmr/bx/sc/14.4 i
+.....\kern -0.86395
+.....\TU/lmr/bx/sc/14.4 T
+.....\kern -2.4005
+.....\hbox(9.8064+0.0)x10.6272, shifted 3.1968
+......\TU/lmr/bx/sc/14.4 E
+.....\kern -1.79999
+.....\TU/lmr/bx/sc/14.4 X,
+.....\glue 5.4 plus 3.37498 minus 1.43999
+.....\TU/lmr/bx/sc/14.4 S
+.....\kern -0.86395
+.....\TU/lmr/bx/sc/14.4 L
+.....\kern -2.59189
+.....\hbox(9.79199+0.0)x4.5072, shifted -2.04599
+......\TU/lmr/bx/sc/14.4 i
+.....\kern -0.86395
+.....\TU/lmr/bx/sc/14.4 T
+.....\kern -2.4005
+.....\hbox(9.8064+0.0)x10.6272, shifted 3.1968
+......\TU/lmr/bx/sc/14.4 E
+.....\kern -1.79999
+.....\TU/lmr/bx/sc/14.4 X
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\write3{\protect \BOOKMARK [1][-]{section.52}{\376\377\000S\000L\000i\000T\000e\000X\000,\000\040\000S\000L\000i\000T\000e\000X}{}% 52}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {52}\hologoRobust {SLiTeX}, \HologoRobust {SLiTeX}}{\thepage }{section.52}\protected@file@percent }}
+....\penalty 10000
+....\glue 9.913 plus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 1.7532
+....\hbox(7.05+2.155)x345.0, glue set 314.5569fil
+.....\TU/lmr/m/n/10 S
+.....\kern -0.59998
+.....\TU/lmr/m/n/10 L
+.....\kern -1.79993
+.....\hbox(5.14+0.0)x3.02, shifted -1.37923
+......\TU/lmr/m/sc/10 i
+.....\kern -0.59998
+.....\TU/lmr/m/n/10 T
+.....\kern -1.66702
+.....\hbox(6.8+0.0)x6.81, shifted 2.155
+......\TU/lmr/m/n/10 E
+.....\kern -1.25
+.....\TU/lmr/m/n/10 X
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\penalty -300
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\special{pdf:dest (section.53) [@thispage /XYZ @xpos @ypos null]}
+....\penalty 10000
+....\glue -15.08499 plus -4.31 minus -0.86198
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 4.00702
+....\hbox(11.83798+3.1968)x345.0, glue set 206.77983fil
+.....\hbox(9.4464+0.17279)x30.6144
+......\glue 0.0
+......\TU/lmr/bx/sc/14.4 53
+......\glue 14.4
+.....\TU/lmr/bx/sc/14.4 S
+.....\kern -0.86395
+.....\TU/lmr/bx/sc/14.4 L
+.....\kern -2.59189
+.....\hbox(9.79199+0.0)x4.5072, shifted -2.04599
+......\TU/lmr/bx/sc/14.4 i
+.....\kern -0.86395
+.....\TU/lmr/bx/sc/14.4 T
+.....\kern -2.4005
+.....\hbox(9.8064+0.0)x10.6272, shifted 3.1968
+......\TU/lmr/bx/sc/14.4 E
+.....\kern -1.79999
+.....\TU/lmr/bx/sc/14.4 X,
+.....\glue 5.4 plus 3.37498 minus 1.43999
+.....\TU/lmr/bx/sc/14.4 S
+.....\kern -0.86395
+.....\TU/lmr/bx/sc/14.4 L
+.....\kern -2.59189
+.....\hbox(9.79199+0.0)x4.5072, shifted -2.04599
+......\TU/lmr/bx/sc/14.4 i
+.....\kern -0.86395
+.....\TU/lmr/bx/sc/14.4 T
+.....\kern -2.4005
+.....\hbox(9.8064+0.0)x10.6272, shifted 3.1968
+......\TU/lmr/bx/sc/14.4 E
+.....\kern -1.79999
+.....\TU/lmr/bx/sc/14.4 X
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\write3{\protect \BOOKMARK [1][-]{section.53}{\376\377\000S\000L\000i\000T\000e\000X\000,\000\040\000S\000L\000i\000T\000e\000X}{}% 53}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {53}\hologoRobust {SLiTeX}, \HologoRobust {SLiTeX}}{\thepage }{section.53}\protected@file@percent }}
+....\penalty 10000
+....\glue 9.913 plus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 1.7532
+....\hbox(7.05+2.155)x345.0, glue set 314.5569fil
+.....\TU/lmr/m/n/10 S
+.....\kern -0.59998
+.....\TU/lmr/m/n/10 L
+.....\kern -1.79993
+.....\hbox(5.14+0.0)x3.02, shifted -1.37923
+......\TU/lmr/m/sc/10 i
+.....\kern -0.59998
+.....\TU/lmr/m/n/10 T
+.....\kern -1.66702
+.....\hbox(6.8+0.0)x6.81, shifted 2.155
+......\TU/lmr/m/n/10 E
+.....\kern -1.25
+.....\TU/lmr/m/n/10 X
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\penalty -300
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\special{pdf:dest (section.54) [@thispage /XYZ @xpos @ypos null]}
+....\penalty 10000
+....\glue -15.08499 plus -4.31 minus -0.86198
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 5.79381
+....\hbox(10.0512+3.1968)x345.0, glue set 213.05852fil
+.....\hbox(9.47519+0.17279)x30.6144
+......\glue 0.0
+......\TU/lmr/bx/sc/14.4 54
+......\glue 14.4
+.....\hbox(10.0512+0.17279)x16.64641
+......\TU/lmr/bx/sc/14.4 S
+......\kern -0.86395
+......\TU/lmr/bx/sc/14.4 l
+......\kern -0.50404
+......\TU/lmr/bx/sc/14.4 i
+.....\kern -0.86395
+.....\TU/lmr/bx/sc/14.4 T
+.....\kern -2.4005
+.....\hbox(9.8064+0.0)x10.6272, shifted 3.1968
+......\TU/lmr/bx/sc/14.4 E
+.....\kern -1.79999
+.....\TU/lmr/bx/sc/14.4 X,
+.....\glue 5.4 plus 3.37498 minus 1.43999
+.....\hbox(10.0512+0.17279)x16.64641
+......\TU/lmr/bx/sc/14.4 S
+......\kern -0.86395
+......\TU/lmr/bx/sc/14.4 l
+......\kern -0.50404
+......\TU/lmr/bx/sc/14.4 i
+.....\kern -0.86395
+.....\TU/lmr/bx/sc/14.4 T
+.....\kern -2.4005
+.....\hbox(9.8064+0.0)x10.6272, shifted 3.1968
+......\TU/lmr/bx/sc/14.4 E
+.....\kern -1.79999
+.....\TU/lmr/bx/sc/14.4 X
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\write3{\protect \BOOKMARK [1][-]{section.54}{\376\377\000S\000l\000i\000T\000e\000X\000,\000\040\000S\000l\000i\000T\000e\000X}{}% 54}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {54}\hologoRobust {SLiTeX}, \HologoRobust {SLiTeX}}{\thepage }{section.54}\protected@file@percent }}
+....\penalty 10000
+....\glue 9.913 plus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 1.7532
+....\hbox(7.05+2.155)x345.0, glue set 314.227fil
+.....\hbox(7.05+0.21999)x12.76
+......\TU/lmr/m/n/10 S
+......\kern -0.59998
+......\TU/lmr/m/sc/10 l
+......\kern -0.35004
+......\TU/lmr/m/sc/10 i
+.....\kern -0.59998
+.....\TU/lmr/m/n/10 T
+.....\kern -1.66702
+.....\hbox(6.8+0.0)x6.81, shifted 2.155
+......\TU/lmr/m/n/10 E
+.....\kern -1.25
+.....\TU/lmr/m/n/10 X
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\penalty -300
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\special{pdf:dest (section.55) [@thispage /XYZ @xpos @ypos null]}
+....\penalty 10000
+....\glue -15.08499 plus -4.31 minus -0.86198
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 5.79381
+....\hbox(10.0512+3.1968)x345.0, glue set 208.59465fil
+.....\hbox(9.4464+0.17279)x30.6144
+......\glue 0.0
+......\TU/lmr/bx/sc/14.4 55
+......\glue 14.4
+.....\hbox(10.0512+0.17279)x18.01439
+......\TU/lmr/bx/sc/14.4 Sli
+.....\TU/lmr/bx/sc/14.4 T
+.....\kern -2.4005
+.....\hbox(9.8064+0.0)x10.6272, shifted 3.1968
+......\TU/lmr/bx/sc/14.4 E
+.....\kern -1.79999
+.....\TU/lmr/bx/sc/14.4 X,
+.....\glue 5.4 plus 3.37498 minus 1.43999
+.....\hbox(10.0512+0.17279)x18.01439
+......\TU/lmr/bx/sc/14.4 Sli
+.....\TU/lmr/bx/sc/14.4 T
+.....\kern -2.4005
+.....\hbox(9.8064+0.0)x10.6272, shifted 3.1968
+......\TU/lmr/bx/sc/14.4 E
+.....\kern -1.79999
+.....\TU/lmr/bx/sc/14.4 X
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\write3{\protect \BOOKMARK [1][-]{section.55}{\376\377\000S\000l\000i\000T\000e\000X\000,\000\040\000S\000l\000i\000T\000e\000X}{}% 55}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {55}\hologoRobust {SLiTeX}, \HologoRobust {SLiTeX}}{\thepage }{section.55}\protected@file@percent }}
+....\penalty 10000
+....\glue 9.913 plus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 1.7532
+....\hbox(7.05+2.155)x345.0, glue set 312.12703fil
+.....\hbox(7.05+0.21999)x14.26
+......\TU/lmr/m/sc/10 Sli
+.....\TU/lmr/m/n/10 T
+.....\kern -1.66702
+.....\hbox(6.8+0.0)x6.81, shifted 2.155
+......\TU/lmr/m/n/10 E
+.....\kern -1.25
+.....\TU/lmr/m/n/10 X
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\penalty -300
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\special{pdf:dest (section.56) [@thispage /XYZ @xpos @ypos null]}
+....\penalty 10000
+....\glue -15.08499 plus -4.31 minus -0.86198
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 5.79381
+....\hbox(10.0512+3.1968)x345.0, glue set 213.05852fil
+.....\hbox(9.4464+0.17279)x30.6144
+......\glue 0.0
+......\TU/lmr/bx/sc/14.4 56
+......\glue 14.4
+.....\hbox(10.0512+0.17279)x16.64641
+......\TU/lmr/bx/sc/14.4 S
+......\kern -0.86395
+......\TU/lmr/bx/sc/14.4 l
+......\kern -0.50404
+......\TU/lmr/bx/sc/14.4 i
+.....\kern -0.86395
+.....\TU/lmr/bx/sc/14.4 T
+.....\kern -2.4005
+.....\hbox(9.8064+0.0)x10.6272, shifted 3.1968
+......\TU/lmr/bx/sc/14.4 E
+.....\kern -1.79999
+.....\TU/lmr/bx/sc/14.4 X,
+.....\glue 5.4 plus 3.37498 minus 1.43999
+.....\hbox(10.0512+0.17279)x16.64641
+......\TU/lmr/bx/sc/14.4 S
+......\kern -0.86395
+......\TU/lmr/bx/sc/14.4 l
+......\kern -0.50404
+......\TU/lmr/bx/sc/14.4 i
+.....\kern -0.86395
+.....\TU/lmr/bx/sc/14.4 T
+.....\kern -2.4005
+.....\hbox(9.8064+0.0)x10.6272, shifted 3.1968
+......\TU/lmr/bx/sc/14.4 E
+.....\kern -1.79999
+.....\TU/lmr/bx/sc/14.4 X
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\write3{\protect \BOOKMARK [1][-]{section.56}{\376\377\000S\000l\000i\000T\000e\000X\000,\000\040\000S\000l\000i\000T\000e\000X}{}% 56}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {56}\hologoRobust {SliTeX}, \HologoRobust {SliTeX}}{\thepage }{section.56}\protected@file@percent }}
+....\penalty 10000
+....\glue 9.913 plus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 1.7532
+....\hbox(7.05+2.155)x345.0, glue set 314.227fil
+.....\hbox(7.05+0.21999)x12.76
+......\TU/lmr/m/n/10 S
+......\kern -0.59998
+......\TU/lmr/m/sc/10 l
+......\kern -0.35004
+......\TU/lmr/m/sc/10 i
+.....\kern -0.59998
+.....\TU/lmr/m/n/10 T
+.....\kern -1.66702
+.....\hbox(6.8+0.0)x6.81, shifted 2.155
+......\TU/lmr/m/n/10 E
+.....\kern -1.25
+.....\TU/lmr/m/n/10 X
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\penalty -300
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\special{pdf:dest (section.57) [@thispage /XYZ @xpos @ypos null]}
+....\penalty 10000
+....\glue -15.08499 plus -4.31 minus -0.86198
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 5.79381
+....\hbox(10.0512+3.1968)x345.0, glue set 213.05852fil
+.....\hbox(9.73439+0.17279)x30.6144
+......\glue 0.0
+......\TU/lmr/bx/sc/14.4 57
+......\glue 14.4
+.....\hbox(10.0512+0.17279)x16.64641
+......\TU/lmr/bx/sc/14.4 S
+......\kern -0.86395
+......\TU/lmr/bx/sc/14.4 l
+......\kern -0.50404
+......\TU/lmr/bx/sc/14.4 i
+.....\kern -0.86395
+.....\TU/lmr/bx/sc/14.4 T
+.....\kern -2.4005
+.....\hbox(9.8064+0.0)x10.6272, shifted 3.1968
+......\TU/lmr/bx/sc/14.4 E
+.....\kern -1.79999
+.....\TU/lmr/bx/sc/14.4 X,
+.....\glue 5.4 plus 3.37498 minus 1.43999
+.....\hbox(10.0512+0.17279)x16.64641
+......\TU/lmr/bx/sc/14.4 S
+......\kern -0.86395
+......\TU/lmr/bx/sc/14.4 l
+......\kern -0.50404
+......\TU/lmr/bx/sc/14.4 i
+.....\kern -0.86395
+.....\TU/lmr/bx/sc/14.4 T
+.....\kern -2.4005
+.....\hbox(9.8064+0.0)x10.6272, shifted 3.1968
+......\TU/lmr/bx/sc/14.4 E
+.....\kern -1.79999
+.....\TU/lmr/bx/sc/14.4 X
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\write3{\protect \BOOKMARK [1][-]{section.57}{\376\377\000S\000l\000i\000T\000e\000X\000,\000\040\000S\000l\000i\000T\000e\000X}{}% 57}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {57}\hologoRobust {SliTeX}, \HologoRobust {SliTeX}}{\thepage }{section.57}\protected@file@percent }}
+....\penalty 10000
+....\glue 9.913 plus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 1.7532
+....\hbox(7.05+2.155)x345.0, glue set 314.227fil
+.....\hbox(7.05+0.21999)x12.76
+......\TU/lmr/m/n/10 S
+......\kern -0.59998
+......\TU/lmr/m/sc/10 l
+......\kern -0.35004
+......\TU/lmr/m/sc/10 i
+.....\kern -0.59998
+.....\TU/lmr/m/n/10 T
+.....\kern -1.66702
+.....\hbox(6.8+0.0)x6.81, shifted 2.155
+......\TU/lmr/m/n/10 E
+.....\kern -1.25
+.....\TU/lmr/m/n/10 X
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\penalty -300
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\special{pdf:dest (section.58) [@thispage /XYZ @xpos @ypos null]}
+....\penalty 10000
+....\glue -15.08499 plus -4.31 minus -0.86198
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 5.79381
+....\hbox(10.0512+3.1968)x345.0, glue set 208.59465fil
+.....\hbox(9.4464+0.17279)x30.6144
+......\glue 0.0
+......\TU/lmr/bx/sc/14.4 58
+......\glue 14.4
+.....\hbox(10.0512+0.17279)x18.01439
+......\TU/lmr/bx/sc/14.4 Sli
+.....\TU/lmr/bx/sc/14.4 T
+.....\kern -2.4005
+.....\hbox(9.8064+0.0)x10.6272, shifted 3.1968
+......\TU/lmr/bx/sc/14.4 E
+.....\kern -1.79999
+.....\TU/lmr/bx/sc/14.4 X,
+.....\glue 5.4 plus 3.37498 minus 1.43999
+.....\hbox(10.0512+0.17279)x18.01439
+......\TU/lmr/bx/sc/14.4 Sli
+.....\TU/lmr/bx/sc/14.4 T
+.....\kern -2.4005
+.....\hbox(9.8064+0.0)x10.6272, shifted 3.1968
+......\TU/lmr/bx/sc/14.4 E
+.....\kern -1.79999
+.....\TU/lmr/bx/sc/14.4 X
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\write3{\protect \BOOKMARK [1][-]{section.58}{\376\377\000S\000l\000i\000T\000e\000X\000,\000\040\000S\000l\000i\000T\000e\000X}{}% 58}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {58}\hologoRobust {SliTeX}, \HologoRobust {SliTeX}}{\thepage }{section.58}\protected@file@percent }}
+....\penalty 10000
+....\glue 9.913 plus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 1.7532
+....\hbox(7.05+2.155)x345.0, glue set 312.12703fil
+.....\hbox(7.05+0.21999)x14.26
+......\TU/lmr/m/sc/10 Sli
+.....\TU/lmr/m/n/10 T
+.....\kern -1.66702
+.....\hbox(6.8+0.0)x6.81, shifted 2.155
+......\TU/lmr/m/n/10 E
+.....\kern -1.25
+.....\TU/lmr/m/n/10 X
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\penalty -300
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\special{pdf:dest (section.59) [@thispage /XYZ @xpos @ypos null]}
+....\penalty 10000
+....\glue -15.08499 plus -4.31 minus -0.86198
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 4.00702
+....\hbox(11.83798+3.1968)x345.0, glue set 206.77983fil
+.....\hbox(9.4464+0.17279)x30.6144
+......\glue 0.0
+......\TU/lmr/bx/sc/14.4 59
+......\glue 14.4
+.....\TU/lmr/bx/sc/14.4 S
+.....\kern -0.86395
+.....\TU/lmr/bx/sc/14.4 L
+.....\kern -2.59189
+.....\hbox(9.79199+0.0)x4.5072, shifted -2.04599
+......\TU/lmr/bx/sc/14.4 i
+.....\kern -0.86395
+.....\TU/lmr/bx/sc/14.4 T
+.....\kern -2.4005
+.....\hbox(9.8064+0.0)x10.6272, shifted 3.1968
+......\TU/lmr/bx/sc/14.4 E
+.....\kern -1.79999
+.....\TU/lmr/bx/sc/14.4 X,
+.....\glue 5.4 plus 3.37498 minus 1.43999
+.....\TU/lmr/bx/sc/14.4 S
+.....\kern -0.86395
+.....\TU/lmr/bx/sc/14.4 L
+.....\kern -2.59189
+.....\hbox(9.79199+0.0)x4.5072, shifted -2.04599
+......\TU/lmr/bx/sc/14.4 i
+.....\kern -0.86395
+.....\TU/lmr/bx/sc/14.4 T
+.....\kern -2.4005
+.....\hbox(9.8064+0.0)x10.6272, shifted 3.1968
+......\TU/lmr/bx/sc/14.4 E
+.....\kern -1.79999
+.....\TU/lmr/bx/sc/14.4 X
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\write3{\protect \BOOKMARK [1][-]{section.59}{\376\377\000S\000L\000i\000T\000e\000X\000,\000\040\000S\000L\000i\000T\000e\000X}{}% 59}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {59}\hologoRobust {SliTeX}, \HologoRobust {SliTeX}}{\thepage }{section.59}\protected@file@percent }}
+....\penalty 10000
+....\glue 9.913 plus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 1.7532
+....\hbox(7.05+2.155)x345.0, glue set 314.5569fil
+.....\TU/lmr/m/n/10 S
+.....\kern -0.59998
+.....\TU/lmr/m/n/10 L
+.....\kern -1.79993
+.....\hbox(5.14+0.0)x3.02, shifted -1.37923
+......\TU/lmr/m/sc/10 i
+.....\kern -0.59998
+.....\TU/lmr/m/n/10 T
+.....\kern -1.66702
+.....\hbox(6.8+0.0)x6.81, shifted 2.155
+......\TU/lmr/m/n/10 E
+.....\kern -1.25
+.....\TU/lmr/m/n/10 X
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\penalty -300
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\special{pdf:dest (section.60) [@thispage /XYZ @xpos @ypos null]}
+....\penalty 10000
+....\glue -15.08499 plus -4.31 minus -0.86198
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 5.9666
+....\hbox(9.8784+3.1968)x345.0, glue set 213.63464fil
+.....\hbox(9.4464+0.17279)x30.6144
+......\glue 0.0
+......\TU/lmr/bx/sc/14.4 60
+......\glue 14.4
+.....\hbox(9.144+0.08638)x13.6944
+......\TU/lmr/bx/sc/14.4 te
+.....\TU/lmr/bx/sc/14.4 T
+.....\kern -2.4005
+.....\hbox(9.8064+0.0)x10.6272, shifted 3.1968
+......\TU/lmr/bx/sc/14.4 E
+.....\kern -1.79999
+.....\TU/lmr/bx/sc/14.4 X,
+.....\glue 5.4 plus 3.37498 minus 1.43999
+.....\hbox(9.7488+0.08638)x17.29439
+......\TU/lmr/bx/sc/14.4 Te
+.....\TU/lmr/bx/sc/14.4 T
+.....\kern -2.4005
+.....\hbox(9.8064+0.0)x10.6272, shifted 3.1968
+......\TU/lmr/bx/sc/14.4 E
+.....\kern -1.79999
+.....\TU/lmr/bx/sc/14.4 X
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\write3{\protect \BOOKMARK [1][-]{section.60}{\376\377\000t\000e\000T\000e\000X\000,\000\040\000T\000e\000T\000e\000X}{}% 60}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {60}\hologoRobust {teTeX}, \HologoRobust {teTeX}}{\thepage }{section.60}\protected@file@percent }}
+....\penalty 10000
+....\glue 9.913 plus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 1.9732
+....\hbox(6.83+2.155)x345.0, glue set 318.05702fil
+.....\hbox(6.15+0.10999)x8.33
+......\TU/lmr/m/n/10 te
+.....\TU/lmr/m/n/10 T
+.....\kern -1.66702
+.....\hbox(6.8+0.0)x6.81, shifted 2.155
+......\TU/lmr/m/n/10 E
+.....\kern -1.25
+.....\TU/lmr/m/n/10 X
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\glue -2.155
+....\glue 0.0 plus 0.0001fil
+...\glue(\baselineskip) 23.34
+...\hbox(6.66+0.21999)x345.0
+....\hbox(6.66+0.21999)x345.0, glue set 170.0fil
+.....\glue 0.0 plus 1.0fil
+.....\TU/lmr/m/n/10 6
+.....\glue 0.0 plus 1.0fil
+Completed box being shipped out [7]
+\vbox(633.0+0.21999)x407.0
+.\vbox(0.0+0.0)x0.0, glue set - 14.99626fil
+..\kern 0.0
+..\kern 16.0
+..\kern -1.00374
+..\hbox(0.0+0.0)x0.0, glue set - 60.99626fil
+...\kern 0.0
+...\kern 62.0
+...\kern -1.00374
+...\special{pdf:dest (page.7) [@thispage /XYZ @xpos @ypos null]}
+...\penalty 10000
+...\glue 0.0 plus 1.0fil minus 1.0fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+.\glue(\lineskip) 0.0
+.\vbox(633.0+0.21999)x407.0
+..\glue 16.0
+..\vbox(617.0+0.21999)x345.0, shifted 62.0
+...\vbox(12.0+0.0)x345.0, glue set 12.0fil
+....\glue 0.0 plus 1.0fil
+....\hbox(0.0+0.0)x345.0
+.....\hbox(0.0+0.0)x345.0
+...\glue 25.0
+...\glue(\lineskip) 0.0
+...\vbox(550.0+0.0)x345.0, glue set >20000.0fil
+....\special{pdf:dest (section.61) [@thispage /XYZ @xpos @ypos null]}
+....\glue(\topskip) 0.1216
+....\hbox(9.8784+3.1968)x345.0, glue set 244.62343fil
+.....\hbox(9.4464+0.17279)x30.6144
+......\glue 0.0
+......\TU/lmr/bx/sc/14.4 61
+......\glue 14.4
+.....\TU/lmr/bx/sc/14.4 T
+.....\kern -2.4005
+.....\hbox(9.8064+0.0)x10.6272, shifted 3.1968
+......\TU/lmr/bx/sc/14.4 E
+.....\kern -1.79999
+.....\TU/lmr/bx/sc/14.4 X,
+.....\glue 5.4 plus 3.37498 minus 1.43999
+.....\TU/lmr/bx/sc/14.4 T
+.....\kern -2.4005
+.....\hbox(9.8064+0.0)x10.6272, shifted 3.1968
+......\TU/lmr/bx/sc/14.4 E
+.....\kern -1.79999
+.....\TU/lmr/bx/sc/14.4 X
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\write3{\protect \BOOKMARK [1][-]{section.61}{\376\377\000T\000e\000X\000,\000\040\000T\000e\000X}{}% 61}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {61}\hologoRobust {TeX}, \HologoRobust {TeX}}{\thepage }{section.61}\protected@file@percent }}
+....\penalty 10000
+....\glue 9.913 plus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 1.9732
+....\hbox(6.83+2.155)x345.0, glue set 326.38702fil
+.....\TU/lmr/m/n/10 T
+.....\kern -1.66702
+.....\hbox(6.8+0.0)x6.81, shifted 2.155
+......\TU/lmr/m/n/10 E
+.....\kern -1.25
+.....\TU/lmr/m/n/10 X
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\penalty -300
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\special{pdf:dest (section.62) [@thispage /XYZ @xpos @ypos null]}
+....\penalty 10000
+....\glue -15.08499 plus -4.31 minus -0.86198
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 5.85141
+....\hbox(9.99359+3.1968)x345.0, glue set 198.68742fil
+.....\hbox(9.4464+0.17279)x30.6144
+......\glue 0.0
+......\TU/lmr/bx/sc/14.4 62
+......\glue 14.4
+.....\hbox(9.99359+3.1968)x52.8955
+......\TU/lmr/bx/sc/14.4 T
+......\kern -2.4005
+......\hbox(9.8064+0.0)x10.6272, shifted 3.1968
+.......\TU/lmr/bx/sc/14.4 E
+......\kern -1.79999
+......\TU/lmr/bx/sc/14.4 X4ht
+.....\TU/lmr/bx/sc/14.4 ,
+.....\glue 5.4 plus 3.37498 minus 1.43999
+.....\hbox(9.99359+3.1968)x52.8955
+......\TU/lmr/bx/sc/14.4 T
+......\kern -2.4005
+......\hbox(9.8064+0.0)x10.6272, shifted 3.1968
+.......\TU/lmr/bx/sc/14.4 E
+......\kern -1.79999
+......\TU/lmr/bx/sc/14.4 X4ht
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\write3{\protect \BOOKMARK [1][-]{section.62}{\376\377\000T\000e\000X\0004\000h\000t\000,\000\040\000T\000e\000X\0004\000h\000t}{}% 62}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {62}\hologoRobust {TeX4ht}, \HologoRobust {TeX4ht}}{\thepage }{section.62}\protected@file@percent }}
+....\penalty 10000
+....\glue 9.913 plus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 1.8632
+....\hbox(6.94+2.155)x345.0, glue set 312.21703fil
+.....\hbox(6.94+2.155)x32.78297
+......\TU/lmr/m/n/10 T
+......\kern -1.66702
+......\hbox(6.8+0.0)x6.81, shifted 2.155
+.......\TU/lmr/m/n/10 E
+......\kern -1.25
+......\TU/lmr/m/n/10 X4ht
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\penalty -300
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\special{pdf:dest (section.63) [@thispage /XYZ @xpos @ypos null]}
+....\penalty 10000
+....\glue -15.08499 plus -4.31 minus -0.86198
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 5.9666
+....\hbox(9.8784+3.1968)x345.0, glue set 174.35146fil
+.....\hbox(9.4464+0.17279)x30.6144
+......\glue 0.0
+......\TU/lmr/bx/sc/14.4 63
+......\glue 14.4
+.....\TU/lmr/bx/sc/14.4 T
+.....\kern -2.4005
+.....\hbox(9.8064+0.0)x10.6272, shifted 3.1968
+......\TU/lmr/bx/sc/14.4 E
+.....\kern -1.79999
+.....\TU/lmr/bx/sc/14.4 X
+.....\penalty 10000
+.....\glue 5.4 plus 2.7 minus 1.79999
+.....\hbox(9.8784+0.08638)x29.736
+......\TU/lmr/bx/sc/14.4 Live
+.....\TU/lmr/bx/sc/14.4 ,
+.....\glue 5.4 plus 3.37498 minus 1.43999
+.....\TU/lmr/bx/sc/14.4 T
+.....\kern -2.4005
+.....\hbox(9.8064+0.0)x10.6272, shifted 3.1968
+......\TU/lmr/bx/sc/14.4 E
+.....\kern -1.79999
+.....\TU/lmr/bx/sc/14.4 X
+.....\penalty 10000
+.....\glue 5.4 plus 2.7 minus 1.79999
+.....\hbox(9.8784+0.08638)x29.736
+......\TU/lmr/bx/sc/14.4 Live
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\write3{\protect \BOOKMARK [1][-]{section.63}{\376\377\000T\000e\000X\000L\000i\000v\000e\000,\000\040\000T\000e\000X\000L\000i\000v\000e}{}% 63}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {63}\hologoRobust {TeXLive}, \HologoRobust {TeXLive}}{\thepage }{section.63}\protected@file@percent }}
+....\penalty 10000
+....\glue 9.913 plus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 1.9732
+....\hbox(6.83+2.155)x345.0, glue set 304.58702fil
+.....\TU/lmr/m/n/10 T
+.....\kern -1.66702
+.....\hbox(6.8+0.0)x6.81, shifted 2.155
+......\TU/lmr/m/n/10 E
+.....\kern -1.25
+.....\TU/lmr/m/n/10 X
+.....\penalty 10000
+.....\glue 3.33 plus 1.665 minus 1.11
+.....\hbox(6.83+0.10999)x18.47
+......\TU/lmr/m/n/10 Live
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\penalty -300
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\special{pdf:dest (section.64) [@thispage /XYZ @xpos @ypos null]}
+....\penalty 10000
+....\glue -15.08499 plus -4.31 minus -0.86198
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 5.9666
+....\hbox(9.8784+2.79358)x345.0, glue set 239.61284fil
+.....\hbox(9.47519+0.17279)x30.6144
+......\glue 0.0
+......\TU/lmr/bx/sc/14.4 64
+......\glue 14.4
+.....\hbox(9.8784+2.15999)x32.43279
+......\TU/lmr/bx/sc/14.4 T
+......\mathon
+......\hbox(6.75+0.0)x8.5, shifted 2.15999
+.......\TU/lmr/bx/n/10 T
+......\mathoff
+......\TU/lmr/bx/sc/14.4 H
+.....\TU/lmr/bx/sc/14.4 ,
+.....\glue 5.4 plus 3.37498 minus 1.43999
+.....\hbox(9.8784+2.15999)x32.43279
+......\TU/lmr/bx/sc/14.4 T
+......\mathon
+......\hbox(6.75+0.0)x8.5, shifted 2.15999
+.......\TU/lmr/bx/n/10 T
+......\mathoff
+......\TU/lmr/bx/sc/14.4 H
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\write3{\protect \BOOKMARK [1][-]{section.64}{\376\377\000T\000T\000H\000,\000\040\000T\000T\000H}{}% 64}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {64}\hologoRobust {TTH}, \HologoRobust {TTH}}{\thepage }{section.64}\protected@file@percent }}
+....\penalty 10000
+....\glue 9.913 plus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 2.37642
+....\hbox(6.83+1.49998)x345.0, glue set 324.068fil
+.....\hbox(6.83+1.49998)x20.932
+......\TU/lmr/m/n/10 T
+......\mathon
+......\hbox(4.732+0.0)x6.212, shifted 1.49998
+.......\TU/lmr/m/n/7 T
+......\mathoff
+......\TU/lmr/m/n/10 H
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\penalty -300
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\special{pdf:dest (section.65) [@thispage /XYZ @xpos @ypos null]}
+....\penalty 10000
+....\glue -15.08499 plus -4.31 minus -0.86198
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 6.62161
+....\hbox(9.8784+3.1968)x345.0, glue set 187.90251fil
+.....\hbox(9.4464+0.17279)x30.6144
+......\glue 0.0
+......\TU/lmr/bx/sc/14.4 65
+......\glue 14.4
+.....\hbox(6.48+0.08638)x9.0
+......\TU/lmr/bx/sc/14.4 u
+.....\hbox(6.48+2.79358)x8.27997
+......\TU/lmr/bx/sc/14.4 p
+......\kern -0.72003
+.....\TU/lmr/bx/sc/14.4 L
+.....\kern -5.184
+.....\vbox(9.7488+0.0)x8.69, glue set 2.7688fil
+......\hbox(6.98+0.0)x8.69
+.......\TU/lmr/bx/n/10 A
+......\glue 0.0 plus 1.0fil minus 1.0fil
+.....\kern -2.1599
+.....\TU/lmr/bx/sc/14.4 T
+.....\kern -2.4005
+.....\hbox(9.8064+0.0)x10.6272, shifted 3.1968
+......\TU/lmr/bx/sc/14.4 E
+.....\kern -1.79999
+.....\TU/lmr/bx/sc/14.4 X,
+.....\glue 5.4 plus 3.37498 minus 1.43999
+.....\hbox(6.48+0.08638)x9.0
+......\TU/lmr/bx/sc/14.4 u
+.....\hbox(6.48+2.79358)x8.27997
+......\TU/lmr/bx/sc/14.4 p
+......\kern -0.72003
+.....\TU/lmr/bx/sc/14.4 L
+.....\kern -5.184
+.....\vbox(9.7488+0.0)x8.69, glue set 2.7688fil
+......\hbox(6.98+0.0)x8.69
+.......\TU/lmr/bx/n/10 A
+......\glue 0.0 plus 1.0fil minus 1.0fil
+.....\kern -2.1599
+.....\TU/lmr/bx/sc/14.4 T
+.....\kern -2.4005
+.....\hbox(9.8064+0.0)x10.6272, shifted 3.1968
+......\TU/lmr/bx/sc/14.4 E
+.....\kern -1.79999
+.....\TU/lmr/bx/sc/14.4 X
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\write3{\protect \BOOKMARK [1][-]{section.65}{\376\377\000u\000p\000L\000a\000T\000e\000X\000,\000\040\000u\000p\000L\000a\000T\000e\000X}{}% 65}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {65}\hologoRobust {upLaTeX}, \HologoRobust {upLaTeX}}{\thepage }{section.65}\protected@file@percent }}
+....\penalty 10000
+....\glue 9.913 plus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 1.9732
+....\hbox(6.83+2.155)x345.0, glue set 308.716fil
+.....\hbox(4.42+0.10999)x5.56
+......\TU/lmr/m/n/10 u
+.....\hbox(4.42+1.93999)x5.05997
+......\TU/lmr/m/n/10 p
+......\kern -0.50003
+.....\TU/lmr/m/n/10 L
+.....\kern -3.6
+.....\vbox(6.77+0.0)x5.901, glue set 1.779fil
+......\hbox(4.991+0.0)x5.901
+.......\TU/lmr/m/n/7 A
+......\glue 0.0 plus 1.0fil minus 1.0fil
+.....\kern -1.49994
+.....\TU/lmr/m/n/10 T
+.....\kern -1.66702
+.....\hbox(6.8+0.0)x6.81, shifted 2.155
+......\TU/lmr/m/n/10 E
+.....\kern -1.25
+.....\TU/lmr/m/n/10 X
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\penalty -300
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\special{pdf:dest (section.66) [@thispage /XYZ @xpos @ypos null]}
+....\penalty 10000
+....\glue -15.08499 plus -4.31 minus -0.86198
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 5.9666
+....\hbox(9.8784+3.1968)x345.0, glue set 214.38329fil
+.....\hbox(9.4464+0.17279)x30.6144
+......\glue 0.0
+......\TU/lmr/bx/sc/14.4 66
+......\glue 14.4
+.....\hbox(6.48+0.08638)x8.27997
+......\TU/lmr/bx/sc/14.4 u
+......\kern -0.72003
+.....\hbox(6.48+2.79358)x6.8401
+......\TU/lmr/bx/sc/14.4 p
+......\kern -2.1599
+.....\TU/lmr/bx/sc/14.4 T
+.....\kern -2.4005
+.....\hbox(9.8064+0.0)x10.6272, shifted 3.1968
+......\TU/lmr/bx/sc/14.4 E
+.....\kern -1.79999
+.....\TU/lmr/bx/sc/14.4 X,
+.....\glue 5.4 plus 3.37498 minus 1.43999
+.....\hbox(6.48+0.08638)x8.27997
+......\TU/lmr/bx/sc/14.4 u
+......\kern -0.72003
+.....\hbox(6.48+2.79358)x6.8401
+......\TU/lmr/bx/sc/14.4 p
+......\kern -2.1599
+.....\TU/lmr/bx/sc/14.4 T
+.....\kern -2.4005
+.....\hbox(9.8064+0.0)x10.6272, shifted 3.1968
+......\TU/lmr/bx/sc/14.4 E
+.....\kern -1.79999
+.....\TU/lmr/bx/sc/14.4 X
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\write3{\protect \BOOKMARK [1][-]{section.66}{\376\377\000u\000p\000T\000e\000X\000,\000\040\000u\000p\000T\000e\000X}{}% 66}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {66}\hologoRobust {upTeX}, \HologoRobust {upTeX}}{\thepage }{section.66}\protected@file@percent }}
+....\penalty 10000
+....\glue 9.913 plus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 1.9732
+....\hbox(6.83+2.155)x345.0, glue set 317.267fil
+.....\hbox(4.42+0.10999)x5.05997
+......\TU/lmr/m/n/10 u
+......\kern -0.50003
+.....\hbox(4.42+1.93999)x4.06006
+......\TU/lmr/m/n/10 p
+......\kern -1.49994
+.....\TU/lmr/m/n/10 T
+.....\kern -1.66702
+.....\hbox(6.8+0.0)x6.81, shifted 2.155
+......\TU/lmr/m/n/10 E
+.....\kern -1.25
+.....\TU/lmr/m/n/10 X
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\penalty -300
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\special{pdf:dest (section.67) [@thispage /XYZ @xpos @ypos null]}
+....\penalty 10000
+....\glue -15.08499 plus -4.31 minus -0.86198
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 5.9666
+....\hbox(9.8784+3.1968)x345.0, glue set 201.56743fil
+.....\hbox(9.73439+0.17279)x30.6144
+......\glue 0.0
+......\TU/lmr/bx/sc/14.4 67
+......\glue 14.4
+.....\hbox(9.8784+3.1968)x49.61229
+......\TU/lmr/bx/sc/14.4 virT
+......\kern -2.4005
+......\hbox(9.8064+0.0)x10.6272, shifted 3.1968
+.......\TU/lmr/bx/sc/14.4 E
+......\kern -1.79999
+......\TU/lmr/bx/sc/14.4 X
+.....\TU/lmr/bx/sc/14.4 ,
+.....\glue 5.4 plus 3.37498 minus 1.43999
+.....\hbox(9.8784+3.1968)x53.29869
+......\TU/lmr/bx/sc/14.4 VirT
+......\kern -2.4005
+......\hbox(9.8064+0.0)x10.6272, shifted 3.1968
+.......\TU/lmr/bx/sc/14.4 E
+......\kern -1.79999
+......\TU/lmr/bx/sc/14.4 X
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\write3{\protect \BOOKMARK [1][-]{section.67}{\376\377\000v\000i\000r\000T\000e\000X\000,\000\040\000V\000i\000r\000T\000e\000X}{}% 67}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {67}\hologoRobust {virTeX}, \HologoRobust {virTeX}}{\thepage }{section.67}\protected@file@percent }}
+....\penalty 10000
+....\glue 9.913 plus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 1.9732
+....\hbox(6.83+2.155)x345.0, glue set 314.40703fil
+.....\hbox(6.83+2.155)x30.59297
+......\TU/lmr/m/n/10 virT
+......\kern -1.66702
+......\hbox(6.8+0.0)x6.81, shifted 2.155
+.......\TU/lmr/m/n/10 E
+......\kern -1.25
+......\TU/lmr/m/n/10 X
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\penalty -300
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\special{pdf:dest (section.68) [@thispage /XYZ @xpos @ypos null]}
+....\penalty 10000
+....\glue -15.08499 plus -4.31 minus -0.86198
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 5.9666
+....\hbox(9.8784+3.1968)x345.0, glue set 220.14342fil
+.....\hbox(9.4464+0.17279)x30.6144
+......\glue 0.0
+......\TU/lmr/bx/sc/14.4 68
+......\glue 14.4
+.....\hbox(9.8784+3.1968)x42.1675
+......\TU/lmr/bx/sc/14.4 VT
+......\kern -2.4005
+......\hbox(9.8064+0.0)x10.6272, shifted 3.1968
+.......\TU/lmr/bx/sc/14.4 E
+......\kern -1.79999
+......\TU/lmr/bx/sc/14.4 X
+.....\TU/lmr/bx/sc/14.4 ,
+.....\glue 5.4 plus 3.37498 minus 1.43999
+.....\hbox(9.8784+3.1968)x42.1675
+......\TU/lmr/bx/sc/14.4 VT
+......\kern -2.4005
+......\hbox(9.8064+0.0)x10.6272, shifted 3.1968
+.......\TU/lmr/bx/sc/14.4 E
+......\kern -1.79999
+......\TU/lmr/bx/sc/14.4 X
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\write3{\protect \BOOKMARK [1][-]{section.68}{\376\377\000V\000T\000e\000X\000,\000\040\000V\000T\000e\000X}{}% 68}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {68}\hologoRobust {VTeX}, \HologoRobust {VTeX}}{\thepage }{section.68}\protected@file@percent }}
+....\penalty 10000
+....\glue 9.913 plus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 1.9732
+....\hbox(6.83+2.155)x345.0, glue set 318.88702fil
+.....\hbox(6.83+2.155)x26.11298
+......\TU/lmr/m/n/10 VT
+......\kern -1.66702
+......\hbox(6.8+0.0)x6.81, shifted 2.155
+.......\TU/lmr/m/n/10 E
+......\kern -1.25
+......\TU/lmr/m/n/10 X
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\penalty -300
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\special{pdf:dest (section.69) [@thispage /XYZ @xpos @ypos null]}
+....\penalty 10000
+....\glue -15.08499 plus -4.31 minus -0.86198
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 5.9666
+....\hbox(9.8784+3.1968)x345.0, glue set 261.62419fil
+.....\hbox(9.4464+0.17279)x30.6144
+......\glue 0.0
+......\TU/lmr/bx/sc/14.4 69
+......\glue 14.4
+.....\TU/lmr/bx/sc/14.4 X
+.....\kern -1.44008
+.....\hbox(9.8064+0.0)x10.6272, shifted 3.1968
+......\TU/lmr/bx/sc/14.4 Ǝ
+.....\TU/lmr/bx/sc/14.4 ,
+.....\glue 5.4 plus 3.37498 minus 1.43999
+.....\TU/lmr/bx/sc/14.4 X
+.....\kern -1.44008
+.....\hbox(9.8064+0.0)x10.6272, shifted 3.1968
+......\TU/lmr/bx/sc/14.4 Ǝ
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\write3{\protect \BOOKMARK [1][-]{section.69}{\376\377\000X\000e\000,\000\040\000X\000e}{}% 69}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {69}\hologoRobust {Xe}, \HologoRobust {Xe}}{\thepage }{section.69}\protected@file@percent }}
+....\penalty 10000
+....\glue 9.913 plus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 1.9732
+....\hbox(6.83+2.155)x345.0, glue set 331.69006fil
+.....\TU/lmr/m/n/10 X
+.....\kern -1.00006
+.....\hbox(6.8+0.0)x6.81, shifted 2.155
+......\TU/lmr/m/n/10 Ǝ
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\penalty -300
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\special{pdf:dest (section.70) [@thispage /XYZ @xpos @ypos null]}
+....\penalty 10000
+....\glue -15.08499 plus -4.31 minus -0.86198
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 5.9666
+....\hbox(9.8784+3.1968)x345.0, glue set 183.35234fil
+.....\hbox(9.73439+0.17279)x30.6144
+......\glue 0.0
+......\TU/lmr/bx/sc/14.4 70
+......\glue 14.4
+.....\TU/lmr/bx/sc/14.4 X
+.....\kern -1.44008
+.....\hbox(9.8064+0.0)x10.6272, shifted 3.1968
+......\TU/lmr/bx/sc/14.4 Ǝ
+.....\kern -1.87206
+.....\TU/lmr/bx/sc/14.4 L
+.....\kern -5.184
+.....\vbox(9.7488+0.0)x8.69, glue set 2.7688fil
+......\hbox(6.98+0.0)x8.69
+.......\TU/lmr/bx/n/10 A
+......\glue 0.0 plus 1.0fil minus 1.0fil
+.....\kern -2.1599
+.....\TU/lmr/bx/sc/14.4 T
+.....\kern -2.4005
+.....\hbox(9.8064+0.0)x10.6272, shifted 3.1968
+......\TU/lmr/bx/sc/14.4 E
+.....\kern -1.79999
+.....\TU/lmr/bx/sc/14.4 X,
+.....\glue 5.4 plus 3.37498 minus 1.43999
+.....\TU/lmr/bx/sc/14.4 X
+.....\kern -1.44008
+.....\hbox(9.8064+0.0)x10.6272, shifted 3.1968
+......\TU/lmr/bx/sc/14.4 Ǝ
+.....\kern -1.87206
+.....\TU/lmr/bx/sc/14.4 L
+.....\kern -5.184
+.....\vbox(9.7488+0.0)x8.69, glue set 2.7688fil
+......\hbox(6.98+0.0)x8.69
+.......\TU/lmr/bx/n/10 A
+......\glue 0.0 plus 1.0fil minus 1.0fil
+.....\kern -2.1599
+.....\TU/lmr/bx/sc/14.4 T
+.....\kern -2.4005
+.....\hbox(9.8064+0.0)x10.6272, shifted 3.1968
+......\TU/lmr/bx/sc/14.4 E
+.....\kern -1.79999
+.....\TU/lmr/bx/sc/14.4 X
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\write3{\protect \BOOKMARK [1][-]{section.70}{\376\377\000X\000e\000L\000a\000T\000e\000X\000,\000\040\000X\000e\000L\000a\000T\000e\000X}{}% 70}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {70}\hologoRobust {XeLaTeX}, \HologoRobust {XeLaTeX}}{\thepage }{section.70}\protected@file@percent }}
+....\penalty 10000
+....\glue 9.913 plus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 1.9732
+....\hbox(6.83+2.155)x345.0, glue set 307.32608fil
+.....\TU/lmr/m/n/10 X
+.....\kern -1.00006
+.....\hbox(6.8+0.0)x6.81, shifted 2.155
+......\TU/lmr/m/n/10 Ǝ
+.....\kern -1.30005
+.....\TU/lmr/m/n/10 L
+.....\kern -3.6
+.....\vbox(6.77+0.0)x5.901, glue set 1.779fil
+......\hbox(4.991+0.0)x5.901
+.......\TU/lmr/m/n/7 A
+......\glue 0.0 plus 1.0fil minus 1.0fil
+.....\kern -1.49994
+.....\TU/lmr/m/n/10 T
+.....\kern -1.66702
+.....\hbox(6.8+0.0)x6.81, shifted 2.155
+......\TU/lmr/m/n/10 E
+.....\kern -1.25
+.....\TU/lmr/m/n/10 X
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\glue -2.155
+....\glue 0.0 plus 0.0001fil
+...\glue(\baselineskip) 23.24
+...\hbox(6.76+0.21999)x345.0
+....\hbox(6.76+0.21999)x345.0, glue set 170.0fil
+.....\glue 0.0 plus 1.0fil
+.....\TU/lmr/m/n/10 7
+.....\glue 0.0 plus 1.0fil
+Completed box being shipped out [8]
+\vbox(633.0+0.21999)x407.0
+.\vbox(0.0+0.0)x0.0, glue set - 14.99626fil
+..\kern 0.0
+..\kern 16.0
+..\kern -1.00374
+..\hbox(0.0+0.0)x0.0, glue set - 60.99626fil
+...\kern 0.0
+...\kern 62.0
+...\kern -1.00374
+...\special{pdf:dest (page.8) [@thispage /XYZ @xpos @ypos null]}
+...\penalty 10000
+...\glue 0.0 plus 1.0fil minus 1.0fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+.\glue(\lineskip) 0.0
+.\vbox(633.0+0.21999)x407.0
+..\glue 16.0
+..\vbox(617.0+0.21999)x345.0, shifted 62.0
+...\vbox(12.0+0.0)x345.0, glue set 12.0fil
+....\glue 0.0 plus 1.0fil
+....\hbox(0.0+0.0)x345.0
+.....\hbox(0.0+0.0)x345.0
+...\glue 25.0
+...\glue(\lineskip) 0.0
+...\vbox(550.0+0.0)x345.0, glue set 518.03168fil
+....\special{pdf:dest (section.71) [@thispage /XYZ @xpos @ypos null]}
+....\glue(\topskip) 0.1216
+....\hbox(9.8784+3.1968)x345.0, glue set 206.089fil
+.....\hbox(9.73439+0.17279)x30.6144
+......\glue 0.0
+......\TU/lmr/bx/sc/14.4 71
+......\glue 14.4
+.....\TU/lmr/bx/sc/14.4 X
+.....\kern -1.44008
+.....\hbox(9.8064+0.0)x10.6272, shifted 3.1968
+......\TU/lmr/bx/sc/14.4 Ǝ
+.....\kern -2.1599
+.....\TU/lmr/bx/sc/14.4 T
+.....\kern -2.4005
+.....\hbox(9.8064+0.0)x10.6272, shifted 3.1968
+......\TU/lmr/bx/sc/14.4 E
+.....\kern -1.79999
+.....\TU/lmr/bx/sc/14.4 X,
+.....\glue 5.4 plus 3.37498 minus 1.43999
+.....\TU/lmr/bx/sc/14.4 X
+.....\kern -1.44008
+.....\hbox(9.8064+0.0)x10.6272, shifted 3.1968
+......\TU/lmr/bx/sc/14.4 Ǝ
+.....\kern -2.1599
+.....\TU/lmr/bx/sc/14.4 T
+.....\kern -2.4005
+.....\hbox(9.8064+0.0)x10.6272, shifted 3.1968
+......\TU/lmr/bx/sc/14.4 E
+.....\kern -1.79999
+.....\TU/lmr/bx/sc/14.4 X
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\write3{\protect \BOOKMARK [1][-]{section.71}{\376\377\000X\000e\000T\000e\000X\000,\000\040\000X\000e\000T\000e\000X}{}% 71}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {71}\hologoRobust {XeTeX}, \HologoRobust {XeTeX}}{\thepage }{section.71}\protected@file@percent }}
+....\penalty 10000
+....\glue 9.913 plus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 1.9732
+....\hbox(6.83+2.155)x345.0, glue set 314.57703fil
+.....\TU/lmr/m/n/10 X
+.....\kern -1.00006
+.....\hbox(6.8+0.0)x6.81, shifted 2.155
+......\TU/lmr/m/n/10 Ǝ
+.....\kern -1.49994
+.....\TU/lmr/m/n/10 T
+.....\kern -1.66702
+.....\hbox(6.8+0.0)x6.81, shifted 2.155
+......\TU/lmr/m/n/10 E
+.....\kern -1.25
+.....\TU/lmr/m/n/10 X
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\glue -2.155
+....\glue 0.0 plus 1.0fil
+....\glue 0.0
+....\glue 0.0 plus 0.0001fil
+...\glue(\baselineskip) 23.34
+...\hbox(6.66+0.21999)x345.0
+....\hbox(6.66+0.21999)x345.0, glue set 170.0fil
+.....\glue 0.0 plus 1.0fil
+.....\TU/lmr/m/n/10 8
+.....\glue 0.0 plus 1.0fil
+(hologo-test-bookmark.aux)
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+Package rerunfilecheck Info: File `hologo-test-bookmark.out' has not changed.
+(rerunfilecheck)             Checksum: 35ED8D4AC4B92ADFA449022B6499F05A;8546.

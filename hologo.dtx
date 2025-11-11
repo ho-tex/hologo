@@ -802,11 +802,17 @@ and the derived files
 % \subsection{Load resources}
 %
 %    \begin{macrocode}
-\begingroup\expandafter\expandafter\expandafter\endgroup
-\expandafter\ifx\csname RequirePackage\endcsname\relax
+\ifcsname RequirePackage\endcsname
+  \RequirePackage{ltxcmds}[2011/02/04]%
+  \RequirePackage{infwarerr}[2010/04/08]%
+  \RequirePackage{kvsetkeys}[2010/03/01]%
+  \RequirePackage{kvdefinekeys}[2010/03/01]%
+  \RequirePackage{pdftexcmds}[2010/04/01]%
+  \RequirePackage{iftex}[2019/11/07]%  
+\else
   \def\TMP@RequirePackage#1[#2]{%
-    \begingroup\expandafter\expandafter\expandafter\endgroup
-    \expandafter\ifx\csname ver@#1.sty\endcsname\relax
+    \ifcsname ver@#1.sty\endcsname
+    \else
       \input #1.sty\relax
     \fi
   }%
@@ -819,13 +825,6 @@ and the derived files
   \ltx@IfUndefined{newif}{%
     \expandafter\let\csname newif\endcsname\ltx@newif
   }{}%
-\else
-  \RequirePackage{ltxcmds}[2011/02/04]%
-  \RequirePackage{infwarerr}[2010/04/08]%
-  \RequirePackage{kvsetkeys}[2010/03/01]%
-  \RequirePackage{kvdefinekeys}[2010/03/01]%
-  \RequirePackage{pdftexcmds}[2010/04/01]%
-  \RequirePackage{iftex}[2019/11/07]%
 \fi
 %    \end{macrocode}
 %
@@ -1463,10 +1462,10 @@ and the derived files
     ?\HOLOGO@name?%
   }{%
     \ltx@IfUndefined{ver@tex4ht.sty}{%
-      \HoLogoFont@font\HOLOGO@name{general}{%
-        \csname HoLogo@\HOLOGO@Variant\HOLOGO@name\endcsname
+       \HoLogoFont@font\HOLOGO@name{general}{%
+        \csname HoLogo@\HOLOGO@Variant\HOLOGO@name\endcsname%
         \ltx@firstoftwo
-      }%
+        }%
     }{%
       \ltx@IfUndefined{HoLogoHtml@\HOLOGO@Variant\HOLOGO@name}{%
         \HOLOGO@name
@@ -1659,6 +1658,30 @@ and the derived files
 %    \end{macrocode}
 %    \end{macro}
 %
+% \subsection{Tagging support}
+% 
+%    \begin{macrocode}
+\ifcsname NewTaggingSocket\endcsname
+  \NewTaggingSocket{hologo/logo}{2}
+  \NewTaggingSocketPlug{hologo/logo}{default}
+   {\leavevmode
+    \tagmcend
+    \tagstructbegin{tag=Span}%
+    \tagmcbegin{}%
+    #2
+    \tagmcend
+    \tagstructend
+    \tagmcbegin{}%
+    }
+  \AssignTaggingSocketPlug{hologo/logo}{default} 
+  \protected\def\HoLogo@tag@actualtext#1#2{%
+    %\def\HoLogo@tag@actualtext#1#2{#2}%
+    \UseTaggingSocket{hologo/logo}{#1}{#2}%
+    }
+\else
+  \def\HoLogo@tag@actualtext#1#2{#2}
+\fi
+%    \end{macrocode}
 % \subsection{\hologo{TeX} and friends}
 %
 % \subsubsection{\hologo{TeX}}

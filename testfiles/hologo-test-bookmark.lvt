@@ -1,0 +1,10 @@
+\documentclass{article}
+\input{regression-test}
+\usepackage{hologo}
+\usepackage{hyperref}
+\def\hologoEntry#1#2#3{\hologoLogoSetup{#1}{variant=#2}\section{\hologo{#1}, \Hologo{#1}} \hologo{#1}\par}
+\begin{document}
+\showoutput
+\START
+\hologoList
+\end{document}
