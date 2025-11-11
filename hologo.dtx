@@ -737,6 +737,7 @@ and the derived files
   \hologoEntry{ConTeXt}{}{2011/03/25}%
   \hologoEntry{ConTeXt}{narrow}{2011/03/25}%
   \hologoEntry{ConTeXt}{simple}{2011/03/25}%
+  \hologoEntry{DVIPDFMx}{}{2025/11/11}%
   \hologoEntry{emTeX}{}{2010/04/26}%
   \hologoEntry{eTeX}{}{2010/04/08}%
   \hologoEntry{ExTeX}{}{2011/10/01}%
@@ -2956,6 +2957,11 @@ $ #1{\string ^^^^0395}{\string ^^^^03b5}%
 }
 %    \end{macrocode}
 %    \end{macro}
+%    \begin{macro}{\HoLogoBkm@pTeX}
+%    \begin{macrocode}
+\def\HoLogoBkm@pTeX#1{p\hologo{TeX}}
+%    \end{macrocode}
+%    \end{macro}
 %    \begin{macro}{\HoLogoHtml@pTeX}
 %    \begin{macrocode}
 \let\HoLogoHtml@pTeX\HoLogo@pTeX
@@ -2969,6 +2975,11 @@ $ #1{\string ^^^^0395}{\string ^^^^03b5}%
   \HOLOGO@discretionary
   \hologo{LaTeX}%
 }
+%    \end{macrocode}
+%    \end{macro}
+%    \begin{macro}{\HoLogoBkm@pLaTeX}
+%    \begin{macrocode}
+\def\HoLogoBkm@pLaTeX#1{p\hologo{LaTeX}}
 %    \end{macrocode}
 %    \end{macro}
 %    \begin{macro}{\HoLogoHtml@pLaTeX}
@@ -2988,6 +2999,11 @@ $ #1{\string ^^^^0395}{\string ^^^^03b5}%
 }
 %    \end{macrocode}
 %    \end{macro}
+%    \begin{macro}{\HoLogoBkm@upTeX}
+%    \begin{macrocode}
+\def\HoLogoBkm@upTeX#1{u\hologo{pTeX}}
+%    \end{macrocode}
+%    \end{macro}
 %    \begin{macro}{\HoLogoHtml@upTeX}
 %    \begin{macrocode}
 \let\HoLogoHtml@upTeX\HoLogo@upTeX
@@ -2997,10 +3013,15 @@ $ #1{\string ^^^^0395}{\string ^^^^03b5}%
 %    \begin{macro}{\HoLogo@upLaTeX}
 %    \begin{macrocode}
 \def\HoLogo@upLaTeX#1{%
-  \HOLOGO@mbox{u}%
+  \HOLOGO@mbox{u\kern-.05em}%
   \HOLOGO@discretionary
   \hologo{pLaTeX}%
 }
+%    \end{macrocode}
+%    \end{macro}
+%    \begin{macro}{\HoLogoBkm@upLaTeX}
+%    \begin{macrocode}
+\def\HoLogoBkm@upLaTeX#1{u\hologo{pLaTeX}}
 %    \end{macrocode}
 %    \end{macro}
 %    \begin{macro}{\HoLogoHtml@upLaTeX}
@@ -3020,6 +3041,11 @@ $ #1{\string ^^^^0395}{\string ^^^^03b5}%
 }
 %    \end{macrocode}
 %    \end{macro}
+%    \begin{macro}{\HoLogoBkm@ApTeX}
+%    \begin{macrocode}
+\def\HoLogoBkm@ApTeX#1{A\hologo{pTeX}}
+%    \end{macrocode}
+%    \end{macro}
 %    \begin{macro}{\HoLogoHtml@ApTeX}
 %    \begin{macrocode}
 \let\HoLogoHtml@ApTeX\HoLogo@ApTeX
@@ -3029,10 +3055,15 @@ $ #1{\string ^^^^0395}{\string ^^^^03b5}%
 %    \begin{macro}{\HoLogo@ApLaTeX}
 %    \begin{macrocode}
 \def\HoLogo@ApLaTeX#1{%
-  \HOLOGO@mbox{A}%
+  \HOLOGO@mbox{A\kern-.05em}%
   \HOLOGO@discretionary
   \hologo{pLaTeX}%
 }
+%    \end{macrocode}
+%    \end{macro}
+%    \begin{macro}{\HoLogoBkm@ApLaTeX}
+%    \begin{macrocode}
+\def\HoLogoBkm@ApLaTeX#1{A\hologo{pLaTeX}}
 %    \end{macrocode}
 %    \end{macro}
 %    \begin{macro}{\HoLogoHtml@ApLaTeX}
@@ -3939,6 +3970,31 @@ $ #1{\string ^^^^0395}{\string ^^^^03b5}%
 %    \end{macrocode}
 %    \end{macro}
 %
+% \subsubsection{\hologo{DVIPDFMx}}
+%
+%    \begin{macro}{\HoLogo@DVIPDFMx}
+%    \begin{macrocode}
+\def\HoLogo@DVIPDFMx#1{%
+  \HOLOGO@mbox{DVIPDFM\textit{x}}%
+}
+%    \end{macrocode}
+%    \end{macro}
+%    \begin{macro}{\HoLogoCs@DVIPDFMx}
+%    \begin{macrocode}
+\def\HoLogoCs@DVIPDFMx#1{DVIPDFMx}
+%    \end{macrocode}
+%    \end{macro}
+%    \begin{macro}{\HoLogoBkm@DVIPDFMx}
+%    \begin{macrocode}
+\def\HoLogoBkm@DVIPDFMx#1{DVIPDFMx}
+%    \end{macrocode}
+%    \end{macro}
+%    \begin{macro}{\HoLogoHtml@DVIPDFMx}
+%    \begin{macrocode}
+\let\HoLogoHtml@DVIPDFMx\HoLogo@DVIPDFMx
+%    \end{macrocode}
+%    \end{macro}
+%
 % \subsubsection{\hologo{KOMAScript}}
 %
 %    \begin{macro}{\HoLogo@KOMAScript}
@@ -4662,8 +4718,8 @@ $ #1{\string ^^^^0395}{\string ^^^^03b5}%
 % \subsection{Refresh file name databases}
 %
 % If your \TeX~distribution
-% (\TeX\,Live, \mikTeX, \dots) relies on file name databases, you must refresh
-% these. For example, \TeX\,Live\ users run \verb|texhash| or
+% (\hologo{TeXLive}, \mikTeX, \dots) relies on file name databases, you must
+% refresh these. For example, \hologo{TeXLive} users run \verb|texhash| or
 % \verb|mktexlsr|.
 %
 % \subsection{Some details for the interested}
@@ -4905,7 +4961,8 @@ $ #1{\string ^^^^0395}{\string ^^^^03b5}%
 %     \hologo{upLaTeX},
 %     \hologo{ApTeX},
 %     \hologo{ApLaTeX},
-%     \hologo{TeXLive}. (GitHub PR \#11 from myhsia)
+%     \hologo{TeXLive},
+%     \hologo{DVIPDFMx}. (GitHub PR \#11 from myhsia)
 %   \end{Version}
 % \end{History}
 %
