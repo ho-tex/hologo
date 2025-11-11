@@ -725,6 +725,8 @@ and the derived files
 %    \begin{macrocode}
 \def\hologoList{%
   \hologoEntry{(La)TeX}{}{2011/10/01}%
+  \hologoEntry{ApLaTeX}{}{2025/11/11}%
+  \hologoEntry{ApTeX}{}{2025/11/11}%
   \hologoEntry{AmSLaTeX}{}{2010/04/16}%
   \hologoEntry{AmSTeX}{}{2010/04/16}%
   \hologoEntry{biber}{}{2011/10/01}%
@@ -770,6 +772,8 @@ and the derived files
   \hologoEntry{plainTeX}{space}{2010/04/16}%
   \hologoEntry{plainTeX}{hyphen}{2010/04/16}%
   \hologoEntry{plainTeX}{runtogether}{2010/04/16}%
+  \hologoEntry{pLaTeX}{}{2025/11/11}%
+  \hologoEntry{pTeX}{}{2025/11/11}%
   \hologoEntry{SageTeX}{}{2011/11/22}%
   \hologoEntry{SLiTeX}{}{2011/10/01}%
   \hologoEntry{SLiTeX}{lift}{2011/10/01}%
@@ -782,7 +786,10 @@ and the derived files
   \hologoEntry{teTeX}{}{2011/10/01}%
   \hologoEntry{TeX}{}{2010/04/08}%
   \hologoEntry{TeX4ht}{}{2011/11/22}%
+  \hologoEntry{TeXLive}{}{2025/11/11}%
   \hologoEntry{TTH}{}{2011/11/22}%
+  \hologoEntry{upLaTeX}{}{2025/11/11}%
+  \hologoEntry{upTeX}{}{2025/11/11}%
   \hologoEntry{virTeX}{}{2011/10/01}%
   \hologoEntry{VTeX}{}{2010/04/24}%
   \hologoEntry{Xe}{}{2010/04/08}%
@@ -2938,6 +2945,102 @@ $ #1{\string ^^^^0395}{\string ^^^^03b5}%
 %    \end{macrocode}
 %    \end{macro}
 %
+% \subsubsection{\hologo{pTeX}, \hologo{pLaTeX}}
+%
+%    \begin{macro}{\HoLogo@pTeX}
+%    \begin{macrocode}
+\def\HoLogo@pTeX#1{%
+  \HOLOGO@mbox{p\kern-.15em}%
+  \HOLOGO@discretionary
+  \hologo{TeX}%
+}
+%    \end{macrocode}
+%    \end{macro}
+%    \begin{macro}{\HoLogoHtml@pTeX}
+%    \begin{macrocode}
+\let\HoLogoHtml@pTeX\HoLogo@pTeX
+%    \end{macrocode}
+%    \end{macro}
+%
+%    \begin{macro}{\HoLogo@pLaTeX}
+%    \begin{macrocode}
+\def\HoLogo@pLaTeX#1{%
+  \HOLOGO@mbox{p\kern-.05em}%
+  \HOLOGO@discretionary
+  \hologo{LaTeX}%
+}
+%    \end{macrocode}
+%    \end{macro}
+%    \begin{macro}{\HoLogoHtml@pLaTeX}
+%    \begin{macrocode}
+\let\HoLogoHtml@pLaTeX\HoLogo@pLaTeX
+%    \end{macrocode}
+%    \end{macro}
+%
+% \subsubsection{\hologo{upTeX}, \hologo{upLaTeX}}
+%
+%    \begin{macro}{\HoLogo@upTeX}
+%    \begin{macrocode}
+\def\HoLogo@upTeX#1{%
+  \HOLOGO@mbox{u\kern-.05em}%
+  \HOLOGO@discretionary
+  \hologo{pTeX}%
+}
+%    \end{macrocode}
+%    \end{macro}
+%    \begin{macro}{\HoLogoHtml@upTeX}
+%    \begin{macrocode}
+\let\HoLogoHtml@upTeX\HoLogo@upTeX
+%    \end{macrocode}
+%    \end{macro}
+%
+%    \begin{macro}{\HoLogo@upLaTeX}
+%    \begin{macrocode}
+\def\HoLogo@upLaTeX#1{%
+  \HOLOGO@mbox{u}%
+  \HOLOGO@discretionary
+  \hologo{pLaTeX}%
+}
+%    \end{macrocode}
+%    \end{macro}
+%    \begin{macro}{\HoLogoHtml@upLaTeX}
+%    \begin{macrocode}
+\let\HoLogoHtml@upLaTeX\HoLogo@upLaTeX
+%    \end{macrocode}
+%    \end{macro}
+%
+% \subsubsection{\hologo{ApTeX}, \hologo{ApLaTeX}}
+%
+%    \begin{macro}{\HoLogo@ApTeX}
+%    \begin{macrocode}
+\def\HoLogo@ApTeX#1{%
+  \HOLOGO@mbox{A\kern-.05em}%
+  \HOLOGO@discretionary
+  \hologo{pTeX}%
+}
+%    \end{macrocode}
+%    \end{macro}
+%    \begin{macro}{\HoLogoHtml@ApTeX}
+%    \begin{macrocode}
+\let\HoLogoHtml@ApTeX\HoLogo@ApTeX
+%    \end{macrocode}
+%    \end{macro}
+%
+%    \begin{macro}{\HoLogo@ApLaTeX}
+%    \begin{macrocode}
+\def\HoLogo@ApLaTeX#1{%
+  \HOLOGO@mbox{A}%
+  \HOLOGO@discretionary
+  \hologo{pLaTeX}%
+}
+%    \end{macrocode}
+%    \end{macro}
+%    \begin{macro}{\HoLogoHtml@ApLaTeX}
+%    \begin{macrocode}
+\let\HoLogoHtml@ApLaTeX\HoLogo@ApLaTeX
+%    \end{macrocode}
+%    \end{macro}
+%
 % \subsubsection{\hologo{pdfTeX}, \hologo{pdfLaTeX}}
 %
 %    \begin{macro}{\HoLogo@pdfTeX}
@@ -3479,6 +3582,23 @@ $ #1{\string ^^^^0395}{\string ^^^^03b5}%
   }%
   \global\let\HoLogoCss@ExTeX\relax
 }
+%    \end{macrocode}
+%    \end{macro}
+%
+% \subsubsection{\hologo{TeXLive}}
+%
+%    \begin{macro}{\HoLogo@TeXLive}
+%    \begin{macrocode}
+\def\HoLogo@TeXLive#1{%
+  \HOLOGO@discretionary
+  \hologo{TeX}%
+  \HOLOGO@mbox{\,Live}%
+}
+%    \end{macrocode}
+%    \end{macro}
+%    \begin{macro}{\HoLogoHtml@TeXLive}
+%    \begin{macrocode}
+\let\HoLogoHtml@TeXLive\HoLogo@TeXLive
 %    \end{macrocode}
 %    \end{macro}
 %
@@ -4766,14 +4886,26 @@ $ #1{\string ^^^^0395}{\string ^^^^03b5}%
 %   \end{Version}
 %   \begin{Version}{2017/05/01 v1.13}
 %   \item
-%     Removing spurious comments in bibliography. (github PR from yudai-nkt)
+%     Removing spurious comments in bibliography. (GitHub PR from yudai-nkt)
 %   \end{Version}
 %   \begin{Version}{2019/12/05 v1.14}
 %   \item
 %     Documentation updates.
 %   \end{Version}
 %   \begin{Version}{2021-11-16 v1.15}
-%   \item use PU directly for textepsilon and textchi, issue \#4
+%   \item
+%     Use PU directly for textepsilon and textchi, issue \#4
+%   \end{Version}
+%   \begin{Version}{Unreleased}
+%   \item
+%     New logos:
+%     \hologo{pTeX},
+%     \hologo{pLaTeX},
+%     \hologo{upTeX},
+%     \hologo{upLaTeX},
+%     \hologo{ApTeX},
+%     \hologo{ApLaTeX},
+%     \hologo{TeXLive}. (GitHub PR \#11 from myhsia)
 %   \end{Version}
 % \end{History}
 %
