@@ -1,0 +1,10 @@
+\input hologo.sty
+\input regression-test
+
+\START
+
+\setbox0\hbox{\hologo{plainTeX} and \hologo{LaTeX}}
+\showbox0
+\leavevmode\box0
+
+\bye

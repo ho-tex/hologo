@@ -1,4 +1,4 @@
 testfiledir  = "testfiles-plain"
 checkengines =  {"pdftex"}
-checkformat =  "tex"
+checkformat =  "etex"
 
