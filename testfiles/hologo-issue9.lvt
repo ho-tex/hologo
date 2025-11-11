@@ -1,0 +1,14 @@
+\documentclass{article}
+
+\usepackage{hologo}
+
+
+\begin{document}
+
+\itshape
+\sbox0{\hologo{XeTeX}}
+\sbox2{XeTeX}
+
+\typeout{Same height: \ifdim\ht0=\ht2 YES\else NO\fi}
+
+\end{document}
