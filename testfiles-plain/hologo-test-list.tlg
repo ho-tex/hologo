@@ -1066,65 +1066,6 @@ Completed box being shipped out [1]
 ..\glue 0.0 plus 1.0fil minus 1.0fil
 ..\tenrm 1
 ..\glue 0.0 plus 1.0fil minus 1.0fil
-! Missing $ inserted.
-<inserted text> 
-                $
-l. ...\hologoList
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-! Extra }, or forgotten $.
-\HOLOGO@mbox ...ifcase \HOLOGO@temp \ltx@mbox {#1}
-                                                  \else #1\fi 
-l. ...\hologoList
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-! Extra }, or forgotten $.
-<argument> ...GO@name \endcsname \ltx@firstoftwo }
-l. ...\hologoList
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-! Missing $ inserted.
-<inserted text> 
-                $
-l. ...\hologoList
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-! Missing } inserted.
-<inserted text> 
-                }
-l. ...\hologoList
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-! Missing } inserted.
-<inserted text> 
-                }
-l. ...\hologoList
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-! Undefined control sequence.
-<argument> \mathrm 
-                   {T}
-l. ...\hologoList
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
 Completed box being shipped out [2]
 \vbox(667.20255+0.0)x469.75499
 .\vbox(0.0+0.0)x469.75499, glue set 14.0fil
@@ -1296,7 +1237,7 @@ Completed box being shipped out [2]
 ...\glue(\rightskip) 0.0
 ..\glue(\parskip) 0.0 plus 1.0
 ..\glue(\baselineskip) 3.01392
-..\hbox(6.83331+2.15277)x469.75499, glue set 409.3646fil
+..\hbox(6.83331+2.15277)x469.75499, glue set 409.33861fil
 ...\hbox(0.0+0.0)x20.0
 ...\tenrm T
 ...\kern -1.66702
@@ -1304,28 +1245,27 @@ Completed box being shipped out [2]
 ....\tenrm E
 ...\kern -1.25
 ...\tenrm X
-...\hbox(6.83331+0.0)x21.7796
-....\mathon
-....\glue 1.66663
-....\teni L
-....\teni i
-....\teni v
-....\kern0.35878
-....\teni e
-....\mathoff
+...\penalty 10000
+...\glue 3.33333 plus 1.66666 minus 1.11111
+...\hbox(6.83331+0.0)x18.47226
+....\tenrm L
+....\tenrm i
+....\tenrm v
+....\kern-0.27779
+....\tenrm e
 ...\penalty 10000
 ...\glue(\parfillskip) 0.0 plus 1.0fil
 ...\glue(\rightskip) 0.0
 ..\glue(\parskip) 0.0 plus 1.0
 ..\glue(\baselineskip) 3.01392
-..\hbox(6.83331+1.49998)x469.75499, glue set 428.7331fil
+..\hbox(6.83331+1.49998)x469.75499, glue set 428.82439fil
 ...\hbox(0.0+0.0)x20.0
-...\hbox(6.83331+1.49998)x21.0219
+...\hbox(6.83331+1.49998)x20.9306
 ....\tenrm T
-....\hbox(3.28336+1.49998)x6.29965
+....\hbox(3.28336+1.49998)x6.20836
 .....\mathon
-.....\hbox(4.78334+0.0)x6.29965, shifted 1.49998
-......\seveni T
+.....\hbox(4.78334+0.0)x6.20836, shifted 1.49998
+......\sevenrm T
 .....\mathoff
 ....\tenrm H
 ...\penalty 10000
