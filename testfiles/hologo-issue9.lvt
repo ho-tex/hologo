@@ -1,3 +1,4 @@
+\input{regression-test}
 \documentclass{article}
 
 \usepackage{hologo}
@@ -9,6 +10,7 @@
 \sbox0{\hologo{XeTeX}}
 \sbox2{XeTeX}
 
+\START
 \typeout{Same height: \ifdim\ht0=\ht2 YES\else NO\fi}
 
 \end{document}
