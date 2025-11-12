@@ -3974,14 +3974,12 @@ $ #1{\string ^^^^0395}{\string ^^^^03b5}%
 %
 %    \begin{macro}{\HoLogo@DVIPDFMx}
 %    \begin{macrocode}
-\def\HoLogo@DVIPDFMx#1{%
-  \HOLOGO@mbox{DVIPDFM\textit{x}}%
-}
+\def\HoLogo@DVIPDFMx#1{\HOLOGO@mbox{DVIPDFMx}}
 %    \end{macrocode}
 %    \end{macro}
 %    \begin{macro}{\HoLogoCs@DVIPDFMx}
 %    \begin{macrocode}
-\def\HoLogoCs@DVIPDFMx#1{DVIPDFMx}
+\let\HoLogoCs@DVIPDFMx\HoLogo@DVIPDFMx
 %    \end{macrocode}
 %    \end{macro}
 %    \begin{macro}{\HoLogoBkm@DVIPDFMx}
