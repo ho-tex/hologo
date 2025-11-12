@@ -1676,7 +1676,7 @@ and the derived files
   \AssignTaggingSocketPlug{hologo/logo}{default} 
   \protected\def\HoLogo@tag@actualtext#1#2#3{%
     \begingroup
-    \def\HoLogo@tag@actualtext##1##2##3{##3}
+    \def\HoLogo@tag@actualtext##1##2##3{##3}%
     \ifcsname HoLogo@tag@#2\endcsname %
       \edef\HoLogo@temp@actualtext
         {\csname HoLogo@tag@#2\endcsname{\csname ltx@#1oftwo\endcsname}}%
