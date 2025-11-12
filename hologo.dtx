@@ -4626,9 +4626,10 @@ $ #1{\string ^^^^0395}{\string ^^^^03b5}%
 %
 % \paragraph{Unpacking.} The \xfile{.dtx} file is a self-extracting
 % \docstrip\ archive. The files are extracted by running the
-% \xfile{.dtx} through \plainTeX:
+% \xfile{.dtx} through \plainTeX{} with the \texttt{-8bit} switch set:
 % \begin{quote}
-%   \verb|tex hologo.dtx|
+%   \verb|pdftex hologo.dtx| or \\
+%   \verb|tex -8bit hologo.dtx|
 % \end{quote}
 %
 % \paragraph{TDS.} Now the different files must be moved into
