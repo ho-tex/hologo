@@ -1,4 +1,4 @@
-\DocumentMetadata{tagging=on}
+\DocumentMetadata{tagging=on,tagging-setup={role/user-NS=latex}}
 \documentclass{article}
 \input{regression-test}
 \usepackage{hologo}
