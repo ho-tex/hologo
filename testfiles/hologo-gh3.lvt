@@ -1,0 +1,7 @@
+\documentclass{book}
+\input{regression-test}
+\usepackage{hologo}
+\begin{document}
+\START \showoutput
+\section{O Ecossistema \hologo{biber} \Hologo{biber}}
+\end{document}

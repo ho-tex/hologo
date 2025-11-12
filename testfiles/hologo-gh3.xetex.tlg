@@ -1,0 +1,65 @@
+This is a generated file for the l3build validation system.
+Don't change this file in any respect.
+Completed box being shipped out [1]
+\vbox(627.36243+0.0)x380.0
+.\glue 22.0
+.\vbox(605.36243+0.0)x345.0, shifted 35.0
+..\vbox(12.0+0.0)x345.0, glue set 4.84fil
+...\glue 0.0 plus 1.0fil
+...\hbox(7.16+0.21999)x345.0
+....\hbox(7.16+0.21999)x345.0, glue set 179.5fil
+.....\TU/lmr/m/sl/10 0.1.
+.....\glue 4.44 plus 4.99498 minus 0.37
+.....\glue 3.33 plus 1.665 minus 1.11
+.....\TU/lmr/m/sl/10 O
+.....\glue 3.33 plus 1.66331 minus 1.1111
+.....\TU/lmr/m/sl/10 ECOSSISTEMA
+.....\glue 3.33 plus 1.66331 minus 1.1111
+.....\hbox(6.94+0.10999)x8.34
+......\TU/lmr/m/sl/10 bi
+.....\hbox(6.94+0.10999)x14.2
+......\TU/lmr/m/sl/10 ber
+.....\glue 3.33 plus 1.665 minus 1.11
+.....\hbox(6.83+0.0)x9.86
+......\TU/lmr/m/sl/10 Bi
+.....\hbox(6.94+0.10999)x14.2
+......\TU/lmr/m/sl/10 ber
+.....\glue 0.0 plus 1.0fil
+.....\TU/lmr/m/n/10 1
+..\glue 18.06749
+..\glue(\lineskip) 0.0
+..\vbox(550.0+0.0)x345.0, glue set 529.86302fil
+...\write-{}
+...\glue(\topskip) 0.0
+...\hbox(10.0512+0.17279)x345.0, glue set 120.36008fil
+....\hbox(9.4464+0.17279)x35.12158
+.....\glue 0.0
+.....\TU/lmr/bx/n/14.4 0.1
+.....\glue 14.4
+....\TU/lmr/bx/n/14.4 O
+....\glue 5.4 plus 2.6973 minus 1.80179
+....\TU/lmr/bx/n/14.4 Ecossistema
+....\glue 5.4 plus 2.7 minus 1.79999
+....\hbox(9.99359+0.08638)x13.5072
+.....\TU/lmr/bx/n/14.4 bi
+....\hbox(9.99359+0.08638)x23.4576
+.....\TU/lmr/bx/n/14.4 ber
+....\glue 5.4 plus 2.7 minus 1.79999
+....\hbox(9.8784+0.0)x16.02719
+.....\TU/lmr/bx/n/14.4 Bi
+....\hbox(9.99359+0.08638)x23.4576
+.....\TU/lmr/bx/n/14.4 ber
+....\penalty 10000
+....\glue(\parfillskip) 0.0 plus 1.0fil
+....\glue(\rightskip) 0.0
+...\marks2{\__mark_value:nn {1}{\MakeUppercase    []{0.1. \ O Ecossistema \NoCaseChange {\HoLogo@tag@actualtext {first}{biber}{\hologoRobust {biber}}} \NoCaseChange {\HoLogo@tag@actualtext {second}{biber}{\HologoRobust {biber}}}}}}
+...\marks3{\__mark_value:nn {2}{\MakeUppercase    []{0.1. \ O Ecossistema \NoCaseChange {\HoLogo@tag@actualtext {first}{biber}{\hologoRobust {biber}}} \NoCaseChange {\HoLogo@tag@actualtext {second}{biber}{\HologoRobust {biber}}}}}}
+...\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {0.1}O Ecossistema \NoCaseChange {\HoLogo@tag@actualtext {first}{biber}{\hologoRobust {biber}}} \NoCaseChange {\HoLogo@tag@actualtext {second}{biber}{\HologoRobust {biber}}}}{\thepage }{}\protected@file@percent }}
+...\penalty 10000
+...\glue 9.913 plus 0.86198
+...\glue 0.0 plus 1.0fil
+...\glue 0.0
+..\glue(\baselineskip) 25.29494
+..\hbox(0.0+0.0)x345.0
+...\hbox(0.0+0.0)x345.0
+(hologo-gh3.aux)

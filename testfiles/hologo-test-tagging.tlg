@@ -146,7 +146,7 @@ Completed box being shipped out [1]
 ....\marks4{b+,6,6,section,,,}
 ....\marks4{e-,6,6,}
 ....\marks4{e+,6,6,}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {1}\HoLogo@tag@actualtext {first}{(La)TeX}{\hologoRobust {(La)TeX}}, \HoLogo@tag@actualtext {second}{(La)TeX}{\HologoRobust {(La)TeX}}}{\thepage }{section.1}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {1}\NoCaseChange {\HoLogo@tag@actualtext {first}{(La)TeX}{\hologoRobust {(La)TeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{(La)TeX}{\HologoRobust {(La)TeX}}}}{\thepage }{section.1}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.90036 plus 0.86089
 ....\glue(\parskip) 0.0 plus 1.0
@@ -300,7 +300,7 @@ Completed box being shipped out [1]
 ....\marks4{b+,15,14,section,,,}
 ....\marks4{e-,15,14,}
 ....\marks4{e+,15,14,}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {2}\HoLogo@tag@actualtext {first}{ApLaTeX}{\hologoRobust {ApLaTeX}}, \HoLogo@tag@actualtext {second}{ApLaTeX}{\HologoRobust {ApLaTeX}}}{\thepage }{section.2}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {2}\NoCaseChange {\HoLogo@tag@actualtext {first}{ApLaTeX}{\hologoRobust {ApLaTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{ApLaTeX}{\HologoRobust {ApLaTeX}}}}{\thepage }{section.2}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.90036 plus 0.86089
 ....\glue(\parskip) 0.0 plus 1.0
@@ -443,7 +443,7 @@ Completed box being shipped out [1]
 ....\marks4{b+,24,22,section,,,}
 ....\marks4{e-,24,22,}
 ....\marks4{e+,24,22,}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {3}\HoLogo@tag@actualtext {first}{ApTeX}{\hologoRobust {ApTeX}}, \HoLogo@tag@actualtext {second}{ApTeX}{\HologoRobust {ApTeX}}}{\thepage }{section.3}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {3}\NoCaseChange {\HoLogo@tag@actualtext {first}{ApTeX}{\hologoRobust {ApTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{ApTeX}{\HologoRobust {ApTeX}}}}{\thepage }{section.3}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.90036 plus 0.86089
 ....\glue(\parskip) 0.0 plus 1.0
@@ -598,7 +598,7 @@ Completed box being shipped out [1]
 ....\marks4{b+,33,30,section,,,}
 ....\marks4{e-,33,30,}
 ....\marks4{e+,33,30,}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {4}\HoLogo@tag@actualtext {first}{AmSLaTeX}{\hologoRobust {AmSLaTeX}}, \HoLogo@tag@actualtext {second}{AmSLaTeX}{\HologoRobust {AmSLaTeX}}}{\thepage }{section.4}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {4}\NoCaseChange {\HoLogo@tag@actualtext {first}{AmSLaTeX}{\hologoRobust {AmSLaTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{AmSLaTeX}{\HologoRobust {AmSLaTeX}}}}{\thepage }{section.4}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.90036 plus 0.86089
 ....\glue(\parskip) 0.0 plus 1.0
@@ -748,7 +748,7 @@ Completed box being shipped out [1]
 ....\marks4{b+,42,38,section,,,}
 ....\marks4{e-,42,38,}
 ....\marks4{e+,42,38,}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {5}\HoLogo@tag@actualtext {first}{AmSTeX}{\hologoRobust {AmSTeX}}, \HoLogo@tag@actualtext {second}{AmSTeX}{\HologoRobust {AmSTeX}}}{\thepage }{section.5}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {5}\NoCaseChange {\HoLogo@tag@actualtext {first}{AmSTeX}{\hologoRobust {AmSTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{AmSTeX}{\HologoRobust {AmSTeX}}}}{\thepage }{section.5}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.90036 plus 0.86089
 ....\glue(\parskip) 0.0 plus 1.0
@@ -879,7 +879,7 @@ Completed box being shipped out [1]
 ....\marks4{b+,51,46,section,,,}
 ....\marks4{e-,51,46,}
 ....\marks4{e+,51,46,}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {6}\HoLogo@tag@actualtext {first}{biber}{\hologoRobust {biber}}, \HoLogo@tag@actualtext {second}{biber}{\HologoRobust {biber}}}{\thepage }{section.6}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {6}\NoCaseChange {\HoLogo@tag@actualtext {first}{biber}{\hologoRobust {biber}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{biber}{\HologoRobust {biber}}}}{\thepage }{section.6}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.90036 plus 0.86089
 ....\glue(\parskip) 0.0 plus 1.0
@@ -1016,7 +1016,7 @@ Completed box being shipped out [1]
 ....\marks4{b+,60,54,section,,,}
 ....\marks4{e-,60,54,}
 ....\marks4{e+,60,54,}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {7}\HoLogo@tag@actualtext {first}{BibTeX}{\hologoRobust {BibTeX}}, \HoLogo@tag@actualtext {second}{BibTeX}{\HologoRobust {BibTeX}}}{\thepage }{section.7}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {7}\NoCaseChange {\HoLogo@tag@actualtext {first}{BibTeX}{\hologoRobust {BibTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{BibTeX}{\HologoRobust {BibTeX}}}}{\thepage }{section.7}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.90036 plus 0.86089
 ....\glue(\parskip) 0.0 plus 1.0
@@ -1159,7 +1159,7 @@ Completed box being shipped out [1]
 ....\marks4{b+,69,62,section,,,}
 ....\marks4{e-,69,62,}
 ....\marks4{e+,69,62,}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {8}\HoLogo@tag@actualtext {first}{BibTeX}{\hologoRobust {BibTeX}}, \HoLogo@tag@actualtext {second}{BibTeX}{\HologoRobust {BibTeX}}}{\thepage }{section.8}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {8}\NoCaseChange {\HoLogo@tag@actualtext {first}{BibTeX}{\hologoRobust {BibTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{BibTeX}{\HologoRobust {BibTeX}}}}{\thepage }{section.8}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.90036 plus 0.86089
 ....\glue(\parskip) 0.0 plus 1.0
@@ -1298,7 +1298,7 @@ Completed box being shipped out [1]
 ....\marks4{b+,78,70,section,,,}
 ....\marks4{e-,78,70,}
 ....\marks4{e+,78,70,}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {9}\HoLogo@tag@actualtext {first}{BibTeX}{\hologoRobust {BibTeX}}, \HoLogo@tag@actualtext {second}{BibTeX}{\HologoRobust {BibTeX}}}{\thepage }{section.9}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {9}\NoCaseChange {\HoLogo@tag@actualtext {first}{BibTeX}{\hologoRobust {BibTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{BibTeX}{\HologoRobust {BibTeX}}}}{\thepage }{section.9}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.90036 plus 0.86089
 ....\glue(\parskip) 0.0 plus 1.0
@@ -1438,7 +1438,7 @@ Completed box being shipped out [1]
 ....\marks4{b+,87,78,section,,,}
 ....\marks4{e-,87,78,}
 ....\marks4{e+,87,78,}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {10}\HoLogo@tag@actualtext {first}{BibTeX8}{\hologoRobust {BibTeX8}}, \HoLogo@tag@actualtext {second}{BibTeX8}{\HologoRobust {BibTeX8}}}{\thepage }{section.10}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {10}\NoCaseChange {\HoLogo@tag@actualtext {first}{BibTeX8}{\hologoRobust {BibTeX8}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{BibTeX8}{\HologoRobust {BibTeX8}}}}{\thepage }{section.10}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.90036 plus 0.86089
 ....\glue(\parskip) 0.0 plus 1.0
@@ -1641,7 +1641,7 @@ Completed box being shipped out [2]
 ....\marks4{b+,96,86,section,,,}
 ....\marks4{e-,96,86,}
 ....\marks4{e+,96,86,}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {11}\HoLogo@tag@actualtext {first}{ConTeXt}{\hologoRobust {ConTeXt}}, \HoLogo@tag@actualtext {second}{ConTeXt}{\HologoRobust {ConTeXt}}}{\thepage }{section.11}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {11}\NoCaseChange {\HoLogo@tag@actualtext {first}{ConTeXt}{\hologoRobust {ConTeXt}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{ConTeXt}{\HologoRobust {ConTeXt}}}}{\thepage }{section.11}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.90036 plus 0.86089
 ....\glue(\parskip) 0.0 plus 1.0
@@ -1788,7 +1788,7 @@ Completed box being shipped out [2]
 ....\marks4{b+,107,94,section,,,}
 ....\marks4{e-,107,94,}
 ....\marks4{e+,107,94,}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {12}\HoLogo@tag@actualtext {first}{ConTeXt}{\hologoRobust {ConTeXt}}, \HoLogo@tag@actualtext {second}{ConTeXt}{\HologoRobust {ConTeXt}}}{\thepage }{section.12}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {12}\NoCaseChange {\HoLogo@tag@actualtext {first}{ConTeXt}{\hologoRobust {ConTeXt}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{ConTeXt}{\HologoRobust {ConTeXt}}}}{\thepage }{section.12}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.90036 plus 0.86089
 ....\glue(\parskip) 0.0 plus 1.0
@@ -1929,7 +1929,7 @@ Completed box being shipped out [2]
 ....\marks4{b+,116,102,section,,,}
 ....\marks4{e-,116,102,}
 ....\marks4{e+,116,102,}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {13}\HoLogo@tag@actualtext {first}{ConTeXt}{\hologoRobust {ConTeXt}}, \HoLogo@tag@actualtext {second}{ConTeXt}{\HologoRobust {ConTeXt}}}{\thepage }{section.13}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {13}\NoCaseChange {\HoLogo@tag@actualtext {first}{ConTeXt}{\hologoRobust {ConTeXt}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{ConTeXt}{\HologoRobust {ConTeXt}}}}{\thepage }{section.13}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.90036 plus 0.86089
 ....\glue(\parskip) 0.0 plus 1.0
@@ -2061,7 +2061,7 @@ Completed box being shipped out [2]
 ....\marks4{b+,125,110,section,,,}
 ....\marks4{e-,125,110,}
 ....\marks4{e+,125,110,}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {14}\HoLogo@tag@actualtext {first}{emTeX}{\hologoRobust {emTeX}}, \HoLogo@tag@actualtext {second}{emTeX}{\HologoRobust {emTeX}}}{\thepage }{section.14}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {14}\NoCaseChange {\HoLogo@tag@actualtext {first}{emTeX}{\hologoRobust {emTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{emTeX}{\HologoRobust {emTeX}}}}{\thepage }{section.14}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.90036 plus 0.86089
 ....\glue(\parskip) 0.0 plus 1.0
@@ -2196,7 +2196,7 @@ Completed box being shipped out [2]
 ....\marks4{b+,134,118,section,,,}
 ....\marks4{e-,134,118,}
 ....\marks4{e+,134,118,}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {15}\HoLogo@tag@actualtext {first}{eTeX}{\hologoRobust {eTeX}}, \HoLogo@tag@actualtext {second}{eTeX}{\HologoRobust {eTeX}}}{\thepage }{section.15}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {15}\NoCaseChange {\HoLogo@tag@actualtext {first}{eTeX}{\hologoRobust {eTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{eTeX}{\HologoRobust {eTeX}}}}{\thepage }{section.15}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.90036 plus 0.86089
 ....\glue(\parskip) 0.0 plus 1.0
@@ -2340,7 +2340,7 @@ Completed box being shipped out [2]
 ....\marks4{b+,143,126,section,,,}
 ....\marks4{e-,143,126,}
 ....\marks4{e+,143,126,}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {16}\HoLogo@tag@actualtext {first}{ExTeX}{\hologoRobust {ExTeX}}, \HoLogo@tag@actualtext {second}{ExTeX}{\HologoRobust {ExTeX}}}{\thepage }{section.16}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {16}\NoCaseChange {\HoLogo@tag@actualtext {first}{ExTeX}{\hologoRobust {ExTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{ExTeX}{\HologoRobust {ExTeX}}}}{\thepage }{section.16}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.90036 plus 0.86089
 ....\glue(\parskip) 0.0 plus 1.0
@@ -2501,7 +2501,7 @@ Completed box being shipped out [2]
 ....\marks4{b+,152,134,section,,,}
 ....\marks4{e-,152,134,}
 ....\marks4{e+,152,134,}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {17}\HoLogo@tag@actualtext {first}{HanTheThanh}{\hologoRobust {HanTheThanh}}, \HoLogo@tag@actualtext {second}{HanTheThanh}{\HologoRobust {HanTheThanh}}}{\thepage }{section.17}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {17}\NoCaseChange {\HoLogo@tag@actualtext {first}{HanTheThanh}{\hologoRobust {HanTheThanh}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{HanTheThanh}{\HologoRobust {HanTheThanh}}}}{\thepage }{section.17}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.90036 plus 0.86089
 ....\glue(\parskip) 0.0 plus 1.0
@@ -2645,7 +2645,7 @@ Completed box being shipped out [2]
 ....\marks4{b+,161,142,section,,,}
 ....\marks4{e-,161,142,}
 ....\marks4{e+,161,142,}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {18}\HoLogo@tag@actualtext {first}{iniTeX}{\hologoRobust {iniTeX}}, \HoLogo@tag@actualtext {second}{iniTeX}{\HologoRobust {iniTeX}}}{\thepage }{section.18}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {18}\NoCaseChange {\HoLogo@tag@actualtext {first}{iniTeX}{\hologoRobust {iniTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{iniTeX}{\HologoRobust {iniTeX}}}}{\thepage }{section.18}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.90036 plus 0.86089
 ....\glue(\parskip) 0.0 plus 1.0
@@ -2795,7 +2795,7 @@ Completed box being shipped out [2]
 ....\marks4{b+,170,150,section,,,}
 ....\marks4{e-,170,150,}
 ....\marks4{e+,170,150,}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {19}\HoLogo@tag@actualtext {first}{KOMAScript}{\hologoRobust {KOMAScript}}, \HoLogo@tag@actualtext {second}{KOMAScript}{\HologoRobust {KOMAScript}}}{\thepage }{section.19}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {19}\NoCaseChange {\HoLogo@tag@actualtext {first}{KOMAScript}{\hologoRobust {KOMAScript}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{KOMAScript}{\HologoRobust {KOMAScript}}}}{\thepage }{section.19}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.90036 plus 0.86089
 ....\glue(\parskip) 0.0 plus 1.0
@@ -2928,7 +2928,7 @@ Completed box being shipped out [2]
 ....\marks4{b+,179,158,section,,,}
 ....\marks4{e-,179,158,}
 ....\marks4{e+,179,158,}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {20}\HoLogo@tag@actualtext {first}{La}{\hologoRobust {La}}, \HoLogo@tag@actualtext {second}{La}{\HologoRobust {La}}}{\thepage }{section.20}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {20}\NoCaseChange {\HoLogo@tag@actualtext {first}{La}{\hologoRobust {La}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{La}{\HologoRobust {La}}}}{\thepage }{section.20}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.90036 plus 0.86089
 ....\glue(\parskip) 0.0 plus 1.0
@@ -3122,7 +3122,7 @@ Completed box being shipped out [3]
 ....\marks4{b+,188,166,section,,,}
 ....\marks4{e-,188,166,}
 ....\marks4{e+,188,166,}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {21}\HoLogo@tag@actualtext {first}{LaTeX}{\hologoRobust {LaTeX}}, \HoLogo@tag@actualtext {second}{LaTeX}{\HologoRobust {LaTeX}}}{\thepage }{section.21}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {21}\NoCaseChange {\HoLogo@tag@actualtext {first}{LaTeX}{\hologoRobust {LaTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{LaTeX}{\HologoRobust {LaTeX}}}}{\thepage }{section.21}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.90036 plus 0.86089
 ....\glue(\parskip) 0.0 plus 1.0
@@ -3277,7 +3277,7 @@ Completed box being shipped out [3]
 ....\marks4{b+,199,174,section,,,}
 ....\marks4{e-,199,174,}
 ....\marks4{e+,199,174,}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {22}\HoLogo@tag@actualtext {first}{LaTeX2e}{\hologoRobust {LaTeX2e}}, \HoLogo@tag@actualtext {second}{LaTeX2e}{\HologoRobust {LaTeX2e}}}{\thepage }{section.22}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {22}\NoCaseChange {\HoLogo@tag@actualtext {first}{LaTeX2e}{\hologoRobust {LaTeX2e}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{LaTeX2e}{\HologoRobust {LaTeX2e}}}}{\thepage }{section.22}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.90036 plus 0.86089
 ....\glue(\parskip) 0.0 plus 1.0
@@ -3427,7 +3427,7 @@ Completed box being shipped out [3]
 ....\marks4{b+,208,182,section,,,}
 ....\marks4{e-,208,182,}
 ....\marks4{e+,208,182,}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {23}\HoLogo@tag@actualtext {first}{LaTeX3}{\hologoRobust {LaTeX3}}, \HoLogo@tag@actualtext {second}{LaTeX3}{\HologoRobust {LaTeX3}}}{\thepage }{section.23}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {23}\NoCaseChange {\HoLogo@tag@actualtext {first}{LaTeX3}{\hologoRobust {LaTeX3}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{LaTeX3}{\HologoRobust {LaTeX3}}}}{\thepage }{section.23}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.90036 plus 0.86089
 ....\glue(\parskip) 0.0 plus 1.0
@@ -3583,7 +3583,7 @@ Completed box being shipped out [3]
 ....\marks4{b+,217,190,section,,,}
 ....\marks4{e-,217,190,}
 ....\marks4{e+,217,190,}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {24}\HoLogo@tag@actualtext {first}{LaTeXe}{\hologoRobust {LaTeXe}}, \HoLogo@tag@actualtext {second}{LaTeXe}{\HologoRobust {LaTeXe}}}{\thepage }{section.24}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {24}\NoCaseChange {\HoLogo@tag@actualtext {first}{LaTeXe}{\hologoRobust {LaTeXe}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{LaTeXe}{\HologoRobust {LaTeXe}}}}{\thepage }{section.24}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.90036 plus 0.86089
 ....\glue(\parskip) 0.0 plus 1.0
@@ -3737,7 +3737,7 @@ Completed box being shipped out [3]
 ....\marks4{b+,226,198,section,,,}
 ....\marks4{e-,226,198,}
 ....\marks4{e+,226,198,}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {25}\HoLogo@tag@actualtext {first}{LaTeXML}{\hologoRobust {LaTeXML}}, \HoLogo@tag@actualtext {second}{LaTeXML}{\HologoRobust {LaTeXML}}}{\thepage }{section.25}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {25}\NoCaseChange {\HoLogo@tag@actualtext {first}{LaTeXML}{\hologoRobust {LaTeXML}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{LaTeXML}{\HologoRobust {LaTeXML}}}}{\thepage }{section.25}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.90036 plus 0.86089
 ....\glue(\parskip) 0.0 plus 1.0
@@ -3889,7 +3889,7 @@ Completed box being shipped out [3]
 ....\marks4{b+,235,206,section,,,}
 ....\marks4{e-,235,206,}
 ....\marks4{e+,235,206,}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {26}\HoLogo@tag@actualtext {first}{LaTeXTeX}{\hologoRobust {LaTeXTeX}}, \HoLogo@tag@actualtext {second}{LaTeXTeX}{\HologoRobust {LaTeXTeX}}}{\thepage }{section.26}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {26}\NoCaseChange {\HoLogo@tag@actualtext {first}{LaTeXTeX}{\hologoRobust {LaTeXTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{LaTeXTeX}{\HologoRobust {LaTeXTeX}}}}{\thepage }{section.26}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.90036 plus 0.86089
 ....\glue(\parskip) 0.0 plus 1.0
@@ -4042,7 +4042,7 @@ Completed box being shipped out [3]
 ....\marks4{b+,244,214,section,,,}
 ....\marks4{e-,244,214,}
 ....\marks4{e+,244,214,}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {27}\HoLogo@tag@actualtext {first}{LuaLaTeX}{\hologoRobust {LuaLaTeX}}, \HoLogo@tag@actualtext {second}{LuaLaTeX}{\HologoRobust {LuaLaTeX}}}{\thepage }{section.27}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {27}\NoCaseChange {\HoLogo@tag@actualtext {first}{LuaLaTeX}{\hologoRobust {LuaLaTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{LuaLaTeX}{\HologoRobust {LuaLaTeX}}}}{\thepage }{section.27}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.90036 plus 0.86089
 ....\glue(\parskip) 0.0 plus 1.0
@@ -4183,7 +4183,7 @@ Completed box being shipped out [3]
 ....\marks4{b+,253,222,section,,,}
 ....\marks4{e-,253,222,}
 ....\marks4{e+,253,222,}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {28}\HoLogo@tag@actualtext {first}{LuaTeX}{\hologoRobust {LuaTeX}}, \HoLogo@tag@actualtext {second}{LuaTeX}{\HologoRobust {LuaTeX}}}{\thepage }{section.28}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {28}\NoCaseChange {\HoLogo@tag@actualtext {first}{LuaTeX}{\hologoRobust {LuaTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{LuaTeX}{\HologoRobust {LuaTeX}}}}{\thepage }{section.28}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.90036 plus 0.86089
 ....\glue(\parskip) 0.0 plus 1.0
@@ -4308,7 +4308,7 @@ Completed box being shipped out [3]
 ....\marks4{b+,262,230,section,,,}
 ....\marks4{e-,262,230,}
 ....\marks4{e+,262,230,}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {29}\HoLogo@tag@actualtext {first}{LyX}{\hologoRobust {LyX}}, \HoLogo@tag@actualtext {second}{LyX}{\HologoRobust {LyX}}}{\thepage }{section.29}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {29}\NoCaseChange {\HoLogo@tag@actualtext {first}{LyX}{\hologoRobust {LyX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{LyX}{\HologoRobust {LyX}}}}{\thepage }{section.29}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.90036 plus 0.86089
 ....\glue(\parskip) 0.0 plus 1.0
@@ -4440,7 +4440,7 @@ Completed box being shipped out [3]
 ....\marks4{b+,271,238,section,,,}
 ....\marks4{e-,271,238,}
 ....\marks4{e+,271,238,}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {30}\HoLogo@tag@actualtext {first}{METAFONT}{\hologoRobust {METAFONT}}, \HoLogo@tag@actualtext {second}{METAFONT}{\HologoRobust {METAFONT}}}{\thepage }{section.30}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {30}\NoCaseChange {\HoLogo@tag@actualtext {first}{METAFONT}{\hologoRobust {METAFONT}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{METAFONT}{\HologoRobust {METAFONT}}}}{\thepage }{section.30}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.90036 plus 0.86089
 ....\glue(\parskip) 0.0 plus 1.0
@@ -4631,7 +4631,7 @@ Completed box being shipped out [4]
 ....\marks4{b+,280,246,section,,,}
 ....\marks4{e-,280,246,}
 ....\marks4{e+,280,246,}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {31}\HoLogo@tag@actualtext {first}{MetaFun}{\hologoRobust {MetaFun}}, \HoLogo@tag@actualtext {second}{MetaFun}{\HologoRobust {MetaFun}}}{\thepage }{section.31}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {31}\NoCaseChange {\HoLogo@tag@actualtext {first}{MetaFun}{\hologoRobust {MetaFun}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{MetaFun}{\HologoRobust {MetaFun}}}}{\thepage }{section.31}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.90036 plus 0.86089
 ....\glue(\parskip) 0.0 plus 1.0
@@ -4767,7 +4767,7 @@ Completed box being shipped out [4]
 ....\marks4{b+,291,254,section,,,}
 ....\marks4{e-,291,254,}
 ....\marks4{e+,291,254,}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {32}\HoLogo@tag@actualtext {first}{METAPOST}{\hologoRobust {METAPOST}}, \HoLogo@tag@actualtext {second}{METAPOST}{\HologoRobust {METAPOST}}}{\thepage }{section.32}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {32}\NoCaseChange {\HoLogo@tag@actualtext {first}{METAPOST}{\hologoRobust {METAPOST}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{METAPOST}{\HologoRobust {METAPOST}}}}{\thepage }{section.32}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.90036 plus 0.86089
 ....\glue(\parskip) 0.0 plus 1.0
@@ -4903,7 +4903,7 @@ Completed box being shipped out [4]
 ....\marks4{b+,300,262,section,,,}
 ....\marks4{e-,300,262,}
 ....\marks4{e+,300,262,}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {33}\HoLogo@tag@actualtext {first}{MetaPost}{\hologoRobust {MetaPost}}, \HoLogo@tag@actualtext {second}{MetaPost}{\HologoRobust {MetaPost}}}{\thepage }{section.33}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {33}\NoCaseChange {\HoLogo@tag@actualtext {first}{MetaPost}{\hologoRobust {MetaPost}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{MetaPost}{\HologoRobust {MetaPost}}}}{\thepage }{section.33}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.90036 plus 0.86089
 ....\glue(\parskip) 0.0 plus 1.0
@@ -5036,7 +5036,7 @@ Completed box being shipped out [4]
 ....\marks4{b+,309,270,section,,,}
 ....\marks4{e-,309,270,}
 ....\marks4{e+,309,270,}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {34}\HoLogo@tag@actualtext {first}{MiKTeX}{\hologoRobust {MiKTeX}}, \HoLogo@tag@actualtext {second}{MiKTeX}{\HologoRobust {MiKTeX}}}{\thepage }{section.34}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {34}\NoCaseChange {\HoLogo@tag@actualtext {first}{MiKTeX}{\hologoRobust {MiKTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{MiKTeX}{\HologoRobust {MiKTeX}}}}{\thepage }{section.34}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.90036 plus 0.86089
 ....\glue(\parskip) 0.0 plus 1.0
@@ -5166,7 +5166,7 @@ Completed box being shipped out [4]
 ....\marks4{b+,318,278,section,,,}
 ....\marks4{e-,318,278,}
 ....\marks4{e+,318,278,}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {35}\HoLogo@tag@actualtext {first}{NTS}{\hologoRobust {NTS}}, \HoLogo@tag@actualtext {second}{NTS}{\HologoRobust {NTS}}}{\thepage }{section.35}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {35}\NoCaseChange {\HoLogo@tag@actualtext {first}{NTS}{\hologoRobust {NTS}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{NTS}{\HologoRobust {NTS}}}}{\thepage }{section.35}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.90036 plus 0.86089
 ....\glue(\parskip) 0.0 plus 1.0
@@ -5287,7 +5287,7 @@ Completed box being shipped out [4]
 ....\marks4{b+,327,286,section,,,}
 ....\marks4{e-,327,286,}
 ....\marks4{e+,327,286,}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {36}\HoLogo@tag@actualtext {first}{OzMF}{\hologoRobust {OzMF}}, \HoLogo@tag@actualtext {second}{OzMF}{\HologoRobust {OzMF}}}{\thepage }{section.36}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {36}\NoCaseChange {\HoLogo@tag@actualtext {first}{OzMF}{\hologoRobust {OzMF}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{OzMF}{\HologoRobust {OzMF}}}}{\thepage }{section.36}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.90036 plus 0.86089
 ....\glue(\parskip) 0.0 plus 1.0
@@ -5404,7 +5404,7 @@ Completed box being shipped out [4]
 ....\marks4{b+,336,294,section,,,}
 ....\marks4{e-,336,294,}
 ....\marks4{e+,336,294,}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {37}\HoLogo@tag@actualtext {first}{OzMP}{\hologoRobust {OzMP}}, \HoLogo@tag@actualtext {second}{OzMP}{\HologoRobust {OzMP}}}{\thepage }{section.37}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {37}\NoCaseChange {\HoLogo@tag@actualtext {first}{OzMP}{\hologoRobust {OzMP}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{OzMP}{\HologoRobust {OzMP}}}}{\thepage }{section.37}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.90036 plus 0.86089
 ....\glue(\parskip) 0.0 plus 1.0
@@ -5531,7 +5531,7 @@ Completed box being shipped out [4]
 ....\marks4{b+,345,302,section,,,}
 ....\marks4{e-,345,302,}
 ....\marks4{e+,345,302,}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {38}\HoLogo@tag@actualtext {first}{OzTeX}{\hologoRobust {OzTeX}}, \HoLogo@tag@actualtext {second}{OzTeX}{\HologoRobust {OzTeX}}}{\thepage }{section.38}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {38}\NoCaseChange {\HoLogo@tag@actualtext {first}{OzTeX}{\hologoRobust {OzTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{OzTeX}{\HologoRobust {OzTeX}}}}{\thepage }{section.38}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.90036 plus 0.86089
 ....\glue(\parskip) 0.0 plus 1.0
@@ -5655,7 +5655,7 @@ Completed box being shipped out [4]
 ....\marks4{b+,354,310,section,,,}
 ....\marks4{e-,354,310,}
 ....\marks4{e+,354,310,}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {39}\HoLogo@tag@actualtext {first}{OzTtH}{\hologoRobust {OzTtH}}, \HoLogo@tag@actualtext {second}{OzTtH}{\HologoRobust {OzTtH}}}{\thepage }{section.39}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {39}\NoCaseChange {\HoLogo@tag@actualtext {first}{OzTtH}{\hologoRobust {OzTtH}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{OzTtH}{\HologoRobust {OzTtH}}}}{\thepage }{section.39}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.90036 plus 0.86089
 ....\glue(\parskip) 0.0 plus 1.0
@@ -5781,7 +5781,7 @@ Completed box being shipped out [4]
 ....\marks4{b+,363,318,section,,,}
 ....\marks4{e-,363,318,}
 ....\marks4{e+,363,318,}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {40}\HoLogo@tag@actualtext {first}{PCTeX}{\hologoRobust {PCTeX}}, \HoLogo@tag@actualtext {second}{PCTeX}{\HologoRobust {PCTeX}}}{\thepage }{section.40}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {40}\NoCaseChange {\HoLogo@tag@actualtext {first}{PCTeX}{\hologoRobust {PCTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{PCTeX}{\HologoRobust {PCTeX}}}}{\thepage }{section.40}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.90036 plus 0.86089
 ....\glue(\parskip) 0.0 plus 1.0
@@ -5970,7 +5970,7 @@ Completed box being shipped out [5]
 ....\marks4{b+,372,326,section,,,}
 ....\marks4{e-,372,326,}
 ....\marks4{e+,372,326,}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {41}\HoLogo@tag@actualtext {first}{pdfTeX}{\hologoRobust {pdfTeX}}, \HoLogo@tag@actualtext {second}{pdfTeX}{\HologoRobust {pdfTeX}}}{\thepage }{section.41}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {41}\NoCaseChange {\HoLogo@tag@actualtext {first}{pdfTeX}{\hologoRobust {pdfTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{pdfTeX}{\HologoRobust {pdfTeX}}}}{\thepage }{section.41}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.90036 plus 0.86089
 ....\glue(\parskip) 0.0 plus 1.0
@@ -6118,7 +6118,7 @@ Completed box being shipped out [5]
 ....\marks4{b+,383,334,section,,,}
 ....\marks4{e-,383,334,}
 ....\marks4{e+,383,334,}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {42}\HoLogo@tag@actualtext {first}{pdfLaTeX}{\hologoRobust {pdfLaTeX}}, \HoLogo@tag@actualtext {second}{pdfLaTeX}{\HologoRobust {pdfLaTeX}}}{\thepage }{section.42}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {42}\NoCaseChange {\HoLogo@tag@actualtext {first}{pdfLaTeX}{\hologoRobust {pdfLaTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{pdfLaTeX}{\HologoRobust {pdfLaTeX}}}}{\thepage }{section.42}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.90036 plus 0.86089
 ....\glue(\parskip) 0.0 plus 1.0
@@ -6250,7 +6250,7 @@ Completed box being shipped out [5]
 ....\marks4{b+,392,342,section,,,}
 ....\marks4{e-,392,342,}
 ....\marks4{e+,392,342,}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {43}\HoLogo@tag@actualtext {first}{PiC}{\hologoRobust {PiC}}, \HoLogo@tag@actualtext {second}{PiC}{\HologoRobust {PiC}}}{\thepage }{section.43}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {43}\NoCaseChange {\HoLogo@tag@actualtext {first}{PiC}{\hologoRobust {PiC}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{PiC}{\HologoRobust {PiC}}}}{\thepage }{section.43}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.90036 plus 0.86089
 ....\glue(\parskip) 0.0 plus 1.0
@@ -6384,7 +6384,7 @@ Completed box being shipped out [5]
 ....\marks4{b+,401,350,section,,,}
 ....\marks4{e-,401,350,}
 ....\marks4{e+,401,350,}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {44}\HoLogo@tag@actualtext {first}{PiCTeX}{\hologoRobust {PiCTeX}}, \HoLogo@tag@actualtext {second}{PiCTeX}{\HologoRobust {PiCTeX}}}{\thepage }{section.44}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {44}\NoCaseChange {\HoLogo@tag@actualtext {first}{PiCTeX}{\hologoRobust {PiCTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{PiCTeX}{\HologoRobust {PiCTeX}}}}{\thepage }{section.44}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.90036 plus 0.86089
 ....\glue(\parskip) 0.0 plus 1.0
@@ -6527,7 +6527,7 @@ Completed box being shipped out [5]
 ....\marks4{b+,410,358,section,,,}
 ....\marks4{e-,410,358,}
 ....\marks4{e+,410,358,}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {45}\HoLogo@tag@actualtext {first}{plainTeX}{\hologoRobust {plainTeX}}, \HoLogo@tag@actualtext {second}{plainTeX}{\HologoRobust {plainTeX}}}{\thepage }{section.45}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {45}\NoCaseChange {\HoLogo@tag@actualtext {first}{plainTeX}{\hologoRobust {plainTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{plainTeX}{\HologoRobust {plainTeX}}}}{\thepage }{section.45}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.90036 plus 0.86089
 ....\glue(\parskip) 0.0 plus 1.0
@@ -6671,7 +6671,7 @@ Completed box being shipped out [5]
 ....\marks4{b+,419,366,section,,,}
 ....\marks4{e-,419,366,}
 ....\marks4{e+,419,366,}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {46}\HoLogo@tag@actualtext {first}{plainTeX}{\hologoRobust {plainTeX}}, \HoLogo@tag@actualtext {second}{plainTeX}{\HologoRobust {plainTeX}}}{\thepage }{section.46}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {46}\NoCaseChange {\HoLogo@tag@actualtext {first}{plainTeX}{\hologoRobust {plainTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{plainTeX}{\HologoRobust {plainTeX}}}}{\thepage }{section.46}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.90036 plus 0.86089
 ....\glue(\parskip) 0.0 plus 1.0
@@ -6815,7 +6815,7 @@ Completed box being shipped out [5]
 ....\marks4{b+,428,374,section,,,}
 ....\marks4{e-,428,374,}
 ....\marks4{e+,428,374,}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {47}\HoLogo@tag@actualtext {first}{plainTeX}{\hologoRobust {plainTeX}}, \HoLogo@tag@actualtext {second}{plainTeX}{\HologoRobust {plainTeX}}}{\thepage }{section.47}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {47}\NoCaseChange {\HoLogo@tag@actualtext {first}{plainTeX}{\hologoRobust {plainTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{plainTeX}{\HologoRobust {plainTeX}}}}{\thepage }{section.47}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.90036 plus 0.86089
 ....\glue(\parskip) 0.0 plus 1.0
@@ -6955,7 +6955,7 @@ Completed box being shipped out [5]
 ....\marks4{b+,437,382,section,,,}
 ....\marks4{e-,437,382,}
 ....\marks4{e+,437,382,}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {48}\HoLogo@tag@actualtext {first}{plainTeX}{\hologoRobust {plainTeX}}, \HoLogo@tag@actualtext {second}{plainTeX}{\HologoRobust {plainTeX}}}{\thepage }{section.48}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {48}\NoCaseChange {\HoLogo@tag@actualtext {first}{plainTeX}{\hologoRobust {plainTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{plainTeX}{\HologoRobust {plainTeX}}}}{\thepage }{section.48}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.90036 plus 0.86089
 ....\glue(\parskip) 0.0 plus 1.0
@@ -7101,7 +7101,7 @@ Completed box being shipped out [5]
 ....\marks4{b+,446,390,section,,,}
 ....\marks4{e-,446,390,}
 ....\marks4{e+,446,390,}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {49}\HoLogo@tag@actualtext {first}{pLaTeX}{\hologoRobust {pLaTeX}}, \HoLogo@tag@actualtext {second}{pLaTeX}{\HologoRobust {pLaTeX}}}{\thepage }{section.49}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {49}\NoCaseChange {\HoLogo@tag@actualtext {first}{pLaTeX}{\hologoRobust {pLaTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{pLaTeX}{\HologoRobust {pLaTeX}}}}{\thepage }{section.49}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.90036 plus 0.86089
 ....\glue(\parskip) 0.0 plus 1.0
@@ -7237,7 +7237,7 @@ Completed box being shipped out [5]
 ....\marks4{b+,455,398,section,,,}
 ....\marks4{e-,455,398,}
 ....\marks4{e+,455,398,}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {50}\HoLogo@tag@actualtext {first}{pTeX}{\hologoRobust {pTeX}}, \HoLogo@tag@actualtext {second}{pTeX}{\HologoRobust {pTeX}}}{\thepage }{section.50}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {50}\NoCaseChange {\HoLogo@tag@actualtext {first}{pTeX}{\hologoRobust {pTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{pTeX}{\HologoRobust {pTeX}}}}{\thepage }{section.50}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.90036 plus 0.86089
 ....\glue(\parskip) 0.0 plus 1.0
@@ -7429,7 +7429,7 @@ Completed box being shipped out [6]
 ....\marks4{b+,464,406,section,,,}
 ....\marks4{e-,464,406,}
 ....\marks4{e+,464,406,}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {51}\HoLogo@tag@actualtext {first}{SageTeX}{\hologoRobust {SageTeX}}, \HoLogo@tag@actualtext {second}{SageTeX}{\HologoRobust {SageTeX}}}{\thepage }{section.51}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {51}\NoCaseChange {\HoLogo@tag@actualtext {first}{SageTeX}{\hologoRobust {SageTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{SageTeX}{\HologoRobust {SageTeX}}}}{\thepage }{section.51}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.90036 plus 0.86089
 ....\glue(\parskip) 0.0 plus 1.0
@@ -7569,7 +7569,7 @@ Completed box being shipped out [6]
 ....\marks4{b+,475,414,section,,,}
 ....\marks4{e-,475,414,}
 ....\marks4{e+,475,414,}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {52}\HoLogo@tag@actualtext {first}{SLiTeX}{\hologoRobust {SLiTeX}}, \HoLogo@tag@actualtext {second}{SLiTeX}{\HologoRobust {SLiTeX}}}{\thepage }{section.52}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {52}\NoCaseChange {\HoLogo@tag@actualtext {first}{SLiTeX}{\hologoRobust {SLiTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{SLiTeX}{\HologoRobust {SLiTeX}}}}{\thepage }{section.52}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.90036 plus 0.86089
 ....\glue(\parskip) 0.0 plus 1.0
@@ -7710,7 +7710,7 @@ Completed box being shipped out [6]
 ....\marks4{b+,484,422,section,,,}
 ....\marks4{e-,484,422,}
 ....\marks4{e+,484,422,}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {53}\HoLogo@tag@actualtext {first}{SLiTeX}{\hologoRobust {SLiTeX}}, \HoLogo@tag@actualtext {second}{SLiTeX}{\HologoRobust {SLiTeX}}}{\thepage }{section.53}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {53}\NoCaseChange {\HoLogo@tag@actualtext {first}{SLiTeX}{\hologoRobust {SLiTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{SLiTeX}{\HologoRobust {SLiTeX}}}}{\thepage }{section.53}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.90036 plus 0.86089
 ....\glue(\parskip) 0.0 plus 1.0
@@ -7851,7 +7851,7 @@ Completed box being shipped out [6]
 ....\marks4{b+,493,430,section,,,}
 ....\marks4{e-,493,430,}
 ....\marks4{e+,493,430,}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {54}\HoLogo@tag@actualtext {first}{SLiTeX}{\hologoRobust {SLiTeX}}, \HoLogo@tag@actualtext {second}{SLiTeX}{\HologoRobust {SLiTeX}}}{\thepage }{section.54}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {54}\NoCaseChange {\HoLogo@tag@actualtext {first}{SLiTeX}{\hologoRobust {SLiTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{SLiTeX}{\HologoRobust {SLiTeX}}}}{\thepage }{section.54}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.90036 plus 0.86089
 ....\glue(\parskip) 0.0 plus 1.0
@@ -7986,7 +7986,7 @@ Completed box being shipped out [6]
 ....\marks4{b+,502,438,section,,,}
 ....\marks4{e-,502,438,}
 ....\marks4{e+,502,438,}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {55}\HoLogo@tag@actualtext {first}{SLiTeX}{\hologoRobust {SLiTeX}}, \HoLogo@tag@actualtext {second}{SLiTeX}{\HologoRobust {SLiTeX}}}{\thepage }{section.55}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {55}\NoCaseChange {\HoLogo@tag@actualtext {first}{SLiTeX}{\hologoRobust {SLiTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{SLiTeX}{\HologoRobust {SLiTeX}}}}{\thepage }{section.55}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.90036 plus 0.86089
 ....\glue(\parskip) 0.0 plus 1.0
@@ -8124,7 +8124,7 @@ Completed box being shipped out [6]
 ....\marks4{b+,511,446,section,,,}
 ....\marks4{e-,511,446,}
 ....\marks4{e+,511,446,}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {56}\HoLogo@tag@actualtext {first}{SliTeX}{\hologoRobust {SliTeX}}, \HoLogo@tag@actualtext {second}{SliTeX}{\HologoRobust {SliTeX}}}{\thepage }{section.56}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {56}\NoCaseChange {\HoLogo@tag@actualtext {first}{SliTeX}{\hologoRobust {SliTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{SliTeX}{\HologoRobust {SliTeX}}}}{\thepage }{section.56}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.90036 plus 0.86089
 ....\glue(\parskip) 0.0 plus 1.0
@@ -8265,7 +8265,7 @@ Completed box being shipped out [6]
 ....\marks4{b+,520,454,section,,,}
 ....\marks4{e-,520,454,}
 ....\marks4{e+,520,454,}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {57}\HoLogo@tag@actualtext {first}{SliTeX}{\hologoRobust {SliTeX}}, \HoLogo@tag@actualtext {second}{SliTeX}{\HologoRobust {SliTeX}}}{\thepage }{section.57}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {57}\NoCaseChange {\HoLogo@tag@actualtext {first}{SliTeX}{\hologoRobust {SliTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{SliTeX}{\HologoRobust {SliTeX}}}}{\thepage }{section.57}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.90036 plus 0.86089
 ....\glue(\parskip) 0.0 plus 1.0
@@ -8400,7 +8400,7 @@ Completed box being shipped out [6]
 ....\marks4{b+,529,462,section,,,}
 ....\marks4{e-,529,462,}
 ....\marks4{e+,529,462,}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {58}\HoLogo@tag@actualtext {first}{SliTeX}{\hologoRobust {SliTeX}}, \HoLogo@tag@actualtext {second}{SliTeX}{\HologoRobust {SliTeX}}}{\thepage }{section.58}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {58}\NoCaseChange {\HoLogo@tag@actualtext {first}{SliTeX}{\hologoRobust {SliTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{SliTeX}{\HologoRobust {SliTeX}}}}{\thepage }{section.58}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.90036 plus 0.86089
 ....\glue(\parskip) 0.0 plus 1.0
@@ -8538,7 +8538,7 @@ Completed box being shipped out [6]
 ....\marks4{b+,538,470,section,,,}
 ....\marks4{e-,538,470,}
 ....\marks4{e+,538,470,}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {59}\HoLogo@tag@actualtext {first}{SliTeX}{\hologoRobust {SliTeX}}, \HoLogo@tag@actualtext {second}{SliTeX}{\HologoRobust {SliTeX}}}{\thepage }{section.59}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {59}\NoCaseChange {\HoLogo@tag@actualtext {first}{SliTeX}{\hologoRobust {SliTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{SliTeX}{\HologoRobust {SliTeX}}}}{\thepage }{section.59}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.90036 plus 0.86089
 ....\glue(\parskip) 0.0 plus 1.0
@@ -8672,7 +8672,7 @@ Completed box being shipped out [6]
 ....\marks4{b+,547,478,section,,,}
 ....\marks4{e-,547,478,}
 ....\marks4{e+,547,478,}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {60}\HoLogo@tag@actualtext {first}{teTeX}{\hologoRobust {teTeX}}, \HoLogo@tag@actualtext {second}{teTeX}{\HologoRobust {teTeX}}}{\thepage }{section.60}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {60}\NoCaseChange {\HoLogo@tag@actualtext {first}{teTeX}{\hologoRobust {teTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{teTeX}{\HologoRobust {teTeX}}}}{\thepage }{section.60}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.90036 plus 0.86089
 ....\glue(\parskip) 0.0 plus 1.0
@@ -8852,7 +8852,7 @@ Completed box being shipped out [7]
 ....\marks4{b+,556,486,section,,,}
 ....\marks4{e-,556,486,}
 ....\marks4{e+,556,486,}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {61}\HoLogo@tag@actualtext {first}{TeX}{\hologoRobust {TeX}}, \HoLogo@tag@actualtext {second}{TeX}{\HologoRobust {TeX}}}{\thepage }{section.61}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {61}\NoCaseChange {\HoLogo@tag@actualtext {first}{TeX}{\hologoRobust {TeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{TeX}{\HologoRobust {TeX}}}}{\thepage }{section.61}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.90036 plus 0.86089
 ....\glue(\parskip) 0.0 plus 1.0
@@ -8982,7 +8982,7 @@ Completed box being shipped out [7]
 ....\marks4{b+,567,494,section,,,}
 ....\marks4{e-,567,494,}
 ....\marks4{e+,567,494,}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {62}\HoLogo@tag@actualtext {first}{TeX4ht}{\hologoRobust {TeX4ht}}, \HoLogo@tag@actualtext {second}{TeX4ht}{\HologoRobust {TeX4ht}}}{\thepage }{section.62}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {62}\NoCaseChange {\HoLogo@tag@actualtext {first}{TeX4ht}{\hologoRobust {TeX4ht}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{TeX4ht}{\HologoRobust {TeX4ht}}}}{\thepage }{section.62}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.90036 plus 0.86089
 ....\glue(\parskip) 0.0 plus 1.0
@@ -9123,7 +9123,7 @@ Completed box being shipped out [7]
 ....\marks4{b+,576,502,section,,,}
 ....\marks4{e-,576,502,}
 ....\marks4{e+,576,502,}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {63}\HoLogo@tag@actualtext {first}{TeXLive}{\hologoRobust {TeXLive}}, \HoLogo@tag@actualtext {second}{TeXLive}{\HologoRobust {TeXLive}}}{\thepage }{section.63}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {63}\NoCaseChange {\HoLogo@tag@actualtext {first}{TeXLive}{\hologoRobust {TeXLive}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{TeXLive}{\HologoRobust {TeXLive}}}}{\thepage }{section.63}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.90036 plus 0.86089
 ....\glue(\parskip) 0.0 plus 1.0
@@ -9253,7 +9253,7 @@ Completed box being shipped out [7]
 ....\marks4{b+,585,510,section,,,}
 ....\marks4{e-,585,510,}
 ....\marks4{e+,585,510,}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {64}\HoLogo@tag@actualtext {first}{TTH}{\hologoRobust {TTH}}, \HoLogo@tag@actualtext {second}{TTH}{\HologoRobust {TTH}}}{\thepage }{section.64}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {64}\NoCaseChange {\HoLogo@tag@actualtext {first}{TTH}{\hologoRobust {TTH}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{TTH}{\HologoRobust {TTH}}}}{\thepage }{section.64}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.90036 plus 0.86089
 ....\glue(\parskip) 0.0 plus 1.0
@@ -9398,7 +9398,7 @@ Completed box being shipped out [7]
 ....\marks4{b+,594,518,section,,,}
 ....\marks4{e-,594,518,}
 ....\marks4{e+,594,518,}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {65}\HoLogo@tag@actualtext {first}{upLaTeX}{\hologoRobust {upLaTeX}}, \HoLogo@tag@actualtext {second}{upLaTeX}{\HologoRobust {upLaTeX}}}{\thepage }{section.65}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {65}\NoCaseChange {\HoLogo@tag@actualtext {first}{upLaTeX}{\hologoRobust {upLaTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{upLaTeX}{\HologoRobust {upLaTeX}}}}{\thepage }{section.65}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.90036 plus 0.86089
 ....\glue(\parskip) 0.0 plus 1.0
@@ -9542,7 +9542,7 @@ Completed box being shipped out [7]
 ....\marks4{b+,603,526,section,,,}
 ....\marks4{e-,603,526,}
 ....\marks4{e+,603,526,}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {66}\HoLogo@tag@actualtext {first}{upTeX}{\hologoRobust {upTeX}}, \HoLogo@tag@actualtext {second}{upTeX}{\HologoRobust {upTeX}}}{\thepage }{section.66}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {66}\NoCaseChange {\HoLogo@tag@actualtext {first}{upTeX}{\hologoRobust {upTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{upTeX}{\HologoRobust {upTeX}}}}{\thepage }{section.66}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.90036 plus 0.86089
 ....\glue(\parskip) 0.0 plus 1.0
@@ -9676,7 +9676,7 @@ Completed box being shipped out [7]
 ....\marks4{b+,612,534,section,,,}
 ....\marks4{e-,612,534,}
 ....\marks4{e+,612,534,}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {67}\HoLogo@tag@actualtext {first}{virTeX}{\hologoRobust {virTeX}}, \HoLogo@tag@actualtext {second}{virTeX}{\HologoRobust {virTeX}}}{\thepage }{section.67}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {67}\NoCaseChange {\HoLogo@tag@actualtext {first}{virTeX}{\hologoRobust {virTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{virTeX}{\HologoRobust {virTeX}}}}{\thepage }{section.67}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.90036 plus 0.86089
 ....\glue(\parskip) 0.0 plus 1.0
@@ -9804,7 +9804,7 @@ Completed box being shipped out [7]
 ....\marks4{b+,621,542,section,,,}
 ....\marks4{e-,621,542,}
 ....\marks4{e+,621,542,}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {68}\HoLogo@tag@actualtext {first}{VTeX}{\hologoRobust {VTeX}}, \HoLogo@tag@actualtext {second}{VTeX}{\HologoRobust {VTeX}}}{\thepage }{section.68}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {68}\NoCaseChange {\HoLogo@tag@actualtext {first}{VTeX}{\hologoRobust {VTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{VTeX}{\HologoRobust {VTeX}}}}{\thepage }{section.68}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.90036 plus 0.86089
 ....\glue(\parskip) 0.0 plus 1.0
@@ -9936,7 +9936,7 @@ Completed box being shipped out [7]
 ....\marks4{b+,630,550,section,,,}
 ....\marks4{e-,630,550,}
 ....\marks4{e+,630,550,}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {69}\HoLogo@tag@actualtext {first}{Xe}{\hologoRobust {Xe}}, \HoLogo@tag@actualtext {second}{Xe}{\HologoRobust {Xe}}}{\thepage }{section.69}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {69}\NoCaseChange {\HoLogo@tag@actualtext {first}{Xe}{\hologoRobust {Xe}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{Xe}{\HologoRobust {Xe}}}}{\thepage }{section.69}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.90036 plus 0.86089
 ....\glue(\parskip) 0.0 plus 1.0
@@ -10099,7 +10099,7 @@ Completed box being shipped out [7]
 ....\marks4{b+,639,558,section,,,}
 ....\marks4{e-,639,558,}
 ....\marks4{e+,639,558,}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {70}\HoLogo@tag@actualtext {first}{XeLaTeX}{\hologoRobust {XeLaTeX}}, \HoLogo@tag@actualtext {second}{XeLaTeX}{\HologoRobust {XeLaTeX}}}{\thepage }{section.70}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {70}\NoCaseChange {\HoLogo@tag@actualtext {first}{XeLaTeX}{\hologoRobust {XeLaTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{XeLaTeX}{\HologoRobust {XeLaTeX}}}}{\thepage }{section.70}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.90036 plus 0.86089
 ....\glue(\parskip) 0.0 plus 1.0
@@ -10319,7 +10319,7 @@ Completed box being shipped out [8]
 ....\marks4{b+,648,566,section,,,}
 ....\marks4{e-,648,566,}
 ....\marks4{e+,648,566,}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {71}\HoLogo@tag@actualtext {first}{XeTeX}{\hologoRobust {XeTeX}}, \HoLogo@tag@actualtext {second}{XeTeX}{\HologoRobust {XeTeX}}}{\thepage }{section.71}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {71}\NoCaseChange {\HoLogo@tag@actualtext {first}{XeTeX}{\hologoRobust {XeTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{XeTeX}{\HologoRobust {XeTeX}}}}{\thepage }{section.71}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.90036 plus 0.86089
 ....\glue(\parskip) 0.0 plus 1.0

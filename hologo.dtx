@@ -826,6 +826,7 @@ and the derived files
   \ltx@IfUndefined{newif}{%
     \expandafter\let\csname newif\endcsname\ltx@newif
   }{}%
+  \def\NoCaseChange#1{#1}
 \fi
 %    \end{macrocode}
 %
@@ -1352,7 +1353,7 @@ and the derived files
  \else
     \HOLOGO@IfExists\texorpdfstring\texorpdfstring\ltx@firstoftwo
     {%
-      \HoLogo@tag@actualtext{first}{#1}{\hologoRobust{#1}}%
+      \NoCaseChange{\HoLogo@tag@actualtext{first}{#1}{\hologoRobust{#1}}}%
     }{%
       \ltx@ifundefined{HoLogoBkm@\HOLOGO@Variant{#1}}{%
         \ltx@ifundefined{HoLogo@#1}{?#1?}{#1}%
@@ -1377,7 +1378,7 @@ and the derived files
  \else
     \HOLOGO@IfExists\texorpdfstring\texorpdfstring\ltx@firstoftwo
     {%
-      \HoLogo@tag@actualtext{second}{#1}{\HologoRobust{#1}}%
+      \NoCaseChange{\HoLogo@tag@actualtext{second}{#1}{\HologoRobust{#1}}}%
     }{%
       \ltx@ifundefined{HoLogoBkm@\HOLOGO@Variant{#1}}{%
         \ltx@ifundefined{HoLogo@#1}{?#1?}{#1}%
@@ -1406,7 +1407,7 @@ and the derived files
    \else
       \HOLOGO@IfExists\texorpdfstring\texorpdfstring\ltx@firstoftwo
       {%
-        \HoLogo@tag@actualtext{first}{#1}{\hologoVariantRobust{#1}{#2}}%
+        \NoCaseChange{\HoLogo@tag@actualtext{first}{#1}{\hologoVariantRobust{#1}{#2}}}%
       }{%
         \ltx@ifundefined{HoLogoBkm@#1@#2}{%
           \ltx@ifundefined{HoLogo@#1}{?#1?}{#1}%
@@ -1435,7 +1436,7 @@ and the derived files
    \else
       \HOLOGO@IfExists\texorpdfstring\texorpdfstring\ltx@firstoftwo
       {%
-        \HoLogo@tag@actualtext{second}{#1}{\HologoVariantRobust{#1}{#2}}%
+        \NoCaseChange{\HoLogo@tag@actualtext{second}{#1}{\HologoVariantRobust{#1}{#2}}}%
       }{%
         \ltx@ifundefined{HoLogoBkm@#1@#2}{%
           \ltx@ifundefined{HoLogo@#1}{?#1?}{#1}%
@@ -4956,7 +4957,8 @@ $ #1{\string ^^^^0395}{\string ^^^^03b5}%
 %     \hologo{TeXLive}. (GitHub PR \#11 from myhsia)
 %   \item require that \cs{ifincsname} is supported 
 %   \item require that \cs{protected} is supported 
-%   \item added tagging support    
+%   \item added tagging support  
+%   \item guard the logos against case changes, issue \#3  
 %   \end{Version}
 % \end{History}
 %

@@ -117,7 +117,7 @@ Completed box being shipped out [1]
 .....\glue(\rightskip) 0.0
 ....\pdfliteral page <lua data reference ...>
 ....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {1}\HoLogo@tag@actualtext {first}{(La)TeX}{\hologoRobust {(La)TeX}}, \HoLogo@tag@actualtext {second}{(La)TeX}{\HologoRobust {(La)TeX}}}{\thepage }{section.1}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {1}\NoCaseChange {\HoLogo@tag@actualtext {first}{(La)TeX}{\hologoRobust {(La)TeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{(La)TeX}{\HologoRobust {(La)TeX}}}}{\thepage }{section.1}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -231,7 +231,7 @@ Completed box being shipped out [1]
 .....\glue(\rightskip) 0.0
 ....\pdfliteral page <lua data reference ...>
 ....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {2}\HoLogo@tag@actualtext {first}{ApLaTeX}{\hologoRobust {ApLaTeX}}, \HoLogo@tag@actualtext {second}{ApLaTeX}{\HologoRobust {ApLaTeX}}}{\thepage }{section.2}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {2}\NoCaseChange {\HoLogo@tag@actualtext {first}{ApLaTeX}{\hologoRobust {ApLaTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{ApLaTeX}{\HologoRobust {ApLaTeX}}}}{\thepage }{section.2}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -334,7 +334,7 @@ Completed box being shipped out [1]
 .....\glue(\rightskip) 0.0
 ....\pdfliteral page <lua data reference ...>
 ....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {3}\HoLogo@tag@actualtext {first}{ApTeX}{\hologoRobust {ApTeX}}, \HoLogo@tag@actualtext {second}{ApTeX}{\HologoRobust {ApTeX}}}{\thepage }{section.3}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {3}\NoCaseChange {\HoLogo@tag@actualtext {first}{ApTeX}{\hologoRobust {ApTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{ApTeX}{\HologoRobust {ApTeX}}}}{\thepage }{section.3}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -449,7 +449,7 @@ Completed box being shipped out [1]
 .....\glue(\rightskip) 0.0
 ....\pdfliteral page <lua data reference ...>
 ....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {4}\HoLogo@tag@actualtext {first}{AmSLaTeX}{\hologoRobust {AmSLaTeX}}, \HoLogo@tag@actualtext {second}{AmSLaTeX}{\HologoRobust {AmSLaTeX}}}{\thepage }{section.4}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {4}\NoCaseChange {\HoLogo@tag@actualtext {first}{AmSLaTeX}{\hologoRobust {AmSLaTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{AmSLaTeX}{\HologoRobust {AmSLaTeX}}}}{\thepage }{section.4}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -559,7 +559,7 @@ Completed box being shipped out [1]
 .....\glue(\rightskip) 0.0
 ....\pdfliteral page <lua data reference ...>
 ....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {5}\HoLogo@tag@actualtext {first}{AmSTeX}{\hologoRobust {AmSTeX}}, \HoLogo@tag@actualtext {second}{AmSTeX}{\HologoRobust {AmSTeX}}}{\thepage }{section.5}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {5}\NoCaseChange {\HoLogo@tag@actualtext {first}{AmSTeX}{\hologoRobust {AmSTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{AmSTeX}{\HologoRobust {AmSTeX}}}}{\thepage }{section.5}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -650,7 +650,7 @@ Completed box being shipped out [1]
 .....\glue(\rightskip) 0.0
 ....\pdfliteral page <lua data reference ...>
 ....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {6}\HoLogo@tag@actualtext {first}{biber}{\hologoRobust {biber}}, \HoLogo@tag@actualtext {second}{biber}{\HologoRobust {biber}}}{\thepage }{section.6}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {6}\NoCaseChange {\HoLogo@tag@actualtext {first}{biber}{\hologoRobust {biber}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{biber}{\HologoRobust {biber}}}}{\thepage }{section.6}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -747,7 +747,7 @@ Completed box being shipped out [1]
 .....\glue(\rightskip) 0.0
 ....\pdfliteral page <lua data reference ...>
 ....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {7}\HoLogo@tag@actualtext {first}{BibTeX}{\hologoRobust {BibTeX}}, \HoLogo@tag@actualtext {second}{BibTeX}{\HologoRobust {BibTeX}}}{\thepage }{section.7}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {7}\NoCaseChange {\HoLogo@tag@actualtext {first}{BibTeX}{\hologoRobust {BibTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{BibTeX}{\HologoRobust {BibTeX}}}}{\thepage }{section.7}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -850,7 +850,7 @@ Completed box being shipped out [1]
 .....\glue(\rightskip) 0.0
 ....\pdfliteral page <lua data reference ...>
 ....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {8}\HoLogo@tag@actualtext {first}{BibTeX}{\hologoRobust {BibTeX}}, \HoLogo@tag@actualtext {second}{BibTeX}{\HologoRobust {BibTeX}}}{\thepage }{section.8}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {8}\NoCaseChange {\HoLogo@tag@actualtext {first}{BibTeX}{\hologoRobust {BibTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{BibTeX}{\HologoRobust {BibTeX}}}}{\thepage }{section.8}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -949,7 +949,7 @@ Completed box being shipped out [1]
 .....\glue(\rightskip) 0.0
 ....\pdfliteral page <lua data reference ...>
 ....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {9}\HoLogo@tag@actualtext {first}{BibTeX}{\hologoRobust {BibTeX}}, \HoLogo@tag@actualtext {second}{BibTeX}{\HologoRobust {BibTeX}}}{\thepage }{section.9}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {9}\NoCaseChange {\HoLogo@tag@actualtext {first}{BibTeX}{\hologoRobust {BibTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{BibTeX}{\HologoRobust {BibTeX}}}}{\thepage }{section.9}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -1049,7 +1049,7 @@ Completed box being shipped out [1]
 .....\glue(\rightskip) 0.0
 ....\pdfliteral page <lua data reference ...>
 ....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {10}\HoLogo@tag@actualtext {first}{BibTeX8}{\hologoRobust {BibTeX8}}, \HoLogo@tag@actualtext {second}{BibTeX8}{\HologoRobust {BibTeX8}}}{\thepage }{section.10}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {10}\NoCaseChange {\HoLogo@tag@actualtext {first}{BibTeX8}{\hologoRobust {BibTeX8}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{BibTeX8}{\HologoRobust {BibTeX8}}}}{\thepage }{section.10}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -1206,7 +1206,7 @@ Completed box being shipped out [2]
 .....\glue(\rightskip) 0.0
 ....\pdfliteral page <lua data reference ...>
 ....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {11}\HoLogo@tag@actualtext {first}{ConTeXt}{\hologoRobust {ConTeXt}}, \HoLogo@tag@actualtext {second}{ConTeXt}{\HologoRobust {ConTeXt}}}{\thepage }{section.11}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {11}\NoCaseChange {\HoLogo@tag@actualtext {first}{ConTeXt}{\hologoRobust {ConTeXt}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{ConTeXt}{\HologoRobust {ConTeXt}}}}{\thepage }{section.11}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -1313,7 +1313,7 @@ Completed box being shipped out [2]
 .....\glue(\rightskip) 0.0
 ....\pdfliteral page <lua data reference ...>
 ....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {12}\HoLogo@tag@actualtext {first}{ConTeXt}{\hologoRobust {ConTeXt}}, \HoLogo@tag@actualtext {second}{ConTeXt}{\HologoRobust {ConTeXt}}}{\thepage }{section.12}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {12}\NoCaseChange {\HoLogo@tag@actualtext {first}{ConTeXt}{\hologoRobust {ConTeXt}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{ConTeXt}{\HologoRobust {ConTeXt}}}}{\thepage }{section.12}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -1414,7 +1414,7 @@ Completed box being shipped out [2]
 .....\glue(\rightskip) 0.0
 ....\pdfliteral page <lua data reference ...>
 ....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {13}\HoLogo@tag@actualtext {first}{ConTeXt}{\hologoRobust {ConTeXt}}, \HoLogo@tag@actualtext {second}{ConTeXt}{\HologoRobust {ConTeXt}}}{\thepage }{section.13}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {13}\NoCaseChange {\HoLogo@tag@actualtext {first}{ConTeXt}{\hologoRobust {ConTeXt}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{ConTeXt}{\HologoRobust {ConTeXt}}}}{\thepage }{section.13}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -1506,7 +1506,7 @@ Completed box being shipped out [2]
 .....\glue(\rightskip) 0.0
 ....\pdfliteral page <lua data reference ...>
 ....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {14}\HoLogo@tag@actualtext {first}{emTeX}{\hologoRobust {emTeX}}, \HoLogo@tag@actualtext {second}{emTeX}{\HologoRobust {emTeX}}}{\thepage }{section.14}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {14}\NoCaseChange {\HoLogo@tag@actualtext {first}{emTeX}{\hologoRobust {emTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{emTeX}{\HologoRobust {emTeX}}}}{\thepage }{section.14}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -1601,7 +1601,7 @@ Completed box being shipped out [2]
 .....\glue(\rightskip) 0.0
 ....\pdfliteral page <lua data reference ...>
 ....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {15}\HoLogo@tag@actualtext {first}{eTeX}{\hologoRobust {eTeX}}, \HoLogo@tag@actualtext {second}{eTeX}{\HologoRobust {eTeX}}}{\thepage }{section.15}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {15}\NoCaseChange {\HoLogo@tag@actualtext {first}{eTeX}{\hologoRobust {eTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{eTeX}{\HologoRobust {eTeX}}}}{\thepage }{section.15}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -1705,7 +1705,7 @@ Completed box being shipped out [2]
 .....\glue(\rightskip) 0.0
 ....\pdfliteral page <lua data reference ...>
 ....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {16}\HoLogo@tag@actualtext {first}{ExTeX}{\hologoRobust {ExTeX}}, \HoLogo@tag@actualtext {second}{ExTeX}{\HologoRobust {ExTeX}}}{\thepage }{section.16}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {16}\NoCaseChange {\HoLogo@tag@actualtext {first}{ExTeX}{\hologoRobust {ExTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{ExTeX}{\HologoRobust {ExTeX}}}}{\thepage }{section.16}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -1822,7 +1822,7 @@ Completed box being shipped out [2]
 .....\glue(\rightskip) 0.0
 ....\pdfliteral page <lua data reference ...>
 ....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {17}\HoLogo@tag@actualtext {first}{HanTheThanh}{\hologoRobust {HanTheThanh}}, \HoLogo@tag@actualtext {second}{HanTheThanh}{\HologoRobust {HanTheThanh}}}{\thepage }{section.17}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {17}\NoCaseChange {\HoLogo@tag@actualtext {first}{HanTheThanh}{\hologoRobust {HanTheThanh}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{HanTheThanh}{\HologoRobust {HanTheThanh}}}}{\thepage }{section.17}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -1924,7 +1924,7 @@ Completed box being shipped out [2]
 .....\glue(\rightskip) 0.0
 ....\pdfliteral page <lua data reference ...>
 ....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {18}\HoLogo@tag@actualtext {first}{iniTeX}{\hologoRobust {iniTeX}}, \HoLogo@tag@actualtext {second}{iniTeX}{\HologoRobust {iniTeX}}}{\thepage }{section.18}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {18}\NoCaseChange {\HoLogo@tag@actualtext {first}{iniTeX}{\hologoRobust {iniTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{iniTeX}{\HologoRobust {iniTeX}}}}{\thepage }{section.18}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -2034,7 +2034,7 @@ Completed box being shipped out [2]
 .....\glue(\rightskip) 0.0
 ....\pdfliteral page <lua data reference ...>
 ....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {19}\HoLogo@tag@actualtext {first}{KOMAScript}{\hologoRobust {KOMAScript}}, \HoLogo@tag@actualtext {second}{KOMAScript}{\HologoRobust {KOMAScript}}}{\thepage }{section.19}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {19}\NoCaseChange {\HoLogo@tag@actualtext {first}{KOMAScript}{\hologoRobust {KOMAScript}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{KOMAScript}{\HologoRobust {KOMAScript}}}}{\thepage }{section.19}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -2127,7 +2127,7 @@ Completed box being shipped out [2]
 .....\glue(\rightskip) 0.0
 ....\pdfliteral page <lua data reference ...>
 ....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {20}\HoLogo@tag@actualtext {first}{La}{\hologoRobust {La}}, \HoLogo@tag@actualtext {second}{La}{\HologoRobust {La}}}{\thepage }{section.20}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {20}\NoCaseChange {\HoLogo@tag@actualtext {first}{La}{\hologoRobust {La}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{La}{\HologoRobust {La}}}}{\thepage }{section.20}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -2275,7 +2275,7 @@ Completed box being shipped out [3]
 .....\glue(\rightskip) 0.0
 ....\pdfliteral page <lua data reference ...>
 ....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {21}\HoLogo@tag@actualtext {first}{LaTeX}{\hologoRobust {LaTeX}}, \HoLogo@tag@actualtext {second}{LaTeX}{\HologoRobust {LaTeX}}}{\thepage }{section.21}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {21}\NoCaseChange {\HoLogo@tag@actualtext {first}{LaTeX}{\hologoRobust {LaTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{LaTeX}{\HologoRobust {LaTeX}}}}{\thepage }{section.21}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -2392,7 +2392,7 @@ Completed box being shipped out [3]
 .....\glue(\rightskip) 0.0
 ....\pdfliteral page <lua data reference ...>
 ....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {22}\HoLogo@tag@actualtext {first}{LaTeX2e}{\hologoRobust {LaTeX2e}}, \HoLogo@tag@actualtext {second}{LaTeX2e}{\HologoRobust {LaTeX2e}}}{\thepage }{section.22}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {22}\NoCaseChange {\HoLogo@tag@actualtext {first}{LaTeX2e}{\hologoRobust {LaTeX2e}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{LaTeX2e}{\HologoRobust {LaTeX2e}}}}{\thepage }{section.22}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -2503,7 +2503,7 @@ Completed box being shipped out [3]
 .....\glue(\rightskip) 0.0
 ....\pdfliteral page <lua data reference ...>
 ....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {23}\HoLogo@tag@actualtext {first}{LaTeX3}{\hologoRobust {LaTeX3}}, \HoLogo@tag@actualtext {second}{LaTeX3}{\HologoRobust {LaTeX3}}}{\thepage }{section.23}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {23}\NoCaseChange {\HoLogo@tag@actualtext {first}{LaTeX3}{\hologoRobust {LaTeX3}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{LaTeX3}{\HologoRobust {LaTeX3}}}}{\thepage }{section.23}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -2621,7 +2621,7 @@ Completed box being shipped out [3]
 .....\glue(\rightskip) 0.0
 ....\pdfliteral page <lua data reference ...>
 ....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {24}\HoLogo@tag@actualtext {first}{LaTeXe}{\hologoRobust {LaTeXe}}, \HoLogo@tag@actualtext {second}{LaTeXe}{\HologoRobust {LaTeXe}}}{\thepage }{section.24}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {24}\NoCaseChange {\HoLogo@tag@actualtext {first}{LaTeXe}{\hologoRobust {LaTeXe}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{LaTeXe}{\HologoRobust {LaTeXe}}}}{\thepage }{section.24}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -2736,7 +2736,7 @@ Completed box being shipped out [3]
 .....\glue(\rightskip) 0.0
 ....\pdfliteral page <lua data reference ...>
 ....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {25}\HoLogo@tag@actualtext {first}{LaTeXML}{\hologoRobust {LaTeXML}}, \HoLogo@tag@actualtext {second}{LaTeXML}{\HologoRobust {LaTeXML}}}{\thepage }{section.25}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {25}\NoCaseChange {\HoLogo@tag@actualtext {first}{LaTeXML}{\hologoRobust {LaTeXML}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{LaTeXML}{\HologoRobust {LaTeXML}}}}{\thepage }{section.25}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -2848,7 +2848,7 @@ Completed box being shipped out [3]
 .....\glue(\rightskip) 0.0
 ....\pdfliteral page <lua data reference ...>
 ....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {26}\HoLogo@tag@actualtext {first}{LaTeXTeX}{\hologoRobust {LaTeXTeX}}, \HoLogo@tag@actualtext {second}{LaTeXTeX}{\HologoRobust {LaTeXTeX}}}{\thepage }{section.26}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {26}\NoCaseChange {\HoLogo@tag@actualtext {first}{LaTeXTeX}{\hologoRobust {LaTeXTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{LaTeXTeX}{\HologoRobust {LaTeXTeX}}}}{\thepage }{section.26}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -2961,7 +2961,7 @@ Completed box being shipped out [3]
 .....\glue(\rightskip) 0.0
 ....\pdfliteral page <lua data reference ...>
 ....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {27}\HoLogo@tag@actualtext {first}{LuaLaTeX}{\hologoRobust {LuaLaTeX}}, \HoLogo@tag@actualtext {second}{LuaLaTeX}{\HologoRobust {LuaLaTeX}}}{\thepage }{section.27}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {27}\NoCaseChange {\HoLogo@tag@actualtext {first}{LuaLaTeX}{\hologoRobust {LuaLaTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{LuaLaTeX}{\HologoRobust {LuaLaTeX}}}}{\thepage }{section.27}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -3062,7 +3062,7 @@ Completed box being shipped out [3]
 .....\glue(\rightskip) 0.0
 ....\pdfliteral page <lua data reference ...>
 ....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {28}\HoLogo@tag@actualtext {first}{LuaTeX}{\hologoRobust {LuaTeX}}, \HoLogo@tag@actualtext {second}{LuaTeX}{\HologoRobust {LuaTeX}}}{\thepage }{section.28}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {28}\NoCaseChange {\HoLogo@tag@actualtext {first}{LuaTeX}{\hologoRobust {LuaTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{LuaTeX}{\HologoRobust {LuaTeX}}}}{\thepage }{section.28}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -3147,7 +3147,7 @@ Completed box being shipped out [3]
 .....\glue(\rightskip) 0.0
 ....\pdfliteral page <lua data reference ...>
 ....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {29}\HoLogo@tag@actualtext {first}{LyX}{\hologoRobust {LyX}}, \HoLogo@tag@actualtext {second}{LyX}{\HologoRobust {LyX}}}{\thepage }{section.29}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {29}\NoCaseChange {\HoLogo@tag@actualtext {first}{LyX}{\hologoRobust {LyX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{LyX}{\HologoRobust {LyX}}}}{\thepage }{section.29}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -3239,7 +3239,7 @@ Completed box being shipped out [3]
 .....\glue(\rightskip) 0.0
 ....\pdfliteral page <lua data reference ...>
 ....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {30}\HoLogo@tag@actualtext {first}{METAFONT}{\hologoRobust {METAFONT}}, \HoLogo@tag@actualtext {second}{METAFONT}{\HologoRobust {METAFONT}}}{\thepage }{section.30}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {30}\NoCaseChange {\HoLogo@tag@actualtext {first}{METAFONT}{\hologoRobust {METAFONT}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{METAFONT}{\HologoRobust {METAFONT}}}}{\thepage }{section.30}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -3384,7 +3384,7 @@ Completed box being shipped out [4]
 .....\glue(\rightskip) 0.0
 ....\pdfliteral page <lua data reference ...>
 ....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {31}\HoLogo@tag@actualtext {first}{MetaFun}{\hologoRobust {MetaFun}}, \HoLogo@tag@actualtext {second}{MetaFun}{\HologoRobust {MetaFun}}}{\thepage }{section.31}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {31}\NoCaseChange {\HoLogo@tag@actualtext {first}{MetaFun}{\hologoRobust {MetaFun}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{MetaFun}{\HologoRobust {MetaFun}}}}{\thepage }{section.31}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -3480,7 +3480,7 @@ Completed box being shipped out [4]
 .....\glue(\rightskip) 0.0
 ....\pdfliteral page <lua data reference ...>
 ....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {32}\HoLogo@tag@actualtext {first}{METAPOST}{\hologoRobust {METAPOST}}, \HoLogo@tag@actualtext {second}{METAPOST}{\HologoRobust {METAPOST}}}{\thepage }{section.32}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {32}\NoCaseChange {\HoLogo@tag@actualtext {first}{METAPOST}{\hologoRobust {METAPOST}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{METAPOST}{\HologoRobust {METAPOST}}}}{\thepage }{section.32}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -3576,7 +3576,7 @@ Completed box being shipped out [4]
 .....\glue(\rightskip) 0.0
 ....\pdfliteral page <lua data reference ...>
 ....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {33}\HoLogo@tag@actualtext {first}{MetaPost}{\hologoRobust {MetaPost}}, \HoLogo@tag@actualtext {second}{MetaPost}{\HologoRobust {MetaPost}}}{\thepage }{section.33}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {33}\NoCaseChange {\HoLogo@tag@actualtext {first}{MetaPost}{\hologoRobust {MetaPost}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{MetaPost}{\HologoRobust {MetaPost}}}}{\thepage }{section.33}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -3669,7 +3669,7 @@ Completed box being shipped out [4]
 .....\glue(\rightskip) 0.0
 ....\pdfliteral page <lua data reference ...>
 ....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {34}\HoLogo@tag@actualtext {first}{MiKTeX}{\hologoRobust {MiKTeX}}, \HoLogo@tag@actualtext {second}{MiKTeX}{\HologoRobust {MiKTeX}}}{\thepage }{section.34}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {34}\NoCaseChange {\HoLogo@tag@actualtext {first}{MiKTeX}{\hologoRobust {MiKTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{MiKTeX}{\HologoRobust {MiKTeX}}}}{\thepage }{section.34}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -3759,7 +3759,7 @@ Completed box being shipped out [4]
 .....\glue(\rightskip) 0.0
 ....\pdfliteral page <lua data reference ...>
 ....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {35}\HoLogo@tag@actualtext {first}{NTS}{\hologoRobust {NTS}}, \HoLogo@tag@actualtext {second}{NTS}{\HologoRobust {NTS}}}{\thepage }{section.35}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {35}\NoCaseChange {\HoLogo@tag@actualtext {first}{NTS}{\hologoRobust {NTS}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{NTS}{\HologoRobust {NTS}}}}{\thepage }{section.35}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -3840,7 +3840,7 @@ Completed box being shipped out [4]
 .....\glue(\rightskip) 0.0
 ....\pdfliteral page <lua data reference ...>
 ....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {36}\HoLogo@tag@actualtext {first}{OzMF}{\hologoRobust {OzMF}}, \HoLogo@tag@actualtext {second}{OzMF}{\HologoRobust {OzMF}}}{\thepage }{section.36}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {36}\NoCaseChange {\HoLogo@tag@actualtext {first}{OzMF}{\hologoRobust {OzMF}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{OzMF}{\HologoRobust {OzMF}}}}{\thepage }{section.36}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -3917,7 +3917,7 @@ Completed box being shipped out [4]
 .....\glue(\rightskip) 0.0
 ....\pdfliteral page <lua data reference ...>
 ....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {37}\HoLogo@tag@actualtext {first}{OzMP}{\hologoRobust {OzMP}}, \HoLogo@tag@actualtext {second}{OzMP}{\HologoRobust {OzMP}}}{\thepage }{section.37}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {37}\NoCaseChange {\HoLogo@tag@actualtext {first}{OzMP}{\hologoRobust {OzMP}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{OzMP}{\HologoRobust {OzMP}}}}{\thepage }{section.37}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -4004,7 +4004,7 @@ Completed box being shipped out [4]
 .....\glue(\rightskip) 0.0
 ....\pdfliteral page <lua data reference ...>
 ....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {38}\HoLogo@tag@actualtext {first}{OzTeX}{\hologoRobust {OzTeX}}, \HoLogo@tag@actualtext {second}{OzTeX}{\HologoRobust {OzTeX}}}{\thepage }{section.38}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {38}\NoCaseChange {\HoLogo@tag@actualtext {first}{OzTeX}{\hologoRobust {OzTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{OzTeX}{\HologoRobust {OzTeX}}}}{\thepage }{section.38}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -4088,7 +4088,7 @@ Completed box being shipped out [4]
 .....\glue(\rightskip) 0.0
 ....\pdfliteral page <lua data reference ...>
 ....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {39}\HoLogo@tag@actualtext {first}{OzTtH}{\hologoRobust {OzTtH}}, \HoLogo@tag@actualtext {second}{OzTtH}{\HologoRobust {OzTtH}}}{\thepage }{section.39}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {39}\NoCaseChange {\HoLogo@tag@actualtext {first}{OzTtH}{\hologoRobust {OzTtH}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{OzTtH}{\HologoRobust {OzTtH}}}}{\thepage }{section.39}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -4174,7 +4174,7 @@ Completed box being shipped out [4]
 .....\glue(\rightskip) 0.0
 ....\pdfliteral page <lua data reference ...>
 ....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {40}\HoLogo@tag@actualtext {first}{PCTeX}{\hologoRobust {PCTeX}}, \HoLogo@tag@actualtext {second}{PCTeX}{\HologoRobust {PCTeX}}}{\thepage }{section.40}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {40}\NoCaseChange {\HoLogo@tag@actualtext {first}{PCTeX}{\hologoRobust {PCTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{PCTeX}{\HologoRobust {PCTeX}}}}{\thepage }{section.40}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -4317,7 +4317,7 @@ Completed box being shipped out [5]
 .....\glue(\rightskip) 0.0
 ....\pdfliteral page <lua data reference ...>
 ....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {41}\HoLogo@tag@actualtext {first}{pdfTeX}{\hologoRobust {pdfTeX}}, \HoLogo@tag@actualtext {second}{pdfTeX}{\HologoRobust {pdfTeX}}}{\thepage }{section.41}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {41}\NoCaseChange {\HoLogo@tag@actualtext {first}{pdfTeX}{\hologoRobust {pdfTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{pdfTeX}{\HologoRobust {pdfTeX}}}}{\thepage }{section.41}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -4425,7 +4425,7 @@ Completed box being shipped out [5]
 .....\glue(\rightskip) 0.0
 ....\pdfliteral page <lua data reference ...>
 ....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {42}\HoLogo@tag@actualtext {first}{pdfLaTeX}{\hologoRobust {pdfLaTeX}}, \HoLogo@tag@actualtext {second}{pdfLaTeX}{\HologoRobust {pdfLaTeX}}}{\thepage }{section.42}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {42}\NoCaseChange {\HoLogo@tag@actualtext {first}{pdfLaTeX}{\hologoRobust {pdfLaTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{pdfLaTeX}{\HologoRobust {pdfLaTeX}}}}{\thepage }{section.42}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -4517,7 +4517,7 @@ Completed box being shipped out [5]
 .....\glue(\rightskip) 0.0
 ....\pdfliteral page <lua data reference ...>
 ....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {43}\HoLogo@tag@actualtext {first}{PiC}{\hologoRobust {PiC}}, \HoLogo@tag@actualtext {second}{PiC}{\HologoRobust {PiC}}}{\thepage }{section.43}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {43}\NoCaseChange {\HoLogo@tag@actualtext {first}{PiC}{\hologoRobust {PiC}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{PiC}{\HologoRobust {PiC}}}}{\thepage }{section.43}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -4611,7 +4611,7 @@ Completed box being shipped out [5]
 .....\glue(\rightskip) 0.0
 ....\pdfliteral page <lua data reference ...>
 ....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {44}\HoLogo@tag@actualtext {first}{PiCTeX}{\hologoRobust {PiCTeX}}, \HoLogo@tag@actualtext {second}{PiCTeX}{\HologoRobust {PiCTeX}}}{\thepage }{section.44}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {44}\NoCaseChange {\HoLogo@tag@actualtext {first}{PiCTeX}{\hologoRobust {PiCTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{PiCTeX}{\HologoRobust {PiCTeX}}}}{\thepage }{section.44}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -4716,7 +4716,7 @@ Completed box being shipped out [5]
 .....\glue(\rightskip) 0.0
 ....\pdfliteral page <lua data reference ...>
 ....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {45}\HoLogo@tag@actualtext {first}{plainTeX}{\hologoRobust {plainTeX}}, \HoLogo@tag@actualtext {second}{plainTeX}{\HologoRobust {plainTeX}}}{\thepage }{section.45}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {45}\NoCaseChange {\HoLogo@tag@actualtext {first}{plainTeX}{\hologoRobust {plainTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{plainTeX}{\HologoRobust {plainTeX}}}}{\thepage }{section.45}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -4823,7 +4823,7 @@ Completed box being shipped out [5]
 .....\glue(\rightskip) 0.0
 ....\pdfliteral page <lua data reference ...>
 ....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {46}\HoLogo@tag@actualtext {first}{plainTeX}{\hologoRobust {plainTeX}}, \HoLogo@tag@actualtext {second}{plainTeX}{\HologoRobust {plainTeX}}}{\thepage }{section.46}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {46}\NoCaseChange {\HoLogo@tag@actualtext {first}{plainTeX}{\hologoRobust {plainTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{plainTeX}{\HologoRobust {plainTeX}}}}{\thepage }{section.46}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -4928,7 +4928,7 @@ Completed box being shipped out [5]
 .....\glue(\rightskip) 0.0
 ....\pdfliteral page <lua data reference ...>
 ....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {47}\HoLogo@tag@actualtext {first}{plainTeX}{\hologoRobust {plainTeX}}, \HoLogo@tag@actualtext {second}{plainTeX}{\HologoRobust {plainTeX}}}{\thepage }{section.47}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {47}\NoCaseChange {\HoLogo@tag@actualtext {first}{plainTeX}{\hologoRobust {plainTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{plainTeX}{\HologoRobust {plainTeX}}}}{\thepage }{section.47}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -5028,7 +5028,7 @@ Completed box being shipped out [5]
 .....\glue(\rightskip) 0.0
 ....\pdfliteral page <lua data reference ...>
 ....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {48}\HoLogo@tag@actualtext {first}{plainTeX}{\hologoRobust {plainTeX}}, \HoLogo@tag@actualtext {second}{plainTeX}{\HologoRobust {plainTeX}}}{\thepage }{section.48}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {48}\NoCaseChange {\HoLogo@tag@actualtext {first}{plainTeX}{\hologoRobust {plainTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{plainTeX}{\HologoRobust {plainTeX}}}}{\thepage }{section.48}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -5134,7 +5134,7 @@ Completed box being shipped out [5]
 .....\glue(\rightskip) 0.0
 ....\pdfliteral page <lua data reference ...>
 ....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {49}\HoLogo@tag@actualtext {first}{pLaTeX}{\hologoRobust {pLaTeX}}, \HoLogo@tag@actualtext {second}{pLaTeX}{\HologoRobust {pLaTeX}}}{\thepage }{section.49}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {49}\NoCaseChange {\HoLogo@tag@actualtext {first}{pLaTeX}{\hologoRobust {pLaTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{pLaTeX}{\HologoRobust {pLaTeX}}}}{\thepage }{section.49}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -5230,7 +5230,7 @@ Completed box being shipped out [5]
 .....\glue(\rightskip) 0.0
 ....\pdfliteral page <lua data reference ...>
 ....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {50}\HoLogo@tag@actualtext {first}{pTeX}{\hologoRobust {pTeX}}, \HoLogo@tag@actualtext {second}{pTeX}{\HologoRobust {pTeX}}}{\thepage }{section.50}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {50}\NoCaseChange {\HoLogo@tag@actualtext {first}{pTeX}{\hologoRobust {pTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{pTeX}{\HologoRobust {pTeX}}}}{\thepage }{section.50}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -5376,7 +5376,7 @@ Completed box being shipped out [6]
 .....\glue(\rightskip) 0.0
 ....\pdfliteral page <lua data reference ...>
 ....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {51}\HoLogo@tag@actualtext {first}{SageTeX}{\hologoRobust {SageTeX}}, \HoLogo@tag@actualtext {second}{SageTeX}{\HologoRobust {SageTeX}}}{\thepage }{section.51}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {51}\NoCaseChange {\HoLogo@tag@actualtext {first}{SageTeX}{\hologoRobust {SageTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{SageTeX}{\HologoRobust {SageTeX}}}}{\thepage }{section.51}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -5476,7 +5476,7 @@ Completed box being shipped out [6]
 .....\glue(\rightskip) 0.0
 ....\pdfliteral page <lua data reference ...>
 ....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {52}\HoLogo@tag@actualtext {first}{SLiTeX}{\hologoRobust {SLiTeX}}, \HoLogo@tag@actualtext {second}{SLiTeX}{\HologoRobust {SLiTeX}}}{\thepage }{section.52}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {52}\NoCaseChange {\HoLogo@tag@actualtext {first}{SLiTeX}{\hologoRobust {SLiTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{SLiTeX}{\HologoRobust {SLiTeX}}}}{\thepage }{section.52}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -5577,7 +5577,7 @@ Completed box being shipped out [6]
 .....\glue(\rightskip) 0.0
 ....\pdfliteral page <lua data reference ...>
 ....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {53}\HoLogo@tag@actualtext {first}{SLiTeX}{\hologoRobust {SLiTeX}}, \HoLogo@tag@actualtext {second}{SLiTeX}{\HologoRobust {SLiTeX}}}{\thepage }{section.53}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {53}\NoCaseChange {\HoLogo@tag@actualtext {first}{SLiTeX}{\hologoRobust {SLiTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{SLiTeX}{\HologoRobust {SLiTeX}}}}{\thepage }{section.53}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -5678,7 +5678,7 @@ Completed box being shipped out [6]
 .....\glue(\rightskip) 0.0
 ....\pdfliteral page <lua data reference ...>
 ....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {54}\HoLogo@tag@actualtext {first}{SLiTeX}{\hologoRobust {SLiTeX}}, \HoLogo@tag@actualtext {second}{SLiTeX}{\HologoRobust {SLiTeX}}}{\thepage }{section.54}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {54}\NoCaseChange {\HoLogo@tag@actualtext {first}{SLiTeX}{\hologoRobust {SLiTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{SLiTeX}{\HologoRobust {SLiTeX}}}}{\thepage }{section.54}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -5773,7 +5773,7 @@ Completed box being shipped out [6]
 .....\glue(\rightskip) 0.0
 ....\pdfliteral page <lua data reference ...>
 ....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {55}\HoLogo@tag@actualtext {first}{SLiTeX}{\hologoRobust {SLiTeX}}, \HoLogo@tag@actualtext {second}{SLiTeX}{\HologoRobust {SLiTeX}}}{\thepage }{section.55}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {55}\NoCaseChange {\HoLogo@tag@actualtext {first}{SLiTeX}{\hologoRobust {SLiTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{SLiTeX}{\HologoRobust {SLiTeX}}}}{\thepage }{section.55}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -5871,7 +5871,7 @@ Completed box being shipped out [6]
 .....\glue(\rightskip) 0.0
 ....\pdfliteral page <lua data reference ...>
 ....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {56}\HoLogo@tag@actualtext {first}{SliTeX}{\hologoRobust {SliTeX}}, \HoLogo@tag@actualtext {second}{SliTeX}{\HologoRobust {SliTeX}}}{\thepage }{section.56}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {56}\NoCaseChange {\HoLogo@tag@actualtext {first}{SliTeX}{\hologoRobust {SliTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{SliTeX}{\HologoRobust {SliTeX}}}}{\thepage }{section.56}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -5972,7 +5972,7 @@ Completed box being shipped out [6]
 .....\glue(\rightskip) 0.0
 ....\pdfliteral page <lua data reference ...>
 ....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {57}\HoLogo@tag@actualtext {first}{SliTeX}{\hologoRobust {SliTeX}}, \HoLogo@tag@actualtext {second}{SliTeX}{\HologoRobust {SliTeX}}}{\thepage }{section.57}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {57}\NoCaseChange {\HoLogo@tag@actualtext {first}{SliTeX}{\hologoRobust {SliTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{SliTeX}{\HologoRobust {SliTeX}}}}{\thepage }{section.57}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -6067,7 +6067,7 @@ Completed box being shipped out [6]
 .....\glue(\rightskip) 0.0
 ....\pdfliteral page <lua data reference ...>
 ....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {58}\HoLogo@tag@actualtext {first}{SliTeX}{\hologoRobust {SliTeX}}, \HoLogo@tag@actualtext {second}{SliTeX}{\HologoRobust {SliTeX}}}{\thepage }{section.58}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {58}\NoCaseChange {\HoLogo@tag@actualtext {first}{SliTeX}{\hologoRobust {SliTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{SliTeX}{\HologoRobust {SliTeX}}}}{\thepage }{section.58}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -6165,7 +6165,7 @@ Completed box being shipped out [6]
 .....\glue(\rightskip) 0.0
 ....\pdfliteral page <lua data reference ...>
 ....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {59}\HoLogo@tag@actualtext {first}{SliTeX}{\hologoRobust {SliTeX}}, \HoLogo@tag@actualtext {second}{SliTeX}{\HologoRobust {SliTeX}}}{\thepage }{section.59}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {59}\NoCaseChange {\HoLogo@tag@actualtext {first}{SliTeX}{\hologoRobust {SliTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{SliTeX}{\HologoRobust {SliTeX}}}}{\thepage }{section.59}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -6259,7 +6259,7 @@ Completed box being shipped out [6]
 .....\glue(\rightskip) 0.0
 ....\pdfliteral page <lua data reference ...>
 ....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {60}\HoLogo@tag@actualtext {first}{teTeX}{\hologoRobust {teTeX}}, \HoLogo@tag@actualtext {second}{teTeX}{\HologoRobust {teTeX}}}{\thepage }{section.60}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {60}\NoCaseChange {\HoLogo@tag@actualtext {first}{teTeX}{\hologoRobust {teTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{teTeX}{\HologoRobust {teTeX}}}}{\thepage }{section.60}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -6393,7 +6393,7 @@ Completed box being shipped out [7]
 .....\glue(\rightskip) 0.0
 ....\pdfliteral page <lua data reference ...>
 ....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {61}\HoLogo@tag@actualtext {first}{TeX}{\hologoRobust {TeX}}, \HoLogo@tag@actualtext {second}{TeX}{\HologoRobust {TeX}}}{\thepage }{section.61}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {61}\NoCaseChange {\HoLogo@tag@actualtext {first}{TeX}{\hologoRobust {TeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{TeX}{\HologoRobust {TeX}}}}{\thepage }{section.61}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -6483,7 +6483,7 @@ Completed box being shipped out [7]
 .....\glue(\rightskip) 0.0
 ....\pdfliteral page <lua data reference ...>
 ....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {62}\HoLogo@tag@actualtext {first}{TeX4ht}{\hologoRobust {TeX4ht}}, \HoLogo@tag@actualtext {second}{TeX4ht}{\HologoRobust {TeX4ht}}}{\thepage }{section.62}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {62}\NoCaseChange {\HoLogo@tag@actualtext {first}{TeX4ht}{\hologoRobust {TeX4ht}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{TeX4ht}{\HologoRobust {TeX4ht}}}}{\thepage }{section.62}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -6586,7 +6586,7 @@ Completed box being shipped out [7]
 .....\glue(\rightskip) 0.0
 ....\pdfliteral page <lua data reference ...>
 ....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {63}\HoLogo@tag@actualtext {first}{TeXLive}{\hologoRobust {TeXLive}}, \HoLogo@tag@actualtext {second}{TeXLive}{\HologoRobust {TeXLive}}}{\thepage }{section.63}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {63}\NoCaseChange {\HoLogo@tag@actualtext {first}{TeXLive}{\hologoRobust {TeXLive}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{TeXLive}{\HologoRobust {TeXLive}}}}{\thepage }{section.63}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -6679,7 +6679,7 @@ Completed box being shipped out [7]
 .....\glue(\rightskip) 0.0
 ....\pdfliteral page <lua data reference ...>
 ....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {64}\HoLogo@tag@actualtext {first}{TTH}{\hologoRobust {TTH}}, \HoLogo@tag@actualtext {second}{TTH}{\HologoRobust {TTH}}}{\thepage }{section.64}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {64}\NoCaseChange {\HoLogo@tag@actualtext {first}{TTH}{\hologoRobust {TTH}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{TTH}{\HologoRobust {TTH}}}}{\thepage }{section.64}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -6785,7 +6785,7 @@ Completed box being shipped out [7]
 .....\glue(\rightskip) 0.0
 ....\pdfliteral page <lua data reference ...>
 ....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {65}\HoLogo@tag@actualtext {first}{upLaTeX}{\hologoRobust {upLaTeX}}, \HoLogo@tag@actualtext {second}{upLaTeX}{\HologoRobust {upLaTeX}}}{\thepage }{section.65}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {65}\NoCaseChange {\HoLogo@tag@actualtext {first}{upLaTeX}{\hologoRobust {upLaTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{upLaTeX}{\HologoRobust {upLaTeX}}}}{\thepage }{section.65}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -6889,7 +6889,7 @@ Completed box being shipped out [7]
 .....\glue(\rightskip) 0.0
 ....\pdfliteral page <lua data reference ...>
 ....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {66}\HoLogo@tag@actualtext {first}{upTeX}{\hologoRobust {upTeX}}, \HoLogo@tag@actualtext {second}{upTeX}{\HologoRobust {upTeX}}}{\thepage }{section.66}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {66}\NoCaseChange {\HoLogo@tag@actualtext {first}{upTeX}{\hologoRobust {upTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{upTeX}{\HologoRobust {upTeX}}}}{\thepage }{section.66}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -6983,7 +6983,7 @@ Completed box being shipped out [7]
 .....\glue(\rightskip) 0.0
 ....\pdfliteral page <lua data reference ...>
 ....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {67}\HoLogo@tag@actualtext {first}{virTeX}{\hologoRobust {virTeX}}, \HoLogo@tag@actualtext {second}{virTeX}{\HologoRobust {virTeX}}}{\thepage }{section.67}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {67}\NoCaseChange {\HoLogo@tag@actualtext {first}{virTeX}{\hologoRobust {virTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{virTeX}{\HologoRobust {virTeX}}}}{\thepage }{section.67}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -7071,7 +7071,7 @@ Completed box being shipped out [7]
 .....\glue(\rightskip) 0.0
 ....\pdfliteral page <lua data reference ...>
 ....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {68}\HoLogo@tag@actualtext {first}{VTeX}{\hologoRobust {VTeX}}, \HoLogo@tag@actualtext {second}{VTeX}{\HologoRobust {VTeX}}}{\thepage }{section.68}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {68}\NoCaseChange {\HoLogo@tag@actualtext {first}{VTeX}{\hologoRobust {VTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{VTeX}{\HologoRobust {VTeX}}}}{\thepage }{section.68}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -7149,7 +7149,7 @@ Completed box being shipped out [7]
 .....\glue(\rightskip) 0.0
 ....\pdfliteral page <lua data reference ...>
 ....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {69}\HoLogo@tag@actualtext {first}{Xe}{\hologoRobust {Xe}}, \HoLogo@tag@actualtext {second}{Xe}{\HologoRobust {Xe}}}{\thepage }{section.69}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {69}\NoCaseChange {\HoLogo@tag@actualtext {first}{Xe}{\hologoRobust {Xe}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{Xe}{\HologoRobust {Xe}}}}{\thepage }{section.69}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -7251,7 +7251,7 @@ Completed box being shipped out [7]
 .....\glue(\rightskip) 0.0
 ....\pdfliteral page <lua data reference ...>
 ....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {70}\HoLogo@tag@actualtext {first}{XeLaTeX}{\hologoRobust {XeLaTeX}}, \HoLogo@tag@actualtext {second}{XeLaTeX}{\HologoRobust {XeLaTeX}}}{\thepage }{section.70}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {70}\NoCaseChange {\HoLogo@tag@actualtext {first}{XeLaTeX}{\hologoRobust {XeLaTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{XeLaTeX}{\HologoRobust {XeLaTeX}}}}{\thepage }{section.70}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -7404,7 +7404,7 @@ Completed box being shipped out [8]
 .....\glue(\rightskip) 0.0
 ....\pdfliteral page <lua data reference ...>
 ....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {71}\HoLogo@tag@actualtext {first}{XeTeX}{\hologoRobust {XeTeX}}, \HoLogo@tag@actualtext {second}{XeTeX}{\HologoRobust {XeTeX}}}{\thepage }{section.71}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {71}\NoCaseChange {\HoLogo@tag@actualtext {first}{XeTeX}{\hologoRobust {XeTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{XeTeX}{\HologoRobust {XeTeX}}}}{\thepage }{section.71}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
