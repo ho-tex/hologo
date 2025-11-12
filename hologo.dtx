@@ -174,6 +174,7 @@ and the derived files
 \usepackage{paralist}
 %\usepackage[T1]{fontenc}
 %\usepackage{lmodern}
+\DeclareUnicodeCharacter{1EBF}{\^e\hbox to 0pt{\hss\raise .5ex\hbox{\'{}}}}
 \begin{document}
   \DocInput{hologo.dtx}%
 \end{document}
@@ -1660,6 +1661,16 @@ and the derived files
 %
 % \subsection{Tagging support}
 % 
+% \begin{macro}{\HoLogo@tag@actualtext}
+% \cs{HoLogo@tag@actualtext} is the core command to add tagging support.
+% It is used in the various logo commands. With \LaTeX{} it calls a tagging socket.
+% To avoid that nested logos are tagged twice it redefines itself locally.
+% With plain\TeX{} it simply passes the third argument through.
+% The first argument is a keyword \texttt{first} or \texttt{second} which decides if
+% the uppercase or lowercase version of a name is used (in the few cases where this distinction
+% exists), the second argument is the key name, the third the typesetting command.
+% If a key name KEY is not suitable as actualtext, a replacement can be provided by defining
+% a command with one argument named \cs{HoLogo@tag@KEY}, see the various examples. 
 %    \begin{macrocode}
 \ifcsname NewTaggingSocket\endcsname
   \NewTaggingSocket{hologo/logo}{2}
@@ -1690,6 +1701,7 @@ and the derived files
   \def\HoLogo@tag@actualtext#1#2#3{#3}
 \fi
 %    \end{macrocode}
+% \end{macro}
 % \subsection{\hologo{TeX} and friends}
 %
 % \subsubsection{\hologo{TeX}}
@@ -4943,6 +4955,7 @@ $ #1{\string ^^^^0395}{\string ^^^^03b5}%
 %     \hologo{TeXLive}. (GitHub PR \#11 from myhsia)
 %   \item require that \cs{ifincsname} is supported 
 %   \item require that \cs{protected} is supported 
+%   \item added tagging support    
 %   \end{Version}
 % \end{History}
 %
