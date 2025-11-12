@@ -78,7 +78,7 @@
   \RangeCatcodeInvalid{0}{47}%
   \RangeCatcodeInvalid{58}{64}%
   \RangeCatcodeInvalid{91}{96}%
-  \RangeCatcodeInvalid{123}{255}%
+  %\RangeCatcodeInvalid{123}{255}%
   \catcode`\@=12 %
   \catcode`\\=0 %
   \catcode`\%=14 %
@@ -94,7 +94,7 @@
   \RangeCatcodeCheck{92}{92}{0}%
   \RangeCatcodeCheck{93}{96}{15}%
   \RangeCatcodeCheck{97}{122}{11}%
-  \RangeCatcodeCheck{123}{255}{15}%
+  %\RangeCatcodeCheck{123}{255}{15}%
   \RestoreCatcodes
 }
 \START
