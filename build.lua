@@ -8,7 +8,7 @@ installfiles = {
 '*.dtx','*.pdf'
 }
 
-
+checkconfigs = {"build","config-plain"}
 textfiles = {"README.md"}
 unpackfiles = {'hologo.dtx'}
 

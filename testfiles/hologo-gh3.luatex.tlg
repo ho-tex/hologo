@@ -1,0 +1,119 @@
+This is a generated file for the l3build validation system.
+Don't change this file in any respect.
+Completed box being shipped out [1]
+\vbox(627.36243+0.0)x380.0, direction TLT
+.\glue 22.0
+.\vbox(605.36243+0.0)x345.0, shifted 35.0, direction TLT
+..\vbox(12.0+0.0)x345.0, glue set 4.84fil, direction TLT
+...\glue 0.0 plus 1.0fil
+...\hbox(7.16+0.22)x345.0, direction TLT
+....\hbox(7.16+0.22)x345.0, glue set 179.50002fil, direction TLT
+.....\TU/lmr/m/sl/10 0
+.....\TU/lmr/m/sl/10 .
+.....\TU/lmr/m/sl/10 1
+.....\TU/lmr/m/sl/10 .
+.....\glue(\spaceskip) 4.44 plus 4.99498 minus 0.37
+.....\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.....\TU/lmr/m/sl/10 O
+.....\glue(\spaceskip) 3.33 plus 1.66331 minus 1.1111
+.....\TU/lmr/m/sl/10 E
+.....\TU/lmr/m/sl/10 C
+.....\TU/lmr/m/sl/10 O
+.....\TU/lmr/m/sl/10 S
+.....\discretionary (penalty 50)
+......< \TU/lmr/m/sl/10 -
+.....\TU/lmr/m/sl/10 S
+.....\TU/lmr/m/sl/10 I
+.....\TU/lmr/m/sl/10 S
+.....\discretionary (penalty 50)
+......< \TU/lmr/m/sl/10 -
+.....\TU/lmr/m/sl/10 T
+.....\TU/lmr/m/sl/10 E
+.....\TU/lmr/m/sl/10 M
+.....\TU/lmr/m/sl/10 A
+.....\glue(\spaceskip) 3.33 plus 1.66331 minus 1.1111
+.....\hbox(6.94+0.11)x8.34, direction TLT
+......\TU/lmr/m/sl/10 b
+......\TU/lmr/m/sl/10 i
+.....\hbox(6.94+0.11)x14.2, direction TLT
+......\TU/lmr/m/sl/10 b
+......\kern0.28 (font)
+......\TU/lmr/m/sl/10 e
+......\TU/lmr/m/sl/10 r
+.....\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.....\hbox(6.83+0.0)x9.86, direction TLT
+......\TU/lmr/m/sl/10 B
+......\TU/lmr/m/sl/10 i
+.....\hbox(6.94+0.11)x14.2, direction TLT
+......\TU/lmr/m/sl/10 b
+......\kern0.28 (font)
+......\TU/lmr/m/sl/10 e
+......\TU/lmr/m/sl/10 r
+.....\glue 0.0 plus 1.0fil
+.....\TU/lmr/m/n/10 1
+..\glue 18.06749
+..\glue(\lineskip) 0.0
+..\vbox(550.0+0.0)x345.0, glue set 529.86304fil, direction TLT
+...\write-{}
+...\glue(\topskip) 0.0
+...\hbox(10.0512+0.1728)x345.0, glue set 120.36012fil, direction TLT
+....\localpar
+.....\localinterlinepenalty=0
+.....\localbrokenpenalty=0
+.....\localleftbox=null
+.....\localrightbox=null
+....\hbox(9.4464+0.1728)x35.12158, direction TLT
+.....\glue 0.0
+.....\TU/lmr/bx/n/14.4 0
+.....\TU/lmr/bx/n/14.4 .
+.....\TU/lmr/bx/n/14.4 1
+.....\glue 14.4
+....\TU/lmr/bx/n/14.4 O
+....\glue(\spaceskip) 5.4 plus 2.6973 minus 1.8018
+....\TU/lmr/bx/n/14.4 E
+....\TU/lmr/bx/n/14.4 c
+....\TU/lmr/bx/n/14.4 o
+....\TU/lmr/bx/n/14.4 s
+....\discretionary (penalty 50)
+.....< \TU/lmr/bx/n/14.4 -
+....\TU/lmr/bx/n/14.4 s
+....\TU/lmr/bx/n/14.4 i
+....\TU/lmr/bx/n/14.4 s
+....\discretionary (penalty 50)
+.....< \TU/lmr/bx/n/14.4 -
+....\TU/lmr/bx/n/14.4 t
+....\TU/lmr/bx/n/14.4 e
+....\TU/lmr/bx/n/14.4 m
+....\TU/lmr/bx/n/14.4 a
+....\glue(\spaceskip) 5.4 plus 2.7 minus 1.8
+....\hbox(9.99359+0.0864)x13.5072, direction TLT
+.....\TU/lmr/bx/n/14.4 b
+.....\TU/lmr/bx/n/14.4 i
+....\hbox(9.99359+0.0864)x23.45758, direction TLT
+.....\TU/lmr/bx/n/14.4 b
+.....\kern0.4464 (font)
+.....\TU/lmr/bx/n/14.4 e
+.....\TU/lmr/bx/n/14.4 r
+....\glue(\spaceskip) 5.4 plus 2.7 minus 1.8
+....\hbox(9.8784+0.0)x16.02719, direction TLT
+.....\TU/lmr/bx/n/14.4 B
+.....\TU/lmr/bx/n/14.4 i
+....\hbox(9.99359+0.0864)x23.45758, direction TLT
+.....\TU/lmr/bx/n/14.4 b
+.....\kern0.4464 (font)
+.....\TU/lmr/bx/n/14.4 e
+.....\TU/lmr/bx/n/14.4 r
+....\penalty 10000
+....\glue(\parfillskip) 0.0 plus 1.0fil
+....\glue(\rightskip) 0.0
+...\marks2{\__mark_value:nn {1}{\MakeUppercase    []{0.1. \ O Ecossistema \NoCaseChange {\HoLogo@tag@actualtext {first}{biber}{\hologoRobust {biber}}} \NoCaseChange {\HoLogo@tag@actualtext {second}{biber}{\HologoRobust {biber}}}}}}
+...\marks3{\__mark_value:nn {2}{\MakeUppercase    []{0.1. \ O Ecossistema \NoCaseChange {\HoLogo@tag@actualtext {first}{biber}{\hologoRobust {biber}}} \NoCaseChange {\HoLogo@tag@actualtext {second}{biber}{\HologoRobust {biber}}}}}}
+...\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {0.1}O Ecossistema \NoCaseChange {\HoLogo@tag@actualtext {first}{biber}{\hologoRobust {biber}}} \NoCaseChange {\HoLogo@tag@actualtext {second}{biber}{\HologoRobust {biber}}}}{\thepage }{}\protected@file@percent }}
+...\penalty 10000
+...\glue 9.913 plus 0.86198
+...\glue 0.0 plus 1.0fil
+...\glue 0.0
+..\glue(\baselineskip) 25.29494
+..\hbox(0.0+0.0)x345.0, direction TLT
+...\hbox(0.0+0.0)x345.0, direction TLT
+(hologo-gh3.aux)

@@ -174,6 +174,7 @@ and the derived files
 \usepackage{paralist}
 %\usepackage[T1]{fontenc}
 %\usepackage{lmodern}
+\DeclareUnicodeCharacter{1EBF}{\^e\hbox to 0pt{\hss\raise .5ex\hbox{\'{}}}}
 \begin{document}
   \DocInput{hologo.dtx}%
 \end{document}
@@ -803,11 +804,17 @@ and the derived files
 % \subsection{Load resources}
 %
 %    \begin{macrocode}
-\begingroup\expandafter\expandafter\expandafter\endgroup
-\expandafter\ifx\csname RequirePackage\endcsname\relax
+\ifcsname RequirePackage\endcsname
+  \RequirePackage{ltxcmds}[2011/02/04]%
+  \RequirePackage{infwarerr}[2010/04/08]%
+  \RequirePackage{kvsetkeys}[2010/03/01]%
+  \RequirePackage{kvdefinekeys}[2010/03/01]%
+  \RequirePackage{pdftexcmds}[2010/04/01]%
+  \RequirePackage{iftex}[2019/11/07]%  
+\else
   \def\TMP@RequirePackage#1[#2]{%
-    \begingroup\expandafter\expandafter\expandafter\endgroup
-    \expandafter\ifx\csname ver@#1.sty\endcsname\relax
+    \ifcsname ver@#1.sty\endcsname
+    \else
       \input #1.sty\relax
     \fi
   }%
@@ -820,13 +827,7 @@ and the derived files
   \ltx@IfUndefined{newif}{%
     \expandafter\let\csname newif\endcsname\ltx@newif
   }{}%
-\else
-  \RequirePackage{ltxcmds}[2011/02/04]%
-  \RequirePackage{infwarerr}[2010/04/08]%
-  \RequirePackage{kvsetkeys}[2010/03/01]%
-  \RequirePackage{kvdefinekeys}[2010/03/01]%
-  \RequirePackage{pdftexcmds}[2010/04/01]%
-  \RequirePackage{iftex}[2019/11/07]%
+  \def\NoCaseChange#1{#1}
 \fi
 %    \end{macrocode}
 %
@@ -1205,7 +1206,7 @@ and the derived files
   \HoLogoFont@Def{bibsf}{\tensc}%
 }{%
   \HoLogoFont@Def{bibsf}{%
-    $\mathsurround=0pt$%
+    $\m@th$%
     \csname S@\f@size\endcsname
     \fontsize\sf@size{0pt}%
     \math@fontsfalse
@@ -1340,65 +1341,20 @@ and the derived files
 %
 % \subsubsection{\cs{hologo} and friends}
 %
-%    \begin{macrocode}
-\ifluatex
-  \expandafter\ltx@firstofone
-\else
-  \expandafter\ltx@gobble
-\fi
-{%
-  \ltx@IfUndefined{ifincsname}{%
-    \ifnum\luatexversion<36 %
-      \expandafter\ltx@gobble
-    \else
-      \expandafter\ltx@firstofone
-    \fi
-    {%
-      \begingroup
-        \ifcase0%
-            \directlua{%
-              if tex.enableprimitives then %
-                tex.enableprimitives('HOLOGO@', {'ifincsname'})%
-              else %
-                tex.print('1')%
-              end%
-            }%
-            \ifx\HOLOGO@ifincsname\@undefined 1\fi%
-            \relax
-          \expandafter\ltx@firstofone
-        \else
-          \endgroup
-          \expandafter\ltx@gobble
-        \fi
-        {%
-          \global\let\ifincsname\HOLOGO@ifincsname
-        }%
-      \HOLOGO@temp
-    }%
-  }{}%
-}
-%    \end{macrocode}
-%    \begin{macrocode}
-\ltx@IfUndefined{ifincsname}{%
-  \catcode`$=14 %
-}{%
-  \catcode`$=9 %
-}
-%    \end{macrocode}
 %
 %    \begin{macro}{\hologo}
 %    \begin{macrocode}
 \def\hologo#1{%
-$ \ifincsname
-$   \ltx@ifundefined{HoLogoCs@\HOLOGO@Variant{#1}}{%
-$     #1%
-$   }{%
-$     \csname HoLogoCs@\HOLOGO@Variant{#1}\endcsname\ltx@firstoftwo
-$   }%
-$ \else
+ \ifincsname
+   \ltx@ifundefined{HoLogoCs@\HOLOGO@Variant{#1}}{%
+     #1%
+   }{%
+     \csname HoLogoCs@\HOLOGO@Variant{#1}\endcsname\ltx@firstoftwo
+   }%
+ \else
     \HOLOGO@IfExists\texorpdfstring\texorpdfstring\ltx@firstoftwo
     {%
-      \hologoRobust{#1}%
+      \NoCaseChange{\HoLogo@tag@actualtext{first}{#1}{\hologoRobust{#1}}}%
     }{%
       \ltx@ifundefined{HoLogoBkm@\HOLOGO@Variant{#1}}{%
         \ltx@ifundefined{HoLogo@#1}{?#1?}{#1}%
@@ -1407,23 +1363,23 @@ $ \else
         \ltx@firstoftwo
       }%
     }%
-$ \fi
+ \fi
 }
 %    \end{macrocode}
 %    \end{macro}
 %    \begin{macro}{\Hologo}
 %    \begin{macrocode}
 \def\Hologo#1{%
-$ \ifincsname
-$   \ltx@ifundefined{HoLogoCs@\HOLOGO@Variant{#1}}{%
-$     #1%
-$   }{%
-$     \csname HoLogoCs@\HOLOGO@Variant{#1}\endcsname\ltx@secondoftwo
-$   }%
-$ \else
+ \ifincsname
+   \ltx@ifundefined{HoLogoCs@\HOLOGO@Variant{#1}}{%
+     #1%
+   }{%
+     \csname HoLogoCs@\HOLOGO@Variant{#1}\endcsname\ltx@secondoftwo
+   }%
+ \else
     \HOLOGO@IfExists\texorpdfstring\texorpdfstring\ltx@firstoftwo
     {%
-      \HologoRobust{#1}%
+      \NoCaseChange{\HoLogo@tag@actualtext{second}{#1}{\HologoRobust{#1}}}%
     }{%
       \ltx@ifundefined{HoLogoBkm@\HOLOGO@Variant{#1}}{%
         \ltx@ifundefined{HoLogo@#1}{?#1?}{#1}%
@@ -1432,7 +1388,7 @@ $ \else
         \ltx@secondoftwo
       }%
     }%
-$ \fi
+ \fi
 }
 %    \end{macrocode}
 %    \end{macro}
@@ -1443,16 +1399,16 @@ $ \fi
   \ifx\relax#2\relax
     \hologo{#1}%
   \else
-$   \ifincsname
-$     \ltx@ifundefined{HoLogoCs@#1@#2}{%
-$       #1%
-$     }{%
-$       \csname HoLogoCs@#1@#2\endcsname\ltx@firstoftwo
-$     }%
-$   \else
+   \ifincsname
+     \ltx@ifundefined{HoLogoCs@#1@#2}{%
+       #1%
+     }{%
+       \csname HoLogoCs@#1@#2\endcsname\ltx@firstoftwo
+     }%
+   \else
       \HOLOGO@IfExists\texorpdfstring\texorpdfstring\ltx@firstoftwo
       {%
-        \hologoVariantRobust{#1}{#2}%
+        \NoCaseChange{\HoLogo@tag@actualtext{first}{#1}{\hologoVariantRobust{#1}{#2}}}%
       }{%
         \ltx@ifundefined{HoLogoBkm@#1@#2}{%
           \ltx@ifundefined{HoLogo@#1}{?#1?}{#1}%
@@ -1461,7 +1417,7 @@ $   \else
           \ltx@firstoftwo
         }%
       }%
-$   \fi
+   \fi
   \fi
 }
 %    \end{macrocode}
@@ -1472,16 +1428,16 @@ $   \fi
   \ifx\relax#2\relax
     \Hologo{#1}%
   \else
-$   \ifincsname
-$     \ltx@ifundefined{HoLogoCs@#1@#2}{%
-$       #1%
-$     }{%
-$       \csname HoLogoCs@#1@#2\endcsname\ltx@secondoftwo
-$     }%
-$   \else
+   \ifincsname
+     \ltx@ifundefined{HoLogoCs@#1@#2}{%
+       #1%
+     }{%
+       \csname HoLogoCs@#1@#2\endcsname\ltx@secondoftwo
+     }%
+   \else
       \HOLOGO@IfExists\texorpdfstring\texorpdfstring\ltx@firstoftwo
       {%
-        \HologoVariantRobust{#1}{#2}%
+        \NoCaseChange{\HoLogo@tag@actualtext{second}{#1}{\HologoVariantRobust{#1}{#2}}}%
       }{%
         \ltx@ifundefined{HoLogoBkm@#1@#2}{%
           \ltx@ifundefined{HoLogo@#1}{?#1?}{#1}%
@@ -1490,30 +1446,17 @@ $   \else
           \ltx@secondoftwo
         }%
       }%
-$   \fi
+   \fi
   \fi
 }
 %    \end{macrocode}
 %    \end{macro}
 %
-%    \begin{macrocode}
-\catcode`\$=3 %
-%    \end{macrocode}
-%
 % \subsubsection{\cs{hologoRobust} and friends}
 %
 %    \begin{macro}{\hologoRobust}
 %    \begin{macrocode}
-\ltx@IfUndefined{protected}{%
-  \ltx@IfUndefined{DeclareRobustCommand}{%
-    \def\hologoRobust#1%
-  }{%
-    \DeclareRobustCommand*\hologoRobust[1]%
-  }%
-}{%
-  \protected\def\hologoRobust#1%
-}%
-{%
+\protected\def\hologoRobust#1{%
   \edef\HOLOGO@name{#1}%
   \ltx@IfUndefined{HoLogo@\HOLOGO@Variant\HOLOGO@name}{%
     \@PackageError{hologo}{%
@@ -1522,10 +1465,10 @@ $   \fi
     ?\HOLOGO@name?%
   }{%
     \ltx@IfUndefined{ver@tex4ht.sty}{%
-      \HoLogoFont@font\HOLOGO@name{general}{%
-        \csname HoLogo@\HOLOGO@Variant\HOLOGO@name\endcsname
+       \HoLogoFont@font\HOLOGO@name{general}{%
+        \csname HoLogo@\HOLOGO@Variant\HOLOGO@name\endcsname%
         \ltx@firstoftwo
-      }%
+        }%
     }{%
       \ltx@IfUndefined{HoLogoHtml@\HOLOGO@Variant\HOLOGO@name}{%
         \HOLOGO@name
@@ -1540,16 +1483,7 @@ $   \fi
 %    \end{macro}
 %    \begin{macro}{\HologoRobust}
 %    \begin{macrocode}
-\ltx@IfUndefined{protected}{%
-  \ltx@IfUndefined{DeclareRobustCommand}{%
-    \def\HologoRobust#1%
-  }{%
-    \DeclareRobustCommand*\HologoRobust[1]%
-  }%
-}{%
-  \protected\def\HologoRobust#1%
-}%
-{%
+\protected\def\HologoRobust#1{%
   \edef\HOLOGO@name{#1}%
   \ltx@IfUndefined{HoLogo@\HOLOGO@Variant\HOLOGO@name}{%
     \@PackageError{hologo}{%
@@ -1576,16 +1510,7 @@ $   \fi
 %    \end{macro}
 %    \begin{macro}{\hologoVariantRobust}
 %    \begin{macrocode}
-\ltx@IfUndefined{protected}{%
-  \ltx@IfUndefined{DeclareRobustCommand}{%
-    \def\hologoVariantRobust#1#2%
-  }{%
-    \DeclareRobustCommand*\hologoVariantRobust[2]%
-  }%
-}{%
-  \protected\def\hologoVariantRobust#1#2%
-}%
-{%
+\protected\def\hologoVariantRobust#1#2{%
   \begingroup
     \hologoLogoSetup{#1}{variant={#2}}%
     \hologoRobust{#1}%
@@ -1595,16 +1520,7 @@ $   \fi
 %    \end{macro}
 %    \begin{macro}{\HologoVariantRobust}
 %    \begin{macrocode}
-\ltx@IfUndefined{protected}{%
-  \ltx@IfUndefined{DeclareRobustCommand}{%
-    \def\HologoVariantRobust#1#2%
-  }{%
-    \DeclareRobustCommand*\HologoVariantRobust[2]%
-  }%
-}{%
-  \protected\def\HologoVariantRobust#1#2%
-}%
-{%
+\protected\def\HologoVariantRobust#1#2{%
   \begingroup
     \hologoLogoSetup{#1}{variant={#2}}%
     \HologoRobust{#1}%
@@ -1648,6 +1564,7 @@ $   \fi
 %    \begin{macrocode}
 \def\HOLOGO@MathSetup{%
   \mathsurround0pt\relax
+  \csname m@th\endcsname
   \HOLOGO@IfExists\f@series{%
     \if b\expandafter\ltx@car\f@series x\@nil
       \csname boldmath\endcsname
@@ -1721,7 +1638,7 @@ $   \fi
         $%
           _{%
             \ltx@IfUndefined{sf@size}{%
-              \mathrm{#1}%
+              {\rm#1}%
             }{%
               \mbox{%
                 \fontsize\sf@size{0pt}\selectfont
@@ -1733,7 +1650,7 @@ $   \fi
       }%
     }{%
       \ltx@mbox{%
-        \mathsurround=0pt\relax
+        \m@th\relax
         $_{\text{#1}}$%
       }%
     }%
@@ -1744,6 +1661,49 @@ $   \fi
 %    \end{macrocode}
 %    \end{macro}
 %
+% \subsection{Tagging support}
+% 
+% \begin{macro}{\HoLogo@tag@actualtext}
+% \cs{HoLogo@tag@actualtext} is the core command to add tagging support.
+% It is used in the various logo commands. With \LaTeX{} it calls a tagging socket.
+% To avoid that nested logos are tagged twice it redefines itself locally.
+% With plain\TeX{} it simply passes the third argument through.
+% The first argument is a keyword \texttt{first} or \texttt{second} which decides if
+% the uppercase or lowercase version of a name is used (in the few cases where this distinction
+% exists), the second argument is the key name, the third the typesetting command.
+% If a key name KEY is not suitable as actualtext, a replacement can be provided by defining
+% a command with one argument named \cs{HoLogo@tag@KEY}, see the various examples. 
+%    \begin{macrocode}
+\ifcsname NewTaggingSocket\endcsname
+  \NewTaggingSocket{hologo/logo}{2}
+  \NewTaggingSocketPlug{hologo/logo}{default}
+   {\leavevmode
+    \tagmcend
+    \tagstructbegin{tag=Span,actualtext=#1}%
+    \tagmcbegin{}%
+    #2
+    \tagmcend
+    \tagstructend
+    \tagmcbegin{}%
+    }
+  \AssignTaggingSocketPlug{hologo/logo}{default} 
+  \protected\def\HoLogo@tag@actualtext#1#2#3{%
+    \begingroup
+    \def\HoLogo@tag@actualtext##1##2##3{##3}%
+    \ifcsname HoLogo@tag@#2\endcsname %
+      \edef\HoLogo@temp@actualtext
+        {\csname HoLogo@tag@#2\endcsname{\csname ltx@#1oftwo\endcsname}}%
+    \else
+      \edef\HoLogo@temp@actualtext{#2}%
+    \fi  
+      \UseTaggingSocket{hologo/logo}{\HoLogo@temp@actualtext}{#3}%
+     \endgroup  
+    }
+\else
+  \def\HoLogo@tag@actualtext#1#2#3{#3}
+\fi
+%    \end{macrocode}
+% \end{macro}
 % \subsection{\hologo{TeX} and friends}
 %
 % \subsubsection{\hologo{TeX}}
@@ -1755,7 +1715,7 @@ $   \fi
   T\kern-.1667em\lower.5ex\hbox{E}\kern-.125emX\HOLOGO@SpaceFactor
 }
 %    \end{macrocode}
-%    \end{macro}
+%    \end{macro}% 
 %    \begin{macro}{\HoLogoHtml@TeX}
 %    \begin{macrocode}
 \def\HoLogoHtml@TeX#1{%
@@ -1880,6 +1840,13 @@ $   \fi
 \def\HoLogo@plainTeX{\HoLogo@plainTeX@space}
 %    \end{macrocode}
 %    \end{macro}
+%    
+% \begin{macro}{\HoLogo@tag@plainTeX}
+%    \begin{macrocode}
+\def\HoLogo@tag@plainTeX#1{#1{p}{P}lain TeX}
+%    \end{macrocode}
+% \end{macro}
+%
 %    \begin{macro}{\HoLogoCs@plainTeX}
 %    \begin{macrocode}
 \def\HoLogoCs@plainTeX{\HoLogoCs@plainTeX@space}
@@ -1947,7 +1914,6 @@ $   \fi
 }
 %    \end{macrocode}
 %    \end{macro}
-%
 %    \begin{macro}{\HoLogo@LaTeX}
 %    Source: \hologo{LaTeX} kernel.
 %    \begin{macrocode}
@@ -2034,6 +2000,12 @@ $   \fi
 }
 %    \end{macrocode}
 %    \end{macro}
+% \begin{macro}{\HoLogo@tag@LaTeXTeX}
+%    \begin{macrocode}
+\def\HoLogo@tag@LaTeXTeX#1{(La)TeX}
+%    \end{macrocode}
+% \end{macro}
+
 %    \begin{macro}{\HoLogoBkm@LaTeXTeX}
 %    \begin{macrocode}
 \def\HoLogoBkm@LaTeXTeX#1{(La)TeX}
@@ -2118,6 +2090,12 @@ $   \fi
 }
 %    \end{macrocode}
 %    \end{macro}
+%    
+% \begin{macro}{\HoLogo@tag@LaTeXe}
+%    \begin{macrocode}
+\def\HoLogo@tag@LaTeXe#1{LaTeX2e}
+%    \end{macrocode}
+% \end{macro}
 %
 %    \begin{macro}{\HoLogoCs@LaTeXe}
 %    \begin{macrocode}
@@ -2189,6 +2167,12 @@ $ \string ^^^^0395%
 \let\csname HoLogo@LaTeX2e\endcsname\HoLogo@LaTeXe
 %    \end{macrocode}
 %    \end{macro}
+% \begin{macro}{\HoLogo@tag@LaTeX2e}
+%    \begin{macrocode}
+\expandafter\let\csname HoLogo@tag@LaTeX2e\endcsname\HoLogo@tag@LaTeXe
+%    \end{macrocode}
+% \end{macro}
+
 %    \begin{macro}{\HoLogoCs@LaTeX2e}
 %    \begin{macrocode}
 \expandafter
@@ -2219,7 +2203,6 @@ $ \string ^^^^0395%
 }
 %    \end{macrocode}
 %    \end{macro}
-%
 %    \begin{macro}{\HoLogoBkm@LaTeX3}
 %    \begin{macrocode}
 \expandafter\def\csname HoLogoBkm@LaTeX3\endcsname#1{%
@@ -2346,6 +2329,13 @@ $ #1{\string ^^^^0395}{\string ^^^^03b5}%
 }
 %    \end{macrocode}
 %    \end{macro}
+%    
+% \begin{macro}{\HoLogo@tag@iniTeX}
+%    \begin{macrocode}
+\def\HoLogo@tag@iniTeX#1{#1{i}{I}niTeX}
+%    \end{macrocode}
+% \end{macro}
+%    
 %    \begin{macro}{\HoLogoCs@iniTeX}
 %    \begin{macrocode}
 \def\HoLogoCs@iniTeX#1{#1{i}{I}niTeX}
@@ -2375,6 +2365,13 @@ $ #1{\string ^^^^0395}{\string ^^^^03b5}%
 }
 %    \end{macrocode}
 %    \end{macro}
+%
+% \begin{macro}{\HoLogo@tag@virTeX}
+%    \begin{macrocode}
+\def\HoLogo@tag@virTeX#1{#1{v}{V}irTeX}
+%    \end{macrocode}
+% \end{macro}
+%    
 %    \begin{macro}{\HoLogoCs@virTeX}
 %    \begin{macrocode}
 \def\HoLogoCs@virTeX#1{#1{v}{V}irTeX}
@@ -2888,7 +2885,6 @@ $ #1{\string ^^^^0395}{\string ^^^^03b5}%
 }
 %    \end{macrocode}
 %    \end{macro}
-%
 %    \begin{macro}{\HoLogoHtml@XeTeX}
 %    \begin{macrocode}
 \def\HoLogoHtml@XeTeX#1{%
@@ -3083,6 +3079,13 @@ $ #1{\string ^^^^0395}{\string ^^^^03b5}%
 }
 %    \end{macrocode}
 %    \end{macro}
+%    
+% \begin{macro}{\HoLogo@tag@pdfTeX}
+%    \begin{macrocode}
+\def\HoLogo@tag@pdfTeX#1{#1{p}{P}dfTeX}
+%    \end{macrocode}
+% \end{macro}
+%
 %    \begin{macro}{\HoLogoCs@pdfTeX}
 %    \begin{macrocode}
 \def\HoLogoCs@pdfTeX#1{#1{p}{P}dfTeX}
@@ -3110,6 +3113,13 @@ $ #1{\string ^^^^0395}{\string ^^^^03b5}%
 }
 %    \end{macrocode}
 %    \end{macro}
+%    
+% \begin{macro}{\HoLogo@tag@pdfLaTeX}
+%    \begin{macrocode}
+\def\HoLogo@tag@pdfLaTeX#1{#1{p}{P}dfLaTeX}
+%    \end{macrocode}
+% \end{macro}
+%    
 %    \begin{macro}{\HoLogoCs@pdfLaTeX}
 %    \begin{macrocode}
 \def\HoLogoCs@pdfLaTeX#1{#1{p}{P}dfLaTeX}
@@ -3207,6 +3217,13 @@ $ #1{\string ^^^^0395}{\string ^^^^03b5}%
 }
 %    \end{macrocode}
 %    \end{macro}
+%    
+% \begin{macro}{\HoLogo@tag@AmSTeX}
+%    \begin{macrocode}
+\def\HoLogo@tag@AmsTeX#1{AmS-TeX}
+%    \end{macrocode}
+% \end{macro}
+    
 %    \begin{macro}{\HoLogoBkm@AmSTeX}
 %    \begin{macrocode}
 \def\HoLogoBkm@AmSTeX#1{AmS-TeX}%
@@ -3512,6 +3529,13 @@ $ #1{\string ^^^^0395}{\string ^^^^03b5}%
 }
 %    \end{macrocode}
 %    \end{macro}
+%    
+% \begin{macro}{\HoLogo@tag@emTeX}
+%    \begin{macrocode}
+\def\HoLogo@tag@emTeX#1{#1{e}{E}mTeX}
+%    \end{macrocode}
+% \end{macro}
+%    
 %    \begin{macro}{\HoLogoCs@emTeX}
 %    \begin{macrocode}
 \def\HoLogoCs@emTeX#1{#1{e}{E}mTeX}%
@@ -3573,6 +3597,12 @@ $ #1{\string ^^^^0395}{\string ^^^^03b5}%
 }
 %    \end{macrocode}
 %    \end{macro}
+% \begin{macro}{\HoLogo@tag@ExTeX}
+%    \begin{macrocode}
+\def\HoLogo@tag@ExTeX#1{#1{e}{E}xTeX}
+%    \end{macrocode}
+% \end{macro}
+    
 %    \begin{macro}{\HoLogoHtml@ExTeX}
 %    \begin{macrocode}
 \def\HoLogoHtml@ExTeX#1{%
@@ -3627,6 +3657,12 @@ $ #1{\string ^^^^0395}{\string ^^^^03b5}%
 }
 %    \end{macrocode}
 %    \end{macro}
+% \begin{macro}{\HoLogo@tag@TeXLive}
+%    \begin{macrocode}
+\def\HoLogo@tag@TeXLive#1{TeX Live}
+%    \end{macrocode}
+% \end{macro}
+%
 %    \begin{macro}{\HoLogoHtml@TeXLive}
 %    \begin{macrocode}
 \let\HoLogoHtml@TeXLive\HoLogo@TeXLive
@@ -3952,6 +3988,12 @@ $ #1{\string ^^^^0395}{\string ^^^^03b5}%
 }
 %    \end{macrocode}
 %    \end{macro}
+% \begin{macro}{\HoLogo@tag@biber}
+%    \begin{macrocode}
+\def\HoLogo@tag@biber#1{#1{b}{B}iber}
+%    \end{macrocode}
+% \end{macro}
+%    
 %    \begin{macro}{\HoLogoCs@biber}
 %    \begin{macrocode}
 \def\HoLogoCs@biber#1{#1{b}{B}iber}
@@ -4225,6 +4267,12 @@ $ #1{\string ^^^^0395}{\string ^^^^03b5}%
 }
 %    \end{macrocode}
 %    \end{macro}
+% \begin{macro}{\HoLogo@tag@HanTheThanh}
+%    \begin{macrocode}
+\def\HoLogo@tag@HanTheThanh#1{Hàn Thế Thành}
+%    \end{macrocode}
+% \end{macro}
+    
 %    \begin{macro}{\HoLogoBkm@HanTheThanh}
 %    \begin{macrocode}
 \def\HoLogoBkm@HanTheThanh#1{%
@@ -4637,9 +4685,10 @@ $ #1{\string ^^^^0395}{\string ^^^^03b5}%
 %
 % \paragraph{Unpacking.} The \xfile{.dtx} file is a self-extracting
 % \docstrip\ archive. The files are extracted by running the
-% \xfile{.dtx} through \plainTeX:
+% \xfile{.dtx} through \plainTeX{} with the \texttt{-8bit} switch set:
 % \begin{quote}
-%   \verb|tex hologo.dtx|
+%   \verb|pdftex hologo.dtx| or \\
+%   \verb|tex -8bit hologo.dtx|
 % \end{quote}
 %
 % \paragraph{TDS.} Now the different files must be moved into
@@ -4965,7 +5014,11 @@ $ #1{\string ^^^^0395}{\string ^^^^03b5}%
 %     \hologo{ApLaTeX},
 %     \hologo{TeXLive},
 %     \hologo{DVIPDFMx}. (GitHub PR \#11 and \#12 from myhsia)
-%     \item Preserve height in reflectbox (GitHub \#9)
+%   \item require that \cs{ifincsname} is supported 
+%   \item require that \cs{protected} is supported 
+%   \item added tagging support  
+%   \item guard the logos against case changes, (GitHub \#3)  
+%   \item Preserve height in reflectbox (GitHub \#9)
 %   \end{Version}
 % \end{History}
 %
