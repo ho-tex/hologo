@@ -88,7 +88,7 @@ Completed box being shipped out [1]
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
 ....\write3{\protect \BOOKMARK [1][-]{section.1}{\376\377\000\050\000L\000a\000\051\000T\000e\000X\000,\000\040\000\050\000L\000a\000\051\000T\000e\000X}{}% 1}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {1}\hologoRobust {(La)TeX}, \HologoRobust {(La)TeX}}{\thepage }{section.1}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {1}\HoLogo@tag@actualtext {first}{(La)TeX}{\hologoRobust {(La)TeX}}, \HoLogo@tag@actualtext {second}{(La)TeX}{\HologoRobust {(La)TeX}}}{\thepage }{section.1}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -181,7 +181,7 @@ Completed box being shipped out [1]
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
 ....\write3{\protect \BOOKMARK [1][-]{section.2}{\376\377\000A\000p\000L\000a\000T\000e\000X\000,\000\040\000A\000p\000L\000a\000T\000e\000X}{}% 2}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {2}\hologoRobust {ApLaTeX}, \HologoRobust {ApLaTeX}}{\thepage }{section.2}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {2}\HoLogo@tag@actualtext {first}{ApLaTeX}{\hologoRobust {ApLaTeX}}, \HoLogo@tag@actualtext {second}{ApLaTeX}{\HologoRobust {ApLaTeX}}}{\thepage }{section.2}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -263,7 +263,7 @@ Completed box being shipped out [1]
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
 ....\write3{\protect \BOOKMARK [1][-]{section.3}{\376\377\000A\000p\000T\000e\000X\000,\000\040\000A\000p\000T\000e\000X}{}% 3}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {3}\hologoRobust {ApTeX}, \HologoRobust {ApTeX}}{\thepage }{section.3}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {3}\HoLogo@tag@actualtext {first}{ApTeX}{\hologoRobust {ApTeX}}, \HoLogo@tag@actualtext {second}{ApTeX}{\HologoRobust {ApTeX}}}{\thepage }{section.3}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -357,7 +357,7 @@ Completed box being shipped out [1]
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
 ....\write3{\protect \BOOKMARK [1][-]{section.4}{\376\377\000A\000m\000S\000-\000L\000a\000T\000e\000X\000,\000\040\000A\000m\000S\000-\000L\000a\000T\000e\000X}{}% 4}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {4}\hologoRobust {AmSLaTeX}, \HologoRobust {AmSLaTeX}}{\thepage }{section.4}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {4}\HoLogo@tag@actualtext {first}{AmSLaTeX}{\hologoRobust {AmSLaTeX}}, \HoLogo@tag@actualtext {second}{AmSLaTeX}{\HologoRobust {AmSLaTeX}}}{\thepage }{section.4}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -446,7 +446,7 @@ Completed box being shipped out [1]
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
 ....\write3{\protect \BOOKMARK [1][-]{section.5}{\376\377\000A\000m\000S\000-\000T\000e\000X\000,\000\040\000A\000m\000S\000-\000T\000e\000X}{}% 5}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {5}\hologoRobust {AmSTeX}, \HologoRobust {AmSTeX}}{\thepage }{section.5}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {5}\HoLogo@tag@actualtext {first}{AmSTeX}{\hologoRobust {AmSTeX}}, \HoLogo@tag@actualtext {second}{AmSTeX}{\HologoRobust {AmSTeX}}}{\thepage }{section.5}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -516,7 +516,7 @@ Completed box being shipped out [1]
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
 ....\write3{\protect \BOOKMARK [1][-]{section.6}{\376\377\000b\000i\000b\000e\000r\000,\000\040\000B\000i\000b\000e\000r}{}% 6}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {6}\hologoRobust {biber}, \HologoRobust {biber}}{\thepage }{section.6}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {6}\HoLogo@tag@actualtext {first}{biber}{\hologoRobust {biber}}, \HoLogo@tag@actualtext {second}{biber}{\HologoRobust {biber}}}{\thepage }{section.6}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -592,7 +592,7 @@ Completed box being shipped out [1]
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
 ....\write3{\protect \BOOKMARK [1][-]{section.7}{\376\377\000B\000i\000b\000T\000e\000X\000,\000\040\000B\000i\000b\000T\000e\000X}{}% 7}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {7}\hologoRobust {BibTeX}, \HologoRobust {BibTeX}}{\thepage }{section.7}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {7}\HoLogo@tag@actualtext {first}{BibTeX}{\hologoRobust {BibTeX}}, \HoLogo@tag@actualtext {second}{BibTeX}{\HologoRobust {BibTeX}}}{\thepage }{section.7}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -674,7 +674,7 @@ Completed box being shipped out [1]
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
 ....\write3{\protect \BOOKMARK [1][-]{section.8}{\376\377\000B\000i\000b\000T\000e\000X\000,\000\040\000B\000i\000b\000T\000e\000X}{}% 8}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {8}\hologoRobust {BibTeX}, \HologoRobust {BibTeX}}{\thepage }{section.8}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {8}\HoLogo@tag@actualtext {first}{BibTeX}{\hologoRobust {BibTeX}}, \HoLogo@tag@actualtext {second}{BibTeX}{\HologoRobust {BibTeX}}}{\thepage }{section.8}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -752,7 +752,7 @@ Completed box being shipped out [1]
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
 ....\write3{\protect \BOOKMARK [1][-]{section.9}{\376\377\000B\000i\000b\000T\000e\000X\000,\000\040\000B\000i\000b\000T\000e\000X}{}% 9}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {9}\hologoRobust {BibTeX}, \HologoRobust {BibTeX}}{\thepage }{section.9}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {9}\HoLogo@tag@actualtext {first}{BibTeX}{\hologoRobust {BibTeX}}, \HoLogo@tag@actualtext {second}{BibTeX}{\HologoRobust {BibTeX}}}{\thepage }{section.9}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -831,7 +831,7 @@ Completed box being shipped out [1]
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
 ....\write3{\protect \BOOKMARK [1][-]{section.10}{\376\377\000B\000i\000b\000T\000e\000X\0008\000,\000\040\000B\000i\000b\000T\000e\000X\0008}{}% 10}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {10}\hologoRobust {BibTeX8}, \HologoRobust {BibTeX8}}{\thepage }{section.10}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {10}\HoLogo@tag@actualtext {first}{BibTeX8}{\hologoRobust {BibTeX8}}, \HoLogo@tag@actualtext {second}{BibTeX8}{\HologoRobust {BibTeX8}}}{\thepage }{section.10}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -942,7 +942,7 @@ Completed box being shipped out [2]
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
 ....\write3{\protect \BOOKMARK [1][-]{section.11}{\376\377\000C\000o\000n\000T\000e\000X\000t\000,\000\040\000C\000o\000n\000T\000e\000X\000t}{}% 11}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {11}\hologoRobust {ConTeXt}, \HologoRobust {ConTeXt}}{\thepage }{section.11}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {11}\HoLogo@tag@actualtext {first}{ConTeXt}{\hologoRobust {ConTeXt}}, \HoLogo@tag@actualtext {second}{ConTeXt}{\HologoRobust {ConTeXt}}}{\thepage }{section.11}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -1028,7 +1028,7 @@ Completed box being shipped out [2]
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
 ....\write3{\protect \BOOKMARK [1][-]{section.12}{\376\377\000C\000o\000n\000T\000e\000X\000t\000,\000\040\000C\000o\000n\000T\000e\000X\000t}{}% 12}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {12}\hologoRobust {ConTeXt}, \HologoRobust {ConTeXt}}{\thepage }{section.12}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {12}\HoLogo@tag@actualtext {first}{ConTeXt}{\hologoRobust {ConTeXt}}, \HoLogo@tag@actualtext {second}{ConTeXt}{\HologoRobust {ConTeXt}}}{\thepage }{section.12}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -1108,7 +1108,7 @@ Completed box being shipped out [2]
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
 ....\write3{\protect \BOOKMARK [1][-]{section.13}{\376\377\000C\000o\000n\000T\000e\000X\000t\000,\000\040\000C\000o\000n\000T\000e\000X\000t}{}% 13}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {13}\hologoRobust {ConTeXt}, \HologoRobust {ConTeXt}}{\thepage }{section.13}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {13}\HoLogo@tag@actualtext {first}{ConTeXt}{\hologoRobust {ConTeXt}}, \HoLogo@tag@actualtext {second}{ConTeXt}{\HologoRobust {ConTeXt}}}{\thepage }{section.13}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -1179,7 +1179,7 @@ Completed box being shipped out [2]
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
 ....\write3{\protect \BOOKMARK [1][-]{section.14}{\376\377\000e\000m\000T\000e\000X\000,\000\040\000E\000m\000T\000e\000X}{}% 14}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {14}\hologoRobust {emTeX}, \HologoRobust {emTeX}}{\thepage }{section.14}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {14}\HoLogo@tag@actualtext {first}{emTeX}{\hologoRobust {emTeX}}, \HoLogo@tag@actualtext {second}{emTeX}{\HologoRobust {emTeX}}}{\thepage }{section.14}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -1253,7 +1253,7 @@ Completed box being shipped out [2]
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
 ....\write3{\protect \BOOKMARK [1][-]{section.15}{\376\377\003\265\000-\000T\000e\000X\000,\000\040\003\265\000-\000T\000e\000X}{}% 15}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {15}\hologoRobust {eTeX}, \HologoRobust {eTeX}}{\thepage }{section.15}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {15}\HoLogo@tag@actualtext {first}{eTeX}{\hologoRobust {eTeX}}, \HoLogo@tag@actualtext {second}{eTeX}{\HologoRobust {eTeX}}}{\thepage }{section.15}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -1336,7 +1336,7 @@ Completed box being shipped out [2]
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
 ....\write3{\protect \BOOKMARK [1][-]{section.16}{\376\377\003\265\003\247\000T\000e\000X\000,\000\040\003\265\003\247\000T\000e\000X}{}% 16}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {16}\hologoRobust {ExTeX}, \HologoRobust {ExTeX}}{\thepage }{section.16}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {16}\HoLogo@tag@actualtext {first}{ExTeX}{\hologoRobust {ExTeX}}, \HoLogo@tag@actualtext {second}{ExTeX}{\HologoRobust {ExTeX}}}{\thepage }{section.16}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -1428,7 +1428,7 @@ Completed box being shipped out [2]
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
 ....\write3{\protect \BOOKMARK [1][-]{section.17}{\376\377\000H\000\340\000n\000\040\000T\000h\036\277\000\040\000T\000h\000\340\000n\000h\000,\000\040\000H\000\340\000n\000\040\000T\000h\036\277\000\040\000T\000h\000\340\000n\000h}{}% 17}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {17}\hologoRobust {HanTheThanh}, \HologoRobust {HanTheThanh}}{\thepage }{section.17}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {17}\HoLogo@tag@actualtext {first}{HanTheThanh}{\hologoRobust {HanTheThanh}}, \HoLogo@tag@actualtext {second}{HanTheThanh}{\HologoRobust {HanTheThanh}}}{\thepage }{section.17}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -1507,7 +1507,7 @@ Completed box being shipped out [2]
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
 ....\write3{\protect \BOOKMARK [1][-]{section.18}{\376\377\000i\000n\000i\000T\000e\000X\000,\000\040\000I\000n\000i\000T\000e\000X}{}% 18}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {18}\hologoRobust {iniTeX}, \HologoRobust {iniTeX}}{\thepage }{section.18}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {18}\HoLogo@tag@actualtext {first}{iniTeX}{\hologoRobust {iniTeX}}, \HoLogo@tag@actualtext {second}{iniTeX}{\HologoRobust {iniTeX}}}{\thepage }{section.18}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -1596,7 +1596,7 @@ Completed box being shipped out [2]
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
 ....\write3{\protect \BOOKMARK [1][-]{section.19}{\376\377\000K\000O\000M\000A\000-\000S\000c\000r\000i\000p\000t\000,\000\040\000K\000O\000M\000A\000-\000S\000c\000r\000i\000p\000t}{}% 19}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {19}\hologoRobust {KOMAScript}, \HologoRobust {KOMAScript}}{\thepage }{section.19}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {19}\HoLogo@tag@actualtext {first}{KOMAScript}{\hologoRobust {KOMAScript}}, \HoLogo@tag@actualtext {second}{KOMAScript}{\HologoRobust {KOMAScript}}}{\thepage }{section.19}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -1668,7 +1668,7 @@ Completed box being shipped out [2]
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
 ....\write3{\protect \BOOKMARK [1][-]{section.20}{\376\377\000L\000a\000,\000\040\000L\000a}{}% 20}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {20}\hologoRobust {La}, \HologoRobust {La}}{\thepage }{section.20}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {20}\HoLogo@tag@actualtext {first}{La}{\hologoRobust {La}}, \HoLogo@tag@actualtext {second}{La}{\HologoRobust {La}}}{\thepage }{section.20}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -1770,7 +1770,7 @@ Completed box being shipped out [3]
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
 ....\write3{\protect \BOOKMARK [1][-]{section.21}{\376\377\000L\000a\000T\000e\000X\000,\000\040\000L\000a\000T\000e\000X}{}% 21}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {21}\hologoRobust {LaTeX}, \HologoRobust {LaTeX}}{\thepage }{section.21}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {21}\HoLogo@tag@actualtext {first}{LaTeX}{\hologoRobust {LaTeX}}, \HoLogo@tag@actualtext {second}{LaTeX}{\HologoRobust {LaTeX}}}{\thepage }{section.21}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -1866,7 +1866,7 @@ Completed box being shipped out [3]
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
 ....\write3{\protect \BOOKMARK [1][-]{section.22}{\376\377\000L\000a\000T\000e\000X\0002\003\265\000,\000\040\000L\000a\000T\000e\000X\0002\003\265}{}% 22}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {22}\hologoRobust {LaTeX2e}, \HologoRobust {LaTeX2e}}{\thepage }{section.22}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {22}\HoLogo@tag@actualtext {first}{LaTeX2e}{\hologoRobust {LaTeX2e}}, \HoLogo@tag@actualtext {second}{LaTeX2e}{\HologoRobust {LaTeX2e}}}{\thepage }{section.22}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -1956,7 +1956,7 @@ Completed box being shipped out [3]
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
 ....\write3{\protect \BOOKMARK [1][-]{section.23}{\376\377\000L\000a\000T\000e\000X\0003\000,\000\040\000L\000a\000T\000e\000X\0003}{}% 23}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {23}\hologoRobust {LaTeX3}, \HologoRobust {LaTeX3}}{\thepage }{section.23}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {23}\HoLogo@tag@actualtext {first}{LaTeX3}{\hologoRobust {LaTeX3}}, \HoLogo@tag@actualtext {second}{LaTeX3}{\HologoRobust {LaTeX3}}}{\thepage }{section.23}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -2053,7 +2053,7 @@ Completed box being shipped out [3]
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
 ....\write3{\protect \BOOKMARK [1][-]{section.24}{\376\377\000L\000a\000T\000e\000X\0002\003\265\000,\000\040\000L\000a\000T\000e\000X\0002\003\265}{}% 24}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {24}\hologoRobust {LaTeXe}, \HologoRobust {LaTeXe}}{\thepage }{section.24}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {24}\HoLogo@tag@actualtext {first}{LaTeXe}{\hologoRobust {LaTeXe}}, \HoLogo@tag@actualtext {second}{LaTeXe}{\HologoRobust {LaTeXe}}}{\thepage }{section.24}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -2147,7 +2147,7 @@ Completed box being shipped out [3]
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
 ....\write3{\protect \BOOKMARK [1][-]{section.25}{\376\377\000L\000a\000T\000e\000X\000M\000L\000,\000\040\000L\000a\000T\000e\000X\000M\000L}{}% 25}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {25}\hologoRobust {LaTeXML}, \HologoRobust {LaTeXML}}{\thepage }{section.25}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {25}\HoLogo@tag@actualtext {first}{LaTeXML}{\hologoRobust {LaTeXML}}, \HoLogo@tag@actualtext {second}{LaTeXML}{\HologoRobust {LaTeXML}}}{\thepage }{section.25}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -2238,7 +2238,7 @@ Completed box being shipped out [3]
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
 ....\write3{\protect \BOOKMARK [1][-]{section.26}{\376\377\000\050\000L\000a\000\051\000T\000e\000X\000,\000\040\000\050\000L\000a\000\051\000T\000e\000X}{}% 26}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {26}\hologoRobust {LaTeXTeX}, \HologoRobust {LaTeXTeX}}{\thepage }{section.26}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {26}\HoLogo@tag@actualtext {first}{LaTeXTeX}{\hologoRobust {LaTeXTeX}}, \HoLogo@tag@actualtext {second}{LaTeXTeX}{\HologoRobust {LaTeXTeX}}}{\thepage }{section.26}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -2330,7 +2330,7 @@ Completed box being shipped out [3]
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
 ....\write3{\protect \BOOKMARK [1][-]{section.27}{\376\377\000L\000u\000a\000L\000a\000T\000e\000X\000,\000\040\000L\000u\000a\000L\000a\000T\000e\000X}{}% 27}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {27}\hologoRobust {LuaLaTeX}, \HologoRobust {LuaLaTeX}}{\thepage }{section.27}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {27}\HoLogo@tag@actualtext {first}{LuaLaTeX}{\hologoRobust {LuaLaTeX}}, \HoLogo@tag@actualtext {second}{LuaLaTeX}{\HologoRobust {LuaLaTeX}}}{\thepage }{section.27}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -2410,7 +2410,7 @@ Completed box being shipped out [3]
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
 ....\write3{\protect \BOOKMARK [1][-]{section.28}{\376\377\000L\000u\000a\000T\000e\000X\000,\000\040\000L\000u\000a\000T\000e\000X}{}% 28}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {28}\hologoRobust {LuaTeX}, \HologoRobust {LuaTeX}}{\thepage }{section.28}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {28}\HoLogo@tag@actualtext {first}{LuaTeX}{\hologoRobust {LuaTeX}}, \HoLogo@tag@actualtext {second}{LuaTeX}{\HologoRobust {LuaTeX}}}{\thepage }{section.28}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -2474,7 +2474,7 @@ Completed box being shipped out [3]
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
 ....\write3{\protect \BOOKMARK [1][-]{section.29}{\376\377\000L\000y\000X\000,\000\040\000L\000y\000X}{}% 29}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {29}\hologoRobust {LyX}, \HologoRobust {LyX}}{\thepage }{section.29}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {29}\HoLogo@tag@actualtext {first}{LyX}{\hologoRobust {LyX}}, \HoLogo@tag@actualtext {second}{LyX}{\HologoRobust {LyX}}}{\thepage }{section.29}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -2545,7 +2545,7 @@ Completed box being shipped out [3]
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
 ....\write3{\protect \BOOKMARK [1][-]{section.30}{\376\377\000M\000E\000T\000A\000F\000O\000N\000T\000,\000\040\000M\000E\000T\000A\000F\000O\000N\000T}{}% 30}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {30}\hologoRobust {METAFONT}, \HologoRobust {METAFONT}}{\thepage }{section.30}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {30}\HoLogo@tag@actualtext {first}{METAFONT}{\hologoRobust {METAFONT}}, \HoLogo@tag@actualtext {second}{METAFONT}{\HologoRobust {METAFONT}}}{\thepage }{section.30}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -2644,7 +2644,7 @@ Completed box being shipped out [4]
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
 ....\write3{\protect \BOOKMARK [1][-]{section.31}{\376\377\000M\000e\000t\000a\000F\000u\000n\000,\000\040\000M\000e\000t\000a\000F\000u\000n}{}% 31}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {31}\hologoRobust {MetaFun}, \HologoRobust {MetaFun}}{\thepage }{section.31}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {31}\HoLogo@tag@actualtext {first}{MetaFun}{\hologoRobust {MetaFun}}, \HoLogo@tag@actualtext {second}{MetaFun}{\HologoRobust {MetaFun}}}{\thepage }{section.31}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -2719,7 +2719,7 @@ Completed box being shipped out [4]
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
 ....\write3{\protect \BOOKMARK [1][-]{section.32}{\376\377\000M\000E\000T\000A\000P\000O\000S\000T\000,\000\040\000M\000E\000T\000A\000P\000O\000S\000T}{}% 32}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {32}\hologoRobust {METAPOST}, \HologoRobust {METAPOST}}{\thepage }{section.32}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {32}\HoLogo@tag@actualtext {first}{METAPOST}{\hologoRobust {METAPOST}}, \HoLogo@tag@actualtext {second}{METAPOST}{\HologoRobust {METAPOST}}}{\thepage }{section.32}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -2794,7 +2794,7 @@ Completed box being shipped out [4]
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
 ....\write3{\protect \BOOKMARK [1][-]{section.33}{\376\377\000M\000e\000t\000a\000P\000o\000s\000t\000,\000\040\000M\000e\000t\000a\000P\000o\000s\000t}{}% 33}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {33}\hologoRobust {MetaPost}, \HologoRobust {MetaPost}}{\thepage }{section.33}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {33}\HoLogo@tag@actualtext {first}{MetaPost}{\hologoRobust {MetaPost}}, \HoLogo@tag@actualtext {second}{MetaPost}{\HologoRobust {MetaPost}}}{\thepage }{section.33}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -2866,7 +2866,7 @@ Completed box being shipped out [4]
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
 ....\write3{\protect \BOOKMARK [1][-]{section.34}{\376\377\000M\000i\000K\000T\000e\000X\000,\000\040\000M\000i\000K\000T\000e\000X}{}% 34}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {34}\hologoRobust {MiKTeX}, \HologoRobust {MiKTeX}}{\thepage }{section.34}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {34}\HoLogo@tag@actualtext {first}{MiKTeX}{\hologoRobust {MiKTeX}}, \HoLogo@tag@actualtext {second}{MiKTeX}{\HologoRobust {MiKTeX}}}{\thepage }{section.34}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -2935,7 +2935,7 @@ Completed box being shipped out [4]
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
 ....\write3{\protect \BOOKMARK [1][-]{section.35}{\376\377\000N\000T\000S\000,\000\040\000N\000T\000S}{}% 35}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {35}\hologoRobust {NTS}, \HologoRobust {NTS}}{\thepage }{section.35}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {35}\HoLogo@tag@actualtext {first}{NTS}{\hologoRobust {NTS}}, \HoLogo@tag@actualtext {second}{NTS}{\HologoRobust {NTS}}}{\thepage }{section.35}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -2995,7 +2995,7 @@ Completed box being shipped out [4]
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
 ....\write3{\protect \BOOKMARK [1][-]{section.36}{\376\377\000O\000z\000M\000F\000,\000\040\000O\000z\000M\000F}{}% 36}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {36}\hologoRobust {OzMF}, \HologoRobust {OzMF}}{\thepage }{section.36}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {36}\HoLogo@tag@actualtext {first}{OzMF}{\hologoRobust {OzMF}}, \HoLogo@tag@actualtext {second}{OzMF}{\HologoRobust {OzMF}}}{\thepage }{section.36}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -3051,7 +3051,7 @@ Completed box being shipped out [4]
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
 ....\write3{\protect \BOOKMARK [1][-]{section.37}{\376\377\000O\000z\000M\000P\000,\000\040\000O\000z\000M\000P}{}% 37}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {37}\hologoRobust {OzMP}, \HologoRobust {OzMP}}{\thepage }{section.37}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {37}\HoLogo@tag@actualtext {first}{OzMP}{\hologoRobust {OzMP}}, \HoLogo@tag@actualtext {second}{OzMP}{\HologoRobust {OzMP}}}{\thepage }{section.37}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -3117,7 +3117,7 @@ Completed box being shipped out [4]
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
 ....\write3{\protect \BOOKMARK [1][-]{section.38}{\376\377\000O\000z\000T\000e\000X\000,\000\040\000O\000z\000T\000e\000X}{}% 38}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {38}\hologoRobust {OzTeX}, \HologoRobust {OzTeX}}{\thepage }{section.38}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {38}\HoLogo@tag@actualtext {first}{OzTeX}{\hologoRobust {OzTeX}}, \HoLogo@tag@actualtext {second}{OzTeX}{\HologoRobust {OzTeX}}}{\thepage }{section.38}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -3180,7 +3180,7 @@ Completed box being shipped out [4]
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
 ....\write3{\protect \BOOKMARK [1][-]{section.39}{\376\377\000O\000z\000T\000t\000H\000,\000\040\000O\000z\000T\000t\000H}{}% 39}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {39}\hologoRobust {OzTtH}, \HologoRobust {OzTtH}}{\thepage }{section.39}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {39}\HoLogo@tag@actualtext {first}{OzTtH}{\hologoRobust {OzTtH}}, \HoLogo@tag@actualtext {second}{OzTtH}{\HologoRobust {OzTtH}}}{\thepage }{section.39}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -3245,7 +3245,7 @@ Completed box being shipped out [4]
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
 ....\write3{\protect \BOOKMARK [1][-]{section.40}{\376\377\000P\000C\000T\000e\000X\000,\000\040\000P\000C\000T\000e\000X}{}% 40}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {40}\hologoRobust {PCTeX}, \HologoRobust {PCTeX}}{\thepage }{section.40}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {40}\HoLogo@tag@actualtext {first}{PCTeX}{\hologoRobust {PCTeX}}, \HoLogo@tag@actualtext {second}{PCTeX}{\HologoRobust {PCTeX}}}{\thepage }{section.40}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -3342,7 +3342,7 @@ Completed box being shipped out [5]
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
 ....\write3{\protect \BOOKMARK [1][-]{section.41}{\376\377\000p\000d\000f\000T\000e\000X\000,\000\040\000P\000d\000f\000T\000e\000X}{}% 41}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {41}\hologoRobust {pdfTeX}, \HologoRobust {pdfTeX}}{\thepage }{section.41}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {41}\HoLogo@tag@actualtext {first}{pdfTeX}{\hologoRobust {pdfTeX}}, \HoLogo@tag@actualtext {second}{pdfTeX}{\HologoRobust {pdfTeX}}}{\thepage }{section.41}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -3429,7 +3429,7 @@ Completed box being shipped out [5]
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
 ....\write3{\protect \BOOKMARK [1][-]{section.42}{\376\377\000p\000d\000f\000L\000a\000T\000e\000X\000,\000\040\000P\000d\000f\000L\000a\000T\000e\000X}{}% 42}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {42}\hologoRobust {pdfLaTeX}, \HologoRobust {pdfLaTeX}}{\thepage }{section.42}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {42}\HoLogo@tag@actualtext {first}{pdfLaTeX}{\hologoRobust {pdfLaTeX}}, \HoLogo@tag@actualtext {second}{pdfLaTeX}{\HologoRobust {pdfLaTeX}}}{\thepage }{section.42}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -3500,7 +3500,7 @@ Completed box being shipped out [5]
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
 ....\write3{\protect \BOOKMARK [1][-]{section.43}{\376\377\000P\000i\000C\000,\000\040\000P\000i\000C}{}% 43}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {43}\hologoRobust {PiC}, \HologoRobust {PiC}}{\thepage }{section.43}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {43}\HoLogo@tag@actualtext {first}{PiC}{\hologoRobust {PiC}}, \HoLogo@tag@actualtext {second}{PiC}{\HologoRobust {PiC}}}{\thepage }{section.43}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -3573,7 +3573,7 @@ Completed box being shipped out [5]
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
 ....\write3{\protect \BOOKMARK [1][-]{section.44}{\376\377\000P\000i\000C\000T\000e\000X\000,\000\040\000P\000i\000C\000T\000e\000X}{}% 44}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {44}\hologoRobust {PiCTeX}, \HologoRobust {PiCTeX}}{\thepage }{section.44}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {44}\HoLogo@tag@actualtext {first}{PiCTeX}{\hologoRobust {PiCTeX}}, \HoLogo@tag@actualtext {second}{PiCTeX}{\HologoRobust {PiCTeX}}}{\thepage }{section.44}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -3655,7 +3655,7 @@ Completed box being shipped out [5]
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
 ....\write3{\protect \BOOKMARK [1][-]{section.45}{\376\377\000p\000l\000a\000i\000n\000\040\000T\000e\000X\000,\000\040\000P\000l\000a\000i\000n\000\040\000T\000e\000X}{}% 45}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {45}\hologoRobust {plainTeX}, \HologoRobust {plainTeX}}{\thepage }{section.45}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {45}\HoLogo@tag@actualtext {first}{plainTeX}{\hologoRobust {plainTeX}}, \HoLogo@tag@actualtext {second}{plainTeX}{\HologoRobust {plainTeX}}}{\thepage }{section.45}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -3738,7 +3738,7 @@ Completed box being shipped out [5]
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
 ....\write3{\protect \BOOKMARK [1][-]{section.46}{\376\377\000p\000l\000a\000i\000n\000\040\000T\000e\000X\000,\000\040\000P\000l\000a\000i\000n\000\040\000T\000e\000X}{}% 46}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {46}\hologoRobust {plainTeX}, \HologoRobust {plainTeX}}{\thepage }{section.46}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {46}\HoLogo@tag@actualtext {first}{plainTeX}{\hologoRobust {plainTeX}}, \HoLogo@tag@actualtext {second}{plainTeX}{\HologoRobust {plainTeX}}}{\thepage }{section.46}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -3821,7 +3821,7 @@ Completed box being shipped out [5]
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
 ....\write3{\protect \BOOKMARK [1][-]{section.47}{\376\377\000p\000l\000a\000i\000n\000-\000T\000e\000X\000,\000\040\000P\000l\000a\000i\000n\000-\000T\000e\000X}{}% 47}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {47}\hologoRobust {plainTeX}, \HologoRobust {plainTeX}}{\thepage }{section.47}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {47}\HoLogo@tag@actualtext {first}{plainTeX}{\hologoRobust {plainTeX}}, \HoLogo@tag@actualtext {second}{plainTeX}{\HologoRobust {plainTeX}}}{\thepage }{section.47}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -3900,7 +3900,7 @@ Completed box being shipped out [5]
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
 ....\write3{\protect \BOOKMARK [1][-]{section.48}{\376\377\000p\000l\000a\000i\000n\000T\000e\000X\000,\000\040\000P\000l\000a\000i\000n\000T\000e\000X}{}% 48}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {48}\hologoRobust {plainTeX}, \HologoRobust {plainTeX}}{\thepage }{section.48}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {48}\HoLogo@tag@actualtext {first}{plainTeX}{\hologoRobust {plainTeX}}, \HoLogo@tag@actualtext {second}{plainTeX}{\HologoRobust {plainTeX}}}{\thepage }{section.48}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -3985,7 +3985,7 @@ Completed box being shipped out [5]
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
 ....\write3{\protect \BOOKMARK [1][-]{section.49}{\376\377\000p\000L\000a\000T\000e\000X\000,\000\040\000p\000L\000a\000T\000e\000X}{}% 49}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {49}\hologoRobust {pLaTeX}, \HologoRobust {pLaTeX}}{\thepage }{section.49}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {49}\HoLogo@tag@actualtext {first}{pLaTeX}{\hologoRobust {pLaTeX}}, \HoLogo@tag@actualtext {second}{pLaTeX}{\HologoRobust {pLaTeX}}}{\thepage }{section.49}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -4060,7 +4060,7 @@ Completed box being shipped out [5]
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
 ....\write3{\protect \BOOKMARK [1][-]{section.50}{\376\377\000p\000T\000e\000X\000,\000\040\000p\000T\000e\000X}{}% 50}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {50}\hologoRobust {pTeX}, \HologoRobust {pTeX}}{\thepage }{section.50}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {50}\HoLogo@tag@actualtext {first}{pTeX}{\hologoRobust {pTeX}}, \HoLogo@tag@actualtext {second}{pTeX}{\HologoRobust {pTeX}}}{\thepage }{section.50}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -4160,7 +4160,7 @@ Completed box being shipped out [6]
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
 ....\write3{\protect \BOOKMARK [1][-]{section.51}{\376\377\000S\000a\000g\000e\000T\000e\000X\000,\000\040\000S\000a\000g\000e\000T\000e\000X}{}% 51}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {51}\hologoRobust {SageTeX}, \HologoRobust {SageTeX}}{\thepage }{section.51}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {51}\HoLogo@tag@actualtext {first}{SageTeX}{\hologoRobust {SageTeX}}, \HoLogo@tag@actualtext {second}{SageTeX}{\HologoRobust {SageTeX}}}{\thepage }{section.51}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -4239,7 +4239,7 @@ Completed box being shipped out [6]
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
 ....\write3{\protect \BOOKMARK [1][-]{section.52}{\376\377\000S\000L\000i\000T\000e\000X\000,\000\040\000S\000L\000i\000T\000e\000X}{}% 52}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {52}\hologoRobust {SLiTeX}, \HologoRobust {SLiTeX}}{\thepage }{section.52}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {52}\HoLogo@tag@actualtext {first}{SLiTeX}{\hologoRobust {SLiTeX}}, \HoLogo@tag@actualtext {second}{SLiTeX}{\HologoRobust {SLiTeX}}}{\thepage }{section.52}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -4319,7 +4319,7 @@ Completed box being shipped out [6]
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
 ....\write3{\protect \BOOKMARK [1][-]{section.53}{\376\377\000S\000L\000i\000T\000e\000X\000,\000\040\000S\000L\000i\000T\000e\000X}{}% 53}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {53}\hologoRobust {SLiTeX}, \HologoRobust {SLiTeX}}{\thepage }{section.53}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {53}\HoLogo@tag@actualtext {first}{SLiTeX}{\hologoRobust {SLiTeX}}, \HoLogo@tag@actualtext {second}{SLiTeX}{\HologoRobust {SLiTeX}}}{\thepage }{section.53}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -4399,7 +4399,7 @@ Completed box being shipped out [6]
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
 ....\write3{\protect \BOOKMARK [1][-]{section.54}{\376\377\000S\000l\000i\000T\000e\000X\000,\000\040\000S\000l\000i\000T\000e\000X}{}% 54}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {54}\hologoRobust {SLiTeX}, \HologoRobust {SLiTeX}}{\thepage }{section.54}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {54}\HoLogo@tag@actualtext {first}{SLiTeX}{\hologoRobust {SLiTeX}}, \HoLogo@tag@actualtext {second}{SLiTeX}{\HologoRobust {SLiTeX}}}{\thepage }{section.54}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -4473,7 +4473,7 @@ Completed box being shipped out [6]
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
 ....\write3{\protect \BOOKMARK [1][-]{section.55}{\376\377\000S\000l\000i\000T\000e\000X\000,\000\040\000S\000l\000i\000T\000e\000X}{}% 55}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {55}\hologoRobust {SLiTeX}, \HologoRobust {SLiTeX}}{\thepage }{section.55}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {55}\HoLogo@tag@actualtext {first}{SLiTeX}{\hologoRobust {SLiTeX}}, \HoLogo@tag@actualtext {second}{SLiTeX}{\HologoRobust {SLiTeX}}}{\thepage }{section.55}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -4550,7 +4550,7 @@ Completed box being shipped out [6]
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
 ....\write3{\protect \BOOKMARK [1][-]{section.56}{\376\377\000S\000l\000i\000T\000e\000X\000,\000\040\000S\000l\000i\000T\000e\000X}{}% 56}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {56}\hologoRobust {SliTeX}, \HologoRobust {SliTeX}}{\thepage }{section.56}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {56}\HoLogo@tag@actualtext {first}{SliTeX}{\hologoRobust {SliTeX}}, \HoLogo@tag@actualtext {second}{SliTeX}{\HologoRobust {SliTeX}}}{\thepage }{section.56}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -4630,7 +4630,7 @@ Completed box being shipped out [6]
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
 ....\write3{\protect \BOOKMARK [1][-]{section.57}{\376\377\000S\000l\000i\000T\000e\000X\000,\000\040\000S\000l\000i\000T\000e\000X}{}% 57}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {57}\hologoRobust {SliTeX}, \HologoRobust {SliTeX}}{\thepage }{section.57}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {57}\HoLogo@tag@actualtext {first}{SliTeX}{\hologoRobust {SliTeX}}, \HoLogo@tag@actualtext {second}{SliTeX}{\HologoRobust {SliTeX}}}{\thepage }{section.57}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -4704,7 +4704,7 @@ Completed box being shipped out [6]
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
 ....\write3{\protect \BOOKMARK [1][-]{section.58}{\376\377\000S\000l\000i\000T\000e\000X\000,\000\040\000S\000l\000i\000T\000e\000X}{}% 58}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {58}\hologoRobust {SliTeX}, \HologoRobust {SliTeX}}{\thepage }{section.58}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {58}\HoLogo@tag@actualtext {first}{SliTeX}{\hologoRobust {SliTeX}}, \HoLogo@tag@actualtext {second}{SliTeX}{\HologoRobust {SliTeX}}}{\thepage }{section.58}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -4781,7 +4781,7 @@ Completed box being shipped out [6]
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
 ....\write3{\protect \BOOKMARK [1][-]{section.59}{\376\377\000S\000L\000i\000T\000e\000X\000,\000\040\000S\000L\000i\000T\000e\000X}{}% 59}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {59}\hologoRobust {SliTeX}, \HologoRobust {SliTeX}}{\thepage }{section.59}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {59}\HoLogo@tag@actualtext {first}{SliTeX}{\hologoRobust {SliTeX}}, \HoLogo@tag@actualtext {second}{SliTeX}{\HologoRobust {SliTeX}}}{\thepage }{section.59}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -4854,7 +4854,7 @@ Completed box being shipped out [6]
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
 ....\write3{\protect \BOOKMARK [1][-]{section.60}{\376\377\000t\000e\000T\000e\000X\000,\000\040\000T\000e\000T\000e\000X}{}% 60}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {60}\hologoRobust {teTeX}, \HologoRobust {teTeX}}{\thepage }{section.60}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {60}\HoLogo@tag@actualtext {first}{teTeX}{\hologoRobust {teTeX}}, \HoLogo@tag@actualtext {second}{teTeX}{\HologoRobust {teTeX}}}{\thepage }{section.60}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -4942,7 +4942,7 @@ Completed box being shipped out [7]
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
 ....\write3{\protect \BOOKMARK [1][-]{section.61}{\376\377\000T\000e\000X\000,\000\040\000T\000e\000X}{}% 61}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {61}\hologoRobust {TeX}, \HologoRobust {TeX}}{\thepage }{section.61}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {61}\HoLogo@tag@actualtext {first}{TeX}{\hologoRobust {TeX}}, \HoLogo@tag@actualtext {second}{TeX}{\HologoRobust {TeX}}}{\thepage }{section.61}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -5011,7 +5011,7 @@ Completed box being shipped out [7]
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
 ....\write3{\protect \BOOKMARK [1][-]{section.62}{\376\377\000T\000e\000X\0004\000h\000t\000,\000\040\000T\000e\000X\0004\000h\000t}{}% 62}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {62}\hologoRobust {TeX4ht}, \HologoRobust {TeX4ht}}{\thepage }{section.62}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {62}\HoLogo@tag@actualtext {first}{TeX4ht}{\hologoRobust {TeX4ht}}, \HoLogo@tag@actualtext {second}{TeX4ht}{\HologoRobust {TeX4ht}}}{\thepage }{section.62}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -5091,7 +5091,7 @@ Completed box being shipped out [7]
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
 ....\write3{\protect \BOOKMARK [1][-]{section.63}{\376\377\000T\000e\000X\000L\000i\000v\000e\000,\000\040\000T\000e\000X\000L\000i\000v\000e}{}% 63}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {63}\hologoRobust {TeXLive}, \HologoRobust {TeXLive}}{\thepage }{section.63}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {63}\HoLogo@tag@actualtext {first}{TeXLive}{\hologoRobust {TeXLive}}, \HoLogo@tag@actualtext {second}{TeXLive}{\HologoRobust {TeXLive}}}{\thepage }{section.63}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -5162,7 +5162,7 @@ Completed box being shipped out [7]
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
 ....\write3{\protect \BOOKMARK [1][-]{section.64}{\376\377\000T\000T\000H\000,\000\040\000T\000T\000H}{}% 64}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {64}\hologoRobust {TTH}, \HologoRobust {TTH}}{\thepage }{section.64}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {64}\HoLogo@tag@actualtext {first}{TTH}{\hologoRobust {TTH}}, \HoLogo@tag@actualtext {second}{TTH}{\HologoRobust {TTH}}}{\thepage }{section.64}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -5247,7 +5247,7 @@ Completed box being shipped out [7]
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
 ....\write3{\protect \BOOKMARK [1][-]{section.65}{\376\377\000u\000p\000L\000a\000T\000e\000X\000,\000\040\000u\000p\000L\000a\000T\000e\000X}{}% 65}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {65}\hologoRobust {upLaTeX}, \HologoRobust {upLaTeX}}{\thepage }{section.65}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {65}\HoLogo@tag@actualtext {first}{upLaTeX}{\hologoRobust {upLaTeX}}, \HoLogo@tag@actualtext {second}{upLaTeX}{\HologoRobust {upLaTeX}}}{\thepage }{section.65}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -5330,7 +5330,7 @@ Completed box being shipped out [7]
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
 ....\write3{\protect \BOOKMARK [1][-]{section.66}{\376\377\000u\000p\000T\000e\000X\000,\000\040\000u\000p\000T\000e\000X}{}% 66}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {66}\hologoRobust {upTeX}, \HologoRobust {upTeX}}{\thepage }{section.66}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {66}\HoLogo@tag@actualtext {first}{upTeX}{\hologoRobust {upTeX}}, \HoLogo@tag@actualtext {second}{upTeX}{\HologoRobust {upTeX}}}{\thepage }{section.66}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -5403,7 +5403,7 @@ Completed box being shipped out [7]
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
 ....\write3{\protect \BOOKMARK [1][-]{section.67}{\376\377\000v\000i\000r\000T\000e\000X\000,\000\040\000V\000i\000r\000T\000e\000X}{}% 67}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {67}\hologoRobust {virTeX}, \HologoRobust {virTeX}}{\thepage }{section.67}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {67}\HoLogo@tag@actualtext {first}{virTeX}{\hologoRobust {virTeX}}, \HoLogo@tag@actualtext {second}{virTeX}{\HologoRobust {virTeX}}}{\thepage }{section.67}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -5470,7 +5470,7 @@ Completed box being shipped out [7]
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
 ....\write3{\protect \BOOKMARK [1][-]{section.68}{\376\377\000V\000T\000e\000X\000,\000\040\000V\000T\000e\000X}{}% 68}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {68}\hologoRobust {VTeX}, \HologoRobust {VTeX}}{\thepage }{section.68}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {68}\HoLogo@tag@actualtext {first}{VTeX}{\hologoRobust {VTeX}}, \HoLogo@tag@actualtext {second}{VTeX}{\HologoRobust {VTeX}}}{\thepage }{section.68}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -5527,7 +5527,7 @@ Completed box being shipped out [7]
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
 ....\write3{\protect \BOOKMARK [1][-]{section.69}{\376\377\000X\000e\000,\000\040\000X\000e}{}% 69}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {69}\hologoRobust {Xe}, \HologoRobust {Xe}}{\thepage }{section.69}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {69}\HoLogo@tag@actualtext {first}{Xe}{\hologoRobust {Xe}}, \HoLogo@tag@actualtext {second}{Xe}{\HologoRobust {Xe}}}{\thepage }{section.69}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -5608,7 +5608,7 @@ Completed box being shipped out [7]
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
 ....\write3{\protect \BOOKMARK [1][-]{section.70}{\376\377\000X\000e\000L\000a\000T\000e\000X\000,\000\040\000X\000e\000L\000a\000T\000e\000X}{}% 70}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {70}\hologoRobust {XeLaTeX}, \HologoRobust {XeLaTeX}}{\thepage }{section.70}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {70}\HoLogo@tag@actualtext {first}{XeLaTeX}{\hologoRobust {XeLaTeX}}, \HoLogo@tag@actualtext {second}{XeLaTeX}{\HologoRobust {XeLaTeX}}}{\thepage }{section.70}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -5715,7 +5715,7 @@ Completed box being shipped out [8]
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
 ....\write3{\protect \BOOKMARK [1][-]{section.71}{\376\377\000X\000e\000T\000e\000X\000,\000\040\000X\000e\000T\000e\000X}{}% 71}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {71}\hologoRobust {XeTeX}, \HologoRobust {XeTeX}}{\thepage }{section.71}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {71}\HoLogo@tag@actualtext {first}{XeTeX}{\hologoRobust {XeTeX}}, \HoLogo@tag@actualtext {second}{XeTeX}{\HologoRobust {XeTeX}}}{\thepage }{section.71}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
