@@ -156,7 +156,7 @@ Completed box being shipped out [1]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 5.42
-....\hbox(10.08+3.1968)x345.0, glue set 184.12975fil, direction TLT
+....\hbox(10.08+3.1968)x345.0, glue set 185.56981fil, direction TLT
 .....\localpar
 ......\localinterlinepenalty=0
 ......\localbrokenpenalty=0
@@ -179,10 +179,11 @@ Completed box being shipped out [1]
 ......\TU/lmr/bx/sc/14.4 2
 ......\TU/lmr/bx/sc/14.4  
 ......\glue 9.0
-.....\hbox(10.08+0.0)x12.23999, direction TLT
+.....\hbox(10.08+0.0)x11.51996, direction TLT
 ......\pdfliteral page <lua data reference ...>
 ......\pdfliteral page <lua data reference ...>
 ......\TU/lmr/bx/sc/14.4 A
+......\kern-0.72003
 .....\hbox(6.48+2.7936)x8.27997, direction TLT
 ......\TU/lmr/bx/sc/14.4 p
 ......\kern-0.72003
@@ -206,10 +207,11 @@ Completed box being shipped out [1]
 .....\TU/lmr/bx/sc/14.4 ,
 .....\TU/lmr/bx/sc/14.4  
 .....\glue(\spaceskip) 0.0 plus 3.37498 minus 1.44
-.....\hbox(10.08+0.0)x12.23999, direction TLT
+.....\hbox(10.08+0.0)x11.51996, direction TLT
 ......\pdfliteral page <lua data reference ...>
 ......\pdfliteral page <lua data reference ...>
 ......\TU/lmr/bx/sc/14.4 A
+......\kern-0.72003
 .....\hbox(6.48+2.7936)x8.27997, direction TLT
 ......\TU/lmr/bx/sc/14.4 p
 ......\kern-0.72003
@@ -237,16 +239,17 @@ Completed box being shipped out [1]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 1.6432
-....\hbox(7.16+2.155)x345.0, glue set 306.776fil, direction TLT
+....\hbox(7.16+2.155)x345.0, glue set 307.27603fil, direction TLT
 .....\localpar
 ......\localinterlinepenalty=0
 ......\localbrokenpenalty=0
 ......\localleftbox=null
 ......\localrightbox=null
-.....\hbox(7.16+0.0)x7.5, direction TLT
+.....\hbox(7.16+0.0)x6.99997, direction TLT
 ......\pdfliteral page <lua data reference ...>
 ......\pdfliteral page <lua data reference ...>
 ......\TU/lmr/m/n/10 A
+......\kern-0.50003
 .....\hbox(4.42+1.94)x5.05997, direction TLT
 ......\TU/lmr/m/n/10 p
 ......\kern-0.50003
@@ -1448,7 +1451,7 @@ Completed box being shipped out [2]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 5.9666
-....\hbox(9.8784+3.1968)x345.0, glue set 194.19469fil, direction TLT
+....\hbox(9.8784+2.7936)x345.0, glue set 123.4273fil, direction TLT
 .....\localpar
 ......\localinterlinepenalty=0
 ......\localbrokenpenalty=0
@@ -1470,6 +1473,98 @@ Completed box being shipped out [2]
 .......\glue 0.0 plus 1.0fil minus 1.0fil
 ......\TU/lmr/bx/sc/14.4 1
 ......\TU/lmr/bx/sc/14.4 4
+......\TU/lmr/bx/sc/14.4  
+......\glue 9.0
+.....\hbox(9.8784+0.1296)x87.82556, direction TLT
+......\pdfliteral page <lua data reference ...>
+......\pdfliteral page <lua data reference ...>
+......\TU/lmr/bx/sc/14.4 D
+......\kern-0.4464 (font)
+......\TU/lmr/bx/sc/14.4 V
+......\TU/lmr/bx/sc/14.4 I
+......\TU/lmr/bx/sc/14.4 P
+......\TU/lmr/bx/sc/14.4 D
+......\TU/lmr/bx/sc/14.4 F
+......\TU/lmr/bx/sc/14.4 M
+......\TU/lmr/bx/sc/14.4 x
+.....\TU/lmr/bx/sc/14.4  
+.....\glue(\spaceskip) 0.0 plus 2.7 minus 1.8
+.....\pdfliteral page <lua data reference ...>
+.....\pdfliteral page <lua data reference ...>
+.....\TU/lmr/bx/sc/14.4 ,
+.....\TU/lmr/bx/sc/14.4  
+.....\glue(\spaceskip) 0.0 plus 3.37498 minus 1.44
+.....\hbox(9.8784+0.1296)x87.82556, direction TLT
+......\pdfliteral page <lua data reference ...>
+......\pdfliteral page <lua data reference ...>
+......\TU/lmr/bx/sc/14.4 D
+......\kern-0.4464 (font)
+......\TU/lmr/bx/sc/14.4 V
+......\TU/lmr/bx/sc/14.4 I
+......\TU/lmr/bx/sc/14.4 P
+......\TU/lmr/bx/sc/14.4 D
+......\TU/lmr/bx/sc/14.4 F
+......\TU/lmr/bx/sc/14.4 M
+......\TU/lmr/bx/sc/14.4 x
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\pdfliteral page <lua data reference ...>
+....\pdfliteral page <lua data reference ...>
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {14}\NoCaseChange {\HoLogo@tag@actualtext {first}{DVIPDFMx}{\hologoRobust {DVIPDFMx}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{DVIPDFMx}{\HologoRobust {DVIPDFMx}}}}{\thepage }{section.14}\protected@file@percent }}
+....\penalty 10000
+....\glue 9.913 plus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 2.3764
+....\hbox(6.83+0.22)x345.0, glue set 291.1fil, direction TLT
+.....\localpar
+......\localinterlinepenalty=0
+......\localbrokenpenalty=0
+......\localleftbox=null
+......\localrightbox=null
+.....\hbox(6.83+0.22)x53.9, direction TLT
+......\pdfliteral page <lua data reference ...>
+......\pdfliteral page <lua data reference ...>
+......\TU/lmr/m/n/10 D
+......\kern-0.28 (font)
+......\TU/lmr/m/n/10 V
+......\TU/lmr/m/n/10 I
+......\TU/lmr/m/n/10 P
+......\TU/lmr/m/n/10 D
+......\TU/lmr/m/n/10 F
+......\TU/lmr/m/n/10 M
+......\TU/lmr/m/n/10 x
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\penalty -300
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 7.9016
+....\hbox(9.8784+3.1968)x345.0, glue set 194.19469fil, direction TLT
+.....\localpar
+......\localinterlinepenalty=0
+......\localbrokenpenalty=0
+......\localleftbox=null
+......\localrightbox=null
+.....\hbox(9.4464+0.1728)x30.61438, direction TLT
+......\glue 0.0
+......\hbox(0.0+0.0)x0.0, direction TLT
+.......\kern0.0
+.......\penalty 10000
+.......\hbox(0.0+0.0)x0.0, direction TLT
+........\hbox(0.0+0.0)x0.0, shifted -18.0, direction TLT
+.........\pdfliteral page <lua data reference ...>
+.........\pdfliteral page <lua data reference ...>
+.........\pdfdest name{section.15} xyz
+.........\pdfdest name{section.15} xyz
+.........\penalty 10000
+.......\kern0.0
+.......\glue 0.0 plus 1.0fil minus 1.0fil
+......\TU/lmr/bx/sc/14.4 1
+......\TU/lmr/bx/sc/14.4 5
 ......\TU/lmr/bx/sc/14.4  
 ......\glue 9.0
 .....\hbox(6.5232+0.0864)x20.89438, direction TLT
@@ -1506,7 +1601,7 @@ Completed box being shipped out [2]
 .....\glue(\rightskip) 0.0
 ....\pdfliteral page <lua data reference ...>
 ....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {14}\NoCaseChange {\HoLogo@tag@actualtext {first}{emTeX}{\hologoRobust {emTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{emTeX}{\HologoRobust {emTeX}}}}{\thepage }{section.14}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {15}\NoCaseChange {\HoLogo@tag@actualtext {first}{emTeX}{\hologoRobust {emTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{emTeX}{\HologoRobust {emTeX}}}}{\thepage }{section.15}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -1552,13 +1647,13 @@ Completed box being shipped out [2]
 ........\hbox(0.0+0.0)x0.0, shifted -18.0, direction TLT
 .........\pdfliteral page <lua data reference ...>
 .........\pdfliteral page <lua data reference ...>
-.........\pdfdest name{section.15} xyz
-.........\pdfdest name{section.15} xyz
+.........\pdfdest name{section.16} xyz
+.........\pdfdest name{section.16} xyz
 .........\penalty 10000
 .......\kern0.0
 .......\glue 0.0 plus 1.0fil minus 1.0fil
 ......\TU/lmr/bx/sc/14.4 1
-......\TU/lmr/bx/sc/14.4 5
+......\TU/lmr/bx/sc/14.4 6
 ......\TU/lmr/bx/sc/14.4  
 ......\glue 9.0
 .....\hbox(9.8784+3.1968)x41.58887, direction TLT
@@ -1601,7 +1696,7 @@ Completed box being shipped out [2]
 .....\glue(\rightskip) 0.0
 ....\pdfliteral page <lua data reference ...>
 ....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {15}\NoCaseChange {\HoLogo@tag@actualtext {first}{eTeX}{\hologoRobust {eTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{eTeX}{\HologoRobust {eTeX}}}}{\thepage }{section.15}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {16}\NoCaseChange {\HoLogo@tag@actualtext {first}{eTeX}{\hologoRobust {eTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{eTeX}{\HologoRobust {eTeX}}}}{\thepage }{section.16}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -1641,7 +1736,7 @@ Completed box being shipped out [2]
 ......\localbrokenpenalty=0
 ......\localleftbox=null
 ......\localrightbox=null
-.....\hbox(9.4464+0.1728)x30.61438, direction TLT
+.....\hbox(9.73439+0.1728)x30.61438, direction TLT
 ......\glue 0.0
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\kern0.0
@@ -1650,13 +1745,13 @@ Completed box being shipped out [2]
 ........\hbox(0.0+0.0)x0.0, shifted -18.0, direction TLT
 .........\pdfliteral page <lua data reference ...>
 .........\pdfliteral page <lua data reference ...>
-.........\pdfdest name{section.16} xyz
-.........\pdfdest name{section.16} xyz
+.........\pdfdest name{section.17} xyz
+.........\pdfdest name{section.17} xyz
 .........\penalty 10000
 .......\kern0.0
 .......\glue 0.0 plus 1.0fil minus 1.0fil
 ......\TU/lmr/bx/sc/14.4 1
-......\TU/lmr/bx/sc/14.4 6
+......\TU/lmr/bx/sc/14.4 7
 ......\TU/lmr/bx/sc/14.4  
 ......\glue 9.0
 .....\hbox(6.4+2.15999)x16.205, direction TLT
@@ -1705,7 +1800,7 @@ Completed box being shipped out [2]
 .....\glue(\rightskip) 0.0
 ....\pdfliteral page <lua data reference ...>
 ....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {16}\NoCaseChange {\HoLogo@tag@actualtext {first}{ExTeX}{\hologoRobust {ExTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{ExTeX}{\HologoRobust {ExTeX}}}}{\thepage }{section.16}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {17}\NoCaseChange {\HoLogo@tag@actualtext {first}{ExTeX}{\hologoRobust {ExTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{ExTeX}{\HologoRobust {ExTeX}}}}{\thepage }{section.17}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -1748,7 +1843,7 @@ Completed box being shipped out [2]
 ......\localbrokenpenalty=0
 ......\localleftbox=null
 ......\localrightbox=null
-.....\hbox(9.73439+0.1728)x30.61438, direction TLT
+.....\hbox(9.4464+0.1728)x30.61438, direction TLT
 ......\glue 0.0
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\kern0.0
@@ -1757,13 +1852,13 @@ Completed box being shipped out [2]
 ........\hbox(0.0+0.0)x0.0, shifted -18.0, direction TLT
 .........\pdfliteral page <lua data reference ...>
 .........\pdfliteral page <lua data reference ...>
-.........\pdfdest name{section.17} xyz
-.........\pdfdest name{section.17} xyz
+.........\pdfdest name{section.18} xyz
+.........\pdfdest name{section.18} xyz
 .........\penalty 10000
 .......\kern0.0
 .......\glue 0.0 plus 1.0fil minus 1.0fil
 ......\TU/lmr/bx/sc/14.4 1
-......\TU/lmr/bx/sc/14.4 7
+......\TU/lmr/bx/sc/14.4 8
 ......\TU/lmr/bx/sc/14.4  
 ......\glue 9.0
 .....\hbox(10.13759+0.0864)x29.5488, direction TLT
@@ -1822,7 +1917,7 @@ Completed box being shipped out [2]
 .....\glue(\rightskip) 0.0
 ....\pdfliteral page <lua data reference ...>
 ....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {17}\NoCaseChange {\HoLogo@tag@actualtext {first}{HanTheThanh}{\hologoRobust {HanTheThanh}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{HanTheThanh}{\HologoRobust {HanTheThanh}}}}{\thepage }{section.17}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {18}\NoCaseChange {\HoLogo@tag@actualtext {first}{HanTheThanh}{\hologoRobust {HanTheThanh}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{HanTheThanh}{\HologoRobust {HanTheThanh}}}}{\thepage }{section.18}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -1879,13 +1974,13 @@ Completed box being shipped out [2]
 ........\hbox(0.0+0.0)x0.0, shifted -18.0, direction TLT
 .........\pdfliteral page <lua data reference ...>
 .........\pdfliteral page <lua data reference ...>
-.........\pdfdest name{section.18} xyz
-.........\pdfdest name{section.18} xyz
+.........\pdfdest name{section.19} xyz
+.........\pdfdest name{section.19} xyz
 .........\penalty 10000
 .......\kern0.0
 .......\glue 0.0 plus 1.0fil minus 1.0fil
 ......\TU/lmr/bx/sc/14.4 1
-......\TU/lmr/bx/sc/14.4 8
+......\TU/lmr/bx/sc/14.4 9
 ......\TU/lmr/bx/sc/14.4  
 ......\glue 9.0
 .....\hbox(9.8784+3.1968)x47.9419, direction TLT
@@ -1924,7 +2019,7 @@ Completed box being shipped out [2]
 .....\glue(\rightskip) 0.0
 ....\pdfliteral page <lua data reference ...>
 ....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {18}\NoCaseChange {\HoLogo@tag@actualtext {first}{iniTeX}{\hologoRobust {iniTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{iniTeX}{\HologoRobust {iniTeX}}}}{\thepage }{section.18}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {19}\NoCaseChange {\HoLogo@tag@actualtext {first}{iniTeX}{\hologoRobust {iniTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{iniTeX}{\HologoRobust {iniTeX}}}}{\thepage }{section.19}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -1971,13 +2066,13 @@ Completed box being shipped out [2]
 ........\hbox(0.0+0.0)x0.0, shifted -18.0, direction TLT
 .........\pdfliteral page <lua data reference ...>
 .........\pdfliteral page <lua data reference ...>
-.........\pdfdest name{section.19} xyz
-.........\pdfdest name{section.19} xyz
+.........\pdfdest name{section.20} xyz
+.........\pdfdest name{section.20} xyz
 .........\penalty 10000
 .......\kern0.0
 .......\glue 0.0 plus 1.0fil minus 1.0fil
-......\TU/lmr/bx/sc/14.4 1
-......\TU/lmr/bx/sc/14.4 9
+......\TU/lmr/bx/sc/14.4 2
+......\TU/lmr/bx/sc/14.4 0
 ......\TU/lmr/bx/sc/14.4  
 ......\glue 9.0
 .....\hbox(10.3104+0.3168)x49.23367, direction TLT
@@ -2034,7 +2129,7 @@ Completed box being shipped out [2]
 .....\glue(\rightskip) 0.0
 ....\pdfliteral page <lua data reference ...>
 ....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {19}\NoCaseChange {\HoLogo@tag@actualtext {first}{KOMAScript}{\hologoRobust {KOMAScript}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{KOMAScript}{\HologoRobust {KOMAScript}}}}{\thepage }{section.19}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {20}\NoCaseChange {\HoLogo@tag@actualtext {first}{KOMAScript}{\hologoRobust {KOMAScript}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{KOMAScript}{\HologoRobust {KOMAScript}}}}{\thepage }{section.20}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -2070,87 +2165,7 @@ Completed box being shipped out [2]
 .....\penalty 10000
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
-....\penalty -300
-....\glue 15.08499 plus 4.31 minus 0.86198
-....\glue(\parskip) 0.0 plus 1.0
-....\glue(\parskip) 0.0
-....\glue(\baselineskip) 6.1816
-....\hbox(9.8784+2.7936)x345.0, glue set 272.59766fil, direction TLT
-.....\localpar
-......\localinterlinepenalty=0
-......\localbrokenpenalty=0
-......\localleftbox=null
-......\localrightbox=null
-.....\hbox(9.4464+0.1728)x30.61438, direction TLT
-......\glue 0.0
-......\hbox(0.0+0.0)x0.0, direction TLT
-.......\kern0.0
-.......\penalty 10000
-.......\hbox(0.0+0.0)x0.0, direction TLT
-........\hbox(0.0+0.0)x0.0, shifted -18.0, direction TLT
-.........\pdfliteral page <lua data reference ...>
-.........\pdfliteral page <lua data reference ...>
-.........\pdfdest name{section.20} xyz
-.........\pdfdest name{section.20} xyz
-.........\penalty 10000
-.......\kern0.0
-.......\glue 0.0 plus 1.0fil minus 1.0fil
-......\TU/lmr/bx/sc/14.4 2
-......\TU/lmr/bx/sc/14.4 0
-......\TU/lmr/bx/sc/14.4  
-......\glue 9.0
-.....\pdfliteral page <lua data reference ...>
-.....\pdfliteral page <lua data reference ...>
-.....\TU/lmr/bx/sc/14.4 L
-.....\kern-5.184
-.....\vbox(9.7488+0.0)x8.69, glue set 2.7688fil, direction TLT
-......\hbox(6.98+0.0)x8.69, direction TLT
-.......\TU/lmr/bx/n/10 A
-......\glue 0.0 plus 1.0fil minus 1.0fil
-.....\TU/lmr/bx/sc/14.4  
-.....\glue(\spaceskip) 0.0 plus 2.7 minus 1.8
-.....\pdfliteral page <lua data reference ...>
-.....\pdfliteral page <lua data reference ...>
-.....\TU/lmr/bx/sc/14.4 ,
-.....\TU/lmr/bx/sc/14.4  
-.....\glue(\spaceskip) 0.0 plus 3.37498 minus 1.44
-.....\pdfliteral page <lua data reference ...>
-.....\pdfliteral page <lua data reference ...>
-.....\TU/lmr/bx/sc/14.4 L
-.....\kern-5.184
-.....\vbox(9.7488+0.0)x8.69, glue set 2.7688fil, direction TLT
-......\hbox(6.98+0.0)x8.69, direction TLT
-.......\TU/lmr/bx/n/10 A
-......\glue 0.0 plus 1.0fil minus 1.0fil
-.....\penalty 10000
-.....\glue(\parfillskip) 0.0 plus 1.0fil
-.....\glue(\rightskip) 0.0
-....\pdfliteral page <lua data reference ...>
-....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {20}\NoCaseChange {\HoLogo@tag@actualtext {first}{La}{\hologoRobust {La}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{La}{\HologoRobust {La}}}}{\thepage }{section.20}\protected@file@percent }}
-....\penalty 10000
-....\glue 9.913 plus 0.86198
-....\glue(\parskip) 0.0 plus 1.0
-....\glue(\parskip) 0.0
-....\glue(\baselineskip) 2.3764
-....\hbox(6.83+0.0)x345.0, glue set 336.449fil, direction TLT
-.....\localpar
-......\localinterlinepenalty=0
-......\localbrokenpenalty=0
-......\localleftbox=null
-......\localrightbox=null
-.....\pdfliteral page <lua data reference ...>
-.....\pdfliteral page <lua data reference ...>
-.....\TU/lmr/m/n/10 L
-.....\kern-3.6
-.....\vbox(6.77+0.0)x5.901, glue set 1.779fil, direction TLT
-......\hbox(4.991+0.0)x5.901, direction TLT
-.......\TU/lmr/m/n/7 A
-......\glue 0.0 plus 1.0fil minus 1.0fil
-.....\penalty 10000
-.....\glue(\parfillskip) 0.0 plus 1.0fil
-.....\glue(\rightskip) 0.0
-....\glue 0.0
+....\glue -1.94
 ....\glue 0.0 plus 0.0001fil
 ...\pdfliteral page <lua data reference ...>
 ...\pdfliteral page <lua data reference ...>
@@ -2209,7 +2224,7 @@ Completed box being shipped out [3]
 ...\glue(\lineskip) 0.0
 ...\vbox(550.0+0.0)x345.0, glue set >20000.0fil, direction TLT
 ....\glue(\topskip) 0.1216
-....\hbox(9.8784+3.1968)x345.0, glue set 217.06247fil, direction TLT
+....\hbox(9.8784+2.7936)x345.0, glue set 272.59766fil, direction TLT
 .....\localpar
 ......\localinterlinepenalty=0
 ......\localbrokenpenalty=0
@@ -2231,6 +2246,86 @@ Completed box being shipped out [3]
 .......\glue 0.0 plus 1.0fil minus 1.0fil
 ......\TU/lmr/bx/sc/14.4 2
 ......\TU/lmr/bx/sc/14.4 1
+......\TU/lmr/bx/sc/14.4  
+......\glue 9.0
+.....\pdfliteral page <lua data reference ...>
+.....\pdfliteral page <lua data reference ...>
+.....\TU/lmr/bx/sc/14.4 L
+.....\kern-5.184
+.....\vbox(9.7488+0.0)x8.69, glue set 2.7688fil, direction TLT
+......\hbox(6.98+0.0)x8.69, direction TLT
+.......\TU/lmr/bx/n/10 A
+......\glue 0.0 plus 1.0fil minus 1.0fil
+.....\TU/lmr/bx/sc/14.4  
+.....\glue(\spaceskip) 0.0 plus 2.7 minus 1.8
+.....\pdfliteral page <lua data reference ...>
+.....\pdfliteral page <lua data reference ...>
+.....\TU/lmr/bx/sc/14.4 ,
+.....\TU/lmr/bx/sc/14.4  
+.....\glue(\spaceskip) 0.0 plus 3.37498 minus 1.44
+.....\pdfliteral page <lua data reference ...>
+.....\pdfliteral page <lua data reference ...>
+.....\TU/lmr/bx/sc/14.4 L
+.....\kern-5.184
+.....\vbox(9.7488+0.0)x8.69, glue set 2.7688fil, direction TLT
+......\hbox(6.98+0.0)x8.69, direction TLT
+.......\TU/lmr/bx/n/10 A
+......\glue 0.0 plus 1.0fil minus 1.0fil
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\pdfliteral page <lua data reference ...>
+....\pdfliteral page <lua data reference ...>
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {21}\NoCaseChange {\HoLogo@tag@actualtext {first}{La}{\hologoRobust {La}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{La}{\HologoRobust {La}}}}{\thepage }{section.21}\protected@file@percent }}
+....\penalty 10000
+....\glue 9.913 plus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 2.3764
+....\hbox(6.83+0.0)x345.0, glue set 336.449fil, direction TLT
+.....\localpar
+......\localinterlinepenalty=0
+......\localbrokenpenalty=0
+......\localleftbox=null
+......\localrightbox=null
+.....\pdfliteral page <lua data reference ...>
+.....\pdfliteral page <lua data reference ...>
+.....\TU/lmr/m/n/10 L
+.....\kern-3.6
+.....\vbox(6.77+0.0)x5.901, glue set 1.779fil, direction TLT
+......\hbox(4.991+0.0)x5.901, direction TLT
+.......\TU/lmr/m/n/7 A
+......\glue 0.0 plus 1.0fil minus 1.0fil
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\penalty -300
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 8.1216
+....\hbox(9.8784+3.1968)x345.0, glue set 217.06247fil, direction TLT
+.....\localpar
+......\localinterlinepenalty=0
+......\localbrokenpenalty=0
+......\localleftbox=null
+......\localrightbox=null
+.....\hbox(9.4464+0.0)x30.61438, direction TLT
+......\glue 0.0
+......\hbox(0.0+0.0)x0.0, direction TLT
+.......\kern0.0
+.......\penalty 10000
+.......\hbox(0.0+0.0)x0.0, direction TLT
+........\hbox(0.0+0.0)x0.0, shifted -18.0, direction TLT
+.........\pdfliteral page <lua data reference ...>
+.........\pdfliteral page <lua data reference ...>
+.........\pdfdest name{section.22} xyz
+.........\pdfdest name{section.22} xyz
+.........\penalty 10000
+.......\kern0.0
+.......\glue 0.0 plus 1.0fil minus 1.0fil
+......\TU/lmr/bx/sc/14.4 2
+......\TU/lmr/bx/sc/14.4 2
 ......\TU/lmr/bx/sc/14.4  
 ......\glue 9.0
 .....\pdfliteral page <lua data reference ...>
@@ -2275,7 +2370,7 @@ Completed box being shipped out [3]
 .....\glue(\rightskip) 0.0
 ....\pdfliteral page <lua data reference ...>
 ....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {21}\NoCaseChange {\HoLogo@tag@actualtext {first}{LaTeX}{\hologoRobust {LaTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{LaTeX}{\HologoRobust {LaTeX}}}}{\thepage }{section.21}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {22}\NoCaseChange {\HoLogo@tag@actualtext {first}{LaTeX}{\hologoRobust {LaTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{LaTeX}{\HologoRobust {LaTeX}}}}{\thepage }{section.22}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -2316,7 +2411,7 @@ Completed box being shipped out [3]
 ......\localbrokenpenalty=0
 ......\localleftbox=null
 ......\localrightbox=null
-.....\hbox(9.4464+0.0)x30.61438, direction TLT
+.....\hbox(9.4464+0.1728)x30.61438, direction TLT
 ......\glue 0.0
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\kern0.0
@@ -2325,13 +2420,13 @@ Completed box being shipped out [3]
 ........\hbox(0.0+0.0)x0.0, shifted -18.0, direction TLT
 .........\pdfliteral page <lua data reference ...>
 .........\pdfliteral page <lua data reference ...>
-.........\pdfdest name{section.22} xyz
-.........\pdfdest name{section.22} xyz
+.........\pdfdest name{section.23} xyz
+.........\pdfdest name{section.23} xyz
 .........\penalty 10000
 .......\kern0.0
 .......\glue 0.0 plus 1.0fil minus 1.0fil
 ......\TU/lmr/bx/sc/14.4 2
-......\TU/lmr/bx/sc/14.4 2
+......\TU/lmr/bx/sc/14.4 3
 ......\TU/lmr/bx/sc/14.4  
 ......\glue 9.0
 .....\pdfliteral page <lua data reference ...>
@@ -2392,7 +2487,7 @@ Completed box being shipped out [3]
 .....\glue(\rightskip) 0.0
 ....\pdfliteral page <lua data reference ...>
 ....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {22}\NoCaseChange {\HoLogo@tag@actualtext {first}{LaTeX2e}{\hologoRobust {LaTeX2e}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{LaTeX2e}{\HologoRobust {LaTeX2e}}}}{\thepage }{section.22}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {23}\NoCaseChange {\HoLogo@tag@actualtext {first}{LaTeX2e}{\hologoRobust {LaTeX2e}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{LaTeX2e}{\HologoRobust {LaTeX2e}}}}{\thepage }{section.23}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -2441,7 +2536,7 @@ Completed box being shipped out [3]
 ......\localbrokenpenalty=0
 ......\localleftbox=null
 ......\localrightbox=null
-.....\hbox(9.4464+0.1728)x30.61438, direction TLT
+.....\hbox(9.47519+0.0)x30.61438, direction TLT
 ......\glue 0.0
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\kern0.0
@@ -2450,13 +2545,13 @@ Completed box being shipped out [3]
 ........\hbox(0.0+0.0)x0.0, shifted -18.0, direction TLT
 .........\pdfliteral page <lua data reference ...>
 .........\pdfliteral page <lua data reference ...>
-.........\pdfdest name{section.23} xyz
-.........\pdfdest name{section.23} xyz
+.........\pdfdest name{section.24} xyz
+.........\pdfdest name{section.24} xyz
 .........\penalty 10000
 .......\kern0.0
 .......\glue 0.0 plus 1.0fil minus 1.0fil
 ......\TU/lmr/bx/sc/14.4 2
-......\TU/lmr/bx/sc/14.4 3
+......\TU/lmr/bx/sc/14.4 4
 ......\TU/lmr/bx/sc/14.4  
 ......\glue 9.0
 .....\pdfliteral page <lua data reference ...>
@@ -2503,7 +2598,7 @@ Completed box being shipped out [3]
 .....\glue(\rightskip) 0.0
 ....\pdfliteral page <lua data reference ...>
 ....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {23}\NoCaseChange {\HoLogo@tag@actualtext {first}{LaTeX3}{\hologoRobust {LaTeX3}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{LaTeX3}{\HologoRobust {LaTeX3}}}}{\thepage }{section.23}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {24}\NoCaseChange {\HoLogo@tag@actualtext {first}{LaTeX3}{\hologoRobust {LaTeX3}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{LaTeX3}{\HologoRobust {LaTeX3}}}}{\thepage }{section.24}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -2545,7 +2640,7 @@ Completed box being shipped out [3]
 ......\localbrokenpenalty=0
 ......\localleftbox=null
 ......\localrightbox=null
-.....\hbox(9.47519+0.0)x30.61438, direction TLT
+.....\hbox(9.4464+0.1728)x30.61438, direction TLT
 ......\glue 0.0
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\kern0.0
@@ -2554,13 +2649,13 @@ Completed box being shipped out [3]
 ........\hbox(0.0+0.0)x0.0, shifted -18.0, direction TLT
 .........\pdfliteral page <lua data reference ...>
 .........\pdfliteral page <lua data reference ...>
-.........\pdfdest name{section.24} xyz
-.........\pdfdest name{section.24} xyz
+.........\pdfdest name{section.25} xyz
+.........\pdfdest name{section.25} xyz
 .........\penalty 10000
 .......\kern0.0
 .......\glue 0.0 plus 1.0fil minus 1.0fil
 ......\TU/lmr/bx/sc/14.4 2
-......\TU/lmr/bx/sc/14.4 4
+......\TU/lmr/bx/sc/14.4 5
 ......\TU/lmr/bx/sc/14.4  
 ......\glue 9.0
 .....\pdfliteral page <lua data reference ...>
@@ -2621,7 +2716,7 @@ Completed box being shipped out [3]
 .....\glue(\rightskip) 0.0
 ....\pdfliteral page <lua data reference ...>
 ....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {24}\NoCaseChange {\HoLogo@tag@actualtext {first}{LaTeXe}{\hologoRobust {LaTeXe}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{LaTeXe}{\HologoRobust {LaTeXe}}}}{\thepage }{section.24}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {25}\NoCaseChange {\HoLogo@tag@actualtext {first}{LaTeXe}{\hologoRobust {LaTeXe}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{LaTeXe}{\HologoRobust {LaTeXe}}}}{\thepage }{section.25}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -2679,13 +2774,13 @@ Completed box being shipped out [3]
 ........\hbox(0.0+0.0)x0.0, shifted -18.0, direction TLT
 .........\pdfliteral page <lua data reference ...>
 .........\pdfliteral page <lua data reference ...>
-.........\pdfdest name{section.25} xyz
-.........\pdfdest name{section.25} xyz
+.........\pdfdest name{section.26} xyz
+.........\pdfdest name{section.26} xyz
 .........\penalty 10000
 .......\kern0.0
 .......\glue 0.0 plus 1.0fil minus 1.0fil
 ......\TU/lmr/bx/sc/14.4 2
-......\TU/lmr/bx/sc/14.4 5
+......\TU/lmr/bx/sc/14.4 6
 ......\TU/lmr/bx/sc/14.4  
 ......\glue 9.0
 .....\hbox(9.99359+3.1968)x55.33597, direction TLT
@@ -2736,7 +2831,7 @@ Completed box being shipped out [3]
 .....\glue(\rightskip) 0.0
 ....\pdfliteral page <lua data reference ...>
 ....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {25}\NoCaseChange {\HoLogo@tag@actualtext {first}{LaTeXML}{\hologoRobust {LaTeXML}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{LaTeXML}{\HologoRobust {LaTeXML}}}}{\thepage }{section.25}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {26}\NoCaseChange {\HoLogo@tag@actualtext {first}{LaTeXML}{\hologoRobust {LaTeXML}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{LaTeXML}{\HologoRobust {LaTeXML}}}}{\thepage }{section.26}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -2780,7 +2875,7 @@ Completed box being shipped out [3]
 ......\localbrokenpenalty=0
 ......\localleftbox=null
 ......\localrightbox=null
-.....\hbox(9.4464+0.1728)x30.61438, direction TLT
+.....\hbox(9.73439+0.1728)x30.61438, direction TLT
 ......\glue 0.0
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\kern0.0
@@ -2789,13 +2884,13 @@ Completed box being shipped out [3]
 ........\hbox(0.0+0.0)x0.0, shifted -18.0, direction TLT
 .........\pdfliteral page <lua data reference ...>
 .........\pdfliteral page <lua data reference ...>
-.........\pdfdest name{section.26} xyz
-.........\pdfdest name{section.26} xyz
+.........\pdfdest name{section.27} xyz
+.........\pdfdest name{section.27} xyz
 .........\penalty 10000
 .......\kern0.0
 .......\glue 0.0 plus 1.0fil minus 1.0fil
 ......\TU/lmr/bx/sc/14.4 2
-......\TU/lmr/bx/sc/14.4 6
+......\TU/lmr/bx/sc/14.4 7
 ......\TU/lmr/bx/sc/14.4  
 ......\glue 9.0
 .....\pdfliteral page <lua data reference ...>
@@ -2848,7 +2943,7 @@ Completed box being shipped out [3]
 .....\glue(\rightskip) 0.0
 ....\pdfliteral page <lua data reference ...>
 ....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {26}\NoCaseChange {\HoLogo@tag@actualtext {first}{LaTeXTeX}{\hologoRobust {LaTeXTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{LaTeXTeX}{\HologoRobust {LaTeXTeX}}}}{\thepage }{section.26}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {27}\NoCaseChange {\HoLogo@tag@actualtext {first}{LaTeXTeX}{\hologoRobust {LaTeXTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{LaTeXTeX}{\HologoRobust {LaTeXTeX}}}}{\thepage }{section.27}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -2893,7 +2988,7 @@ Completed box being shipped out [3]
 ......\localbrokenpenalty=0
 ......\localleftbox=null
 ......\localrightbox=null
-.....\hbox(9.73439+0.1728)x30.61438, direction TLT
+.....\hbox(9.4464+0.1728)x30.61438, direction TLT
 ......\glue 0.0
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\kern0.0
@@ -2902,13 +2997,13 @@ Completed box being shipped out [3]
 ........\hbox(0.0+0.0)x0.0, shifted -18.0, direction TLT
 .........\pdfliteral page <lua data reference ...>
 .........\pdfliteral page <lua data reference ...>
-.........\pdfdest name{section.27} xyz
-.........\pdfdest name{section.27} xyz
+.........\pdfdest name{section.28} xyz
+.........\pdfdest name{section.28} xyz
 .........\penalty 10000
 .......\kern0.0
 .......\glue 0.0 plus 1.0fil minus 1.0fil
 ......\TU/lmr/bx/sc/14.4 2
-......\TU/lmr/bx/sc/14.4 7
+......\TU/lmr/bx/sc/14.4 8
 ......\TU/lmr/bx/sc/14.4  
 ......\glue 9.0
 .....\hbox(9.8784+3.1968)x67.61917, direction TLT
@@ -2961,7 +3056,7 @@ Completed box being shipped out [3]
 .....\glue(\rightskip) 0.0
 ....\pdfliteral page <lua data reference ...>
 ....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {27}\NoCaseChange {\HoLogo@tag@actualtext {first}{LuaLaTeX}{\hologoRobust {LuaLaTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{LuaLaTeX}{\HologoRobust {LuaLaTeX}}}}{\thepage }{section.27}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {28}\NoCaseChange {\HoLogo@tag@actualtext {first}{LuaLaTeX}{\hologoRobust {LuaLaTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{LuaLaTeX}{\HologoRobust {LuaLaTeX}}}}{\thepage }{section.28}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -3015,13 +3110,13 @@ Completed box being shipped out [3]
 ........\hbox(0.0+0.0)x0.0, shifted -18.0, direction TLT
 .........\pdfliteral page <lua data reference ...>
 .........\pdfliteral page <lua data reference ...>
-.........\pdfdest name{section.28} xyz
-.........\pdfdest name{section.28} xyz
+.........\pdfdest name{section.29} xyz
+.........\pdfdest name{section.29} xyz
 .........\penalty 10000
 .......\kern0.0
 .......\glue 0.0 plus 1.0fil minus 1.0fil
 ......\TU/lmr/bx/sc/14.4 2
-......\TU/lmr/bx/sc/14.4 8
+......\TU/lmr/bx/sc/14.4 9
 ......\TU/lmr/bx/sc/14.4  
 ......\glue 9.0
 .....\hbox(9.8784+3.1968)x55.18509, direction TLT
@@ -3062,7 +3157,7 @@ Completed box being shipped out [3]
 .....\glue(\rightskip) 0.0
 ....\pdfliteral page <lua data reference ...>
 ....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {28}\NoCaseChange {\HoLogo@tag@actualtext {first}{LuaTeX}{\hologoRobust {LuaTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{LuaTeX}{\HologoRobust {LuaTeX}}}}{\thepage }{section.28}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {29}\NoCaseChange {\HoLogo@tag@actualtext {first}{LuaTeX}{\hologoRobust {LuaTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{LuaTeX}{\HologoRobust {LuaTeX}}}}{\thepage }{section.29}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -3110,13 +3205,13 @@ Completed box being shipped out [3]
 ........\hbox(0.0+0.0)x0.0, shifted -18.0, direction TLT
 .........\pdfliteral page <lua data reference ...>
 .........\pdfliteral page <lua data reference ...>
-.........\pdfdest name{section.29} xyz
-.........\pdfdest name{section.29} xyz
+.........\pdfdest name{section.30} xyz
+.........\pdfdest name{section.30} xyz
 .........\penalty 10000
 .......\kern0.0
 .......\glue 0.0 plus 1.0fil minus 1.0fil
-......\TU/lmr/bx/sc/14.4 2
-......\TU/lmr/bx/sc/14.4 9
+......\TU/lmr/bx/sc/14.4 3
+......\TU/lmr/bx/sc/14.4 0
 ......\TU/lmr/bx/sc/14.4  
 ......\glue 9.0
 .....\pdfliteral page <lua data reference ...>
@@ -3147,7 +3242,7 @@ Completed box being shipped out [3]
 .....\glue(\rightskip) 0.0
 ....\pdfliteral page <lua data reference ...>
 ....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {29}\NoCaseChange {\HoLogo@tag@actualtext {first}{LyX}{\hologoRobust {LyX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{LyX}{\HologoRobust {LyX}}}}{\thepage }{section.29}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {30}\NoCaseChange {\HoLogo@tag@actualtext {first}{LyX}{\hologoRobust {LyX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{LyX}{\HologoRobust {LyX}}}}{\thepage }{section.30}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -3170,105 +3265,7 @@ Completed box being shipped out [3]
 .....\penalty 10000
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
-....\penalty -300
-....\glue 15.08499 plus 4.31 minus 0.86198
-....\glue(\parskip) 0.0 plus 1.0
-....\glue(\parskip) 0.0
-....\glue(\baselineskip) 6.0536
-....\hbox(9.4464+2.7936)x345.0, glue set 143.84909fil, direction TLT
-.....\localpar
-......\localinterlinepenalty=0
-......\localbrokenpenalty=0
-......\localleftbox=null
-......\localrightbox=null
-.....\hbox(9.4464+0.1728)x30.61438, direction TLT
-......\glue 0.0
-......\hbox(0.0+0.0)x0.0, direction TLT
-.......\kern0.0
-.......\penalty 10000
-.......\hbox(0.0+0.0)x0.0, direction TLT
-........\hbox(0.0+0.0)x0.0, shifted -18.0, direction TLT
-.........\pdfliteral page <lua data reference ...>
-.........\pdfliteral page <lua data reference ...>
-.........\pdfdest name{section.30} xyz
-.........\pdfdest name{section.30} xyz
-.........\penalty 10000
-.......\kern0.0
-.......\glue 0.0 plus 1.0fil minus 1.0fil
-......\TU/lmr/bx/sc/14.4 3
-......\TU/lmr/bx/sc/14.4 0
-......\TU/lmr/bx/sc/14.4  
-......\glue 9.0
-.....\hbox(8.64+0.0)x39.9833, direction TLT
-......\pdfliteral page <lua data reference ...>
-......\pdfliteral page <lua data reference ...>
-......\U/logo/b/n/14.4 M
-......\U/logo/b/n/14.4 E
-......\U/logo/b/n/14.4 T
-......\kern-0.33601 (font)
-......\U/logo/b/n/14.4 A
-.....\hbox(8.64+0.0)x37.63136, direction TLT
-......\U/logo/b/n/14.4 F
-......\kern-0.672 (font)
-......\U/logo/b/n/14.4 O
-......\U/logo/b/n/14.4 N
-......\U/logo/b/n/14.4 T
-.....\TU/lmr/bx/sc/14.4  
-.....\glue(\spaceskip) 0.0 plus 2.7 minus 1.8
-.....\pdfliteral page <lua data reference ...>
-.....\pdfliteral page <lua data reference ...>
-.....\TU/lmr/bx/sc/14.4 ,
-.....\TU/lmr/bx/sc/14.4  
-.....\glue(\spaceskip) 0.0 plus 3.37498 minus 1.44
-.....\hbox(8.64+0.0)x39.9833, direction TLT
-......\pdfliteral page <lua data reference ...>
-......\pdfliteral page <lua data reference ...>
-......\U/logo/b/n/14.4 M
-......\U/logo/b/n/14.4 E
-......\U/logo/b/n/14.4 T
-......\kern-0.33601 (font)
-......\U/logo/b/n/14.4 A
-.....\hbox(8.64+0.0)x37.63136, direction TLT
-......\U/logo/b/n/14.4 F
-......\kern-0.672 (font)
-......\U/logo/b/n/14.4 O
-......\U/logo/b/n/14.4 N
-......\U/logo/b/n/14.4 T
-.....\penalty 10000
-.....\glue(\parfillskip) 0.0 plus 1.0fil
-.....\glue(\rightskip) 0.0
-....\pdfliteral page <lua data reference ...>
-....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {30}\NoCaseChange {\HoLogo@tag@actualtext {first}{METAFONT}{\hologoRobust {METAFONT}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{METAFONT}{\HologoRobust {METAFONT}}}}{\thepage }{section.30}\protected@file@percent }}
-....\penalty 10000
-....\glue 9.913 plus 0.86198
-....\glue(\parskip) 0.0 plus 1.0
-....\glue(\parskip) 0.0
-....\glue(\baselineskip) 3.2064
-....\hbox(6.0+0.0)x345.0, glue set 293.66687fil, direction TLT
-.....\localpar
-......\localinterlinepenalty=0
-......\localbrokenpenalty=0
-......\localleftbox=null
-......\localrightbox=null
-.....\hbox(6.0+0.0)x26.44434, direction TLT
-......\pdfliteral page <lua data reference ...>
-......\pdfliteral page <lua data reference ...>
-......\U/logo/m/n/10 M
-......\U/logo/m/n/10 E
-......\U/logo/m/n/10 T
-......\kern-0.22223 (font)
-......\U/logo/m/n/10 A
-.....\hbox(6.0+0.0)x24.8888, direction TLT
-......\U/logo/m/n/10 F
-......\kern-0.44444 (font)
-......\U/logo/m/n/10 O
-......\U/logo/m/n/10 N
-......\U/logo/m/n/10 T
-.....\penalty 10000
-.....\glue(\parfillskip) 0.0 plus 1.0fil
-.....\glue(\rightskip) 0.0
-....\glue 0.0
+....\glue -2.5
 ....\glue 0.0 plus 0.0001fil
 ...\pdfliteral page <lua data reference ...>
 ...\pdfliteral page <lua data reference ...>
@@ -3323,8 +3320,8 @@ Completed box being shipped out [4]
 ...\glue 25.0
 ...\glue(\lineskip) 0.0
 ...\vbox(550.0+0.0)x345.0, glue set >20000.0fil, direction TLT
-....\glue(\topskip) 0.1216
-....\hbox(9.8784+2.7936)x345.0, glue set 171.55206fil, direction TLT
+....\glue(\topskip) 0.5536
+....\hbox(9.4464+2.7936)x345.0, glue set 143.84909fil, direction TLT
 .....\localpar
 ......\localinterlinepenalty=0
 ......\localbrokenpenalty=0
@@ -3346,6 +3343,104 @@ Completed box being shipped out [4]
 .......\glue 0.0 plus 1.0fil minus 1.0fil
 ......\TU/lmr/bx/sc/14.4 3
 ......\TU/lmr/bx/sc/14.4 1
+......\TU/lmr/bx/sc/14.4  
+......\glue 9.0
+.....\hbox(8.64+0.0)x39.9833, direction TLT
+......\pdfliteral page <lua data reference ...>
+......\pdfliteral page <lua data reference ...>
+......\U/logo/b/n/14.4 M
+......\U/logo/b/n/14.4 E
+......\U/logo/b/n/14.4 T
+......\kern-0.33601 (font)
+......\U/logo/b/n/14.4 A
+.....\hbox(8.64+0.0)x37.63136, direction TLT
+......\U/logo/b/n/14.4 F
+......\kern-0.672 (font)
+......\U/logo/b/n/14.4 O
+......\U/logo/b/n/14.4 N
+......\U/logo/b/n/14.4 T
+.....\TU/lmr/bx/sc/14.4  
+.....\glue(\spaceskip) 0.0 plus 2.7 minus 1.8
+.....\pdfliteral page <lua data reference ...>
+.....\pdfliteral page <lua data reference ...>
+.....\TU/lmr/bx/sc/14.4 ,
+.....\TU/lmr/bx/sc/14.4  
+.....\glue(\spaceskip) 0.0 plus 3.37498 minus 1.44
+.....\hbox(8.64+0.0)x39.9833, direction TLT
+......\pdfliteral page <lua data reference ...>
+......\pdfliteral page <lua data reference ...>
+......\U/logo/b/n/14.4 M
+......\U/logo/b/n/14.4 E
+......\U/logo/b/n/14.4 T
+......\kern-0.33601 (font)
+......\U/logo/b/n/14.4 A
+.....\hbox(8.64+0.0)x37.63136, direction TLT
+......\U/logo/b/n/14.4 F
+......\kern-0.672 (font)
+......\U/logo/b/n/14.4 O
+......\U/logo/b/n/14.4 N
+......\U/logo/b/n/14.4 T
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\pdfliteral page <lua data reference ...>
+....\pdfliteral page <lua data reference ...>
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {31}\NoCaseChange {\HoLogo@tag@actualtext {first}{METAFONT}{\hologoRobust {METAFONT}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{METAFONT}{\HologoRobust {METAFONT}}}}{\thepage }{section.31}\protected@file@percent }}
+....\penalty 10000
+....\glue 9.913 plus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 3.2064
+....\hbox(6.0+0.0)x345.0, glue set 293.66687fil, direction TLT
+.....\localpar
+......\localinterlinepenalty=0
+......\localbrokenpenalty=0
+......\localleftbox=null
+......\localrightbox=null
+.....\hbox(6.0+0.0)x26.44434, direction TLT
+......\pdfliteral page <lua data reference ...>
+......\pdfliteral page <lua data reference ...>
+......\U/logo/m/n/10 M
+......\U/logo/m/n/10 E
+......\U/logo/m/n/10 T
+......\kern-0.22223 (font)
+......\U/logo/m/n/10 A
+.....\hbox(6.0+0.0)x24.8888, direction TLT
+......\U/logo/m/n/10 F
+......\kern-0.44444 (font)
+......\U/logo/m/n/10 O
+......\U/logo/m/n/10 N
+......\U/logo/m/n/10 T
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\penalty -300
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 8.1216
+....\hbox(9.8784+2.7936)x345.0, glue set 171.55206fil, direction TLT
+.....\localpar
+......\localinterlinepenalty=0
+......\localbrokenpenalty=0
+......\localleftbox=null
+......\localrightbox=null
+.....\hbox(9.4464+0.1728)x30.61438, direction TLT
+......\glue 0.0
+......\hbox(0.0+0.0)x0.0, direction TLT
+.......\kern0.0
+.......\penalty 10000
+.......\hbox(0.0+0.0)x0.0, direction TLT
+........\hbox(0.0+0.0)x0.0, shifted -18.0, direction TLT
+.........\pdfliteral page <lua data reference ...>
+.........\pdfliteral page <lua data reference ...>
+.........\pdfdest name{section.32} xyz
+.........\pdfdest name{section.32} xyz
+.........\penalty 10000
+.......\kern0.0
+.......\glue 0.0 plus 1.0fil minus 1.0fil
+......\TU/lmr/bx/sc/14.4 3
+......\TU/lmr/bx/sc/14.4 2
 ......\TU/lmr/bx/sc/14.4  
 ......\glue 9.0
 .....\hbox(9.8784+0.0864)x36.93597, direction TLT
@@ -3384,7 +3479,7 @@ Completed box being shipped out [4]
 .....\glue(\rightskip) 0.0
 ....\pdfliteral page <lua data reference ...>
 ....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {31}\NoCaseChange {\HoLogo@tag@actualtext {first}{MetaFun}{\hologoRobust {MetaFun}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{MetaFun}{\HologoRobust {MetaFun}}}}{\thepage }{section.31}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {32}\NoCaseChange {\HoLogo@tag@actualtext {first}{MetaFun}{\hologoRobust {MetaFun}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{MetaFun}{\HologoRobust {MetaFun}}}}{\thepage }{section.32}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -3431,13 +3526,13 @@ Completed box being shipped out [4]
 ........\hbox(0.0+0.0)x0.0, shifted -18.0, direction TLT
 .........\pdfliteral page <lua data reference ...>
 .........\pdfliteral page <lua data reference ...>
-.........\pdfdest name{section.32} xyz
-.........\pdfdest name{section.32} xyz
+.........\pdfdest name{section.33} xyz
+.........\pdfdest name{section.33} xyz
 .........\penalty 10000
 .......\kern0.0
 .......\glue 0.0 plus 1.0fil minus 1.0fil
 ......\TU/lmr/bx/sc/14.4 3
-......\TU/lmr/bx/sc/14.4 2
+......\TU/lmr/bx/sc/14.4 3
 ......\TU/lmr/bx/sc/14.4  
 ......\glue 9.0
 .....\hbox(8.64+0.0)x39.9833, direction TLT
@@ -3480,7 +3575,7 @@ Completed box being shipped out [4]
 .....\glue(\rightskip) 0.0
 ....\pdfliteral page <lua data reference ...>
 ....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {32}\NoCaseChange {\HoLogo@tag@actualtext {first}{METAPOST}{\hologoRobust {METAPOST}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{METAPOST}{\HologoRobust {METAPOST}}}}{\thepage }{section.32}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {33}\NoCaseChange {\HoLogo@tag@actualtext {first}{METAPOST}{\hologoRobust {METAPOST}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{METAPOST}{\HologoRobust {METAPOST}}}}{\thepage }{section.33}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -3520,7 +3615,7 @@ Completed box being shipped out [4]
 ......\localbrokenpenalty=0
 ......\localleftbox=null
 ......\localrightbox=null
-.....\hbox(9.4464+0.1728)x30.61438, direction TLT
+.....\hbox(9.47519+0.1728)x30.61438, direction TLT
 ......\glue 0.0
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\kern0.0
@@ -3529,13 +3624,13 @@ Completed box being shipped out [4]
 ........\hbox(0.0+0.0)x0.0, shifted -18.0, direction TLT
 .........\pdfliteral page <lua data reference ...>
 .........\pdfliteral page <lua data reference ...>
-.........\pdfdest name{section.33} xyz
-.........\pdfdest name{section.33} xyz
+.........\pdfdest name{section.34} xyz
+.........\pdfdest name{section.34} xyz
 .........\penalty 10000
 .......\kern0.0
 .......\glue 0.0 plus 1.0fil minus 1.0fil
 ......\TU/lmr/bx/sc/14.4 3
-......\TU/lmr/bx/sc/14.4 3
+......\TU/lmr/bx/sc/14.4 4
 ......\TU/lmr/bx/sc/14.4  
 ......\glue 9.0
 .....\hbox(9.8784+0.0864)x36.93597, direction TLT
@@ -3576,7 +3671,7 @@ Completed box being shipped out [4]
 .....\glue(\rightskip) 0.0
 ....\pdfliteral page <lua data reference ...>
 ....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {33}\NoCaseChange {\HoLogo@tag@actualtext {first}{MetaPost}{\hologoRobust {MetaPost}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{MetaPost}{\HologoRobust {MetaPost}}}}{\thepage }{section.33}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {34}\NoCaseChange {\HoLogo@tag@actualtext {first}{MetaPost}{\hologoRobust {MetaPost}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{MetaPost}{\HologoRobust {MetaPost}}}}{\thepage }{section.34}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -3615,7 +3710,7 @@ Completed box being shipped out [4]
 ......\localbrokenpenalty=0
 ......\localleftbox=null
 ......\localrightbox=null
-.....\hbox(9.47519+0.1728)x30.61438, direction TLT
+.....\hbox(9.4464+0.1728)x30.61438, direction TLT
 ......\glue 0.0
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\kern0.0
@@ -3624,13 +3719,13 @@ Completed box being shipped out [4]
 ........\hbox(0.0+0.0)x0.0, shifted -18.0, direction TLT
 .........\pdfliteral page <lua data reference ...>
 .........\pdfliteral page <lua data reference ...>
-.........\pdfdest name{section.34} xyz
-.........\pdfdest name{section.34} xyz
+.........\pdfdest name{section.35} xyz
+.........\pdfdest name{section.35} xyz
 .........\penalty 10000
 .......\kern0.0
 .......\glue 0.0 plus 1.0fil minus 1.0fil
 ......\TU/lmr/bx/sc/14.4 3
-......\TU/lmr/bx/sc/14.4 4
+......\TU/lmr/bx/sc/14.4 5
 ......\TU/lmr/bx/sc/14.4  
 ......\glue 9.0
 .....\hbox(9.8784+0.0)x32.5584, direction TLT
@@ -3669,7 +3764,7 @@ Completed box being shipped out [4]
 .....\glue(\rightskip) 0.0
 ....\pdfliteral page <lua data reference ...>
 ....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {34}\NoCaseChange {\HoLogo@tag@actualtext {first}{MiKTeX}{\hologoRobust {MiKTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{MiKTeX}{\HologoRobust {MiKTeX}}}}{\thepage }{section.34}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {35}\NoCaseChange {\HoLogo@tag@actualtext {first}{MiKTeX}{\hologoRobust {MiKTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{MiKTeX}{\HologoRobust {MiKTeX}}}}{\thepage }{section.35}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -3716,13 +3811,13 @@ Completed box being shipped out [4]
 ........\hbox(0.0+0.0)x0.0, shifted -18.0, direction TLT
 .........\pdfliteral page <lua data reference ...>
 .........\pdfliteral page <lua data reference ...>
-.........\pdfdest name{section.35} xyz
-.........\pdfdest name{section.35} xyz
+.........\pdfdest name{section.36} xyz
+.........\pdfdest name{section.36} xyz
 .........\penalty 10000
 .......\kern0.0
 .......\glue 0.0 plus 1.0fil minus 1.0fil
 ......\TU/lmr/bx/sc/14.4 3
-......\TU/lmr/bx/sc/14.4 5
+......\TU/lmr/bx/sc/14.4 6
 ......\TU/lmr/bx/sc/14.4  
 ......\glue 9.0
 .....\pdfliteral page <lua data reference ...>
@@ -3759,7 +3854,7 @@ Completed box being shipped out [4]
 .....\glue(\rightskip) 0.0
 ....\pdfliteral page <lua data reference ...>
 ....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {35}\NoCaseChange {\HoLogo@tag@actualtext {first}{NTS}{\hologoRobust {NTS}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{NTS}{\HologoRobust {NTS}}}}{\thepage }{section.35}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {36}\NoCaseChange {\HoLogo@tag@actualtext {first}{NTS}{\hologoRobust {NTS}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{NTS}{\HologoRobust {NTS}}}}{\thepage }{section.36}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -3796,7 +3891,7 @@ Completed box being shipped out [4]
 ......\localbrokenpenalty=0
 ......\localleftbox=null
 ......\localrightbox=null
-.....\hbox(9.4464+0.1728)x30.61438, direction TLT
+.....\hbox(9.73439+0.1728)x30.61438, direction TLT
 ......\glue 0.0
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\kern0.0
@@ -3805,13 +3900,13 @@ Completed box being shipped out [4]
 ........\hbox(0.0+0.0)x0.0, shifted -18.0, direction TLT
 .........\pdfliteral page <lua data reference ...>
 .........\pdfliteral page <lua data reference ...>
-.........\pdfdest name{section.36} xyz
-.........\pdfdest name{section.36} xyz
+.........\pdfdest name{section.37} xyz
+.........\pdfdest name{section.37} xyz
 .........\penalty 10000
 .......\kern0.0
 .......\glue 0.0 plus 1.0fil minus 1.0fil
 ......\TU/lmr/bx/sc/14.4 3
-......\TU/lmr/bx/sc/14.4 6
+......\TU/lmr/bx/sc/14.4 7
 ......\TU/lmr/bx/sc/14.4  
 ......\glue 9.0
 .....\hbox(10.0512+0.1728)x44.91359, direction TLT
@@ -3840,7 +3935,7 @@ Completed box being shipped out [4]
 .....\glue(\rightskip) 0.0
 ....\pdfliteral page <lua data reference ...>
 ....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {36}\NoCaseChange {\HoLogo@tag@actualtext {first}{OzMF}{\hologoRobust {OzMF}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{OzMF}{\HologoRobust {OzMF}}}}{\thepage }{section.36}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {37}\NoCaseChange {\HoLogo@tag@actualtext {first}{OzMF}{\hologoRobust {OzMF}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{OzMF}{\HologoRobust {OzMF}}}}{\thepage }{section.37}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -3873,7 +3968,7 @@ Completed box being shipped out [4]
 ......\localbrokenpenalty=0
 ......\localleftbox=null
 ......\localrightbox=null
-.....\hbox(9.73439+0.1728)x30.61438, direction TLT
+.....\hbox(9.4464+0.1728)x30.61438, direction TLT
 ......\glue 0.0
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\kern0.0
@@ -3882,13 +3977,13 @@ Completed box being shipped out [4]
 ........\hbox(0.0+0.0)x0.0, shifted -18.0, direction TLT
 .........\pdfliteral page <lua data reference ...>
 .........\pdfliteral page <lua data reference ...>
-.........\pdfdest name{section.37} xyz
-.........\pdfdest name{section.37} xyz
+.........\pdfdest name{section.38} xyz
+.........\pdfdest name{section.38} xyz
 .........\penalty 10000
 .......\kern0.0
 .......\glue 0.0 plus 1.0fil minus 1.0fil
 ......\TU/lmr/bx/sc/14.4 3
-......\TU/lmr/bx/sc/14.4 7
+......\TU/lmr/bx/sc/14.4 8
 ......\TU/lmr/bx/sc/14.4  
 ......\glue 9.0
 .....\hbox(10.0512+0.1728)x45.80638, direction TLT
@@ -3917,7 +4012,7 @@ Completed box being shipped out [4]
 .....\glue(\rightskip) 0.0
 ....\pdfliteral page <lua data reference ...>
 ....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {37}\NoCaseChange {\HoLogo@tag@actualtext {first}{OzMP}{\hologoRobust {OzMP}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{OzMP}{\HologoRobust {OzMP}}}}{\thepage }{section.37}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {38}\NoCaseChange {\HoLogo@tag@actualtext {first}{OzMP}{\hologoRobust {OzMP}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{OzMP}{\HologoRobust {OzMP}}}}{\thepage }{section.38}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -3959,13 +4054,13 @@ Completed box being shipped out [4]
 ........\hbox(0.0+0.0)x0.0, shifted -18.0, direction TLT
 .........\pdfliteral page <lua data reference ...>
 .........\pdfliteral page <lua data reference ...>
-.........\pdfdest name{section.38} xyz
-.........\pdfdest name{section.38} xyz
+.........\pdfdest name{section.39} xyz
+.........\pdfdest name{section.39} xyz
 .........\penalty 10000
 .......\kern0.0
 .......\glue 0.0 plus 1.0fil minus 1.0fil
 ......\TU/lmr/bx/sc/14.4 3
-......\TU/lmr/bx/sc/14.4 8
+......\TU/lmr/bx/sc/14.4 9
 ......\TU/lmr/bx/sc/14.4  
 ......\glue 9.0
 .....\pdfliteral page <lua data reference ...>
@@ -4004,7 +4099,7 @@ Completed box being shipped out [4]
 .....\glue(\rightskip) 0.0
 ....\pdfliteral page <lua data reference ...>
 ....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {38}\NoCaseChange {\HoLogo@tag@actualtext {first}{OzTeX}{\hologoRobust {OzTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{OzTeX}{\HologoRobust {OzTeX}}}}{\thepage }{section.38}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {39}\NoCaseChange {\HoLogo@tag@actualtext {first}{OzTeX}{\hologoRobust {OzTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{OzTeX}{\HologoRobust {OzTeX}}}}{\thepage }{section.39}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -4042,7 +4137,7 @@ Completed box being shipped out [4]
 ......\localbrokenpenalty=0
 ......\localleftbox=null
 ......\localrightbox=null
-.....\hbox(9.4464+0.1728)x30.61438, direction TLT
+.....\hbox(9.47519+0.1728)x30.61438, direction TLT
 ......\glue 0.0
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\kern0.0
@@ -4051,13 +4146,13 @@ Completed box being shipped out [4]
 ........\hbox(0.0+0.0)x0.0, shifted -18.0, direction TLT
 .........\pdfliteral page <lua data reference ...>
 .........\pdfliteral page <lua data reference ...>
-.........\pdfdest name{section.39} xyz
-.........\pdfdest name{section.39} xyz
+.........\pdfdest name{section.40} xyz
+.........\pdfdest name{section.40} xyz
 .........\penalty 10000
 .......\kern0.0
 .......\glue 0.0 plus 1.0fil minus 1.0fil
-......\TU/lmr/bx/sc/14.4 3
-......\TU/lmr/bx/sc/14.4 9
+......\TU/lmr/bx/sc/14.4 4
+......\TU/lmr/bx/sc/14.4 0
 ......\TU/lmr/bx/sc/14.4  
 ......\glue 9.0
 .....\hbox(10.0512+0.1728)x49.60797, direction TLT
@@ -4088,7 +4183,7 @@ Completed box being shipped out [4]
 .....\glue(\rightskip) 0.0
 ....\pdfliteral page <lua data reference ...>
 ....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {39}\NoCaseChange {\HoLogo@tag@actualtext {first}{OzTtH}{\hologoRobust {OzTtH}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{OzTtH}{\HologoRobust {OzTtH}}}}{\thepage }{section.39}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {40}\NoCaseChange {\HoLogo@tag@actualtext {first}{OzTtH}{\hologoRobust {OzTtH}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{OzTtH}{\HologoRobust {OzTtH}}}}{\thepage }{section.40}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -4111,96 +4206,7 @@ Completed box being shipped out [4]
 .....\penalty 10000
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
-....\penalty -300
-....\glue 15.08499 plus 4.31 minus 0.86198
-....\glue(\parskip) 0.0 plus 1.0
-....\glue(\parskip) 0.0
-....\glue(\baselineskip) 7.7288
-....\hbox(10.0512+3.1968)x345.0, glue set 193.66187fil, direction TLT
-.....\localpar
-......\localinterlinepenalty=0
-......\localbrokenpenalty=0
-......\localleftbox=null
-......\localrightbox=null
-.....\hbox(9.47519+0.1728)x30.61438, direction TLT
-......\glue 0.0
-......\hbox(0.0+0.0)x0.0, direction TLT
-.......\kern0.0
-.......\penalty 10000
-.......\hbox(0.0+0.0)x0.0, direction TLT
-........\hbox(0.0+0.0)x0.0, shifted -18.0, direction TLT
-.........\pdfliteral page <lua data reference ...>
-.........\pdfliteral page <lua data reference ...>
-.........\pdfdest name{section.40} xyz
-.........\pdfdest name{section.40} xyz
-.........\penalty 10000
-.......\kern0.0
-.......\glue 0.0 plus 1.0fil minus 1.0fil
-......\TU/lmr/bx/sc/14.4 4
-......\TU/lmr/bx/sc/14.4 0
-......\TU/lmr/bx/sc/14.4  
-......\glue 9.0
-.....\hbox(10.0512+0.1728)x22.78079, direction TLT
-......\pdfliteral page <lua data reference ...>
-......\pdfliteral page <lua data reference ...>
-......\TU/lmr/bx/sc/14.4 P
-......\TU/lmr/bx/sc/14.4 C
-.....\TU/lmr/bx/sc/14.4 T
-.....\kern-2.4005
-.....\hbox(9.8064+0.0)x10.6272, shifted 3.1968, direction TLT
-......\TU/lmr/bx/sc/14.4 E
-.....\kern-1.79999
-.....\TU/lmr/bx/sc/14.4 X
-.....\TU/lmr/bx/sc/14.4  
-.....\glue(\spaceskip) 0.0 plus 2.7 minus 1.8
-.....\pdfliteral page <lua data reference ...>
-.....\pdfliteral page <lua data reference ...>
-.....\TU/lmr/bx/sc/14.4 ,
-.....\TU/lmr/bx/sc/14.4  
-.....\glue(\spaceskip) 0.0 plus 3.37498 minus 1.44
-.....\hbox(10.0512+0.1728)x22.78079, direction TLT
-......\pdfliteral page <lua data reference ...>
-......\pdfliteral page <lua data reference ...>
-......\TU/lmr/bx/sc/14.4 P
-......\TU/lmr/bx/sc/14.4 C
-.....\TU/lmr/bx/sc/14.4 T
-.....\kern-2.4005
-.....\hbox(9.8064+0.0)x10.6272, shifted 3.1968, direction TLT
-......\TU/lmr/bx/sc/14.4 E
-.....\kern-1.79999
-.....\TU/lmr/bx/sc/14.4 X
-.....\penalty 10000
-.....\glue(\parfillskip) 0.0 plus 1.0fil
-.....\glue(\rightskip) 0.0
-....\pdfliteral page <lua data reference ...>
-....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {40}\NoCaseChange {\HoLogo@tag@actualtext {first}{PCTeX}{\hologoRobust {PCTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{PCTeX}{\HologoRobust {PCTeX}}}}{\thepage }{section.40}\protected@file@percent }}
-....\penalty 10000
-....\glue 9.913 plus 0.86198
-....\glue(\parskip) 0.0 plus 1.0
-....\glue(\parskip) 0.0
-....\glue(\baselineskip) 1.7532
-....\hbox(7.05+2.155)x345.0, glue set 312.35703fil, direction TLT
-.....\localpar
-......\localinterlinepenalty=0
-......\localbrokenpenalty=0
-......\localleftbox=null
-......\localrightbox=null
-.....\hbox(7.05+0.22)x14.03, direction TLT
-......\pdfliteral page <lua data reference ...>
-......\pdfliteral page <lua data reference ...>
-......\TU/lmr/m/n/10 P
-......\TU/lmr/m/n/10 C
-.....\TU/lmr/m/n/10 T
-.....\kern-1.66702
-.....\hbox(6.8+0.0)x6.81, shifted 2.155, direction TLT
-......\TU/lmr/m/n/10 E
-.....\kern-1.25
-.....\TU/lmr/m/n/10 X
-.....\penalty 10000
-.....\glue(\parfillskip) 0.0 plus 1.0fil
-.....\glue(\rightskip) 0.0
-....\glue -2.155
+....\glue -0.22
 ....\glue 0.0 plus 0.0001fil
 ...\pdfliteral page <lua data reference ...>
 ...\pdfliteral page <lua data reference ...>
@@ -4256,7 +4262,7 @@ Completed box being shipped out [5]
 ...\glue(\lineskip) 0.0
 ...\vbox(550.0+0.0)x345.0, glue set >20000.0fil, direction TLT
 ....\glue(\topskip) 0.0
-....\hbox(10.08+3.1968)x345.0, glue set 190.79626fil, direction TLT
+....\hbox(10.0512+3.1968)x345.0, glue set 193.66187fil, direction TLT
 .....\localpar
 ......\localinterlinepenalty=0
 ......\localbrokenpenalty=0
@@ -4278,6 +4284,95 @@ Completed box being shipped out [5]
 .......\glue 0.0 plus 1.0fil minus 1.0fil
 ......\TU/lmr/bx/sc/14.4 4
 ......\TU/lmr/bx/sc/14.4 1
+......\TU/lmr/bx/sc/14.4  
+......\glue 9.0
+.....\hbox(10.0512+0.1728)x22.78079, direction TLT
+......\pdfliteral page <lua data reference ...>
+......\pdfliteral page <lua data reference ...>
+......\TU/lmr/bx/sc/14.4 P
+......\TU/lmr/bx/sc/14.4 C
+.....\TU/lmr/bx/sc/14.4 T
+.....\kern-2.4005
+.....\hbox(9.8064+0.0)x10.6272, shifted 3.1968, direction TLT
+......\TU/lmr/bx/sc/14.4 E
+.....\kern-1.79999
+.....\TU/lmr/bx/sc/14.4 X
+.....\TU/lmr/bx/sc/14.4  
+.....\glue(\spaceskip) 0.0 plus 2.7 minus 1.8
+.....\pdfliteral page <lua data reference ...>
+.....\pdfliteral page <lua data reference ...>
+.....\TU/lmr/bx/sc/14.4 ,
+.....\TU/lmr/bx/sc/14.4  
+.....\glue(\spaceskip) 0.0 plus 3.37498 minus 1.44
+.....\hbox(10.0512+0.1728)x22.78079, direction TLT
+......\pdfliteral page <lua data reference ...>
+......\pdfliteral page <lua data reference ...>
+......\TU/lmr/bx/sc/14.4 P
+......\TU/lmr/bx/sc/14.4 C
+.....\TU/lmr/bx/sc/14.4 T
+.....\kern-2.4005
+.....\hbox(9.8064+0.0)x10.6272, shifted 3.1968, direction TLT
+......\TU/lmr/bx/sc/14.4 E
+.....\kern-1.79999
+.....\TU/lmr/bx/sc/14.4 X
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\pdfliteral page <lua data reference ...>
+....\pdfliteral page <lua data reference ...>
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {41}\NoCaseChange {\HoLogo@tag@actualtext {first}{PCTeX}{\hologoRobust {PCTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{PCTeX}{\HologoRobust {PCTeX}}}}{\thepage }{section.41}\protected@file@percent }}
+....\penalty 10000
+....\glue 9.913 plus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 1.7532
+....\hbox(7.05+2.155)x345.0, glue set 312.35703fil, direction TLT
+.....\localpar
+......\localinterlinepenalty=0
+......\localbrokenpenalty=0
+......\localleftbox=null
+......\localrightbox=null
+.....\hbox(7.05+0.22)x14.03, direction TLT
+......\pdfliteral page <lua data reference ...>
+......\pdfliteral page <lua data reference ...>
+......\TU/lmr/m/n/10 P
+......\TU/lmr/m/n/10 C
+.....\TU/lmr/m/n/10 T
+.....\kern-1.66702
+.....\hbox(6.8+0.0)x6.81, shifted 2.155, direction TLT
+......\TU/lmr/m/n/10 E
+.....\kern-1.25
+.....\TU/lmr/m/n/10 X
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\penalty -300
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 5.765
+....\hbox(10.08+3.1968)x345.0, glue set 190.79626fil, direction TLT
+.....\localpar
+......\localinterlinepenalty=0
+......\localbrokenpenalty=0
+......\localleftbox=null
+......\localrightbox=null
+.....\hbox(9.47519+0.0)x30.61438, direction TLT
+......\glue 0.0
+......\hbox(0.0+0.0)x0.0, direction TLT
+.......\kern0.0
+.......\penalty 10000
+.......\hbox(0.0+0.0)x0.0, direction TLT
+........\hbox(0.0+0.0)x0.0, shifted -18.0, direction TLT
+.........\pdfliteral page <lua data reference ...>
+.........\pdfliteral page <lua data reference ...>
+.........\pdfdest name{section.42} xyz
+.........\pdfdest name{section.42} xyz
+.........\penalty 10000
+.......\kern0.0
+.......\glue 0.0 plus 1.0fil minus 1.0fil
+......\TU/lmr/bx/sc/14.4 4
+......\TU/lmr/bx/sc/14.4 2
 ......\TU/lmr/bx/sc/14.4  
 ......\glue 9.0
 .....\hbox(10.08+3.1968)x53.32748, direction TLT
@@ -4317,7 +4412,7 @@ Completed box being shipped out [5]
 .....\glue(\rightskip) 0.0
 ....\pdfliteral page <lua data reference ...>
 ....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {41}\NoCaseChange {\HoLogo@tag@actualtext {first}{pdfTeX}{\hologoRobust {pdfTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{pdfTeX}{\HologoRobust {pdfTeX}}}}{\thepage }{section.41}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {42}\NoCaseChange {\HoLogo@tag@actualtext {first}{pdfTeX}{\hologoRobust {pdfTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{pdfTeX}{\HologoRobust {pdfTeX}}}}{\thepage }{section.42}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -4356,7 +4451,7 @@ Completed box being shipped out [5]
 ......\localbrokenpenalty=0
 ......\localleftbox=null
 ......\localrightbox=null
-.....\hbox(9.47519+0.0)x30.61438, direction TLT
+.....\hbox(9.47519+0.1728)x30.61438, direction TLT
 ......\glue 0.0
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\kern0.0
@@ -4365,13 +4460,13 @@ Completed box being shipped out [5]
 ........\hbox(0.0+0.0)x0.0, shifted -18.0, direction TLT
 .........\pdfliteral page <lua data reference ...>
 .........\pdfliteral page <lua data reference ...>
-.........\pdfdest name{section.42} xyz
-.........\pdfdest name{section.42} xyz
+.........\pdfdest name{section.43} xyz
+.........\pdfdest name{section.43} xyz
 .........\penalty 10000
 .......\kern0.0
 .......\glue 0.0 plus 1.0fil minus 1.0fil
 ......\TU/lmr/bx/sc/14.4 4
-......\TU/lmr/bx/sc/14.4 2
+......\TU/lmr/bx/sc/14.4 3
 ......\TU/lmr/bx/sc/14.4  
 ......\glue 9.0
 .....\hbox(10.08+3.1968)x64.40797, direction TLT
@@ -4425,7 +4520,7 @@ Completed box being shipped out [5]
 .....\glue(\rightskip) 0.0
 ....\pdfliteral page <lua data reference ...>
 ....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {42}\NoCaseChange {\HoLogo@tag@actualtext {first}{pdfLaTeX}{\hologoRobust {pdfLaTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{pdfLaTeX}{\HologoRobust {pdfLaTeX}}}}{\thepage }{section.42}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {43}\NoCaseChange {\HoLogo@tag@actualtext {first}{pdfLaTeX}{\hologoRobust {pdfLaTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{pdfLaTeX}{\HologoRobust {pdfLaTeX}}}}{\thepage }{section.43}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -4471,7 +4566,7 @@ Completed box being shipped out [5]
 ......\localbrokenpenalty=0
 ......\localleftbox=null
 ......\localrightbox=null
-.....\hbox(9.47519+0.1728)x30.61438, direction TLT
+.....\hbox(9.47519+0.0)x30.61438, direction TLT
 ......\glue 0.0
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\kern0.0
@@ -4480,13 +4575,13 @@ Completed box being shipped out [5]
 ........\hbox(0.0+0.0)x0.0, shifted -18.0, direction TLT
 .........\pdfliteral page <lua data reference ...>
 .........\pdfliteral page <lua data reference ...>
-.........\pdfdest name{section.43} xyz
-.........\pdfdest name{section.43} xyz
+.........\pdfdest name{section.44} xyz
+.........\pdfdest name{section.44} xyz
 .........\penalty 10000
 .......\kern0.0
 .......\glue 0.0 plus 1.0fil minus 1.0fil
 ......\TU/lmr/bx/sc/14.4 4
-......\TU/lmr/bx/sc/14.4 3
+......\TU/lmr/bx/sc/14.4 4
 ......\TU/lmr/bx/sc/14.4  
 ......\glue 9.0
 .....\pdfliteral page <lua data reference ...>
@@ -4517,7 +4612,7 @@ Completed box being shipped out [5]
 .....\glue(\rightskip) 0.0
 ....\pdfliteral page <lua data reference ...>
 ....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {43}\NoCaseChange {\HoLogo@tag@actualtext {first}{PiC}{\hologoRobust {PiC}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{PiC}{\HologoRobust {PiC}}}}{\thepage }{section.43}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {44}\NoCaseChange {\HoLogo@tag@actualtext {first}{PiC}{\hologoRobust {PiC}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{PiC}{\HologoRobust {PiC}}}}{\thepage }{section.44}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -4551,7 +4646,7 @@ Completed box being shipped out [5]
 ......\localbrokenpenalty=0
 ......\localleftbox=null
 ......\localrightbox=null
-.....\hbox(9.47519+0.0)x30.61438, direction TLT
+.....\hbox(9.47519+0.1728)x30.61438, direction TLT
 ......\glue 0.0
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\kern0.0
@@ -4560,13 +4655,13 @@ Completed box being shipped out [5]
 ........\hbox(0.0+0.0)x0.0, shifted -18.0, direction TLT
 .........\pdfliteral page <lua data reference ...>
 .........\pdfliteral page <lua data reference ...>
-.........\pdfdest name{section.44} xyz
-.........\pdfdest name{section.44} xyz
+.........\pdfdest name{section.45} xyz
+.........\pdfdest name{section.45} xyz
 .........\penalty 10000
 .......\kern0.0
 .......\glue 0.0 plus 1.0fil minus 1.0fil
 ......\TU/lmr/bx/sc/14.4 4
-......\TU/lmr/bx/sc/14.4 4
+......\TU/lmr/bx/sc/14.4 5
 ......\TU/lmr/bx/sc/14.4  
 ......\glue 9.0
 .....\pdfliteral page <lua data reference ...>
@@ -4611,7 +4706,7 @@ Completed box being shipped out [5]
 .....\glue(\rightskip) 0.0
 ....\pdfliteral page <lua data reference ...>
 ....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {44}\NoCaseChange {\HoLogo@tag@actualtext {first}{PiCTeX}{\hologoRobust {PiCTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{PiCTeX}{\HologoRobust {PiCTeX}}}}{\thepage }{section.44}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {45}\NoCaseChange {\HoLogo@tag@actualtext {first}{PiCTeX}{\hologoRobust {PiCTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{PiCTeX}{\HologoRobust {PiCTeX}}}}{\thepage }{section.45}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -4632,113 +4727,6 @@ Completed box being shipped out [5]
 .....\kern-0.74997
 .....\TU/lmr/m/n/10 C
 .....\kern-1.1
-.....\TU/lmr/m/n/10 T
-.....\kern-1.66702
-.....\hbox(6.8+0.0)x6.81, shifted 2.155, direction TLT
-......\TU/lmr/m/n/10 E
-.....\kern-1.25
-.....\TU/lmr/m/n/10 X
-.....\penalty 10000
-.....\glue(\parfillskip) 0.0 plus 1.0fil
-.....\glue(\rightskip) 0.0
-....\penalty -300
-....\glue 15.08499 plus 4.31 minus 0.86198
-....\glue(\parskip) 0.0 plus 1.0
-....\glue(\parskip) 0.0
-....\glue(\baselineskip) 5.85141
-....\hbox(9.99359+3.1968)x345.0, glue set 156.56746fil, direction TLT
-.....\localpar
-......\localinterlinepenalty=0
-......\localbrokenpenalty=0
-......\localleftbox=null
-......\localrightbox=null
-.....\hbox(9.47519+0.1728)x30.61438, direction TLT
-......\glue 0.0
-......\hbox(0.0+0.0)x0.0, direction TLT
-.......\kern0.0
-.......\penalty 10000
-.......\hbox(0.0+0.0)x0.0, direction TLT
-........\hbox(0.0+0.0)x0.0, shifted -18.0, direction TLT
-.........\pdfliteral page <lua data reference ...>
-.........\pdfliteral page <lua data reference ...>
-.........\pdfdest name{section.45} xyz
-.........\pdfdest name{section.45} xyz
-.........\penalty 10000
-.......\kern0.0
-.......\glue 0.0 plus 1.0fil minus 1.0fil
-......\TU/lmr/bx/sc/14.4 4
-......\TU/lmr/bx/sc/14.4 5
-......\TU/lmr/bx/sc/14.4  
-......\glue 9.0
-.....\hbox(9.99359+2.7936)x34.8912, direction TLT
-......\pdfliteral page <lua data reference ...>
-......\pdfliteral page <lua data reference ...>
-......\TU/lmr/bx/sc/14.4 p
-......\TU/lmr/bx/sc/14.4 l
-......\TU/lmr/bx/sc/14.4 a
-......\TU/lmr/bx/sc/14.4 i
-......\TU/lmr/bx/sc/14.4 n
-.....\penalty 10000
-.....\TU/lmr/bx/sc/14.4  
-.....\glue(\spaceskip) 0.0 plus 2.7 minus 1.8
-.....\TU/lmr/bx/sc/14.4 T
-.....\kern-2.4005
-.....\hbox(9.8064+0.0)x10.6272, shifted 3.1968, direction TLT
-......\TU/lmr/bx/sc/14.4 E
-.....\kern-1.79999
-.....\TU/lmr/bx/sc/14.4 X
-.....\TU/lmr/bx/sc/14.4  
-.....\glue(\spaceskip) 0.0 plus 2.7 minus 1.8
-.....\pdfliteral page <lua data reference ...>
-.....\pdfliteral page <lua data reference ...>
-.....\TU/lmr/bx/sc/14.4 ,
-.....\TU/lmr/bx/sc/14.4  
-.....\glue(\spaceskip) 0.0 plus 3.37498 minus 1.44
-.....\hbox(9.99359+0.0864)x36.9648, direction TLT
-......\pdfliteral page <lua data reference ...>
-......\pdfliteral page <lua data reference ...>
-......\TU/lmr/bx/sc/14.4 P
-......\TU/lmr/bx/sc/14.4 l
-......\TU/lmr/bx/sc/14.4 a
-......\TU/lmr/bx/sc/14.4 i
-......\TU/lmr/bx/sc/14.4 n
-.....\penalty 10000
-.....\TU/lmr/bx/sc/14.4  
-.....\glue(\spaceskip) 0.0 plus 2.7 minus 1.8
-.....\TU/lmr/bx/sc/14.4 T
-.....\kern-2.4005
-.....\hbox(9.8064+0.0)x10.6272, shifted 3.1968, direction TLT
-......\TU/lmr/bx/sc/14.4 E
-.....\kern-1.79999
-.....\TU/lmr/bx/sc/14.4 X
-.....\penalty 10000
-.....\glue(\parfillskip) 0.0 plus 1.0fil
-.....\glue(\rightskip) 0.0
-....\pdfliteral page <lua data reference ...>
-....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {45}\NoCaseChange {\HoLogo@tag@actualtext {first}{plainTeX}{\hologoRobust {plainTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{plainTeX}{\HologoRobust {plainTeX}}}}{\thepage }{section.45}\protected@file@percent }}
-....\penalty 10000
-....\glue 9.913 plus 0.86198
-....\glue(\parskip) 0.0 plus 1.0
-....\glue(\parskip) 0.0
-....\glue(\baselineskip) 1.8632
-....\hbox(6.94+2.155)x345.0, glue set 301.37701fil, direction TLT
-.....\localpar
-......\localinterlinepenalty=0
-......\localbrokenpenalty=0
-......\localleftbox=null
-......\localrightbox=null
-.....\hbox(6.94+1.94)x21.68, direction TLT
-......\pdfliteral page <lua data reference ...>
-......\pdfliteral page <lua data reference ...>
-......\TU/lmr/m/n/10 p
-......\TU/lmr/m/n/10 l
-......\TU/lmr/m/n/10 a
-......\TU/lmr/m/n/10 i
-......\TU/lmr/m/n/10 n
-.....\penalty 10000
-.....\TU/lmr/m/n/10  
-.....\glue(\spaceskip) 0.0 plus 1.665 minus 1.11
 .....\TU/lmr/m/n/10 T
 .....\kern-1.66702
 .....\hbox(6.8+0.0)x6.81, shifted 2.155, direction TLT
@@ -4892,6 +4880,113 @@ Completed box being shipped out [5]
 ......\TU/lmr/bx/sc/14.4 a
 ......\TU/lmr/bx/sc/14.4 i
 ......\TU/lmr/bx/sc/14.4 n
+.....\penalty 10000
+.....\TU/lmr/bx/sc/14.4  
+.....\glue(\spaceskip) 0.0 plus 2.7 minus 1.8
+.....\TU/lmr/bx/sc/14.4 T
+.....\kern-2.4005
+.....\hbox(9.8064+0.0)x10.6272, shifted 3.1968, direction TLT
+......\TU/lmr/bx/sc/14.4 E
+.....\kern-1.79999
+.....\TU/lmr/bx/sc/14.4 X
+.....\TU/lmr/bx/sc/14.4  
+.....\glue(\spaceskip) 0.0 plus 2.7 minus 1.8
+.....\pdfliteral page <lua data reference ...>
+.....\pdfliteral page <lua data reference ...>
+.....\TU/lmr/bx/sc/14.4 ,
+.....\TU/lmr/bx/sc/14.4  
+.....\glue(\spaceskip) 0.0 plus 3.37498 minus 1.44
+.....\hbox(9.99359+0.0864)x36.9648, direction TLT
+......\pdfliteral page <lua data reference ...>
+......\pdfliteral page <lua data reference ...>
+......\TU/lmr/bx/sc/14.4 P
+......\TU/lmr/bx/sc/14.4 l
+......\TU/lmr/bx/sc/14.4 a
+......\TU/lmr/bx/sc/14.4 i
+......\TU/lmr/bx/sc/14.4 n
+.....\penalty 10000
+.....\TU/lmr/bx/sc/14.4  
+.....\glue(\spaceskip) 0.0 plus 2.7 minus 1.8
+.....\TU/lmr/bx/sc/14.4 T
+.....\kern-2.4005
+.....\hbox(9.8064+0.0)x10.6272, shifted 3.1968, direction TLT
+......\TU/lmr/bx/sc/14.4 E
+.....\kern-1.79999
+.....\TU/lmr/bx/sc/14.4 X
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\pdfliteral page <lua data reference ...>
+....\pdfliteral page <lua data reference ...>
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {47}\NoCaseChange {\HoLogo@tag@actualtext {first}{plainTeX}{\hologoRobust {plainTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{plainTeX}{\HologoRobust {plainTeX}}}}{\thepage }{section.47}\protected@file@percent }}
+....\penalty 10000
+....\glue 9.913 plus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 1.8632
+....\hbox(6.94+2.155)x345.0, glue set 301.37701fil, direction TLT
+.....\localpar
+......\localinterlinepenalty=0
+......\localbrokenpenalty=0
+......\localleftbox=null
+......\localrightbox=null
+.....\hbox(6.94+1.94)x21.68, direction TLT
+......\pdfliteral page <lua data reference ...>
+......\pdfliteral page <lua data reference ...>
+......\TU/lmr/m/n/10 p
+......\TU/lmr/m/n/10 l
+......\TU/lmr/m/n/10 a
+......\TU/lmr/m/n/10 i
+......\TU/lmr/m/n/10 n
+.....\penalty 10000
+.....\TU/lmr/m/n/10  
+.....\glue(\spaceskip) 0.0 plus 1.665 minus 1.11
+.....\TU/lmr/m/n/10 T
+.....\kern-1.66702
+.....\hbox(6.8+0.0)x6.81, shifted 2.155, direction TLT
+......\TU/lmr/m/n/10 E
+.....\kern-1.25
+.....\TU/lmr/m/n/10 X
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\penalty -300
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 5.85141
+....\hbox(9.99359+3.1968)x345.0, glue set 156.56746fil, direction TLT
+.....\localpar
+......\localinterlinepenalty=0
+......\localbrokenpenalty=0
+......\localleftbox=null
+......\localrightbox=null
+.....\hbox(9.47519+0.1728)x30.61438, direction TLT
+......\glue 0.0
+......\hbox(0.0+0.0)x0.0, direction TLT
+.......\kern0.0
+.......\penalty 10000
+.......\hbox(0.0+0.0)x0.0, direction TLT
+........\hbox(0.0+0.0)x0.0, shifted -18.0, direction TLT
+.........\pdfliteral page <lua data reference ...>
+.........\pdfliteral page <lua data reference ...>
+.........\pdfdest name{section.48} xyz
+.........\pdfdest name{section.48} xyz
+.........\penalty 10000
+.......\kern0.0
+.......\glue 0.0 plus 1.0fil minus 1.0fil
+......\TU/lmr/bx/sc/14.4 4
+......\TU/lmr/bx/sc/14.4 8
+......\TU/lmr/bx/sc/14.4  
+......\glue 9.0
+.....\hbox(9.99359+2.7936)x34.8912, direction TLT
+......\pdfliteral page <lua data reference ...>
+......\pdfliteral page <lua data reference ...>
+......\TU/lmr/bx/sc/14.4 p
+......\TU/lmr/bx/sc/14.4 l
+......\TU/lmr/bx/sc/14.4 a
+......\TU/lmr/bx/sc/14.4 i
+......\TU/lmr/bx/sc/14.4 n
 .....\hbox(3.85919+0.0)x5.4, direction TLT
 ......\TU/lmr/bx/sc/14.4 -
 .....\TU/lmr/bx/sc/14.4 T
@@ -4928,7 +5023,7 @@ Completed box being shipped out [5]
 .....\glue(\rightskip) 0.0
 ....\pdfliteral page <lua data reference ...>
 ....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {47}\NoCaseChange {\HoLogo@tag@actualtext {first}{plainTeX}{\hologoRobust {plainTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{plainTeX}{\HologoRobust {plainTeX}}}}{\thepage }{section.47}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {48}\NoCaseChange {\HoLogo@tag@actualtext {first}{plainTeX}{\hologoRobust {plainTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{plainTeX}{\HologoRobust {plainTeX}}}}{\thepage }{section.48}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -4979,13 +5074,13 @@ Completed box being shipped out [5]
 ........\hbox(0.0+0.0)x0.0, shifted -18.0, direction TLT
 .........\pdfliteral page <lua data reference ...>
 .........\pdfliteral page <lua data reference ...>
-.........\pdfdest name{section.48} xyz
-.........\pdfdest name{section.48} xyz
+.........\pdfdest name{section.49} xyz
+.........\pdfdest name{section.49} xyz
 .........\penalty 10000
 .......\kern0.0
 .......\glue 0.0 plus 1.0fil minus 1.0fil
 ......\TU/lmr/bx/sc/14.4 4
-......\TU/lmr/bx/sc/14.4 8
+......\TU/lmr/bx/sc/14.4 9
 ......\TU/lmr/bx/sc/14.4  
 ......\glue 9.0
 .....\hbox(9.99359+3.1968)x64.8187, direction TLT
@@ -5028,7 +5123,7 @@ Completed box being shipped out [5]
 .....\glue(\rightskip) 0.0
 ....\pdfliteral page <lua data reference ...>
 ....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {48}\NoCaseChange {\HoLogo@tag@actualtext {first}{plainTeX}{\hologoRobust {plainTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{plainTeX}{\HologoRobust {plainTeX}}}}{\thepage }{section.48}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {49}\NoCaseChange {\HoLogo@tag@actualtext {first}{plainTeX}{\hologoRobust {plainTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{plainTeX}{\HologoRobust {plainTeX}}}}{\thepage }{section.49}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -5068,7 +5163,7 @@ Completed box being shipped out [5]
 ......\localbrokenpenalty=0
 ......\localleftbox=null
 ......\localrightbox=null
-.....\hbox(9.47519+0.1728)x30.61438, direction TLT
+.....\hbox(9.4464+0.1728)x30.61438, direction TLT
 ......\glue 0.0
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\kern0.0
@@ -5077,13 +5172,13 @@ Completed box being shipped out [5]
 ........\hbox(0.0+0.0)x0.0, shifted -18.0, direction TLT
 .........\pdfliteral page <lua data reference ...>
 .........\pdfliteral page <lua data reference ...>
-.........\pdfdest name{section.49} xyz
-.........\pdfdest name{section.49} xyz
+.........\pdfdest name{section.50} xyz
+.........\pdfdest name{section.50} xyz
 .........\penalty 10000
 .......\kern0.0
 .......\glue 0.0 plus 1.0fil minus 1.0fil
-......\TU/lmr/bx/sc/14.4 4
-......\TU/lmr/bx/sc/14.4 9
+......\TU/lmr/bx/sc/14.4 5
+......\TU/lmr/bx/sc/14.4 0
 ......\TU/lmr/bx/sc/14.4  
 ......\glue 9.0
 .....\hbox(6.48+2.7936)x8.27997, direction TLT
@@ -5134,7 +5229,7 @@ Completed box being shipped out [5]
 .....\glue(\rightskip) 0.0
 ....\pdfliteral page <lua data reference ...>
 ....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {49}\NoCaseChange {\HoLogo@tag@actualtext {first}{pLaTeX}{\hologoRobust {pLaTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{pLaTeX}{\HologoRobust {pLaTeX}}}}{\thepage }{section.49}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {50}\NoCaseChange {\HoLogo@tag@actualtext {first}{pLaTeX}{\hologoRobust {pLaTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{pLaTeX}{\HologoRobust {pLaTeX}}}}{\thepage }{section.50}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -5158,95 +5253,6 @@ Completed box being shipped out [5]
 .......\TU/lmr/m/n/7 A
 ......\glue 0.0 plus 1.0fil minus 1.0fil
 .....\kern-1.49994
-.....\TU/lmr/m/n/10 T
-.....\kern-1.66702
-.....\hbox(6.8+0.0)x6.81, shifted 2.155, direction TLT
-......\TU/lmr/m/n/10 E
-.....\kern-1.25
-.....\TU/lmr/m/n/10 X
-.....\penalty 10000
-.....\glue(\parfillskip) 0.0 plus 1.0fil
-.....\glue(\rightskip) 0.0
-....\penalty -300
-....\glue 15.08499 plus 4.31 minus 0.86198
-....\glue(\parskip) 0.0 plus 1.0
-....\glue(\parskip) 0.0
-....\glue(\baselineskip) 5.9666
-....\hbox(9.8784+3.1968)x345.0, glue set 225.54324fil, direction TLT
-.....\localpar
-......\localinterlinepenalty=0
-......\localbrokenpenalty=0
-......\localleftbox=null
-......\localrightbox=null
-.....\hbox(9.4464+0.1728)x30.61438, direction TLT
-......\glue 0.0
-......\hbox(0.0+0.0)x0.0, direction TLT
-.......\kern0.0
-.......\penalty 10000
-.......\hbox(0.0+0.0)x0.0, direction TLT
-........\hbox(0.0+0.0)x0.0, shifted -18.0, direction TLT
-.........\pdfliteral page <lua data reference ...>
-.........\pdfliteral page <lua data reference ...>
-.........\pdfdest name{section.50} xyz
-.........\pdfdest name{section.50} xyz
-.........\penalty 10000
-.......\kern0.0
-.......\glue 0.0 plus 1.0fil minus 1.0fil
-......\TU/lmr/bx/sc/14.4 5
-......\TU/lmr/bx/sc/14.4 0
-......\TU/lmr/bx/sc/14.4  
-......\glue 9.0
-.....\hbox(6.48+2.7936)x6.8401, direction TLT
-......\pdfliteral page <lua data reference ...>
-......\pdfliteral page <lua data reference ...>
-......\TU/lmr/bx/sc/14.4 p
-......\kern-2.1599
-.....\TU/lmr/bx/sc/14.4 T
-.....\kern-2.4005
-.....\hbox(9.8064+0.0)x10.6272, shifted 3.1968, direction TLT
-......\TU/lmr/bx/sc/14.4 E
-.....\kern-1.79999
-.....\TU/lmr/bx/sc/14.4 X
-.....\TU/lmr/bx/sc/14.4  
-.....\glue(\spaceskip) 0.0 plus 2.7 minus 1.8
-.....\pdfliteral page <lua data reference ...>
-.....\pdfliteral page <lua data reference ...>
-.....\TU/lmr/bx/sc/14.4 ,
-.....\TU/lmr/bx/sc/14.4  
-.....\glue(\spaceskip) 0.0 plus 3.37498 minus 1.44
-.....\hbox(6.48+2.7936)x6.8401, direction TLT
-......\pdfliteral page <lua data reference ...>
-......\pdfliteral page <lua data reference ...>
-......\TU/lmr/bx/sc/14.4 p
-......\kern-2.1599
-.....\TU/lmr/bx/sc/14.4 T
-.....\kern-2.4005
-.....\hbox(9.8064+0.0)x10.6272, shifted 3.1968, direction TLT
-......\TU/lmr/bx/sc/14.4 E
-.....\kern-1.79999
-.....\TU/lmr/bx/sc/14.4 X
-.....\penalty 10000
-.....\glue(\parfillskip) 0.0 plus 1.0fil
-.....\glue(\rightskip) 0.0
-....\pdfliteral page <lua data reference ...>
-....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {50}\NoCaseChange {\HoLogo@tag@actualtext {first}{pTeX}{\hologoRobust {pTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{pTeX}{\HologoRobust {pTeX}}}}{\thepage }{section.50}\protected@file@percent }}
-....\penalty 10000
-....\glue 9.913 plus 0.86198
-....\glue(\parskip) 0.0 plus 1.0
-....\glue(\parskip) 0.0
-....\glue(\baselineskip) 1.9732
-....\hbox(6.83+2.155)x345.0, glue set 322.32697fil, direction TLT
-.....\localpar
-......\localinterlinepenalty=0
-......\localbrokenpenalty=0
-......\localleftbox=null
-......\localrightbox=null
-.....\hbox(4.42+1.94)x4.06006, direction TLT
-......\pdfliteral page <lua data reference ...>
-......\pdfliteral page <lua data reference ...>
-......\TU/lmr/m/n/10 p
-......\kern-1.49994
 .....\TU/lmr/m/n/10 T
 .....\kern-1.66702
 .....\hbox(6.8+0.0)x6.81, shifted 2.155, direction TLT
@@ -5311,8 +5317,8 @@ Completed box being shipped out [6]
 ...\glue 25.0
 ...\glue(\lineskip) 0.0
 ...\vbox(550.0+0.0)x345.0, glue set >20000.0fil, direction TLT
-....\glue(\topskip) 0.0
-....\hbox(10.0512+3.1968)x345.0, glue set 177.18826fil, direction TLT
+....\glue(\topskip) 0.1216
+....\hbox(9.8784+3.1968)x345.0, glue set 225.54324fil, direction TLT
 .....\localpar
 ......\localinterlinepenalty=0
 ......\localbrokenpenalty=0
@@ -5336,14 +5342,11 @@ Completed box being shipped out [6]
 ......\TU/lmr/bx/sc/14.4 1
 ......\TU/lmr/bx/sc/14.4  
 ......\glue 9.0
-.....\hbox(10.0512+2.8944)x32.37119, direction TLT
+.....\hbox(6.48+2.7936)x6.8401, direction TLT
 ......\pdfliteral page <lua data reference ...>
 ......\pdfliteral page <lua data reference ...>
-......\TU/lmr/bx/sc/14.4 S
-......\TU/lmr/bx/sc/14.4 a
-......\TU/lmr/bx/sc/14.4 g
-......\TU/lmr/bx/sc/14.4 e
-.....\kern-1.35359
+......\TU/lmr/bx/sc/14.4 p
+......\kern-2.1599
 .....\TU/lmr/bx/sc/14.4 T
 .....\kern-2.4005
 .....\hbox(9.8064+0.0)x10.6272, shifted 3.1968, direction TLT
@@ -5357,14 +5360,11 @@ Completed box being shipped out [6]
 .....\TU/lmr/bx/sc/14.4 ,
 .....\TU/lmr/bx/sc/14.4  
 .....\glue(\spaceskip) 0.0 plus 3.37498 minus 1.44
-.....\hbox(10.0512+2.8944)x32.37119, direction TLT
+.....\hbox(6.48+2.7936)x6.8401, direction TLT
 ......\pdfliteral page <lua data reference ...>
 ......\pdfliteral page <lua data reference ...>
-......\TU/lmr/bx/sc/14.4 S
-......\TU/lmr/bx/sc/14.4 a
-......\TU/lmr/bx/sc/14.4 g
-......\TU/lmr/bx/sc/14.4 e
-.....\kern-1.35359
+......\TU/lmr/bx/sc/14.4 p
+......\kern-2.1599
 .....\TU/lmr/bx/sc/14.4 T
 .....\kern-2.4005
 .....\hbox(9.8064+0.0)x10.6272, shifted 3.1968, direction TLT
@@ -5376,26 +5376,23 @@ Completed box being shipped out [6]
 .....\glue(\rightskip) 0.0
 ....\pdfliteral page <lua data reference ...>
 ....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {51}\NoCaseChange {\HoLogo@tag@actualtext {first}{SageTeX}{\hologoRobust {SageTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{SageTeX}{\HologoRobust {SageTeX}}}}{\thepage }{section.51}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {51}\NoCaseChange {\HoLogo@tag@actualtext {first}{pTeX}{\hologoRobust {pTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{pTeX}{\HologoRobust {pTeX}}}}{\thepage }{section.51}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
-....\glue(\baselineskip) 1.7532
-....\hbox(7.05+2.155)x345.0, glue set 307.21704fil, direction TLT
+....\glue(\baselineskip) 1.9732
+....\hbox(6.83+2.155)x345.0, glue set 322.32697fil, direction TLT
 .....\localpar
 ......\localinterlinepenalty=0
 ......\localbrokenpenalty=0
 ......\localleftbox=null
 ......\localrightbox=null
-.....\hbox(7.05+2.06)x20.0, direction TLT
+.....\hbox(4.42+1.94)x4.06006, direction TLT
 ......\pdfliteral page <lua data reference ...>
 ......\pdfliteral page <lua data reference ...>
-......\TU/lmr/m/n/10 S
-......\TU/lmr/m/n/10 a
-......\TU/lmr/m/n/10 g
-......\TU/lmr/m/n/10 e
-.....\kern-0.83
+......\TU/lmr/m/n/10 p
+......\kern-1.49994
 .....\TU/lmr/m/n/10 T
 .....\kern-1.66702
 .....\hbox(6.8+0.0)x6.81, shifted 2.155, direction TLT
@@ -5409,8 +5406,8 @@ Completed box being shipped out [6]
 ....\glue 15.08499 plus 4.31 minus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
-....\glue(\baselineskip) 4.00702
-....\hbox(11.83798+3.1968)x345.0, glue set 201.37985fil, direction TLT
+....\glue(\baselineskip) 5.79381
+....\hbox(10.0512+3.1968)x345.0, glue set 177.18826fil, direction TLT
 .....\localpar
 ......\localinterlinepenalty=0
 ......\localbrokenpenalty=0
@@ -5434,15 +5431,14 @@ Completed box being shipped out [6]
 ......\TU/lmr/bx/sc/14.4 2
 ......\TU/lmr/bx/sc/14.4  
 ......\glue 9.0
-.....\pdfliteral page <lua data reference ...>
-.....\pdfliteral page <lua data reference ...>
-.....\TU/lmr/bx/sc/14.4 S
-.....\kern-0.86395
-.....\TU/lmr/bx/sc/14.4 L
-.....\kern-2.59189
-.....\hbox(9.79199+0.0)x4.5072, shifted -2.04599, direction TLT
-......\TU/lmr/bx/sc/14.4 i
-.....\kern-0.86395
+.....\hbox(10.0512+2.8944)x32.37119, direction TLT
+......\pdfliteral page <lua data reference ...>
+......\pdfliteral page <lua data reference ...>
+......\TU/lmr/bx/sc/14.4 S
+......\TU/lmr/bx/sc/14.4 a
+......\TU/lmr/bx/sc/14.4 g
+......\TU/lmr/bx/sc/14.4 e
+.....\kern-1.35359
 .....\TU/lmr/bx/sc/14.4 T
 .....\kern-2.4005
 .....\hbox(9.8064+0.0)x10.6272, shifted 3.1968, direction TLT
@@ -5456,15 +5452,14 @@ Completed box being shipped out [6]
 .....\TU/lmr/bx/sc/14.4 ,
 .....\TU/lmr/bx/sc/14.4  
 .....\glue(\spaceskip) 0.0 plus 3.37498 minus 1.44
-.....\pdfliteral page <lua data reference ...>
-.....\pdfliteral page <lua data reference ...>
-.....\TU/lmr/bx/sc/14.4 S
-.....\kern-0.86395
-.....\TU/lmr/bx/sc/14.4 L
-.....\kern-2.59189
-.....\hbox(9.79199+0.0)x4.5072, shifted -2.04599, direction TLT
-......\TU/lmr/bx/sc/14.4 i
-.....\kern-0.86395
+.....\hbox(10.0512+2.8944)x32.37119, direction TLT
+......\pdfliteral page <lua data reference ...>
+......\pdfliteral page <lua data reference ...>
+......\TU/lmr/bx/sc/14.4 S
+......\TU/lmr/bx/sc/14.4 a
+......\TU/lmr/bx/sc/14.4 g
+......\TU/lmr/bx/sc/14.4 e
+.....\kern-1.35359
 .....\TU/lmr/bx/sc/14.4 T
 .....\kern-2.4005
 .....\hbox(9.8064+0.0)x10.6272, shifted 3.1968, direction TLT
@@ -5476,27 +5471,26 @@ Completed box being shipped out [6]
 .....\glue(\rightskip) 0.0
 ....\pdfliteral page <lua data reference ...>
 ....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {52}\NoCaseChange {\HoLogo@tag@actualtext {first}{SLiTeX}{\hologoRobust {SLiTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{SLiTeX}{\HologoRobust {SLiTeX}}}}{\thepage }{section.52}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {52}\NoCaseChange {\HoLogo@tag@actualtext {first}{SageTeX}{\hologoRobust {SageTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{SageTeX}{\HologoRobust {SageTeX}}}}{\thepage }{section.52}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 1.7532
-....\hbox(7.05+2.155)x345.0, glue set 314.55688fil, direction TLT
+....\hbox(7.05+2.155)x345.0, glue set 307.21704fil, direction TLT
 .....\localpar
 ......\localinterlinepenalty=0
 ......\localbrokenpenalty=0
 ......\localleftbox=null
 ......\localrightbox=null
-.....\pdfliteral page <lua data reference ...>
-.....\pdfliteral page <lua data reference ...>
-.....\TU/lmr/m/n/10 S
-.....\kern-0.59998
-.....\TU/lmr/m/n/10 L
-.....\kern-1.79993
-.....\hbox(5.14+0.0)x3.02, shifted -1.37923, direction TLT
-......\TU/lmr/m/sc/10 i
-.....\kern-0.59998
+.....\hbox(7.05+2.06)x20.0, direction TLT
+......\pdfliteral page <lua data reference ...>
+......\pdfliteral page <lua data reference ...>
+......\TU/lmr/m/n/10 S
+......\TU/lmr/m/n/10 a
+......\TU/lmr/m/n/10 g
+......\TU/lmr/m/n/10 e
+.....\kern-0.83
 .....\TU/lmr/m/n/10 T
 .....\kern-1.66702
 .....\hbox(6.8+0.0)x6.81, shifted 2.155, direction TLT
@@ -5611,8 +5605,8 @@ Completed box being shipped out [6]
 ....\glue 15.08499 plus 4.31 minus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
-....\glue(\baselineskip) 5.79381
-....\hbox(10.0512+3.1968)x345.0, glue set 207.65854fil, direction TLT
+....\glue(\baselineskip) 4.00702
+....\hbox(11.83798+3.1968)x345.0, glue set 201.37985fil, direction TLT
 .....\localpar
 ......\localinterlinepenalty=0
 ......\localbrokenpenalty=0
@@ -5634,6 +5628,107 @@ Completed box being shipped out [6]
 .......\glue 0.0 plus 1.0fil minus 1.0fil
 ......\TU/lmr/bx/sc/14.4 5
 ......\TU/lmr/bx/sc/14.4 4
+......\TU/lmr/bx/sc/14.4  
+......\glue 9.0
+.....\pdfliteral page <lua data reference ...>
+.....\pdfliteral page <lua data reference ...>
+.....\TU/lmr/bx/sc/14.4 S
+.....\kern-0.86395
+.....\TU/lmr/bx/sc/14.4 L
+.....\kern-2.59189
+.....\hbox(9.79199+0.0)x4.5072, shifted -2.04599, direction TLT
+......\TU/lmr/bx/sc/14.4 i
+.....\kern-0.86395
+.....\TU/lmr/bx/sc/14.4 T
+.....\kern-2.4005
+.....\hbox(9.8064+0.0)x10.6272, shifted 3.1968, direction TLT
+......\TU/lmr/bx/sc/14.4 E
+.....\kern-1.79999
+.....\TU/lmr/bx/sc/14.4 X
+.....\TU/lmr/bx/sc/14.4  
+.....\glue(\spaceskip) 0.0 plus 2.7 minus 1.8
+.....\pdfliteral page <lua data reference ...>
+.....\pdfliteral page <lua data reference ...>
+.....\TU/lmr/bx/sc/14.4 ,
+.....\TU/lmr/bx/sc/14.4  
+.....\glue(\spaceskip) 0.0 plus 3.37498 minus 1.44
+.....\pdfliteral page <lua data reference ...>
+.....\pdfliteral page <lua data reference ...>
+.....\TU/lmr/bx/sc/14.4 S
+.....\kern-0.86395
+.....\TU/lmr/bx/sc/14.4 L
+.....\kern-2.59189
+.....\hbox(9.79199+0.0)x4.5072, shifted -2.04599, direction TLT
+......\TU/lmr/bx/sc/14.4 i
+.....\kern-0.86395
+.....\TU/lmr/bx/sc/14.4 T
+.....\kern-2.4005
+.....\hbox(9.8064+0.0)x10.6272, shifted 3.1968, direction TLT
+......\TU/lmr/bx/sc/14.4 E
+.....\kern-1.79999
+.....\TU/lmr/bx/sc/14.4 X
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\pdfliteral page <lua data reference ...>
+....\pdfliteral page <lua data reference ...>
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {54}\NoCaseChange {\HoLogo@tag@actualtext {first}{SLiTeX}{\hologoRobust {SLiTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{SLiTeX}{\HologoRobust {SLiTeX}}}}{\thepage }{section.54}\protected@file@percent }}
+....\penalty 10000
+....\glue 9.913 plus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 1.7532
+....\hbox(7.05+2.155)x345.0, glue set 314.55688fil, direction TLT
+.....\localpar
+......\localinterlinepenalty=0
+......\localbrokenpenalty=0
+......\localleftbox=null
+......\localrightbox=null
+.....\pdfliteral page <lua data reference ...>
+.....\pdfliteral page <lua data reference ...>
+.....\TU/lmr/m/n/10 S
+.....\kern-0.59998
+.....\TU/lmr/m/n/10 L
+.....\kern-1.79993
+.....\hbox(5.14+0.0)x3.02, shifted -1.37923, direction TLT
+......\TU/lmr/m/sc/10 i
+.....\kern-0.59998
+.....\TU/lmr/m/n/10 T
+.....\kern-1.66702
+.....\hbox(6.8+0.0)x6.81, shifted 2.155, direction TLT
+......\TU/lmr/m/n/10 E
+.....\kern-1.25
+.....\TU/lmr/m/n/10 X
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\penalty -300
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 5.79381
+....\hbox(10.0512+3.1968)x345.0, glue set 207.65854fil, direction TLT
+.....\localpar
+......\localinterlinepenalty=0
+......\localbrokenpenalty=0
+......\localleftbox=null
+......\localrightbox=null
+.....\hbox(9.4464+0.1728)x30.61438, direction TLT
+......\glue 0.0
+......\hbox(0.0+0.0)x0.0, direction TLT
+.......\kern0.0
+.......\penalty 10000
+.......\hbox(0.0+0.0)x0.0, direction TLT
+........\hbox(0.0+0.0)x0.0, shifted -18.0, direction TLT
+.........\pdfliteral page <lua data reference ...>
+.........\pdfliteral page <lua data reference ...>
+.........\pdfdest name{section.55} xyz
+.........\pdfdest name{section.55} xyz
+.........\penalty 10000
+.......\kern0.0
+.......\glue 0.0 plus 1.0fil minus 1.0fil
+......\TU/lmr/bx/sc/14.4 5
+......\TU/lmr/bx/sc/14.4 5
 ......\TU/lmr/bx/sc/14.4  
 ......\glue 9.0
 .....\hbox(10.0512+0.1728)x16.64641, direction TLT
@@ -5678,7 +5773,7 @@ Completed box being shipped out [6]
 .....\glue(\rightskip) 0.0
 ....\pdfliteral page <lua data reference ...>
 ....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {54}\NoCaseChange {\HoLogo@tag@actualtext {first}{SLiTeX}{\hologoRobust {SLiTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{SLiTeX}{\HologoRobust {SLiTeX}}}}{\thepage }{section.54}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {55}\NoCaseChange {\HoLogo@tag@actualtext {first}{SLiTeX}{\hologoRobust {SLiTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{SLiTeX}{\HologoRobust {SLiTeX}}}}{\thepage }{section.55}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -5728,13 +5823,13 @@ Completed box being shipped out [6]
 ........\hbox(0.0+0.0)x0.0, shifted -18.0, direction TLT
 .........\pdfliteral page <lua data reference ...>
 .........\pdfliteral page <lua data reference ...>
-.........\pdfdest name{section.55} xyz
-.........\pdfdest name{section.55} xyz
+.........\pdfdest name{section.56} xyz
+.........\pdfdest name{section.56} xyz
 .........\penalty 10000
 .......\kern0.0
 .......\glue 0.0 plus 1.0fil minus 1.0fil
 ......\TU/lmr/bx/sc/14.4 5
-......\TU/lmr/bx/sc/14.4 5
+......\TU/lmr/bx/sc/14.4 6
 ......\TU/lmr/bx/sc/14.4  
 ......\glue 9.0
 .....\hbox(10.0512+0.1728)x18.0144, direction TLT
@@ -5773,7 +5868,7 @@ Completed box being shipped out [6]
 .....\glue(\rightskip) 0.0
 ....\pdfliteral page <lua data reference ...>
 ....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {55}\NoCaseChange {\HoLogo@tag@actualtext {first}{SLiTeX}{\hologoRobust {SLiTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{SLiTeX}{\HologoRobust {SLiTeX}}}}{\thepage }{section.55}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {56}\NoCaseChange {\HoLogo@tag@actualtext {first}{SLiTeX}{\hologoRobust {SLiTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{SLiTeX}{\HologoRobust {SLiTeX}}}}{\thepage }{section.56}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -5791,107 +5886,6 @@ Completed box being shipped out [6]
 ......\TU/lmr/m/sc/10 S
 ......\TU/lmr/m/sc/10 l
 ......\TU/lmr/m/sc/10 i
-.....\TU/lmr/m/n/10 T
-.....\kern-1.66702
-.....\hbox(6.8+0.0)x6.81, shifted 2.155, direction TLT
-......\TU/lmr/m/n/10 E
-.....\kern-1.25
-.....\TU/lmr/m/n/10 X
-.....\penalty 10000
-.....\glue(\parfillskip) 0.0 plus 1.0fil
-.....\glue(\rightskip) 0.0
-....\penalty -300
-....\glue 15.08499 plus 4.31 minus 0.86198
-....\glue(\parskip) 0.0 plus 1.0
-....\glue(\parskip) 0.0
-....\glue(\baselineskip) 5.79381
-....\hbox(10.0512+3.1968)x345.0, glue set 207.65854fil, direction TLT
-.....\localpar
-......\localinterlinepenalty=0
-......\localbrokenpenalty=0
-......\localleftbox=null
-......\localrightbox=null
-.....\hbox(9.4464+0.1728)x30.61438, direction TLT
-......\glue 0.0
-......\hbox(0.0+0.0)x0.0, direction TLT
-.......\kern0.0
-.......\penalty 10000
-.......\hbox(0.0+0.0)x0.0, direction TLT
-........\hbox(0.0+0.0)x0.0, shifted -18.0, direction TLT
-.........\pdfliteral page <lua data reference ...>
-.........\pdfliteral page <lua data reference ...>
-.........\pdfdest name{section.56} xyz
-.........\pdfdest name{section.56} xyz
-.........\penalty 10000
-.......\kern0.0
-.......\glue 0.0 plus 1.0fil minus 1.0fil
-......\TU/lmr/bx/sc/14.4 5
-......\TU/lmr/bx/sc/14.4 6
-......\TU/lmr/bx/sc/14.4  
-......\glue 9.0
-.....\hbox(10.0512+0.1728)x16.64641, direction TLT
-......\pdfliteral page <lua data reference ...>
-......\pdfliteral page <lua data reference ...>
-......\TU/lmr/bx/sc/14.4 S
-......\kern-0.86395
-......\TU/lmr/bx/sc/14.4 l
-......\kern-0.50404
-......\TU/lmr/bx/sc/14.4 i
-.....\kern-0.86395
-.....\TU/lmr/bx/sc/14.4 T
-.....\kern-2.4005
-.....\hbox(9.8064+0.0)x10.6272, shifted 3.1968, direction TLT
-......\TU/lmr/bx/sc/14.4 E
-.....\kern-1.79999
-.....\TU/lmr/bx/sc/14.4 X
-.....\TU/lmr/bx/sc/14.4  
-.....\glue(\spaceskip) 0.0 plus 2.7 minus 1.8
-.....\pdfliteral page <lua data reference ...>
-.....\pdfliteral page <lua data reference ...>
-.....\TU/lmr/bx/sc/14.4 ,
-.....\TU/lmr/bx/sc/14.4  
-.....\glue(\spaceskip) 0.0 plus 3.37498 minus 1.44
-.....\hbox(10.0512+0.1728)x16.64641, direction TLT
-......\pdfliteral page <lua data reference ...>
-......\pdfliteral page <lua data reference ...>
-......\TU/lmr/bx/sc/14.4 S
-......\kern-0.86395
-......\TU/lmr/bx/sc/14.4 l
-......\kern-0.50404
-......\TU/lmr/bx/sc/14.4 i
-.....\kern-0.86395
-.....\TU/lmr/bx/sc/14.4 T
-.....\kern-2.4005
-.....\hbox(9.8064+0.0)x10.6272, shifted 3.1968, direction TLT
-......\TU/lmr/bx/sc/14.4 E
-.....\kern-1.79999
-.....\TU/lmr/bx/sc/14.4 X
-.....\penalty 10000
-.....\glue(\parfillskip) 0.0 plus 1.0fil
-.....\glue(\rightskip) 0.0
-....\pdfliteral page <lua data reference ...>
-....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {56}\NoCaseChange {\HoLogo@tag@actualtext {first}{SliTeX}{\hologoRobust {SliTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{SliTeX}{\HologoRobust {SliTeX}}}}{\thepage }{section.56}\protected@file@percent }}
-....\penalty 10000
-....\glue 9.913 plus 0.86198
-....\glue(\parskip) 0.0 plus 1.0
-....\glue(\parskip) 0.0
-....\glue(\baselineskip) 1.7532
-....\hbox(7.05+2.155)x345.0, glue set 314.22699fil, direction TLT
-.....\localpar
-......\localinterlinepenalty=0
-......\localbrokenpenalty=0
-......\localleftbox=null
-......\localrightbox=null
-.....\hbox(7.05+0.22)x12.76, direction TLT
-......\pdfliteral page <lua data reference ...>
-......\pdfliteral page <lua data reference ...>
-......\TU/lmr/m/n/10 S
-......\kern-0.59998
-......\TU/lmr/m/sc/10 l
-......\kern-0.35004
-......\TU/lmr/m/sc/10 i
-.....\kern-0.59998
 .....\TU/lmr/m/n/10 T
 .....\kern-1.66702
 .....\hbox(6.8+0.0)x6.81, shifted 2.155, direction TLT
@@ -6007,7 +6001,7 @@ Completed box being shipped out [6]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 5.79381
-....\hbox(10.0512+3.1968)x345.0, glue set 203.19464fil, direction TLT
+....\hbox(10.0512+3.1968)x345.0, glue set 207.65854fil, direction TLT
 .....\localpar
 ......\localinterlinepenalty=0
 ......\localbrokenpenalty=0
@@ -6029,6 +6023,107 @@ Completed box being shipped out [6]
 .......\glue 0.0 plus 1.0fil minus 1.0fil
 ......\TU/lmr/bx/sc/14.4 5
 ......\TU/lmr/bx/sc/14.4 8
+......\TU/lmr/bx/sc/14.4  
+......\glue 9.0
+.....\hbox(10.0512+0.1728)x16.64641, direction TLT
+......\pdfliteral page <lua data reference ...>
+......\pdfliteral page <lua data reference ...>
+......\TU/lmr/bx/sc/14.4 S
+......\kern-0.86395
+......\TU/lmr/bx/sc/14.4 l
+......\kern-0.50404
+......\TU/lmr/bx/sc/14.4 i
+.....\kern-0.86395
+.....\TU/lmr/bx/sc/14.4 T
+.....\kern-2.4005
+.....\hbox(9.8064+0.0)x10.6272, shifted 3.1968, direction TLT
+......\TU/lmr/bx/sc/14.4 E
+.....\kern-1.79999
+.....\TU/lmr/bx/sc/14.4 X
+.....\TU/lmr/bx/sc/14.4  
+.....\glue(\spaceskip) 0.0 plus 2.7 minus 1.8
+.....\pdfliteral page <lua data reference ...>
+.....\pdfliteral page <lua data reference ...>
+.....\TU/lmr/bx/sc/14.4 ,
+.....\TU/lmr/bx/sc/14.4  
+.....\glue(\spaceskip) 0.0 plus 3.37498 minus 1.44
+.....\hbox(10.0512+0.1728)x16.64641, direction TLT
+......\pdfliteral page <lua data reference ...>
+......\pdfliteral page <lua data reference ...>
+......\TU/lmr/bx/sc/14.4 S
+......\kern-0.86395
+......\TU/lmr/bx/sc/14.4 l
+......\kern-0.50404
+......\TU/lmr/bx/sc/14.4 i
+.....\kern-0.86395
+.....\TU/lmr/bx/sc/14.4 T
+.....\kern-2.4005
+.....\hbox(9.8064+0.0)x10.6272, shifted 3.1968, direction TLT
+......\TU/lmr/bx/sc/14.4 E
+.....\kern-1.79999
+.....\TU/lmr/bx/sc/14.4 X
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\pdfliteral page <lua data reference ...>
+....\pdfliteral page <lua data reference ...>
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {58}\NoCaseChange {\HoLogo@tag@actualtext {first}{SliTeX}{\hologoRobust {SliTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{SliTeX}{\HologoRobust {SliTeX}}}}{\thepage }{section.58}\protected@file@percent }}
+....\penalty 10000
+....\glue 9.913 plus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 1.7532
+....\hbox(7.05+2.155)x345.0, glue set 314.22699fil, direction TLT
+.....\localpar
+......\localinterlinepenalty=0
+......\localbrokenpenalty=0
+......\localleftbox=null
+......\localrightbox=null
+.....\hbox(7.05+0.22)x12.76, direction TLT
+......\pdfliteral page <lua data reference ...>
+......\pdfliteral page <lua data reference ...>
+......\TU/lmr/m/n/10 S
+......\kern-0.59998
+......\TU/lmr/m/sc/10 l
+......\kern-0.35004
+......\TU/lmr/m/sc/10 i
+.....\kern-0.59998
+.....\TU/lmr/m/n/10 T
+.....\kern-1.66702
+.....\hbox(6.8+0.0)x6.81, shifted 2.155, direction TLT
+......\TU/lmr/m/n/10 E
+.....\kern-1.25
+.....\TU/lmr/m/n/10 X
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\penalty -300
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 5.79381
+....\hbox(10.0512+3.1968)x345.0, glue set 203.19464fil, direction TLT
+.....\localpar
+......\localinterlinepenalty=0
+......\localbrokenpenalty=0
+......\localleftbox=null
+......\localrightbox=null
+.....\hbox(9.4464+0.1728)x30.61438, direction TLT
+......\glue 0.0
+......\hbox(0.0+0.0)x0.0, direction TLT
+.......\kern0.0
+.......\penalty 10000
+.......\hbox(0.0+0.0)x0.0, direction TLT
+........\hbox(0.0+0.0)x0.0, shifted -18.0, direction TLT
+.........\pdfliteral page <lua data reference ...>
+.........\pdfliteral page <lua data reference ...>
+.........\pdfdest name{section.59} xyz
+.........\pdfdest name{section.59} xyz
+.........\penalty 10000
+.......\kern0.0
+.......\glue 0.0 plus 1.0fil minus 1.0fil
+......\TU/lmr/bx/sc/14.4 5
+......\TU/lmr/bx/sc/14.4 9
 ......\TU/lmr/bx/sc/14.4  
 ......\glue 9.0
 .....\hbox(10.0512+0.1728)x18.0144, direction TLT
@@ -6067,7 +6162,7 @@ Completed box being shipped out [6]
 .....\glue(\rightskip) 0.0
 ....\pdfliteral page <lua data reference ...>
 ....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {58}\NoCaseChange {\HoLogo@tag@actualtext {first}{SliTeX}{\hologoRobust {SliTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{SliTeX}{\HologoRobust {SliTeX}}}}{\thepage }{section.58}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {59}\NoCaseChange {\HoLogo@tag@actualtext {first}{SliTeX}{\hologoRobust {SliTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{SliTeX}{\HologoRobust {SliTeX}}}}{\thepage }{section.59}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -6114,13 +6209,13 @@ Completed box being shipped out [6]
 ........\hbox(0.0+0.0)x0.0, shifted -18.0, direction TLT
 .........\pdfliteral page <lua data reference ...>
 .........\pdfliteral page <lua data reference ...>
-.........\pdfdest name{section.59} xyz
-.........\pdfdest name{section.59} xyz
+.........\pdfdest name{section.60} xyz
+.........\pdfdest name{section.60} xyz
 .........\penalty 10000
 .......\kern0.0
 .......\glue 0.0 plus 1.0fil minus 1.0fil
-......\TU/lmr/bx/sc/14.4 5
-......\TU/lmr/bx/sc/14.4 9
+......\TU/lmr/bx/sc/14.4 6
+......\TU/lmr/bx/sc/14.4 0
 ......\TU/lmr/bx/sc/14.4  
 ......\glue 9.0
 .....\pdfliteral page <lua data reference ...>
@@ -6165,7 +6260,7 @@ Completed box being shipped out [6]
 .....\glue(\rightskip) 0.0
 ....\pdfliteral page <lua data reference ...>
 ....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {59}\NoCaseChange {\HoLogo@tag@actualtext {first}{SliTeX}{\hologoRobust {SliTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{SliTeX}{\HologoRobust {SliTeX}}}}{\thepage }{section.59}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {60}\NoCaseChange {\HoLogo@tag@actualtext {first}{SliTeX}{\hologoRobust {SliTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{SliTeX}{\HologoRobust {SliTeX}}}}{\thepage }{section.60}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -6186,96 +6281,6 @@ Completed box being shipped out [6]
 .....\hbox(5.14+0.0)x3.02, shifted -1.37923, direction TLT
 ......\TU/lmr/m/sc/10 i
 .....\kern-0.59998
-.....\TU/lmr/m/n/10 T
-.....\kern-1.66702
-.....\hbox(6.8+0.0)x6.81, shifted 2.155, direction TLT
-......\TU/lmr/m/n/10 E
-.....\kern-1.25
-.....\TU/lmr/m/n/10 X
-.....\penalty 10000
-.....\glue(\parfillskip) 0.0 plus 1.0fil
-.....\glue(\rightskip) 0.0
-....\penalty -300
-....\glue 15.08499 plus 4.31 minus 0.86198
-....\glue(\parskip) 0.0 plus 1.0
-....\glue(\parskip) 0.0
-....\glue(\baselineskip) 5.9666
-....\hbox(9.8784+3.1968)x345.0, glue set 208.23468fil, direction TLT
-.....\localpar
-......\localinterlinepenalty=0
-......\localbrokenpenalty=0
-......\localleftbox=null
-......\localrightbox=null
-.....\hbox(9.4464+0.1728)x30.61438, direction TLT
-......\glue 0.0
-......\hbox(0.0+0.0)x0.0, direction TLT
-.......\kern0.0
-.......\penalty 10000
-.......\hbox(0.0+0.0)x0.0, direction TLT
-........\hbox(0.0+0.0)x0.0, shifted -18.0, direction TLT
-.........\pdfliteral page <lua data reference ...>
-.........\pdfliteral page <lua data reference ...>
-.........\pdfdest name{section.60} xyz
-.........\pdfdest name{section.60} xyz
-.........\penalty 10000
-.......\kern0.0
-.......\glue 0.0 plus 1.0fil minus 1.0fil
-......\TU/lmr/bx/sc/14.4 6
-......\TU/lmr/bx/sc/14.4 0
-......\TU/lmr/bx/sc/14.4  
-......\glue 9.0
-.....\hbox(9.144+0.0864)x13.69438, direction TLT
-......\pdfliteral page <lua data reference ...>
-......\pdfliteral page <lua data reference ...>
-......\TU/lmr/bx/sc/14.4 t
-......\TU/lmr/bx/sc/14.4 e
-.....\TU/lmr/bx/sc/14.4 T
-.....\kern-2.4005
-.....\hbox(9.8064+0.0)x10.6272, shifted 3.1968, direction TLT
-......\TU/lmr/bx/sc/14.4 E
-.....\kern-1.79999
-.....\TU/lmr/bx/sc/14.4 X
-.....\TU/lmr/bx/sc/14.4  
-.....\glue(\spaceskip) 0.0 plus 2.7 minus 1.8
-.....\pdfliteral page <lua data reference ...>
-.....\pdfliteral page <lua data reference ...>
-.....\TU/lmr/bx/sc/14.4 ,
-.....\TU/lmr/bx/sc/14.4  
-.....\glue(\spaceskip) 0.0 plus 3.37498 minus 1.44
-.....\hbox(9.7488+0.0864)x17.29439, direction TLT
-......\pdfliteral page <lua data reference ...>
-......\pdfliteral page <lua data reference ...>
-......\TU/lmr/bx/sc/14.4 T
-......\kern-1.35359 (font)
-......\TU/lmr/bx/sc/14.4 e
-.....\TU/lmr/bx/sc/14.4 T
-.....\kern-2.4005
-.....\hbox(9.8064+0.0)x10.6272, shifted 3.1968, direction TLT
-......\TU/lmr/bx/sc/14.4 E
-.....\kern-1.79999
-.....\TU/lmr/bx/sc/14.4 X
-.....\penalty 10000
-.....\glue(\parfillskip) 0.0 plus 1.0fil
-.....\glue(\rightskip) 0.0
-....\pdfliteral page <lua data reference ...>
-....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {60}\NoCaseChange {\HoLogo@tag@actualtext {first}{teTeX}{\hologoRobust {teTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{teTeX}{\HologoRobust {teTeX}}}}{\thepage }{section.60}\protected@file@percent }}
-....\penalty 10000
-....\glue 9.913 plus 0.86198
-....\glue(\parskip) 0.0 plus 1.0
-....\glue(\parskip) 0.0
-....\glue(\baselineskip) 1.9732
-....\hbox(6.83+2.155)x345.0, glue set 318.057fil, direction TLT
-.....\localpar
-......\localinterlinepenalty=0
-......\localbrokenpenalty=0
-......\localleftbox=null
-......\localrightbox=null
-.....\hbox(6.15+0.11)x8.33, direction TLT
-......\pdfliteral page <lua data reference ...>
-......\pdfliteral page <lua data reference ...>
-......\TU/lmr/m/n/10 t
-......\TU/lmr/m/n/10 e
 .....\TU/lmr/m/n/10 T
 .....\kern-1.66702
 .....\hbox(6.8+0.0)x6.81, shifted 2.155, direction TLT
@@ -6341,7 +6346,7 @@ Completed box being shipped out [7]
 ...\glue(\lineskip) 0.0
 ...\vbox(550.0+0.0)x345.0, glue set >20000.0fil, direction TLT
 ....\glue(\topskip) 0.1216
-....\hbox(9.8784+3.1968)x345.0, glue set 239.22345fil, direction TLT
+....\hbox(9.8784+3.1968)x345.0, glue set 208.23468fil, direction TLT
 .....\localpar
 ......\localinterlinepenalty=0
 ......\localbrokenpenalty=0
@@ -6363,6 +6368,96 @@ Completed box being shipped out [7]
 .......\glue 0.0 plus 1.0fil minus 1.0fil
 ......\TU/lmr/bx/sc/14.4 6
 ......\TU/lmr/bx/sc/14.4 1
+......\TU/lmr/bx/sc/14.4  
+......\glue 9.0
+.....\hbox(9.144+0.0864)x13.69438, direction TLT
+......\pdfliteral page <lua data reference ...>
+......\pdfliteral page <lua data reference ...>
+......\TU/lmr/bx/sc/14.4 t
+......\TU/lmr/bx/sc/14.4 e
+.....\TU/lmr/bx/sc/14.4 T
+.....\kern-2.4005
+.....\hbox(9.8064+0.0)x10.6272, shifted 3.1968, direction TLT
+......\TU/lmr/bx/sc/14.4 E
+.....\kern-1.79999
+.....\TU/lmr/bx/sc/14.4 X
+.....\TU/lmr/bx/sc/14.4  
+.....\glue(\spaceskip) 0.0 plus 2.7 minus 1.8
+.....\pdfliteral page <lua data reference ...>
+.....\pdfliteral page <lua data reference ...>
+.....\TU/lmr/bx/sc/14.4 ,
+.....\TU/lmr/bx/sc/14.4  
+.....\glue(\spaceskip) 0.0 plus 3.37498 minus 1.44
+.....\hbox(9.7488+0.0864)x17.29439, direction TLT
+......\pdfliteral page <lua data reference ...>
+......\pdfliteral page <lua data reference ...>
+......\TU/lmr/bx/sc/14.4 T
+......\kern-1.35359 (font)
+......\TU/lmr/bx/sc/14.4 e
+.....\TU/lmr/bx/sc/14.4 T
+.....\kern-2.4005
+.....\hbox(9.8064+0.0)x10.6272, shifted 3.1968, direction TLT
+......\TU/lmr/bx/sc/14.4 E
+.....\kern-1.79999
+.....\TU/lmr/bx/sc/14.4 X
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\pdfliteral page <lua data reference ...>
+....\pdfliteral page <lua data reference ...>
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {61}\NoCaseChange {\HoLogo@tag@actualtext {first}{teTeX}{\hologoRobust {teTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{teTeX}{\HologoRobust {teTeX}}}}{\thepage }{section.61}\protected@file@percent }}
+....\penalty 10000
+....\glue 9.913 plus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 1.9732
+....\hbox(6.83+2.155)x345.0, glue set 318.057fil, direction TLT
+.....\localpar
+......\localinterlinepenalty=0
+......\localbrokenpenalty=0
+......\localleftbox=null
+......\localrightbox=null
+.....\hbox(6.15+0.11)x8.33, direction TLT
+......\pdfliteral page <lua data reference ...>
+......\pdfliteral page <lua data reference ...>
+......\TU/lmr/m/n/10 t
+......\TU/lmr/m/n/10 e
+.....\TU/lmr/m/n/10 T
+.....\kern-1.66702
+.....\hbox(6.8+0.0)x6.81, shifted 2.155, direction TLT
+......\TU/lmr/m/n/10 E
+.....\kern-1.25
+.....\TU/lmr/m/n/10 X
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\penalty -300
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 5.9666
+....\hbox(9.8784+3.1968)x345.0, glue set 239.22345fil, direction TLT
+.....\localpar
+......\localinterlinepenalty=0
+......\localbrokenpenalty=0
+......\localleftbox=null
+......\localrightbox=null
+.....\hbox(9.4464+0.1728)x30.61438, direction TLT
+......\glue 0.0
+......\hbox(0.0+0.0)x0.0, direction TLT
+.......\kern0.0
+.......\penalty 10000
+.......\hbox(0.0+0.0)x0.0, direction TLT
+........\hbox(0.0+0.0)x0.0, shifted -18.0, direction TLT
+.........\pdfliteral page <lua data reference ...>
+.........\pdfliteral page <lua data reference ...>
+.........\pdfdest name{section.62} xyz
+.........\pdfdest name{section.62} xyz
+.........\penalty 10000
+.......\kern0.0
+.......\glue 0.0 plus 1.0fil minus 1.0fil
+......\TU/lmr/bx/sc/14.4 6
+......\TU/lmr/bx/sc/14.4 2
 ......\TU/lmr/bx/sc/14.4  
 ......\glue 9.0
 .....\pdfliteral page <lua data reference ...>
@@ -6393,7 +6488,7 @@ Completed box being shipped out [7]
 .....\glue(\rightskip) 0.0
 ....\pdfliteral page <lua data reference ...>
 ....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {61}\NoCaseChange {\HoLogo@tag@actualtext {first}{TeX}{\hologoRobust {TeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{TeX}{\HologoRobust {TeX}}}}{\thepage }{section.61}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {62}\NoCaseChange {\HoLogo@tag@actualtext {first}{TeX}{\hologoRobust {TeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{TeX}{\HologoRobust {TeX}}}}{\thepage }{section.62}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -6436,13 +6531,13 @@ Completed box being shipped out [7]
 ........\hbox(0.0+0.0)x0.0, shifted -18.0, direction TLT
 .........\pdfliteral page <lua data reference ...>
 .........\pdfliteral page <lua data reference ...>
-.........\pdfdest name{section.62} xyz
-.........\pdfdest name{section.62} xyz
+.........\pdfdest name{section.63} xyz
+.........\pdfdest name{section.63} xyz
 .........\penalty 10000
 .......\kern0.0
 .......\glue 0.0 plus 1.0fil minus 1.0fil
 ......\TU/lmr/bx/sc/14.4 6
-......\TU/lmr/bx/sc/14.4 2
+......\TU/lmr/bx/sc/14.4 3
 ......\TU/lmr/bx/sc/14.4  
 ......\glue 9.0
 .....\hbox(9.99359+3.1968)x52.89548, direction TLT
@@ -6483,7 +6578,7 @@ Completed box being shipped out [7]
 .....\glue(\rightskip) 0.0
 ....\pdfliteral page <lua data reference ...>
 ....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {62}\NoCaseChange {\HoLogo@tag@actualtext {first}{TeX4ht}{\hologoRobust {TeX4ht}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{TeX4ht}{\HologoRobust {TeX4ht}}}}{\thepage }{section.62}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {63}\NoCaseChange {\HoLogo@tag@actualtext {first}{TeX4ht}{\hologoRobust {TeX4ht}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{TeX4ht}{\HologoRobust {TeX4ht}}}}{\thepage }{section.63}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -6522,7 +6617,7 @@ Completed box being shipped out [7]
 ......\localbrokenpenalty=0
 ......\localleftbox=null
 ......\localrightbox=null
-.....\hbox(9.4464+0.1728)x30.61438, direction TLT
+.....\hbox(9.47519+0.1728)x30.61438, direction TLT
 ......\glue 0.0
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\kern0.0
@@ -6531,13 +6626,13 @@ Completed box being shipped out [7]
 ........\hbox(0.0+0.0)x0.0, shifted -18.0, direction TLT
 .........\pdfliteral page <lua data reference ...>
 .........\pdfliteral page <lua data reference ...>
-.........\pdfdest name{section.63} xyz
-.........\pdfdest name{section.63} xyz
+.........\pdfdest name{section.64} xyz
+.........\pdfdest name{section.64} xyz
 .........\penalty 10000
 .......\kern0.0
 .......\glue 0.0 plus 1.0fil minus 1.0fil
 ......\TU/lmr/bx/sc/14.4 6
-......\TU/lmr/bx/sc/14.4 3
+......\TU/lmr/bx/sc/14.4 4
 ......\TU/lmr/bx/sc/14.4  
 ......\glue 9.0
 .....\pdfliteral page <lua data reference ...>
@@ -6586,7 +6681,7 @@ Completed box being shipped out [7]
 .....\glue(\rightskip) 0.0
 ....\pdfliteral page <lua data reference ...>
 ....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {63}\NoCaseChange {\HoLogo@tag@actualtext {first}{TeXLive}{\hologoRobust {TeXLive}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{TeXLive}{\HologoRobust {TeXLive}}}}{\thepage }{section.63}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {64}\NoCaseChange {\HoLogo@tag@actualtext {first}{TeXLive}{\hologoRobust {TeXLive}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{TeXLive}{\HologoRobust {TeXLive}}}}{\thepage }{section.64}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -6629,7 +6724,7 @@ Completed box being shipped out [7]
 ......\localbrokenpenalty=0
 ......\localleftbox=null
 ......\localrightbox=null
-.....\hbox(9.47519+0.1728)x30.61438, direction TLT
+.....\hbox(9.4464+0.1728)x30.61438, direction TLT
 ......\glue 0.0
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\kern0.0
@@ -6638,13 +6733,13 @@ Completed box being shipped out [7]
 ........\hbox(0.0+0.0)x0.0, shifted -18.0, direction TLT
 .........\pdfliteral page <lua data reference ...>
 .........\pdfliteral page <lua data reference ...>
-.........\pdfdest name{section.64} xyz
-.........\pdfdest name{section.64} xyz
+.........\pdfdest name{section.65} xyz
+.........\pdfdest name{section.65} xyz
 .........\penalty 10000
 .......\kern0.0
 .......\glue 0.0 plus 1.0fil minus 1.0fil
 ......\TU/lmr/bx/sc/14.4 6
-......\TU/lmr/bx/sc/14.4 4
+......\TU/lmr/bx/sc/14.4 5
 ......\TU/lmr/bx/sc/14.4  
 ......\glue 9.0
 .....\hbox(9.8784+2.15999)x32.43279, direction TLT
@@ -6679,7 +6774,7 @@ Completed box being shipped out [7]
 .....\glue(\rightskip) 0.0
 ....\pdfliteral page <lua data reference ...>
 ....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {64}\NoCaseChange {\HoLogo@tag@actualtext {first}{TTH}{\hologoRobust {TTH}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{TTH}{\HologoRobust {TTH}}}}{\thepage }{section.64}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {65}\NoCaseChange {\HoLogo@tag@actualtext {first}{TTH}{\hologoRobust {TTH}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{TTH}{\HologoRobust {TTH}}}}{\thepage }{section.65}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -6709,7 +6804,7 @@ Completed box being shipped out [7]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 6.62161
-....\hbox(9.8784+3.1968)x345.0, glue set 182.50253fil, direction TLT
+....\hbox(9.8784+3.1968)x345.0, glue set 183.9426fil, direction TLT
 .....\localpar
 ......\localinterlinepenalty=0
 ......\localbrokenpenalty=0
@@ -6724,19 +6819,20 @@ Completed box being shipped out [7]
 ........\hbox(0.0+0.0)x0.0, shifted -18.0, direction TLT
 .........\pdfliteral page <lua data reference ...>
 .........\pdfliteral page <lua data reference ...>
-.........\pdfdest name{section.65} xyz
-.........\pdfdest name{section.65} xyz
+.........\pdfdest name{section.66} xyz
+.........\pdfdest name{section.66} xyz
 .........\penalty 10000
 .......\kern0.0
 .......\glue 0.0 plus 1.0fil minus 1.0fil
 ......\TU/lmr/bx/sc/14.4 6
-......\TU/lmr/bx/sc/14.4 5
+......\TU/lmr/bx/sc/14.4 6
 ......\TU/lmr/bx/sc/14.4  
 ......\glue 9.0
-.....\hbox(6.48+0.0864)x9.0, direction TLT
+.....\hbox(6.48+0.0864)x8.27997, direction TLT
 ......\pdfliteral page <lua data reference ...>
 ......\pdfliteral page <lua data reference ...>
 ......\TU/lmr/bx/sc/14.4 u
+......\kern-0.72003
 .....\hbox(6.48+2.7936)x8.27997, direction TLT
 ......\TU/lmr/bx/sc/14.4 p
 ......\kern-0.72003
@@ -6760,10 +6856,11 @@ Completed box being shipped out [7]
 .....\TU/lmr/bx/sc/14.4 ,
 .....\TU/lmr/bx/sc/14.4  
 .....\glue(\spaceskip) 0.0 plus 3.37498 minus 1.44
-.....\hbox(6.48+0.0864)x9.0, direction TLT
+.....\hbox(6.48+0.0864)x8.27997, direction TLT
 ......\pdfliteral page <lua data reference ...>
 ......\pdfliteral page <lua data reference ...>
 ......\TU/lmr/bx/sc/14.4 u
+......\kern-0.72003
 .....\hbox(6.48+2.7936)x8.27997, direction TLT
 ......\TU/lmr/bx/sc/14.4 p
 ......\kern-0.72003
@@ -6785,22 +6882,23 @@ Completed box being shipped out [7]
 .....\glue(\rightskip) 0.0
 ....\pdfliteral page <lua data reference ...>
 ....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {65}\NoCaseChange {\HoLogo@tag@actualtext {first}{upLaTeX}{\hologoRobust {upLaTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{upLaTeX}{\HologoRobust {upLaTeX}}}}{\thepage }{section.65}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {66}\NoCaseChange {\HoLogo@tag@actualtext {first}{upLaTeX}{\hologoRobust {upLaTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{upLaTeX}{\HologoRobust {upLaTeX}}}}{\thepage }{section.66}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 1.9732
-....\hbox(6.83+2.155)x345.0, glue set 308.716fil, direction TLT
+....\hbox(6.83+2.155)x345.0, glue set 309.21603fil, direction TLT
 .....\localpar
 ......\localinterlinepenalty=0
 ......\localbrokenpenalty=0
 ......\localleftbox=null
 ......\localrightbox=null
-.....\hbox(4.42+0.11)x5.56, direction TLT
+.....\hbox(4.42+0.11)x5.05997, direction TLT
 ......\pdfliteral page <lua data reference ...>
 ......\pdfliteral page <lua data reference ...>
 ......\TU/lmr/m/n/10 u
+......\kern-0.50003
 .....\hbox(4.42+1.94)x5.05997, direction TLT
 ......\TU/lmr/m/n/10 p
 ......\kern-0.50003
@@ -6831,7 +6929,7 @@ Completed box being shipped out [7]
 ......\localbrokenpenalty=0
 ......\localleftbox=null
 ......\localrightbox=null
-.....\hbox(9.4464+0.1728)x30.61438, direction TLT
+.....\hbox(9.73439+0.1728)x30.61438, direction TLT
 ......\glue 0.0
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\kern0.0
@@ -6840,13 +6938,13 @@ Completed box being shipped out [7]
 ........\hbox(0.0+0.0)x0.0, shifted -18.0, direction TLT
 .........\pdfliteral page <lua data reference ...>
 .........\pdfliteral page <lua data reference ...>
-.........\pdfdest name{section.66} xyz
-.........\pdfdest name{section.66} xyz
+.........\pdfdest name{section.67} xyz
+.........\pdfdest name{section.67} xyz
 .........\penalty 10000
 .......\kern0.0
 .......\glue 0.0 plus 1.0fil minus 1.0fil
 ......\TU/lmr/bx/sc/14.4 6
-......\TU/lmr/bx/sc/14.4 6
+......\TU/lmr/bx/sc/14.4 7
 ......\TU/lmr/bx/sc/14.4  
 ......\glue 9.0
 .....\hbox(6.48+0.0864)x8.27997, direction TLT
@@ -6889,7 +6987,7 @@ Completed box being shipped out [7]
 .....\glue(\rightskip) 0.0
 ....\pdfliteral page <lua data reference ...>
 ....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {66}\NoCaseChange {\HoLogo@tag@actualtext {first}{upTeX}{\hologoRobust {upTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{upTeX}{\HologoRobust {upTeX}}}}{\thepage }{section.66}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {67}\NoCaseChange {\HoLogo@tag@actualtext {first}{upTeX}{\hologoRobust {upTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{upTeX}{\HologoRobust {upTeX}}}}{\thepage }{section.67}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -6929,7 +7027,7 @@ Completed box being shipped out [7]
 ......\localbrokenpenalty=0
 ......\localleftbox=null
 ......\localrightbox=null
-.....\hbox(9.73439+0.1728)x30.61438, direction TLT
+.....\hbox(9.4464+0.1728)x30.61438, direction TLT
 ......\glue 0.0
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\kern0.0
@@ -6938,13 +7036,13 @@ Completed box being shipped out [7]
 ........\hbox(0.0+0.0)x0.0, shifted -18.0, direction TLT
 .........\pdfliteral page <lua data reference ...>
 .........\pdfliteral page <lua data reference ...>
-.........\pdfdest name{section.67} xyz
-.........\pdfdest name{section.67} xyz
+.........\pdfdest name{section.68} xyz
+.........\pdfdest name{section.68} xyz
 .........\penalty 10000
 .......\kern0.0
 .......\glue 0.0 plus 1.0fil minus 1.0fil
 ......\TU/lmr/bx/sc/14.4 6
-......\TU/lmr/bx/sc/14.4 7
+......\TU/lmr/bx/sc/14.4 8
 ......\TU/lmr/bx/sc/14.4  
 ......\glue 9.0
 .....\hbox(9.8784+3.1968)x49.61227, direction TLT
@@ -6983,7 +7081,7 @@ Completed box being shipped out [7]
 .....\glue(\rightskip) 0.0
 ....\pdfliteral page <lua data reference ...>
 ....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {67}\NoCaseChange {\HoLogo@tag@actualtext {first}{virTeX}{\hologoRobust {virTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{virTeX}{\HologoRobust {virTeX}}}}{\thepage }{section.67}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {68}\NoCaseChange {\HoLogo@tag@actualtext {first}{virTeX}{\hologoRobust {virTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{virTeX}{\HologoRobust {virTeX}}}}{\thepage }{section.68}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -7030,13 +7128,13 @@ Completed box being shipped out [7]
 ........\hbox(0.0+0.0)x0.0, shifted -18.0, direction TLT
 .........\pdfliteral page <lua data reference ...>
 .........\pdfliteral page <lua data reference ...>
-.........\pdfdest name{section.68} xyz
-.........\pdfdest name{section.68} xyz
+.........\pdfdest name{section.69} xyz
+.........\pdfdest name{section.69} xyz
 .........\penalty 10000
 .......\kern0.0
 .......\glue 0.0 plus 1.0fil minus 1.0fil
 ......\TU/lmr/bx/sc/14.4 6
-......\TU/lmr/bx/sc/14.4 8
+......\TU/lmr/bx/sc/14.4 9
 ......\TU/lmr/bx/sc/14.4  
 ......\glue 9.0
 .....\hbox(9.8784+3.1968)x42.16748, direction TLT
@@ -7071,7 +7169,7 @@ Completed box being shipped out [7]
 .....\glue(\rightskip) 0.0
 ....\pdfliteral page <lua data reference ...>
 ....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {68}\NoCaseChange {\HoLogo@tag@actualtext {first}{VTeX}{\hologoRobust {VTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{VTeX}{\HologoRobust {VTeX}}}}{\thepage }{section.68}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {69}\NoCaseChange {\HoLogo@tag@actualtext {first}{VTeX}{\hologoRobust {VTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{VTeX}{\HologoRobust {VTeX}}}}{\thepage }{section.69}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -7107,80 +7205,6 @@ Completed box being shipped out [7]
 ......\localbrokenpenalty=0
 ......\localleftbox=null
 ......\localrightbox=null
-.....\hbox(9.4464+0.1728)x30.61438, direction TLT
-......\glue 0.0
-......\hbox(0.0+0.0)x0.0, direction TLT
-.......\kern0.0
-.......\penalty 10000
-.......\hbox(0.0+0.0)x0.0, direction TLT
-........\hbox(0.0+0.0)x0.0, shifted -18.0, direction TLT
-.........\pdfliteral page <lua data reference ...>
-.........\pdfliteral page <lua data reference ...>
-.........\pdfdest name{section.69} xyz
-.........\pdfdest name{section.69} xyz
-.........\penalty 10000
-.......\kern0.0
-.......\glue 0.0 plus 1.0fil minus 1.0fil
-......\TU/lmr/bx/sc/14.4 6
-......\TU/lmr/bx/sc/14.4 9
-......\TU/lmr/bx/sc/14.4  
-......\glue 9.0
-.....\pdfliteral page <lua data reference ...>
-.....\pdfliteral page <lua data reference ...>
-.....\TU/lmr/bx/sc/14.4 X
-.....\kern-1.44008
-.....\hbox(9.8064+0.0)x10.6272, shifted 3.1968, direction TLT
-......\TU/lmr/bx/sc/14.4 Ǝ
-.....\TU/lmr/bx/sc/14.4  
-.....\glue(\spaceskip) 0.0 plus 2.7 minus 1.8
-.....\pdfliteral page <lua data reference ...>
-.....\pdfliteral page <lua data reference ...>
-.....\TU/lmr/bx/sc/14.4 ,
-.....\TU/lmr/bx/sc/14.4  
-.....\glue(\spaceskip) 0.0 plus 3.37498 minus 1.44
-.....\pdfliteral page <lua data reference ...>
-.....\pdfliteral page <lua data reference ...>
-.....\TU/lmr/bx/sc/14.4 X
-.....\kern-1.44008
-.....\hbox(9.8064+0.0)x10.6272, shifted 3.1968, direction TLT
-......\TU/lmr/bx/sc/14.4 Ǝ
-.....\penalty 10000
-.....\glue(\parfillskip) 0.0 plus 1.0fil
-.....\glue(\rightskip) 0.0
-....\pdfliteral page <lua data reference ...>
-....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {69}\NoCaseChange {\HoLogo@tag@actualtext {first}{Xe}{\hologoRobust {Xe}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{Xe}{\HologoRobust {Xe}}}}{\thepage }{section.69}\protected@file@percent }}
-....\penalty 10000
-....\glue 9.913 plus 0.86198
-....\glue(\parskip) 0.0 plus 1.0
-....\glue(\parskip) 0.0
-....\glue(\baselineskip) 1.9732
-....\hbox(6.83+2.155)x345.0, glue set 331.69006fil, direction TLT
-.....\localpar
-......\localinterlinepenalty=0
-......\localbrokenpenalty=0
-......\localleftbox=null
-......\localrightbox=null
-.....\pdfliteral page <lua data reference ...>
-.....\pdfliteral page <lua data reference ...>
-.....\TU/lmr/m/n/10 X
-.....\kern-1.00006
-.....\hbox(6.8+0.0)x6.81, shifted 2.155, direction TLT
-......\TU/lmr/m/n/10 Ǝ
-.....\penalty 10000
-.....\glue(\parfillskip) 0.0 plus 1.0fil
-.....\glue(\rightskip) 0.0
-....\penalty -300
-....\glue 15.08499 plus 4.31 minus 0.86198
-....\glue(\parskip) 0.0 plus 1.0
-....\glue(\parskip) 0.0
-....\glue(\baselineskip) 5.9666
-....\hbox(9.8784+3.1968)x345.0, glue set 177.95236fil, direction TLT
-.....\localpar
-......\localinterlinepenalty=0
-......\localbrokenpenalty=0
-......\localleftbox=null
-......\localrightbox=null
 .....\hbox(9.73439+0.1728)x30.61438, direction TLT
 ......\glue 0.0
 ......\hbox(0.0+0.0)x0.0, direction TLT
@@ -7205,20 +7229,6 @@ Completed box being shipped out [7]
 .....\kern-1.44008
 .....\hbox(9.8064+0.0)x10.6272, shifted 3.1968, direction TLT
 ......\TU/lmr/bx/sc/14.4 Ǝ
-.....\kern-1.87206
-.....\TU/lmr/bx/sc/14.4 L
-.....\kern-5.184
-.....\vbox(9.7488+0.0)x8.69, glue set 2.7688fil, direction TLT
-......\hbox(6.98+0.0)x8.69, direction TLT
-.......\TU/lmr/bx/n/10 A
-......\glue 0.0 plus 1.0fil minus 1.0fil
-.....\kern-2.1599
-.....\TU/lmr/bx/sc/14.4 T
-.....\kern-2.4005
-.....\hbox(9.8064+0.0)x10.6272, shifted 3.1968, direction TLT
-......\TU/lmr/bx/sc/14.4 E
-.....\kern-1.79999
-.....\TU/lmr/bx/sc/14.4 X
 .....\TU/lmr/bx/sc/14.4  
 .....\glue(\spaceskip) 0.0 plus 2.7 minus 1.8
 .....\pdfliteral page <lua data reference ...>
@@ -7232,32 +7242,18 @@ Completed box being shipped out [7]
 .....\kern-1.44008
 .....\hbox(9.8064+0.0)x10.6272, shifted 3.1968, direction TLT
 ......\TU/lmr/bx/sc/14.4 Ǝ
-.....\kern-1.87206
-.....\TU/lmr/bx/sc/14.4 L
-.....\kern-5.184
-.....\vbox(9.7488+0.0)x8.69, glue set 2.7688fil, direction TLT
-......\hbox(6.98+0.0)x8.69, direction TLT
-.......\TU/lmr/bx/n/10 A
-......\glue 0.0 plus 1.0fil minus 1.0fil
-.....\kern-2.1599
-.....\TU/lmr/bx/sc/14.4 T
-.....\kern-2.4005
-.....\hbox(9.8064+0.0)x10.6272, shifted 3.1968, direction TLT
-......\TU/lmr/bx/sc/14.4 E
-.....\kern-1.79999
-.....\TU/lmr/bx/sc/14.4 X
 .....\penalty 10000
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
 ....\pdfliteral page <lua data reference ...>
 ....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {70}\NoCaseChange {\HoLogo@tag@actualtext {first}{XeLaTeX}{\hologoRobust {XeLaTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{XeLaTeX}{\HologoRobust {XeLaTeX}}}}{\thepage }{section.70}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {70}\NoCaseChange {\HoLogo@tag@actualtext {first}{Xe}{\hologoRobust {Xe}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{Xe}{\HologoRobust {Xe}}}}{\thepage }{section.70}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 1.9732
-....\hbox(6.83+2.155)x345.0, glue set 307.32608fil, direction TLT
+....\hbox(6.83+2.155)x345.0, glue set 331.69006fil, direction TLT
 .....\localpar
 ......\localinterlinepenalty=0
 ......\localbrokenpenalty=0
@@ -7269,20 +7265,6 @@ Completed box being shipped out [7]
 .....\kern-1.00006
 .....\hbox(6.8+0.0)x6.81, shifted 2.155, direction TLT
 ......\TU/lmr/m/n/10 Ǝ
-.....\kern-1.30005
-.....\TU/lmr/m/n/10 L
-.....\kern-3.6
-.....\vbox(6.77+0.0)x5.901, glue set 1.779fil, direction TLT
-......\hbox(4.991+0.0)x5.901, direction TLT
-.......\TU/lmr/m/n/7 A
-......\glue 0.0 plus 1.0fil minus 1.0fil
-.....\kern-1.49994
-.....\TU/lmr/m/n/10 T
-.....\kern-1.66702
-.....\hbox(6.8+0.0)x6.81, shifted 2.155, direction TLT
-......\TU/lmr/m/n/10 E
-.....\kern-1.25
-.....\TU/lmr/m/n/10 X
 .....\penalty 10000
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
@@ -7340,9 +7322,9 @@ Completed box being shipped out [8]
 ....\pdflinkstate 0
 ...\glue 25.0
 ...\glue(\lineskip) 0.0
-...\vbox(550.0+0.0)x345.0, glue set 518.03168fil, direction TLT
+...\vbox(550.0+0.0)x345.0, glue set 463.03955fil, direction TLT
 ....\glue(\topskip) 0.1216
-....\hbox(9.8784+3.1968)x345.0, glue set 200.68903fil, direction TLT
+....\hbox(9.8784+3.1968)x345.0, glue set 177.95236fil, direction TLT
 .....\localpar
 ......\localinterlinepenalty=0
 ......\localbrokenpenalty=0
@@ -7364,6 +7346,122 @@ Completed box being shipped out [8]
 .......\glue 0.0 plus 1.0fil minus 1.0fil
 ......\TU/lmr/bx/sc/14.4 7
 ......\TU/lmr/bx/sc/14.4 1
+......\TU/lmr/bx/sc/14.4  
+......\glue 9.0
+.....\pdfliteral page <lua data reference ...>
+.....\pdfliteral page <lua data reference ...>
+.....\TU/lmr/bx/sc/14.4 X
+.....\kern-1.44008
+.....\hbox(9.8064+0.0)x10.6272, shifted 3.1968, direction TLT
+......\TU/lmr/bx/sc/14.4 Ǝ
+.....\kern-1.87206
+.....\TU/lmr/bx/sc/14.4 L
+.....\kern-5.184
+.....\vbox(9.7488+0.0)x8.69, glue set 2.7688fil, direction TLT
+......\hbox(6.98+0.0)x8.69, direction TLT
+.......\TU/lmr/bx/n/10 A
+......\glue 0.0 plus 1.0fil minus 1.0fil
+.....\kern-2.1599
+.....\TU/lmr/bx/sc/14.4 T
+.....\kern-2.4005
+.....\hbox(9.8064+0.0)x10.6272, shifted 3.1968, direction TLT
+......\TU/lmr/bx/sc/14.4 E
+.....\kern-1.79999
+.....\TU/lmr/bx/sc/14.4 X
+.....\TU/lmr/bx/sc/14.4  
+.....\glue(\spaceskip) 0.0 plus 2.7 minus 1.8
+.....\pdfliteral page <lua data reference ...>
+.....\pdfliteral page <lua data reference ...>
+.....\TU/lmr/bx/sc/14.4 ,
+.....\TU/lmr/bx/sc/14.4  
+.....\glue(\spaceskip) 0.0 plus 3.37498 minus 1.44
+.....\pdfliteral page <lua data reference ...>
+.....\pdfliteral page <lua data reference ...>
+.....\TU/lmr/bx/sc/14.4 X
+.....\kern-1.44008
+.....\hbox(9.8064+0.0)x10.6272, shifted 3.1968, direction TLT
+......\TU/lmr/bx/sc/14.4 Ǝ
+.....\kern-1.87206
+.....\TU/lmr/bx/sc/14.4 L
+.....\kern-5.184
+.....\vbox(9.7488+0.0)x8.69, glue set 2.7688fil, direction TLT
+......\hbox(6.98+0.0)x8.69, direction TLT
+.......\TU/lmr/bx/n/10 A
+......\glue 0.0 plus 1.0fil minus 1.0fil
+.....\kern-2.1599
+.....\TU/lmr/bx/sc/14.4 T
+.....\kern-2.4005
+.....\hbox(9.8064+0.0)x10.6272, shifted 3.1968, direction TLT
+......\TU/lmr/bx/sc/14.4 E
+.....\kern-1.79999
+.....\TU/lmr/bx/sc/14.4 X
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\pdfliteral page <lua data reference ...>
+....\pdfliteral page <lua data reference ...>
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {71}\NoCaseChange {\HoLogo@tag@actualtext {first}{XeLaTeX}{\hologoRobust {XeLaTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{XeLaTeX}{\HologoRobust {XeLaTeX}}}}{\thepage }{section.71}\protected@file@percent }}
+....\penalty 10000
+....\glue 9.913 plus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 1.9732
+....\hbox(6.83+2.155)x345.0, glue set 307.32608fil, direction TLT
+.....\localpar
+......\localinterlinepenalty=0
+......\localbrokenpenalty=0
+......\localleftbox=null
+......\localrightbox=null
+.....\pdfliteral page <lua data reference ...>
+.....\pdfliteral page <lua data reference ...>
+.....\TU/lmr/m/n/10 X
+.....\kern-1.00006
+.....\hbox(6.8+0.0)x6.81, shifted 2.155, direction TLT
+......\TU/lmr/m/n/10 Ǝ
+.....\kern-1.30005
+.....\TU/lmr/m/n/10 L
+.....\kern-3.6
+.....\vbox(6.77+0.0)x5.901, glue set 1.779fil, direction TLT
+......\hbox(4.991+0.0)x5.901, direction TLT
+.......\TU/lmr/m/n/7 A
+......\glue 0.0 plus 1.0fil minus 1.0fil
+.....\kern-1.49994
+.....\TU/lmr/m/n/10 T
+.....\kern-1.66702
+.....\hbox(6.8+0.0)x6.81, shifted 2.155, direction TLT
+......\TU/lmr/m/n/10 E
+.....\kern-1.25
+.....\TU/lmr/m/n/10 X
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\penalty -300
+....\glue 15.08499 plus 4.31 minus 0.86198
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 5.9666
+....\hbox(9.8784+3.1968)x345.0, glue set 200.68903fil, direction TLT
+.....\localpar
+......\localinterlinepenalty=0
+......\localbrokenpenalty=0
+......\localleftbox=null
+......\localrightbox=null
+.....\hbox(9.73439+0.1728)x30.61438, direction TLT
+......\glue 0.0
+......\hbox(0.0+0.0)x0.0, direction TLT
+.......\kern0.0
+.......\penalty 10000
+.......\hbox(0.0+0.0)x0.0, direction TLT
+........\hbox(0.0+0.0)x0.0, shifted -18.0, direction TLT
+.........\pdfliteral page <lua data reference ...>
+.........\pdfliteral page <lua data reference ...>
+.........\pdfdest name{section.72} xyz
+.........\pdfdest name{section.72} xyz
+.........\penalty 10000
+.......\kern0.0
+.......\glue 0.0 plus 1.0fil minus 1.0fil
+......\TU/lmr/bx/sc/14.4 7
+......\TU/lmr/bx/sc/14.4 2
 ......\TU/lmr/bx/sc/14.4  
 ......\glue 9.0
 .....\pdfliteral page <lua data reference ...>
@@ -7404,7 +7502,7 @@ Completed box being shipped out [8]
 .....\glue(\rightskip) 0.0
 ....\pdfliteral page <lua data reference ...>
 ....\pdfliteral page <lua data reference ...>
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {71}\NoCaseChange {\HoLogo@tag@actualtext {first}{XeTeX}{\hologoRobust {XeTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{XeTeX}{\HologoRobust {XeTeX}}}}{\thepage }{section.71}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {72}\NoCaseChange {\HoLogo@tag@actualtext {first}{XeTeX}{\hologoRobust {XeTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{XeTeX}{\HologoRobust {XeTeX}}}}{\thepage }{section.72}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
@@ -7458,8 +7556,8 @@ Completed box being shipped out [8]
 <<latex-list-css.html>><<latex-align-css.html>> (hologo-test-tagging.aux)
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Package tagpdf Info: Finalizing the tagging structure:
-(tagpdf)             Writing out ~572 structure objects
-(tagpdf)             with ~655 'MC' leaf nodes.
+(tagpdf)             Writing out ~580 structure objects
+(tagpdf)             with ~664 'MC' leaf nodes.
 (tagpdf)             Be patient if there are lots of objects!
 Package tagpdf Info: writing ParentTree
 Package tagpdf Info: writing IDTree

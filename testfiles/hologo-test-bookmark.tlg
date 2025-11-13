@@ -119,13 +119,14 @@ Completed box being shipped out [1]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 5.62001
-....\hbox(9.87999+3.19998)x345.0, glue set 190.8063fil
+....\hbox(9.87999+3.19998)x345.0, glue set 192.42639fil
 .....\hbox(9.27998+0.0)x24.29997
 ......\glue 0.0
 ......\OT1/cmr/bx/sc/14.4 2
 ......\glue 16.19998
-.....\hbox(9.87999+0.0)x12.23334
+.....\hbox(9.87999+0.0)x11.4233
 ......\OT1/cmr/bx/sc/14.4 A
+......\kern -0.81004
 .....\hbox(6.39998+2.79999)x8.18994
 ......\OT1/cmr/bx/sc/14.4 p
 ......\kern -0.81004
@@ -144,8 +145,9 @@ Completed box being shipped out [1]
 .....\OT1/cmr/bx/sc/14.4 X
 .....\OT1/cmr/bx/sc/14.4 ,
 .....\glue 5.4 plus 3.37498 minus 1.43999
-.....\hbox(9.87999+0.0)x12.23334
+.....\hbox(9.87999+0.0)x11.4233
 ......\OT1/cmr/bx/sc/14.4 A
+......\kern -0.81004
 .....\hbox(6.39998+2.79999)x8.18994
 ......\OT1/cmr/bx/sc/14.4 p
 ......\kern -0.81004
@@ -172,9 +174,10 @@ Completed box being shipped out [1]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 1.9667
-....\hbox(6.83331+2.15277)x345.0, glue set 306.78076fil
-.....\hbox(6.83331+0.0)x7.50002
+....\hbox(6.83331+2.15277)x345.0, glue set 307.28079fil
+.....\hbox(6.83331+0.0)x6.99998
 ......\OT1/cmr/m/n/10 A
+......\kern -0.50003
 .....\hbox(4.30554+1.94444)x5.05554
 ......\OT1/cmr/m/n/10 p
 ......\kern -0.50003
@@ -1014,11 +1017,72 @@ Completed box being shipped out [2]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 5.96724
-....\hbox(9.87999+3.19998)x345.0, glue set 198.85957fil
+....\hbox(9.87999+2.79999)x345.0, glue set 127.06676fil
 .....\hbox(9.27998+0.0)x32.39996
 ......\glue 0.0
 ......\OT1/cmr/bx/sc/14.4 1
 ......\OT1/cmr/bx/sc/14.4 4
+......\glue 16.19998
+.....\hbox(9.87999+0.0)x87.81665
+......\OT1/cmr/bx/sc/14.4 D
+......\kern-0.45001
+......\OT1/cmr/bx/sc/14.4 V
+......\OT1/cmr/bx/sc/14.4 I
+......\OT1/cmr/bx/sc/14.4 P
+......\OT1/cmr/bx/sc/14.4 D
+......\OT1/cmr/bx/sc/14.4 F
+......\OT1/cmr/bx/sc/14.4 M
+......\OT1/cmr/bx/sc/14.4 x
+.....\OT1/cmr/bx/sc/14.4 ,
+.....\glue 5.4 plus 3.37498 minus 1.43999
+.....\hbox(9.87999+0.0)x87.81665
+......\OT1/cmr/bx/sc/14.4 D
+......\kern-0.45001
+......\OT1/cmr/bx/sc/14.4 V
+......\OT1/cmr/bx/sc/14.4 I
+......\OT1/cmr/bx/sc/14.4 P
+......\OT1/cmr/bx/sc/14.4 D
+......\OT1/cmr/bx/sc/14.4 F
+......\OT1/cmr/bx/sc/14.4 M
+......\OT1/cmr/bx/sc/14.4 x
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\write3{\protect \BOOKMARK [1][-]{section.14}{\376\377\000D\000V\000I\000P\000D\000F\000M\000x\000,\000\040\000D\000V\000I\000P\000D\000F\000M\000x}{}% 14}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {14}\NoCaseChange {\HoLogo@tag@actualtext {first}{DVIPDFMx}{\hologoRobust {DVIPDFMx}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{DVIPDFMx}{\HologoRobust {DVIPDFMx}}}}{\thepage }{section.14}\protected@file@percent }}
+....\penalty 10000
+....\glue 9.90276 plus 0.86108
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 2.3667
+....\hbox(6.83331+0.0)x345.0, glue set 291.111fil
+.....\hbox(6.83331+0.0)x53.889
+......\OT1/cmr/m/n/10 D
+......\kern-0.27779
+......\OT1/cmr/m/n/10 V
+......\OT1/cmr/m/n/10 I
+......\OT1/cmr/m/n/10 P
+......\OT1/cmr/m/n/10 D
+......\OT1/cmr/m/n/10 F
+......\OT1/cmr/m/n/10 M
+......\OT1/cmr/m/n/10 x
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\penalty -300
+....\glue 15.0694 plus 4.30554 minus 0.86108
+....\pdfdest name{section.15} xyz
+....\penalty 10000
+....\glue -15.0694 plus -4.30554 minus -0.86108
+....\glue 15.0694 plus 4.30554 minus 0.86108
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 8.12001
+....\hbox(9.87999+3.19998)x345.0, glue set 198.85957fil
+.....\hbox(9.27998+0.0)x32.39996
+......\glue 0.0
+......\OT1/cmr/bx/sc/14.4 1
+......\OT1/cmr/bx/sc/14.4 5
 ......\glue 16.19998
 .....\hbox(6.39998+0.0)x20.89165
 ......\OT1/cmr/bx/sc/14.4 e
@@ -1043,8 +1107,8 @@ Completed box being shipped out [2]
 .....\penalty 10000
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
-....\write3{\protect \BOOKMARK [1][-]{section.14}{\376\377\000e\000m\000T\000e\000X\000,\000\040\000E\000m\000T\000e\000X}{}% 14}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {14}\NoCaseChange {\HoLogo@tag@actualtext {first}{emTeX}{\hologoRobust {emTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{emTeX}{\HologoRobust {emTeX}}}}{\thepage }{section.14}\protected@file@percent }}
+....\write3{\protect \BOOKMARK [1][-]{section.15}{\376\377\000e\000m\000T\000e\000X\000,\000\040\000E\000m\000T\000e\000X}{}% 15}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {15}\NoCaseChange {\HoLogo@tag@actualtext {first}{emTeX}{\hologoRobust {emTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{emTeX}{\HologoRobust {emTeX}}}}{\thepage }{section.15}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.90276 plus 0.86108
 ....\glue(\parskip) 0.0 plus 1.0
@@ -1065,7 +1129,7 @@ Completed box being shipped out [2]
 .....\glue(\rightskip) 0.0
 ....\penalty -300
 ....\glue 15.0694 plus 4.30554 minus 0.86108
-....\pdfdest name{section.15} xyz
+....\pdfdest name{section.16} xyz
 ....\penalty 10000
 ....\glue -15.0694 plus -4.30554 minus -0.86108
 ....\glue 15.0694 plus 4.30554 minus 0.86108
@@ -1076,7 +1140,7 @@ Completed box being shipped out [2]
 .....\hbox(9.27998+0.0)x32.39996
 ......\glue 0.0
 ......\OT1/cmr/bx/sc/14.4 1
-......\OT1/cmr/bx/sc/14.4 5
+......\OT1/cmr/bx/sc/14.4 6
 ......\glue 16.19998
 .....\hbox(9.87999+3.19998)x41.07272
 ......\mathon
@@ -1107,8 +1171,8 @@ Completed box being shipped out [2]
 .....\penalty 10000
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
-....\write3{\protect \BOOKMARK [1][-]{section.15}{\376\377\003\265\000-\000T\000e\000X\000,\000\040\003\265\000-\000T\000e\000X}{}% 15}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {15}\NoCaseChange {\HoLogo@tag@actualtext {first}{eTeX}{\hologoRobust {eTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{eTeX}{\HologoRobust {eTeX}}}}{\thepage }{section.15}\protected@file@percent }}
+....\write3{\protect \BOOKMARK [1][-]{section.16}{\376\377\003\265\000-\000T\000e\000X\000,\000\040\003\265\000-\000T\000e\000X}{}% 16}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {16}\NoCaseChange {\HoLogo@tag@actualtext {first}{eTeX}{\hologoRobust {eTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{eTeX}{\HologoRobust {eTeX}}}}{\thepage }{section.16}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.90276 plus 0.86108
 ....\glue(\parskip) 0.0 plus 1.0
@@ -1132,7 +1196,7 @@ Completed box being shipped out [2]
 .....\glue(\rightskip) 0.0
 ....\penalty -300
 ....\glue 15.0694 plus 4.30554 minus 0.86108
-....\pdfdest name{section.16} xyz
+....\pdfdest name{section.17} xyz
 ....\penalty 10000
 ....\glue -15.0694 plus -4.30554 minus -0.86108
 ....\glue 15.0694 plus 4.30554 minus 0.86108
@@ -1143,7 +1207,7 @@ Completed box being shipped out [2]
 .....\hbox(9.27998+0.0)x32.39996
 ......\glue 0.0
 ......\OT1/cmr/bx/sc/14.4 1
-......\OT1/cmr/bx/sc/14.4 6
+......\OT1/cmr/bx/sc/14.4 7
 ......\glue 16.19998
 .....\hbox(6.4+2.15999)x15.93501
 ......\mathon
@@ -1180,8 +1244,8 @@ Completed box being shipped out [2]
 .....\penalty 10000
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
-....\write3{\protect \BOOKMARK [1][-]{section.16}{\376\377\003\265\003\247\000T\000e\000X\000,\000\040\003\265\003\247\000T\000e\000X}{}% 16}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {16}\NoCaseChange {\HoLogo@tag@actualtext {first}{ExTeX}{\hologoRobust {ExTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{ExTeX}{\HologoRobust {ExTeX}}}}{\thepage }{section.16}\protected@file@percent }}
+....\write3{\protect \BOOKMARK [1][-]{section.17}{\376\377\003\265\003\247\000T\000e\000X\000,\000\040\003\265\003\247\000T\000e\000X}{}% 17}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {17}\NoCaseChange {\HoLogo@tag@actualtext {first}{ExTeX}{\hologoRobust {ExTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{ExTeX}{\HologoRobust {ExTeX}}}}{\thepage }{section.17}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.90276 plus 0.86108
 ....\glue(\parskip) 0.0 plus 1.0
@@ -1208,7 +1272,7 @@ Completed box being shipped out [2]
 .....\glue(\rightskip) 0.0
 ....\penalty -300
 ....\glue 15.0694 plus 4.30554 minus 0.86108
-....\pdfdest name{section.17} xyz
+....\pdfdest name{section.18} xyz
 ....\penalty 10000
 ....\glue -15.0694 plus -4.30554 minus -0.86108
 ....\glue 15.0694 plus 4.30554 minus 0.86108
@@ -1219,7 +1283,7 @@ Completed box being shipped out [2]
 .....\hbox(9.27998+0.0)x32.39996
 ......\glue 0.0
 ......\OT1/cmr/bx/sc/14.4 1
-......\OT1/cmr/bx/sc/14.4 7
+......\OT1/cmr/bx/sc/14.4 8
 ......\glue 16.19998
 .....\hbox(9.99998+0.0)x29.54164
 ......\OT1/cmr/bx/sc/14.4 H
@@ -1288,8 +1352,8 @@ Completed box being shipped out [2]
 .....\penalty 10000
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
-....\write3{\protect \BOOKMARK [1][-]{section.17}{\376\377\000H\000\340\000n\000\040\000T\000h\036\277\000\040\000T\000h\000\340\000n\000h\000,\000\040\000H\000\340\000n\000\040\000T\000h\036\277\000\040\000T\000h\000\340\000n\000h}{}% 17}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {17}\NoCaseChange {\HoLogo@tag@actualtext {first}{HanTheThanh}{\hologoRobust {HanTheThanh}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{HanTheThanh}{\HologoRobust {HanTheThanh}}}}{\thepage }{section.17}\protected@file@percent }}
+....\write3{\protect \BOOKMARK [1][-]{section.18}{\376\377\000H\000\340\000n\000\040\000T\000h\036\277\000\040\000T\000h\000\340\000n\000h\000,\000\040\000H\000\340\000n\000\040\000T\000h\036\277\000\040\000T\000h\000\340\000n\000h}{}% 18}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {18}\NoCaseChange {\HoLogo@tag@actualtext {first}{HanTheThanh}{\hologoRobust {HanTheThanh}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{HanTheThanh}{\HologoRobust {HanTheThanh}}}}{\thepage }{section.18}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.90276 plus 0.86108
 ....\glue(\parskip) 0.0 plus 1.0
@@ -1332,7 +1396,7 @@ Completed box being shipped out [2]
 .....\glue(\rightskip) 0.0
 ....\penalty -300
 ....\glue 15.0694 plus 4.30554 minus 0.86108
-....\pdfdest name{section.18} xyz
+....\pdfdest name{section.19} xyz
 ....\penalty 10000
 ....\glue -15.0694 plus -4.30554 minus -0.86108
 ....\glue 15.0694 plus 4.30554 minus 0.86108
@@ -1343,7 +1407,7 @@ Completed box being shipped out [2]
 .....\hbox(9.27998+0.0)x32.39996
 ......\glue 0.0
 ......\OT1/cmr/bx/sc/14.4 1
-......\OT1/cmr/bx/sc/14.4 8
+......\OT1/cmr/bx/sc/14.4 9
 ......\glue 16.19998
 .....\hbox(9.99998+3.19998)x47.40771
 ......\OT1/cmr/bx/sc/14.4 i
@@ -1370,8 +1434,8 @@ Completed box being shipped out [2]
 .....\penalty 10000
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
-....\write3{\protect \BOOKMARK [1][-]{section.18}{\376\377\000i\000n\000i\000T\000e\000X\000,\000\040\000I\000n\000i\000T\000e\000X}{}% 18}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {18}\NoCaseChange {\HoLogo@tag@actualtext {first}{iniTeX}{\hologoRobust {iniTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{iniTeX}{\HologoRobust {iniTeX}}}}{\thepage }{section.18}\protected@file@percent }}
+....\write3{\protect \BOOKMARK [1][-]{section.19}{\376\377\000i\000n\000i\000T\000e\000X\000,\000\040\000I\000n\000i\000T\000e\000X}{}% 19}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {19}\NoCaseChange {\HoLogo@tag@actualtext {first}{iniTeX}{\hologoRobust {iniTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{iniTeX}{\HologoRobust {iniTeX}}}}{\thepage }{section.19}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.90276 plus 0.86108
 ....\glue(\parskip) 0.0 plus 1.0
@@ -1393,7 +1457,7 @@ Completed box being shipped out [2]
 .....\glue(\rightskip) 0.0
 ....\penalty -300
 ....\glue 15.0694 plus 4.30554 minus 0.86108
-....\pdfdest name{section.19} xyz
+....\pdfdest name{section.20} xyz
 ....\penalty 10000
 ....\glue -15.0694 plus -4.30554 minus -0.86108
 ....\glue 15.0694 plus 4.30554 minus 0.86108
@@ -1403,8 +1467,8 @@ Completed box being shipped out [2]
 ....\hbox(9.99998+2.79999)x345.0, glue set 109.33073fil
 .....\hbox(9.27998+0.0)x32.39996
 ......\glue 0.0
-......\OT1/cmr/bx/sc/14.4 1
-......\OT1/cmr/bx/sc/14.4 9
+......\OT1/cmr/bx/sc/14.4 2
+......\OT1/cmr/bx/sc/14.4 0
 ......\glue 16.19998
 .....\hbox(9.99998+0.0)x49.45631
 ......\OT1/cmss/bx/n/14.4 K
@@ -1449,8 +1513,8 @@ Completed box being shipped out [2]
 .....\penalty 10000
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
-....\write3{\protect \BOOKMARK [1][-]{section.19}{\376\377\000K\000O\000M\000A\000-\000S\000c\000r\000i\000p\000t\000,\000\040\000K\000O\000M\000A\000-\000S\000c\000r\000i\000p\000t}{}% 19}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {19}\NoCaseChange {\HoLogo@tag@actualtext {first}{KOMAScript}{\hologoRobust {KOMAScript}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{KOMAScript}{\HologoRobust {KOMAScript}}}}{\thepage }{section.19}\protected@file@percent }}
+....\write3{\protect \BOOKMARK [1][-]{section.20}{\376\377\000K\000O\000M\000A\000-\000S\000c\000r\000i\000p\000t\000,\000\040\000K\000O\000M\000A\000-\000S\000c\000r\000i\000p\000t}{}% 20}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {20}\NoCaseChange {\HoLogo@tag@actualtext {first}{KOMAScript}{\hologoRobust {KOMAScript}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{KOMAScript}{\HologoRobust {KOMAScript}}}}{\thepage }{section.20}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.90276 plus 0.86108
 ....\glue(\parskip) 0.0 plus 1.0
@@ -1479,56 +1543,7 @@ Completed box being shipped out [2]
 .....\penalty 10000
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
-....\penalty -300
-....\glue 15.0694 plus 4.30554 minus 0.86108
-....\pdfdest name{section.20} xyz
-....\penalty 10000
-....\glue -15.0694 plus -4.30554 minus -0.86108
-....\glue 15.0694 plus 4.30554 minus 0.86108
-....\glue(\parskip) 0.0 plus 1.0
-....\glue(\parskip) 0.0
-....\glue(\baselineskip) 6.17557
-....\hbox(9.87999+2.79999)x345.0, glue set 277.50862fil
-.....\hbox(9.27998+0.0)x32.39996
-......\glue 0.0
-......\OT1/cmr/bx/sc/14.4 2
-......\OT1/cmr/bx/sc/14.4 0
-......\glue 16.19998
-.....\OT1/cmr/bx/sc/14.4 L
-.....\kern -5.832
-.....\vbox(9.87999+0.0)x8.6944, glue set 3.01888fil
-......\hbox(6.86111+0.0)x8.6944
-.......\OT1/cmr/bx/n/10 A
-......\glue 0.0 plus 1.0fil minus 1.0fil
-.....\OT1/cmr/bx/sc/14.4 ,
-.....\glue 5.4 plus 3.37498 minus 1.43999
-.....\OT1/cmr/bx/sc/14.4 L
-.....\kern -5.832
-.....\vbox(9.87999+0.0)x8.6944, glue set 3.01888fil
-......\hbox(6.86111+0.0)x8.6944
-.......\OT1/cmr/bx/n/10 A
-......\glue 0.0 plus 1.0fil minus 1.0fil
-.....\penalty 10000
-.....\glue(\parfillskip) 0.0 plus 1.0fil
-.....\glue(\rightskip) 0.0
-....\write3{\protect \BOOKMARK [1][-]{section.20}{\376\377\000L\000a\000,\000\040\000L\000a}{}% 20}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {20}\NoCaseChange {\HoLogo@tag@actualtext {first}{La}{\hologoRobust {La}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{La}{\HologoRobust {La}}}}{\thepage }{section.20}\protected@file@percent }}
-....\penalty 10000
-....\glue 9.90276 plus 0.86108
-....\glue(\parskip) 0.0 plus 1.0
-....\glue(\parskip) 0.0
-....\glue(\baselineskip) 2.3667
-....\hbox(6.83331+0.0)x345.0, glue set 336.44717fil
-.....\OT1/cmr/m/n/10 L
-.....\kern -3.6
-.....\vbox(6.83331+0.0)x5.90282, glue set 2.04997fil
-......\hbox(4.78334+0.0)x5.90282
-.......\OT1/cmr/m/n/7 A
-......\glue 0.0 plus 1.0fil minus 1.0fil
-.....\penalty 10000
-.....\glue(\parfillskip) 0.0 plus 1.0fil
-.....\glue(\rightskip) 0.0
-....\glue 0.0
+....\glue -1.94444
 ....\glue 0.0 plus 0.0001fil
 ...\glue(\baselineskip) 23.55556
 ...\hbox(6.44444+0.0)x345.0
@@ -1566,11 +1581,60 @@ Completed box being shipped out [3]
 ...\vbox(550.0+0.0)x345.0, glue set >20000.0fil
 ....\pdfdest name{section.21} xyz
 ....\glue(\topskip) 0.12001
-....\hbox(9.87999+3.19998)x345.0, glue set 223.55287fil
+....\hbox(9.87999+2.79999)x345.0, glue set 277.50862fil
 .....\hbox(9.27998+0.0)x32.39996
 ......\glue 0.0
 ......\OT1/cmr/bx/sc/14.4 2
 ......\OT1/cmr/bx/sc/14.4 1
+......\glue 16.19998
+.....\OT1/cmr/bx/sc/14.4 L
+.....\kern -5.832
+.....\vbox(9.87999+0.0)x8.6944, glue set 3.01888fil
+......\hbox(6.86111+0.0)x8.6944
+.......\OT1/cmr/bx/n/10 A
+......\glue 0.0 plus 1.0fil minus 1.0fil
+.....\OT1/cmr/bx/sc/14.4 ,
+.....\glue 5.4 plus 3.37498 minus 1.43999
+.....\OT1/cmr/bx/sc/14.4 L
+.....\kern -5.832
+.....\vbox(9.87999+0.0)x8.6944, glue set 3.01888fil
+......\hbox(6.86111+0.0)x8.6944
+.......\OT1/cmr/bx/n/10 A
+......\glue 0.0 plus 1.0fil minus 1.0fil
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\write3{\protect \BOOKMARK [1][-]{section.21}{\376\377\000L\000a\000,\000\040\000L\000a}{}% 21}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {21}\NoCaseChange {\HoLogo@tag@actualtext {first}{La}{\hologoRobust {La}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{La}{\HologoRobust {La}}}}{\thepage }{section.21}\protected@file@percent }}
+....\penalty 10000
+....\glue 9.90276 plus 0.86108
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 2.3667
+....\hbox(6.83331+0.0)x345.0, glue set 336.44717fil
+.....\OT1/cmr/m/n/10 L
+.....\kern -3.6
+.....\vbox(6.83331+0.0)x5.90282, glue set 2.04997fil
+......\hbox(4.78334+0.0)x5.90282
+.......\OT1/cmr/m/n/7 A
+......\glue 0.0 plus 1.0fil minus 1.0fil
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\penalty -300
+....\glue 15.0694 plus 4.30554 minus 0.86108
+....\pdfdest name{section.22} xyz
+....\penalty 10000
+....\glue -15.0694 plus -4.30554 minus -0.86108
+....\glue 15.0694 plus 4.30554 minus 0.86108
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 8.12001
+....\hbox(9.87999+3.19998)x345.0, glue set 223.55287fil
+.....\hbox(9.27998+0.0)x32.39996
+......\glue 0.0
+......\OT1/cmr/bx/sc/14.4 2
+......\OT1/cmr/bx/sc/14.4 2
 ......\glue 16.19998
 .....\OT1/cmr/bx/sc/14.4 L
 .....\kern -5.832
@@ -1603,8 +1667,8 @@ Completed box being shipped out [3]
 .....\penalty 10000
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
-....\write3{\protect \BOOKMARK [1][-]{section.21}{\376\377\000L\000a\000T\000e\000X\000,\000\040\000L\000a\000T\000e\000X}{}% 21}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {21}\NoCaseChange {\HoLogo@tag@actualtext {first}{LaTeX}{\hologoRobust {LaTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{LaTeX}{\HologoRobust {LaTeX}}}}{\thepage }{section.21}\protected@file@percent }}
+....\write3{\protect \BOOKMARK [1][-]{section.22}{\376\377\000L\000a\000T\000e\000X\000,\000\040\000L\000a\000T\000e\000X}{}% 22}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {22}\NoCaseChange {\HoLogo@tag@actualtext {first}{LaTeX}{\hologoRobust {LaTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{LaTeX}{\HologoRobust {LaTeX}}}}{\thepage }{section.22}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.90276 plus 0.86108
 ....\glue(\parskip) 0.0 plus 1.0
@@ -1629,7 +1693,7 @@ Completed box being shipped out [3]
 .....\glue(\rightskip) 0.0
 ....\penalty -300
 ....\glue 15.0694 plus 4.30554 minus 0.86108
-....\pdfdest name{section.22} xyz
+....\pdfdest name{section.23} xyz
 ....\penalty 10000
 ....\glue -15.0694 plus -4.30554 minus -0.86108
 ....\glue 15.0694 plus 4.30554 minus 0.86108
@@ -1640,7 +1704,7 @@ Completed box being shipped out [3]
 .....\hbox(9.27998+0.0)x32.39996
 ......\glue 0.0
 ......\OT1/cmr/bx/sc/14.4 2
-......\OT1/cmr/bx/sc/14.4 2
+......\OT1/cmr/bx/sc/14.4 3
 ......\glue 16.19998
 .....\OT1/cmr/bx/sc/14.4 L
 .....\kern -5.832
@@ -1687,8 +1751,8 @@ Completed box being shipped out [3]
 .....\penalty 10000
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
-....\write3{\protect \BOOKMARK [1][-]{section.22}{\376\377\000L\000a\000T\000e\000X\0002\003\265\000,\000\040\000L\000a\000T\000e\000X\0002\003\265}{}% 22}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {22}\NoCaseChange {\HoLogo@tag@actualtext {first}{LaTeX2e}{\hologoRobust {LaTeX2e}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{LaTeX2e}{\HologoRobust {LaTeX2e}}}}{\thepage }{section.22}\protected@file@percent }}
+....\write3{\protect \BOOKMARK [1][-]{section.23}{\376\377\000L\000a\000T\000e\000X\0002\003\265\000,\000\040\000L\000a\000T\000e\000X\0002\003\265}{}% 23}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {23}\NoCaseChange {\HoLogo@tag@actualtext {first}{LaTeX2e}{\hologoRobust {LaTeX2e}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{LaTeX2e}{\HologoRobust {LaTeX2e}}}}{\thepage }{section.23}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.90276 plus 0.86108
 ....\glue(\parskip) 0.0 plus 1.0
@@ -1720,7 +1784,7 @@ Completed box being shipped out [3]
 .....\glue(\rightskip) 0.0
 ....\penalty -300
 ....\glue 15.0694 plus 4.30554 minus 0.86108
-....\pdfdest name{section.23} xyz
+....\pdfdest name{section.24} xyz
 ....\penalty 10000
 ....\glue -15.0694 plus -4.30554 minus -0.86108
 ....\glue 15.0694 plus 4.30554 minus 0.86108
@@ -1731,7 +1795,7 @@ Completed box being shipped out [3]
 .....\hbox(9.27998+0.0)x32.39996
 ......\glue 0.0
 ......\OT1/cmr/bx/sc/14.4 2
-......\OT1/cmr/bx/sc/14.4 3
+......\OT1/cmr/bx/sc/14.4 4
 ......\glue 16.19998
 .....\OT1/cmr/bx/sc/14.4 L
 .....\kern -5.832
@@ -1766,8 +1830,8 @@ Completed box being shipped out [3]
 .....\penalty 10000
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
-....\write3{\protect \BOOKMARK [1][-]{section.23}{\376\377\000L\000a\000T\000e\000X\0003\000,\000\040\000L\000a\000T\000e\000X\0003}{}% 23}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {23}\NoCaseChange {\HoLogo@tag@actualtext {first}{LaTeX3}{\hologoRobust {LaTeX3}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{LaTeX3}{\HologoRobust {LaTeX3}}}}{\thepage }{section.23}\protected@file@percent }}
+....\write3{\protect \BOOKMARK [1][-]{section.24}{\376\377\000L\000a\000T\000e\000X\0003\000,\000\040\000L\000a\000T\000e\000X\0003}{}% 24}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {24}\NoCaseChange {\HoLogo@tag@actualtext {first}{LaTeX3}{\hologoRobust {LaTeX3}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{LaTeX3}{\HologoRobust {LaTeX3}}}}{\thepage }{section.24}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.90276 plus 0.86108
 ....\glue(\parskip) 0.0 plus 1.0
@@ -1793,7 +1857,7 @@ Completed box being shipped out [3]
 .....\glue(\rightskip) 0.0
 ....\penalty -300
 ....\glue 15.0694 plus 4.30554 minus 0.86108
-....\pdfdest name{section.24} xyz
+....\pdfdest name{section.25} xyz
 ....\penalty 10000
 ....\glue -15.0694 plus -4.30554 minus -0.86108
 ....\glue 15.0694 plus 4.30554 minus 0.86108
@@ -1804,7 +1868,7 @@ Completed box being shipped out [3]
 .....\hbox(9.27998+0.0)x32.39996
 ......\glue 0.0
 ......\OT1/cmr/bx/sc/14.4 2
-......\OT1/cmr/bx/sc/14.4 4
+......\OT1/cmr/bx/sc/14.4 5
 ......\glue 16.19998
 .....\OT1/cmr/bx/sc/14.4 L
 .....\kern -5.832
@@ -1851,8 +1915,8 @@ Completed box being shipped out [3]
 .....\penalty 10000
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
-....\write3{\protect \BOOKMARK [1][-]{section.24}{\376\377\000L\000a\000T\000e\000X\0002\003\265\000,\000\040\000L\000a\000T\000e\000X\0002\003\265}{}% 24}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {24}\NoCaseChange {\HoLogo@tag@actualtext {first}{LaTeXe}{\hologoRobust {LaTeXe}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{LaTeXe}{\HologoRobust {LaTeXe}}}}{\thepage }{section.24}\protected@file@percent }}
+....\write3{\protect \BOOKMARK [1][-]{section.25}{\376\377\000L\000a\000T\000e\000X\0002\003\265\000,\000\040\000L\000a\000T\000e\000X\0002\003\265}{}% 25}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {25}\NoCaseChange {\HoLogo@tag@actualtext {first}{LaTeXe}{\hologoRobust {LaTeXe}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{LaTeXe}{\HologoRobust {LaTeXe}}}}{\thepage }{section.25}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.90276 plus 0.86108
 ....\glue(\parskip) 0.0 plus 1.0
@@ -1884,7 +1948,7 @@ Completed box being shipped out [3]
 .....\glue(\rightskip) 0.0
 ....\penalty -300
 ....\glue 15.0694 plus 4.30554 minus 0.86108
-....\pdfdest name{section.25} xyz
+....\pdfdest name{section.26} xyz
 ....\penalty 10000
 ....\glue -15.0694 plus -4.30554 minus -0.86108
 ....\glue 15.0694 plus 4.30554 minus 0.86108
@@ -1895,7 +1959,7 @@ Completed box being shipped out [3]
 .....\hbox(9.27998+0.0)x32.39996
 ......\glue 0.0
 ......\OT1/cmr/bx/sc/14.4 2
-......\OT1/cmr/bx/sc/14.4 5
+......\OT1/cmr/bx/sc/14.4 6
 ......\glue 16.19998
 .....\hbox(9.99998+3.19998)x53.89021
 ......\OT1/cmr/bx/sc/14.4 L
@@ -1934,8 +1998,8 @@ Completed box being shipped out [3]
 .....\penalty 10000
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
-....\write3{\protect \BOOKMARK [1][-]{section.25}{\376\377\000L\000a\000T\000e\000X\000M\000L\000,\000\040\000L\000a\000T\000e\000X\000M\000L}{}% 25}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {25}\NoCaseChange {\HoLogo@tag@actualtext {first}{LaTeXML}{\hologoRobust {LaTeXML}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{LaTeXML}{\HologoRobust {LaTeXML}}}}{\thepage }{section.25}\protected@file@percent }}
+....\write3{\protect \BOOKMARK [1][-]{section.26}{\376\377\000L\000a\000T\000e\000X\000M\000L\000,\000\040\000L\000a\000T\000e\000X\000M\000L}{}% 26}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {26}\NoCaseChange {\HoLogo@tag@actualtext {first}{LaTeXML}{\hologoRobust {LaTeXML}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{LaTeXML}{\HologoRobust {LaTeXML}}}}{\thepage }{section.26}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.90276 plus 0.86108
 ....\glue(\parskip) 0.0 plus 1.0
@@ -1963,7 +2027,7 @@ Completed box being shipped out [3]
 .....\glue(\rightskip) 0.0
 ....\penalty -300
 ....\glue 15.0694 plus 4.30554 minus 0.86108
-....\pdfdest name{section.26} xyz
+....\pdfdest name{section.27} xyz
 ....\penalty 10000
 ....\glue -15.0694 plus -4.30554 minus -0.86108
 ....\glue 15.0694 plus 4.30554 minus 0.86108
@@ -1974,7 +2038,7 @@ Completed box being shipped out [3]
 .....\hbox(9.27998+0.0)x32.39996
 ......\glue 0.0
 ......\OT1/cmr/bx/sc/14.4 2
-......\OT1/cmr/bx/sc/14.4 6
+......\OT1/cmr/bx/sc/14.4 7
 ......\glue 16.19998
 .....\OT1/cmr/bx/sc/14.4 (
 .....\kern -2.42989
@@ -2015,8 +2079,8 @@ Completed box being shipped out [3]
 .....\penalty 10000
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
-....\write3{\protect \BOOKMARK [1][-]{section.26}{\376\377\000\050\000L\000a\000\051\000T\000e\000X\000,\000\040\000\050\000L\000a\000\051\000T\000e\000X}{}% 26}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {26}\NoCaseChange {\HoLogo@tag@actualtext {first}{LaTeXTeX}{\hologoRobust {LaTeXTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{LaTeXTeX}{\HologoRobust {LaTeXTeX}}}}{\thepage }{section.26}\protected@file@percent }}
+....\write3{\protect \BOOKMARK [1][-]{section.27}{\376\377\000\050\000L\000a\000\051\000T\000e\000X\000,\000\040\000\050\000L\000a\000\051\000T\000e\000X}{}% 27}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {27}\NoCaseChange {\HoLogo@tag@actualtext {first}{LaTeXTeX}{\hologoRobust {LaTeXTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{LaTeXTeX}{\HologoRobust {LaTeXTeX}}}}{\thepage }{section.27}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.90276 plus 0.86108
 ....\glue(\parskip) 0.0 plus 1.0
@@ -2045,7 +2109,7 @@ Completed box being shipped out [3]
 .....\glue(\rightskip) 0.0
 ....\penalty -300
 ....\glue 15.0694 plus 4.30554 minus 0.86108
-....\pdfdest name{section.27} xyz
+....\pdfdest name{section.28} xyz
 ....\penalty 10000
 ....\glue -15.0694 plus -4.30554 minus -0.86108
 ....\glue 15.0694 plus 4.30554 minus 0.86108
@@ -2056,7 +2120,7 @@ Completed box being shipped out [3]
 .....\hbox(9.27998+0.0)x32.39996
 ......\glue 0.0
 ......\OT1/cmr/bx/sc/14.4 2
-......\OT1/cmr/bx/sc/14.4 7
+......\OT1/cmr/bx/sc/14.4 8
 ......\glue 16.19998
 .....\hbox(9.87999+3.19998)x66.18188
 ......\OT1/cmr/bx/sc/14.4 L
@@ -2097,8 +2161,8 @@ Completed box being shipped out [3]
 .....\penalty 10000
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
-....\write3{\protect \BOOKMARK [1][-]{section.27}{\376\377\000L\000u\000a\000L\000a\000T\000e\000X\000,\000\040\000L\000u\000a\000L\000a\000T\000e\000X}{}% 27}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {27}\NoCaseChange {\HoLogo@tag@actualtext {first}{LuaLaTeX}{\hologoRobust {LuaLaTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{LuaLaTeX}{\HologoRobust {LuaLaTeX}}}}{\thepage }{section.27}\protected@file@percent }}
+....\write3{\protect \BOOKMARK [1][-]{section.28}{\376\377\000L\000u\000a\000L\000a\000T\000e\000X\000,\000\040\000L\000u\000a\000L\000a\000T\000e\000X}{}% 28}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {28}\NoCaseChange {\HoLogo@tag@actualtext {first}{LuaLaTeX}{\hologoRobust {LuaLaTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{LuaLaTeX}{\HologoRobust {LuaLaTeX}}}}{\thepage }{section.28}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.90276 plus 0.86108
 ....\glue(\parskip) 0.0 plus 1.0
@@ -2127,7 +2191,7 @@ Completed box being shipped out [3]
 .....\glue(\rightskip) 0.0
 ....\penalty -300
 ....\glue 15.0694 plus 4.30554 minus 0.86108
-....\pdfdest name{section.28} xyz
+....\pdfdest name{section.29} xyz
 ....\penalty 10000
 ....\glue -15.0694 plus -4.30554 minus -0.86108
 ....\glue 15.0694 plus 4.30554 minus 0.86108
@@ -2138,7 +2202,7 @@ Completed box being shipped out [3]
 .....\hbox(9.27998+0.0)x32.39996
 ......\glue 0.0
 ......\OT1/cmr/bx/sc/14.4 2
-......\OT1/cmr/bx/sc/14.4 8
+......\OT1/cmr/bx/sc/14.4 9
 ......\glue 16.19998
 .....\hbox(9.87999+3.19998)x54.66605
 ......\OT1/cmr/bx/sc/14.4 L
@@ -2167,8 +2231,8 @@ Completed box being shipped out [3]
 .....\penalty 10000
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
-....\write3{\protect \BOOKMARK [1][-]{section.28}{\376\377\000L\000u\000a\000T\000e\000X\000,\000\040\000L\000u\000a\000T\000e\000X}{}% 28}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {28}\NoCaseChange {\HoLogo@tag@actualtext {first}{LuaTeX}{\hologoRobust {LuaTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{LuaTeX}{\HologoRobust {LuaTeX}}}}{\thepage }{section.28}\protected@file@percent }}
+....\write3{\protect \BOOKMARK [1][-]{section.29}{\376\377\000L\000u\000a\000T\000e\000X\000,\000\040\000L\000u\000a\000T\000e\000X}{}% 29}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {29}\NoCaseChange {\HoLogo@tag@actualtext {first}{LuaTeX}{\hologoRobust {LuaTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{LuaTeX}{\HologoRobust {LuaTeX}}}}{\thepage }{section.29}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.90276 plus 0.86108
 ....\glue(\parskip) 0.0 plus 1.0
@@ -2191,7 +2255,7 @@ Completed box being shipped out [3]
 .....\glue(\rightskip) 0.0
 ....\penalty -300
 ....\glue 15.0694 plus 4.30554 minus 0.86108
-....\pdfdest name{section.29} xyz
+....\pdfdest name{section.30} xyz
 ....\penalty 10000
 ....\glue -15.0694 plus -4.30554 minus -0.86108
 ....\glue 15.0694 plus 4.30554 minus 0.86108
@@ -2201,8 +2265,8 @@ Completed box being shipped out [3]
 ....\hbox(9.87999+4.04999)x345.0, glue set 243.75117fil
 .....\hbox(9.27998+0.0)x32.39996
 ......\glue 0.0
-......\OT1/cmr/bx/sc/14.4 2
-......\OT1/cmr/bx/sc/14.4 9
+......\OT1/cmr/bx/sc/14.4 3
+......\OT1/cmr/bx/sc/14.4 0
 ......\glue 16.19998
 .....\OT1/cmr/bx/sc/14.4 L
 .....\kern -2.70056
@@ -2221,8 +2285,8 @@ Completed box being shipped out [3]
 .....\penalty 10000
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
-....\write3{\protect \BOOKMARK [1][-]{section.29}{\376\377\000L\000y\000X\000,\000\040\000L\000y\000X}{}% 29}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {29}\NoCaseChange {\HoLogo@tag@actualtext {first}{LyX}{\hologoRobust {LyX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{LyX}{\HologoRobust {LyX}}}}{\thepage }{section.29}\protected@file@percent }}
+....\write3{\protect \BOOKMARK [1][-]{section.30}{\376\377\000L\000y\000X\000,\000\040\000L\000y\000X}{}% 30}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {30}\NoCaseChange {\HoLogo@tag@actualtext {first}{LyX}{\hologoRobust {LyX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{LyX}{\HologoRobust {LyX}}}}{\thepage }{section.30}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.90276 plus 0.86108
 ....\glue(\parskip) 0.0 plus 1.0
@@ -2238,74 +2302,7 @@ Completed box being shipped out [3]
 .....\penalty 10000
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
-....\penalty -300
-....\glue 15.0694 plus 4.30554 minus 0.86108
-....\pdfdest name{section.30} xyz
-....\penalty 10000
-....\glue -15.0694 plus -4.30554 minus -0.86108
-....\glue 15.0694 plus 4.30554 minus 0.86108
-....\glue(\parskip) 0.0 plus 1.0
-....\glue(\parskip) 0.0
-....\glue(\baselineskip) 6.22002
-....\hbox(9.27998+2.79999)x345.0, glue set 147.47072fil
-.....\hbox(9.27998+0.0)x32.39996
-......\glue 0.0
-......\OT1/cmr/bx/sc/14.4 3
-......\OT1/cmr/bx/sc/14.4 0
-......\glue 16.19998
-.....\hbox(8.64+0.0)x39.9833
-......\U/logo/b/n/14.4 M
-......\U/logo/b/n/14.4 E
-......\U/logo/b/n/14.4 T
-......\kern-0.33601
-......\U/logo/b/n/14.4 A
-.....\hbox(8.64+0.0)x37.63136
-......\U/logo/b/n/14.4 F
-......\kern-0.672
-......\U/logo/b/n/14.4 O
-......\U/logo/b/n/14.4 N
-......\U/logo/b/n/14.4 T
-.....\OT1/cmr/bx/sc/14.4 ,
-.....\glue 5.4 plus 3.37498 minus 1.43999
-.....\hbox(8.64+0.0)x39.9833
-......\U/logo/b/n/14.4 M
-......\U/logo/b/n/14.4 E
-......\U/logo/b/n/14.4 T
-......\kern-0.33601
-......\U/logo/b/n/14.4 A
-.....\hbox(8.64+0.0)x37.63136
-......\U/logo/b/n/14.4 F
-......\kern-0.672
-......\U/logo/b/n/14.4 O
-......\U/logo/b/n/14.4 N
-......\U/logo/b/n/14.4 T
-.....\penalty 10000
-.....\glue(\parfillskip) 0.0 plus 1.0fil
-.....\glue(\rightskip) 0.0
-....\write3{\protect \BOOKMARK [1][-]{section.30}{\376\377\000M\000E\000T\000A\000F\000O\000N\000T\000,\000\040\000M\000E\000T\000A\000F\000O\000N\000T}{}% 30}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {30}\NoCaseChange {\HoLogo@tag@actualtext {first}{METAFONT}{\hologoRobust {METAFONT}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{METAFONT}{\HologoRobust {METAFONT}}}}{\thepage }{section.30}\protected@file@percent }}
-....\penalty 10000
-....\glue 9.90276 plus 0.86108
-....\glue(\parskip) 0.0 plus 1.0
-....\glue(\parskip) 0.0
-....\glue(\baselineskip) 3.20001
-....\hbox(6.0+0.0)x345.0, glue set 293.66687fil
-.....\hbox(6.0+0.0)x26.44434
-......\U/logo/m/n/10 M
-......\U/logo/m/n/10 E
-......\U/logo/m/n/10 T
-......\kern-0.22223
-......\U/logo/m/n/10 A
-.....\hbox(6.0+0.0)x24.8888
-......\U/logo/m/n/10 F
-......\kern-0.44444
-......\U/logo/m/n/10 O
-......\U/logo/m/n/10 N
-......\U/logo/m/n/10 T
-.....\penalty 10000
-.....\glue(\parfillskip) 0.0 plus 1.0fil
-.....\glue(\rightskip) 0.0
-....\glue 0.0
+....\glue -2.5
 ....\glue 0.0 plus 0.0001fil
 ...\glue(\baselineskip) 23.55556
 ...\hbox(6.44444+0.0)x345.0
@@ -2339,12 +2336,79 @@ Completed box being shipped out [4]
 ...\glue(\lineskip) 0.0
 ...\vbox(550.0+0.0)x345.0, glue set >20000.0fil
 ....\pdfdest name{section.31} xyz
-....\glue(\topskip) 0.12001
-....\hbox(9.87999+2.79999)x345.0, glue set 175.16689fil
+....\glue(\topskip) 0.72002
+....\hbox(9.27998+2.79999)x345.0, glue set 147.47072fil
 .....\hbox(9.27998+0.0)x32.39996
 ......\glue 0.0
 ......\OT1/cmr/bx/sc/14.4 3
 ......\OT1/cmr/bx/sc/14.4 1
+......\glue 16.19998
+.....\hbox(8.64+0.0)x39.9833
+......\U/logo/b/n/14.4 M
+......\U/logo/b/n/14.4 E
+......\U/logo/b/n/14.4 T
+......\kern-0.33601
+......\U/logo/b/n/14.4 A
+.....\hbox(8.64+0.0)x37.63136
+......\U/logo/b/n/14.4 F
+......\kern-0.672
+......\U/logo/b/n/14.4 O
+......\U/logo/b/n/14.4 N
+......\U/logo/b/n/14.4 T
+.....\OT1/cmr/bx/sc/14.4 ,
+.....\glue 5.4 plus 3.37498 minus 1.43999
+.....\hbox(8.64+0.0)x39.9833
+......\U/logo/b/n/14.4 M
+......\U/logo/b/n/14.4 E
+......\U/logo/b/n/14.4 T
+......\kern-0.33601
+......\U/logo/b/n/14.4 A
+.....\hbox(8.64+0.0)x37.63136
+......\U/logo/b/n/14.4 F
+......\kern-0.672
+......\U/logo/b/n/14.4 O
+......\U/logo/b/n/14.4 N
+......\U/logo/b/n/14.4 T
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\write3{\protect \BOOKMARK [1][-]{section.31}{\376\377\000M\000E\000T\000A\000F\000O\000N\000T\000,\000\040\000M\000E\000T\000A\000F\000O\000N\000T}{}% 31}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {31}\NoCaseChange {\HoLogo@tag@actualtext {first}{METAFONT}{\hologoRobust {METAFONT}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{METAFONT}{\HologoRobust {METAFONT}}}}{\thepage }{section.31}\protected@file@percent }}
+....\penalty 10000
+....\glue 9.90276 plus 0.86108
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 3.20001
+....\hbox(6.0+0.0)x345.0, glue set 293.66687fil
+.....\hbox(6.0+0.0)x26.44434
+......\U/logo/m/n/10 M
+......\U/logo/m/n/10 E
+......\U/logo/m/n/10 T
+......\kern-0.22223
+......\U/logo/m/n/10 A
+.....\hbox(6.0+0.0)x24.8888
+......\U/logo/m/n/10 F
+......\kern-0.44444
+......\U/logo/m/n/10 O
+......\U/logo/m/n/10 N
+......\U/logo/m/n/10 T
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\penalty -300
+....\glue 15.0694 plus 4.30554 minus 0.86108
+....\pdfdest name{section.32} xyz
+....\penalty 10000
+....\glue -15.0694 plus -4.30554 minus -0.86108
+....\glue 15.0694 plus 4.30554 minus 0.86108
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 8.12001
+....\hbox(9.87999+2.79999)x345.0, glue set 175.16689fil
+.....\hbox(9.27998+0.0)x32.39996
+......\glue 0.0
+......\OT1/cmr/bx/sc/14.4 3
+......\OT1/cmr/bx/sc/14.4 2
 ......\glue 16.19998
 .....\hbox(9.87999+0.0)x36.9333
 ......\OT1/cmr/bx/sc/14.4 M
@@ -2371,8 +2435,8 @@ Completed box being shipped out [4]
 .....\penalty 10000
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
-....\write3{\protect \BOOKMARK [1][-]{section.31}{\376\377\000M\000e\000t\000a\000F\000u\000n\000,\000\040\000M\000e\000t\000a\000F\000u\000n}{}% 31}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {31}\NoCaseChange {\HoLogo@tag@actualtext {first}{MetaFun}{\hologoRobust {MetaFun}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{MetaFun}{\HologoRobust {MetaFun}}}}{\thepage }{section.31}\protected@file@percent }}
+....\write3{\protect \BOOKMARK [1][-]{section.32}{\376\377\000M\000e\000t\000a\000F\000u\000n\000,\000\040\000M\000e\000t\000a\000F\000u\000n}{}% 32}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {32}\NoCaseChange {\HoLogo@tag@actualtext {first}{MetaFun}{\hologoRobust {MetaFun}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{MetaFun}{\HologoRobust {MetaFun}}}}{\thepage }{section.32}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.90276 plus 0.86108
 ....\glue(\parskip) 0.0 plus 1.0
@@ -2394,7 +2458,7 @@ Completed box being shipped out [4]
 .....\glue(\rightskip) 0.0
 ....\penalty -300
 ....\glue 15.0694 plus 4.30554 minus 0.86108
-....\pdfdest name{section.32} xyz
+....\pdfdest name{section.33} xyz
 ....\penalty 10000
 ....\glue -15.0694 plus -4.30554 minus -0.86108
 ....\glue 15.0694 plus 4.30554 minus 0.86108
@@ -2405,7 +2469,7 @@ Completed box being shipped out [4]
 .....\hbox(9.27998+0.0)x32.39996
 ......\glue 0.0
 ......\OT1/cmr/bx/sc/14.4 3
-......\OT1/cmr/bx/sc/14.4 2
+......\OT1/cmr/bx/sc/14.4 3
 ......\glue 16.19998
 .....\hbox(8.64+0.0)x39.9833
 ......\U/logo/b/n/14.4 M
@@ -2436,8 +2500,8 @@ Completed box being shipped out [4]
 .....\penalty 10000
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
-....\write3{\protect \BOOKMARK [1][-]{section.32}{\376\377\000M\000E\000T\000A\000P\000O\000S\000T\000,\000\040\000M\000E\000T\000A\000P\000O\000S\000T}{}% 32}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {32}\NoCaseChange {\HoLogo@tag@actualtext {first}{METAPOST}{\hologoRobust {METAPOST}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{METAPOST}{\HologoRobust {METAPOST}}}}{\thepage }{section.32}\protected@file@percent }}
+....\write3{\protect \BOOKMARK [1][-]{section.33}{\376\377\000M\000E\000T\000A\000P\000O\000S\000T\000,\000\040\000M\000E\000T\000A\000P\000O\000S\000T}{}% 33}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {33}\NoCaseChange {\HoLogo@tag@actualtext {first}{METAPOST}{\hologoRobust {METAPOST}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{METAPOST}{\HologoRobust {METAPOST}}}}{\thepage }{section.33}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.90276 plus 0.86108
 ....\glue(\parskip) 0.0 plus 1.0
@@ -2461,7 +2525,7 @@ Completed box being shipped out [4]
 .....\glue(\rightskip) 0.0
 ....\penalty -300
 ....\glue 15.0694 plus 4.30554 minus 0.86108
-....\pdfdest name{section.33} xyz
+....\pdfdest name{section.34} xyz
 ....\penalty 10000
 ....\glue -15.0694 plus -4.30554 minus -0.86108
 ....\glue 15.0694 plus 4.30554 minus 0.86108
@@ -2472,7 +2536,7 @@ Completed box being shipped out [4]
 .....\hbox(9.27998+0.0)x32.39996
 ......\glue 0.0
 ......\OT1/cmr/bx/sc/14.4 3
-......\OT1/cmr/bx/sc/14.4 3
+......\OT1/cmr/bx/sc/14.4 4
 ......\glue 16.19998
 .....\hbox(9.87999+0.0)x36.9333
 ......\OT1/cmr/bx/sc/14.4 M
@@ -2501,8 +2565,8 @@ Completed box being shipped out [4]
 .....\penalty 10000
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
-....\write3{\protect \BOOKMARK [1][-]{section.33}{\376\377\000M\000e\000t\000a\000P\000o\000s\000t\000,\000\040\000M\000e\000t\000a\000P\000o\000s\000t}{}% 33}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {33}\NoCaseChange {\HoLogo@tag@actualtext {first}{MetaPost}{\hologoRobust {MetaPost}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{MetaPost}{\HologoRobust {MetaPost}}}}{\thepage }{section.33}\protected@file@percent }}
+....\write3{\protect \BOOKMARK [1][-]{section.34}{\376\377\000M\000e\000t\000a\000P\000o\000s\000t\000,\000\040\000M\000e\000t\000a\000P\000o\000s\000t}{}% 34}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {34}\NoCaseChange {\HoLogo@tag@actualtext {first}{MetaPost}{\hologoRobust {MetaPost}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{MetaPost}{\HologoRobust {MetaPost}}}}{\thepage }{section.34}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.90276 plus 0.86108
 ....\glue(\parskip) 0.0 plus 1.0
@@ -2525,7 +2589,7 @@ Completed box being shipped out [4]
 .....\glue(\rightskip) 0.0
 ....\penalty -300
 ....\glue 15.0694 plus 4.30554 minus 0.86108
-....\pdfdest name{section.34} xyz
+....\pdfdest name{section.35} xyz
 ....\penalty 10000
 ....\glue -15.0694 plus -4.30554 minus -0.86108
 ....\glue 15.0694 plus 4.30554 minus 0.86108
@@ -2536,7 +2600,7 @@ Completed box being shipped out [4]
 .....\hbox(9.27998+0.0)x32.39996
 ......\glue 0.0
 ......\OT1/cmr/bx/sc/14.4 3
-......\OT1/cmr/bx/sc/14.4 4
+......\OT1/cmr/bx/sc/14.4 5
 ......\glue 16.19998
 .....\hbox(9.99998+0.0)x32.54999
 ......\OT1/cmr/bx/sc/14.4 M
@@ -2563,8 +2627,8 @@ Completed box being shipped out [4]
 .....\penalty 10000
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
-....\write3{\protect \BOOKMARK [1][-]{section.34}{\376\377\000M\000i\000K\000T\000e\000X\000,\000\040\000M\000i\000K\000T\000e\000X}{}% 34}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {34}\NoCaseChange {\HoLogo@tag@actualtext {first}{MiKTeX}{\hologoRobust {MiKTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{MiKTeX}{\HologoRobust {MiKTeX}}}}{\thepage }{section.34}\protected@file@percent }}
+....\write3{\protect \BOOKMARK [1][-]{section.35}{\376\377\000M\000i\000K\000T\000e\000X\000,\000\040\000M\000i\000K\000T\000e\000X}{}% 35}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {35}\NoCaseChange {\HoLogo@tag@actualtext {first}{MiKTeX}{\hologoRobust {MiKTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{MiKTeX}{\HologoRobust {MiKTeX}}}}{\thepage }{section.35}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.90276 plus 0.86108
 ....\glue(\parskip) 0.0 plus 1.0
@@ -2586,7 +2650,7 @@ Completed box being shipped out [4]
 .....\glue(\rightskip) 0.0
 ....\penalty -300
 ....\glue 15.0694 plus 4.30554 minus 0.86108
-....\pdfdest name{section.35} xyz
+....\pdfdest name{section.36} xyz
 ....\penalty 10000
 ....\glue -15.0694 plus -4.30554 minus -0.86108
 ....\glue 15.0694 plus 4.30554 minus 0.86108
@@ -2597,7 +2661,7 @@ Completed box being shipped out [4]
 .....\hbox(9.27998+0.0)x32.39996
 ......\glue 0.0
 ......\OT1/cmr/bx/sc/14.4 3
-......\OT1/cmr/bx/sc/14.4 5
+......\OT1/cmr/bx/sc/14.4 6
 ......\glue 16.19998
 .....\OMS/cmsy/m/n/14.4 N
 .....\kern 2.12198
@@ -2622,8 +2686,8 @@ Completed box being shipped out [4]
 .....\penalty 10000
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
-....\write3{\protect \BOOKMARK [1][-]{section.35}{\376\377\000N\000T\000S\000,\000\040\000N\000T\000S}{}% 35}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {35}\NoCaseChange {\HoLogo@tag@actualtext {first}{NTS}{\hologoRobust {NTS}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{NTS}{\HologoRobust {NTS}}}}{\thepage }{section.35}\protected@file@percent }}
+....\write3{\protect \BOOKMARK [1][-]{section.36}{\376\377\000N\000T\000S\000,\000\040\000N\000T\000S}{}% 36}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {36}\NoCaseChange {\HoLogo@tag@actualtext {first}{NTS}{\hologoRobust {NTS}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{NTS}{\HologoRobust {NTS}}}}{\thepage }{section.36}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.90276 plus 0.86108
 ....\glue(\parskip) 0.0 plus 1.0
@@ -2644,7 +2708,7 @@ Completed box being shipped out [4]
 .....\glue(\rightskip) 0.0
 ....\penalty -300
 ....\glue 15.0694 plus 4.30554 minus 0.86108
-....\pdfdest name{section.36} xyz
+....\pdfdest name{section.37} xyz
 ....\penalty 10000
 ....\glue -15.0694 plus -4.30554 minus -0.86108
 ....\glue 15.0694 plus 4.30554 minus 0.86108
@@ -2655,7 +2719,7 @@ Completed box being shipped out [4]
 .....\hbox(9.27998+0.0)x32.39996
 ......\glue 0.0
 ......\OT1/cmr/bx/sc/14.4 3
-......\OT1/cmr/bx/sc/14.4 6
+......\OT1/cmr/bx/sc/14.4 7
 ......\glue 16.19998
 .....\hbox(9.87999+0.0)x44.91663
 ......\OT1/cmr/bx/sc/14.4 O
@@ -2672,8 +2736,8 @@ Completed box being shipped out [4]
 .....\penalty 10000
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
-....\write3{\protect \BOOKMARK [1][-]{section.36}{\376\377\000O\000z\000M\000F\000,\000\040\000O\000z\000M\000F}{}% 36}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {36}\NoCaseChange {\HoLogo@tag@actualtext {first}{OzMF}{\hologoRobust {OzMF}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{OzMF}{\HologoRobust {OzMF}}}}{\thepage }{section.36}\protected@file@percent }}
+....\write3{\protect \BOOKMARK [1][-]{section.37}{\376\377\000O\000z\000M\000F\000,\000\040\000O\000z\000M\000F}{}% 37}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {37}\NoCaseChange {\HoLogo@tag@actualtext {first}{OzMF}{\hologoRobust {OzMF}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{OzMF}{\HologoRobust {OzMF}}}}{\thepage }{section.37}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.90276 plus 0.86108
 ....\glue(\parskip) 0.0 plus 1.0
@@ -2690,7 +2754,7 @@ Completed box being shipped out [4]
 .....\glue(\rightskip) 0.0
 ....\penalty -300
 ....\glue 15.0694 plus 4.30554 minus 0.86108
-....\pdfdest name{section.37} xyz
+....\pdfdest name{section.38} xyz
 ....\penalty 10000
 ....\glue -15.0694 plus -4.30554 minus -0.86108
 ....\glue 15.0694 plus 4.30554 minus 0.86108
@@ -2701,7 +2765,7 @@ Completed box being shipped out [4]
 .....\hbox(9.27998+0.0)x32.39996
 ......\glue 0.0
 ......\OT1/cmr/bx/sc/14.4 3
-......\OT1/cmr/bx/sc/14.4 7
+......\OT1/cmr/bx/sc/14.4 8
 ......\glue 16.19998
 .....\hbox(9.87999+0.0)x45.79997
 ......\OT1/cmr/bx/sc/14.4 O
@@ -2718,8 +2782,8 @@ Completed box being shipped out [4]
 .....\penalty 10000
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
-....\write3{\protect \BOOKMARK [1][-]{section.37}{\376\377\000O\000z\000M\000P\000,\000\040\000O\000z\000M\000P}{}% 37}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {37}\NoCaseChange {\HoLogo@tag@actualtext {first}{OzMP}{\hologoRobust {OzMP}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{OzMP}{\HologoRobust {OzMP}}}}{\thepage }{section.37}\protected@file@percent }}
+....\write3{\protect \BOOKMARK [1][-]{section.38}{\376\377\000O\000z\000M\000P\000,\000\040\000O\000z\000M\000P}{}% 38}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {38}\NoCaseChange {\HoLogo@tag@actualtext {first}{OzMP}{\hologoRobust {OzMP}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{OzMP}{\HologoRobust {OzMP}}}}{\thepage }{section.38}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.90276 plus 0.86108
 ....\glue(\parskip) 0.0 plus 1.0
@@ -2736,7 +2800,7 @@ Completed box being shipped out [4]
 .....\glue(\rightskip) 0.0
 ....\penalty -300
 ....\glue 15.0694 plus 4.30554 minus 0.86108
-....\pdfdest name{section.38} xyz
+....\pdfdest name{section.39} xyz
 ....\penalty 10000
 ....\glue -15.0694 plus -4.30554 minus -0.86108
 ....\glue 15.0694 plus 4.30554 minus 0.86108
@@ -2747,7 +2811,7 @@ Completed box being shipped out [4]
 .....\hbox(9.27998+0.0)x32.39996
 ......\glue 0.0
 ......\OT1/cmr/bx/sc/14.4 3
-......\OT1/cmr/bx/sc/14.4 8
+......\OT1/cmr/bx/sc/14.4 9
 ......\glue 16.19998
 .....\OT1/cmr/bx/sc/14.4 O
 .....\kern -0.48598
@@ -2774,8 +2838,8 @@ Completed box being shipped out [4]
 .....\penalty 10000
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
-....\write3{\protect \BOOKMARK [1][-]{section.38}{\376\377\000O\000z\000T\000e\000X\000,\000\040\000O\000z\000T\000e\000X}{}% 38}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {38}\NoCaseChange {\HoLogo@tag@actualtext {first}{OzTeX}{\hologoRobust {OzTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{OzTeX}{\HologoRobust {OzTeX}}}}{\thepage }{section.38}\protected@file@percent }}
+....\write3{\protect \BOOKMARK [1][-]{section.39}{\376\377\000O\000z\000T\000e\000X\000,\000\040\000O\000z\000T\000e\000X}{}% 39}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {39}\NoCaseChange {\HoLogo@tag@actualtext {first}{OzTeX}{\hologoRobust {OzTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{OzTeX}{\HologoRobust {OzTeX}}}}{\thepage }{section.39}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.90276 plus 0.86108
 ....\glue(\parskip) 0.0 plus 1.0
@@ -2797,7 +2861,7 @@ Completed box being shipped out [4]
 .....\glue(\rightskip) 0.0
 ....\penalty -300
 ....\glue 15.0694 plus 4.30554 minus 0.86108
-....\pdfdest name{section.39} xyz
+....\pdfdest name{section.40} xyz
 ....\penalty 10000
 ....\glue -15.0694 plus -4.30554 minus -0.86108
 ....\glue 15.0694 plus 4.30554 minus 0.86108
@@ -2807,8 +2871,8 @@ Completed box being shipped out [4]
 ....\hbox(9.87999+2.79999)x345.0, glue set 203.50017fil
 .....\hbox(9.27998+0.0)x32.39996
 ......\glue 0.0
-......\OT1/cmr/bx/sc/14.4 3
-......\OT1/cmr/bx/sc/14.4 9
+......\OT1/cmr/bx/sc/14.4 4
+......\OT1/cmr/bx/sc/14.4 0
 ......\glue 16.19998
 .....\hbox(9.87999+0.0)x49.59995
 ......\OT1/cmr/bx/sc/14.4 O
@@ -2827,8 +2891,8 @@ Completed box being shipped out [4]
 .....\penalty 10000
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
-....\write3{\protect \BOOKMARK [1][-]{section.39}{\376\377\000O\000z\000T\000t\000H\000,\000\040\000O\000z\000T\000t\000H}{}% 39}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {39}\NoCaseChange {\HoLogo@tag@actualtext {first}{OzTtH}{\hologoRobust {OzTtH}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{OzTtH}{\HologoRobust {OzTtH}}}}{\thepage }{section.39}\protected@file@percent }}
+....\write3{\protect \BOOKMARK [1][-]{section.40}{\376\377\000O\000z\000T\000t\000H\000,\000\040\000O\000z\000T\000t\000H}{}% 40}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {40}\NoCaseChange {\HoLogo@tag@actualtext {first}{OzTtH}{\hologoRobust {OzTtH}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{OzTtH}{\HologoRobust {OzTtH}}}}{\thepage }{section.40}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.90276 plus 0.86108
 ....\glue(\parskip) 0.0 plus 1.0
@@ -2844,65 +2908,7 @@ Completed box being shipped out [4]
 .....\penalty 10000
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
-....\penalty -300
-....\glue 15.0694 plus 4.30554 minus 0.86108
-....\pdfdest name{section.40} xyz
-....\penalty 10000
-....\glue -15.0694 plus -4.30554 minus -0.86108
-....\glue 15.0694 plus 4.30554 minus 0.86108
-....\glue(\parskip) 0.0 plus 1.0
-....\glue(\parskip) 0.0
-....\glue(\baselineskip) 8.12001
-....\hbox(9.87999+3.19998)x345.0, glue set 198.35124fil
-.....\hbox(9.27998+0.0)x32.39996
-......\glue 0.0
-......\OT1/cmr/bx/sc/14.4 4
-......\OT1/cmr/bx/sc/14.4 0
-......\glue 16.19998
-.....\hbox(9.87999+0.0)x22.76665
-......\OT1/cmr/bx/sc/14.4 P
-......\OT1/cmr/bx/sc/14.4 C
-.....\OT1/cmr/bx/sc/14.4 T
-.....\kern -2.70056
-.....\hbox(9.87999+0.0)x10.63333, shifted 3.19998
-......\OT1/cmr/bx/sc/14.4 E
-.....\kern -2.025
-.....\OT1/cmr/bx/sc/14.4 X
-.....\OT1/cmr/bx/sc/14.4 ,
-.....\glue 5.4 plus 3.37498 minus 1.43999
-.....\hbox(9.87999+0.0)x22.76665
-......\OT1/cmr/bx/sc/14.4 P
-......\OT1/cmr/bx/sc/14.4 C
-.....\OT1/cmr/bx/sc/14.4 T
-.....\kern -2.70056
-.....\hbox(9.87999+0.0)x10.63333, shifted 3.19998
-......\OT1/cmr/bx/sc/14.4 E
-.....\kern -2.025
-.....\OT1/cmr/bx/sc/14.4 X
-.....\penalty 10000
-.....\glue(\parfillskip) 0.0 plus 1.0fil
-.....\glue(\rightskip) 0.0
-....\write3{\protect \BOOKMARK [1][-]{section.40}{\376\377\000P\000C\000T\000e\000X\000,\000\040\000P\000C\000T\000e\000X}{}% 40}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {40}\NoCaseChange {\HoLogo@tag@actualtext {first}{PCTeX}{\hologoRobust {PCTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{PCTeX}{\HologoRobust {PCTeX}}}}{\thepage }{section.40}\protected@file@percent }}
-....\penalty 10000
-....\glue 9.90276 plus 0.86108
-....\glue(\parskip) 0.0 plus 1.0
-....\glue(\parskip) 0.0
-....\glue(\baselineskip) 1.9667
-....\hbox(6.83331+2.15277)x345.0, glue set 312.3614fil
-.....\hbox(6.83331+0.0)x14.0278
-......\OT1/cmr/m/n/10 P
-......\OT1/cmr/m/n/10 C
-.....\OT1/cmr/m/n/10 T
-.....\kern -1.66702
-.....\hbox(6.83331+0.0)x6.80557, shifted 2.15277
-......\OT1/cmr/m/n/10 E
-.....\kern -1.25
-.....\OT1/cmr/m/n/10 X
-.....\penalty 10000
-.....\glue(\parfillskip) 0.0 plus 1.0fil
-.....\glue(\rightskip) 0.0
-....\glue -2.15277
+....\glue 0.0
 ....\glue 0.0 plus 0.0001fil
 ...\glue(\baselineskip) 23.55556
 ...\hbox(6.44444+0.0)x345.0
@@ -2936,12 +2942,70 @@ Completed box being shipped out [5]
 ...\glue(\lineskip) 0.0
 ...\vbox(550.0+0.0)x345.0, glue set >20000.0fil
 ....\pdfdest name{section.41} xyz
-....\glue(\topskip) 0.00002
-....\hbox(9.99998+3.19998)x345.0, glue set 195.46793fil
+....\glue(\topskip) 0.12001
+....\hbox(9.87999+3.19998)x345.0, glue set 198.35124fil
 .....\hbox(9.27998+0.0)x32.39996
 ......\glue 0.0
 ......\OT1/cmr/bx/sc/14.4 4
 ......\OT1/cmr/bx/sc/14.4 1
+......\glue 16.19998
+.....\hbox(9.87999+0.0)x22.76665
+......\OT1/cmr/bx/sc/14.4 P
+......\OT1/cmr/bx/sc/14.4 C
+.....\OT1/cmr/bx/sc/14.4 T
+.....\kern -2.70056
+.....\hbox(9.87999+0.0)x10.63333, shifted 3.19998
+......\OT1/cmr/bx/sc/14.4 E
+.....\kern -2.025
+.....\OT1/cmr/bx/sc/14.4 X
+.....\OT1/cmr/bx/sc/14.4 ,
+.....\glue 5.4 plus 3.37498 minus 1.43999
+.....\hbox(9.87999+0.0)x22.76665
+......\OT1/cmr/bx/sc/14.4 P
+......\OT1/cmr/bx/sc/14.4 C
+.....\OT1/cmr/bx/sc/14.4 T
+.....\kern -2.70056
+.....\hbox(9.87999+0.0)x10.63333, shifted 3.19998
+......\OT1/cmr/bx/sc/14.4 E
+.....\kern -2.025
+.....\OT1/cmr/bx/sc/14.4 X
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\write3{\protect \BOOKMARK [1][-]{section.41}{\376\377\000P\000C\000T\000e\000X\000,\000\040\000P\000C\000T\000e\000X}{}% 41}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {41}\NoCaseChange {\HoLogo@tag@actualtext {first}{PCTeX}{\hologoRobust {PCTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{PCTeX}{\HologoRobust {PCTeX}}}}{\thepage }{section.41}\protected@file@percent }}
+....\penalty 10000
+....\glue 9.90276 plus 0.86108
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 1.9667
+....\hbox(6.83331+2.15277)x345.0, glue set 312.3614fil
+.....\hbox(6.83331+0.0)x14.0278
+......\OT1/cmr/m/n/10 P
+......\OT1/cmr/m/n/10 C
+.....\OT1/cmr/m/n/10 T
+.....\kern -1.66702
+.....\hbox(6.83331+0.0)x6.80557, shifted 2.15277
+......\OT1/cmr/m/n/10 E
+.....\kern -1.25
+.....\OT1/cmr/m/n/10 X
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\penalty -300
+....\glue 15.0694 plus 4.30554 minus 0.86108
+....\pdfdest name{section.42} xyz
+....\penalty 10000
+....\glue -15.0694 plus -4.30554 minus -0.86108
+....\glue 15.0694 plus 4.30554 minus 0.86108
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 5.84724
+....\hbox(9.99998+3.19998)x345.0, glue set 195.46793fil
+.....\hbox(9.27998+0.0)x32.39996
+......\glue 0.0
+......\OT1/cmr/bx/sc/14.4 4
+......\OT1/cmr/bx/sc/14.4 2
 ......\glue 16.19998
 .....\hbox(9.99998+3.19998)x52.80772
 ......\OT1/cmr/bx/sc/14.4 p
@@ -2969,8 +3033,8 @@ Completed box being shipped out [5]
 .....\penalty 10000
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
-....\write3{\protect \BOOKMARK [1][-]{section.41}{\376\377\000p\000d\000f\000T\000e\000X\000,\000\040\000P\000d\000f\000T\000e\000X}{}% 41}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {41}\NoCaseChange {\HoLogo@tag@actualtext {first}{pdfTeX}{\hologoRobust {pdfTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{pdfTeX}{\HologoRobust {pdfTeX}}}}{\thepage }{section.41}\protected@file@percent }}
+....\write3{\protect \BOOKMARK [1][-]{section.42}{\376\377\000p\000d\000f\000T\000e\000X\000,\000\040\000P\000d\000f\000T\000e\000X}{}% 42}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {42}\NoCaseChange {\HoLogo@tag@actualtext {first}{pdfTeX}{\hologoRobust {pdfTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{pdfTeX}{\HologoRobust {pdfTeX}}}}{\thepage }{section.42}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.90276 plus 0.86108
 ....\glue(\parskip) 0.0 plus 1.0
@@ -2993,7 +3057,7 @@ Completed box being shipped out [5]
 .....\glue(\rightskip) 0.0
 ....\penalty -300
 ....\glue 15.0694 plus 4.30554 minus 0.86108
-....\pdfdest name{section.42} xyz
+....\pdfdest name{section.43} xyz
 ....\penalty 10000
 ....\glue -15.0694 plus -4.30554 minus -0.86108
 ....\glue 15.0694 plus 4.30554 minus 0.86108
@@ -3004,7 +3068,7 @@ Completed box being shipped out [5]
 .....\hbox(9.27998+0.0)x32.39996
 ......\glue 0.0
 ......\OT1/cmr/bx/sc/14.4 4
-......\OT1/cmr/bx/sc/14.4 2
+......\OT1/cmr/bx/sc/14.4 3
 ......\glue 16.19998
 .....\hbox(9.99998+3.19998)x62.97356
 ......\OT1/cmr/bx/sc/14.4 p
@@ -3046,8 +3110,8 @@ Completed box being shipped out [5]
 .....\penalty 10000
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
-....\write3{\protect \BOOKMARK [1][-]{section.42}{\376\377\000p\000d\000f\000L\000a\000T\000e\000X\000,\000\040\000P\000d\000f\000L\000a\000T\000e\000X}{}% 42}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {42}\NoCaseChange {\HoLogo@tag@actualtext {first}{pdfLaTeX}{\hologoRobust {pdfLaTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{pdfLaTeX}{\HologoRobust {pdfLaTeX}}}}{\thepage }{section.42}\protected@file@percent }}
+....\write3{\protect \BOOKMARK [1][-]{section.43}{\376\377\000p\000d\000f\000L\000a\000T\000e\000X\000,\000\040\000P\000d\000f\000L\000a\000T\000e\000X}{}% 43}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {43}\NoCaseChange {\HoLogo@tag@actualtext {first}{pdfLaTeX}{\hologoRobust {pdfLaTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{pdfLaTeX}{\HologoRobust {pdfLaTeX}}}}{\thepage }{section.43}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.90276 plus 0.86108
 ....\glue(\parskip) 0.0 plus 1.0
@@ -3077,7 +3141,7 @@ Completed box being shipped out [5]
 .....\glue(\rightskip) 0.0
 ....\penalty -300
 ....\glue 15.0694 plus 4.30554 minus 0.86108
-....\pdfdest name{section.43} xyz
+....\pdfdest name{section.44} xyz
 ....\penalty 10000
 ....\glue -15.0694 plus -4.30554 minus -0.86108
 ....\glue 15.0694 plus 4.30554 minus 0.86108
@@ -3088,7 +3152,7 @@ Completed box being shipped out [5]
 .....\hbox(9.27998+0.0)x32.39996
 ......\glue 0.0
 ......\OT1/cmr/bx/sc/14.4 4
-......\OT1/cmr/bx/sc/14.4 3
+......\OT1/cmr/bx/sc/14.4 4
 ......\glue 16.19998
 .....\OT1/cmr/bx/sc/14.4 P
 .....\kern -1.94391
@@ -3107,8 +3171,8 @@ Completed box being shipped out [5]
 .....\penalty 10000
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
-....\write3{\protect \BOOKMARK [1][-]{section.43}{\376\377\000P\000i\000C\000,\000\040\000P\000i\000C}{}% 43}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {43}\NoCaseChange {\HoLogo@tag@actualtext {first}{PiC}{\hologoRobust {PiC}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{PiC}{\HologoRobust {PiC}}}}{\thepage }{section.43}\protected@file@percent }}
+....\write3{\protect \BOOKMARK [1][-]{section.44}{\376\377\000P\000i\000C\000,\000\040\000P\000i\000C}{}% 44}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {44}\NoCaseChange {\HoLogo@tag@actualtext {first}{PiC}{\hologoRobust {PiC}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{PiC}{\HologoRobust {PiC}}}}{\thepage }{section.44}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.90276 plus 0.86108
 ....\glue(\parskip) 0.0 plus 1.0
@@ -3126,7 +3190,7 @@ Completed box being shipped out [5]
 .....\glue(\rightskip) 0.0
 ....\penalty -300
 ....\glue 15.0694 plus 4.30554 minus 0.86108
-....\pdfdest name{section.44} xyz
+....\pdfdest name{section.45} xyz
 ....\penalty 10000
 ....\glue -15.0694 plus -4.30554 minus -0.86108
 ....\glue 15.0694 plus 4.30554 minus 0.86108
@@ -3137,7 +3201,7 @@ Completed box being shipped out [5]
 .....\hbox(9.27998+0.0)x32.39996
 ......\glue 0.0
 ......\OT1/cmr/bx/sc/14.4 4
-......\OT1/cmr/bx/sc/14.4 4
+......\OT1/cmr/bx/sc/14.4 5
 ......\glue 16.19998
 .....\OT1/cmr/bx/sc/14.4 P
 .....\kern -1.94391
@@ -3170,8 +3234,8 @@ Completed box being shipped out [5]
 .....\penalty 10000
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
-....\write3{\protect \BOOKMARK [1][-]{section.44}{\376\377\000P\000i\000C\000T\000e\000X\000,\000\040\000P\000i\000C\000T\000e\000X}{}% 44}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {44}\NoCaseChange {\HoLogo@tag@actualtext {first}{PiCTeX}{\hologoRobust {PiCTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{PiCTeX}{\HologoRobust {PiCTeX}}}}{\thepage }{section.44}\protected@file@percent }}
+....\write3{\protect \BOOKMARK [1][-]{section.45}{\376\377\000P\000i\000C\000T\000e\000X\000,\000\040\000P\000i\000C\000T\000e\000X}{}% 45}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {45}\NoCaseChange {\HoLogo@tag@actualtext {first}{PiCTeX}{\hologoRobust {PiCTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{PiCTeX}{\HologoRobust {PiCTeX}}}}{\thepage }{section.45}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.90276 plus 0.86108
 ....\glue(\parskip) 0.0 plus 1.0
@@ -3185,79 +3249,6 @@ Completed box being shipped out [5]
 .....\kern -0.74997
 .....\OT1/cmr/m/n/10 C
 .....\kern -1.1
-.....\OT1/cmr/m/n/10 T
-.....\kern -1.66702
-.....\hbox(6.83331+0.0)x6.80557, shifted 2.15277
-......\OT1/cmr/m/n/10 E
-.....\kern -1.25
-.....\OT1/cmr/m/n/10 X
-.....\penalty 10000
-.....\glue(\parfillskip) 0.0 plus 1.0fil
-.....\glue(\rightskip) 0.0
-....\penalty -300
-....\glue 15.0694 plus 4.30554 minus 0.86108
-....\pdfdest name{section.45} xyz
-....\penalty 10000
-....\glue -15.0694 plus -4.30554 minus -0.86108
-....\glue 15.0694 plus 4.30554 minus 0.86108
-....\glue(\parskip) 0.0 plus 1.0
-....\glue(\parskip) 0.0
-....\glue(\baselineskip) 5.84724
-....\hbox(9.99998+3.19998)x345.0, glue set 161.26802fil
-.....\hbox(9.27998+0.0)x32.39996
-......\glue 0.0
-......\OT1/cmr/bx/sc/14.4 4
-......\OT1/cmr/bx/sc/14.4 5
-......\glue 16.19998
-.....\hbox(9.99998+2.79999)x34.87492
-......\OT1/cmr/bx/sc/14.4 p
-......\OT1/cmr/bx/sc/14.4 l
-......\OT1/cmr/bx/sc/14.4 a
-......\OT1/cmr/bx/sc/14.4 i
-......\OT1/cmr/bx/sc/14.4 n
-.....\penalty 10000
-.....\glue 5.4 plus 2.7 minus 1.79999
-.....\OT1/cmr/bx/sc/14.4 T
-.....\kern -2.70056
-.....\hbox(9.87999+0.0)x10.63333, shifted 3.19998
-......\OT1/cmr/bx/sc/14.4 E
-.....\kern -2.025
-.....\OT1/cmr/bx/sc/14.4 X
-.....\OT1/cmr/bx/sc/14.4 ,
-.....\glue 5.4 plus 3.37498 minus 1.43999
-.....\hbox(9.99998+0.0)x36.9416
-......\OT1/cmr/bx/sc/14.4 P
-......\OT1/cmr/bx/sc/14.4 l
-......\OT1/cmr/bx/sc/14.4 a
-......\OT1/cmr/bx/sc/14.4 i
-......\OT1/cmr/bx/sc/14.4 n
-.....\penalty 10000
-.....\glue 5.4 plus 2.7 minus 1.79999
-.....\OT1/cmr/bx/sc/14.4 T
-.....\kern -2.70056
-.....\hbox(9.87999+0.0)x10.63333, shifted 3.19998
-......\OT1/cmr/bx/sc/14.4 E
-.....\kern -2.025
-.....\OT1/cmr/bx/sc/14.4 X
-.....\penalty 10000
-.....\glue(\parfillskip) 0.0 plus 1.0fil
-.....\glue(\rightskip) 0.0
-....\write3{\protect \BOOKMARK [1][-]{section.45}{\376\377\000p\000l\000a\000i\000n\000\040\000T\000e\000X\000,\000\040\000P\000l\000a\000i\000n\000\040\000T\000e\000X}{}% 45}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {45}\NoCaseChange {\HoLogo@tag@actualtext {first}{plainTeX}{\hologoRobust {plainTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{plainTeX}{\HologoRobust {plainTeX}}}}{\thepage }{section.45}\protected@file@percent }}
-....\penalty 10000
-....\glue 9.90276 plus 0.86108
-....\glue(\parskip) 0.0 plus 1.0
-....\glue(\parskip) 0.0
-....\glue(\baselineskip) 1.85558
-....\hbox(6.94444+2.15277)x345.0, glue set 301.38914fil
-.....\hbox(6.94444+1.94444)x21.66673
-......\OT1/cmr/m/n/10 p
-......\OT1/cmr/m/n/10 l
-......\OT1/cmr/m/n/10 a
-......\OT1/cmr/m/n/10 i
-......\OT1/cmr/m/n/10 n
-.....\penalty 10000
-.....\glue 3.33333 plus 1.66666 minus 1.11111
 .....\OT1/cmr/m/n/10 T
 .....\kern -1.66702
 .....\hbox(6.83331+0.0)x6.80557, shifted 2.15277
@@ -3361,6 +3352,79 @@ Completed box being shipped out [5]
 ......\OT1/cmr/bx/sc/14.4 a
 ......\OT1/cmr/bx/sc/14.4 i
 ......\OT1/cmr/bx/sc/14.4 n
+.....\penalty 10000
+.....\glue 5.4 plus 2.7 minus 1.79999
+.....\OT1/cmr/bx/sc/14.4 T
+.....\kern -2.70056
+.....\hbox(9.87999+0.0)x10.63333, shifted 3.19998
+......\OT1/cmr/bx/sc/14.4 E
+.....\kern -2.025
+.....\OT1/cmr/bx/sc/14.4 X
+.....\OT1/cmr/bx/sc/14.4 ,
+.....\glue 5.4 plus 3.37498 minus 1.43999
+.....\hbox(9.99998+0.0)x36.9416
+......\OT1/cmr/bx/sc/14.4 P
+......\OT1/cmr/bx/sc/14.4 l
+......\OT1/cmr/bx/sc/14.4 a
+......\OT1/cmr/bx/sc/14.4 i
+......\OT1/cmr/bx/sc/14.4 n
+.....\penalty 10000
+.....\glue 5.4 plus 2.7 minus 1.79999
+.....\OT1/cmr/bx/sc/14.4 T
+.....\kern -2.70056
+.....\hbox(9.87999+0.0)x10.63333, shifted 3.19998
+......\OT1/cmr/bx/sc/14.4 E
+.....\kern -2.025
+.....\OT1/cmr/bx/sc/14.4 X
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\write3{\protect \BOOKMARK [1][-]{section.47}{\376\377\000p\000l\000a\000i\000n\000\040\000T\000e\000X\000,\000\040\000P\000l\000a\000i\000n\000\040\000T\000e\000X}{}% 47}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {47}\NoCaseChange {\HoLogo@tag@actualtext {first}{plainTeX}{\hologoRobust {plainTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{plainTeX}{\HologoRobust {plainTeX}}}}{\thepage }{section.47}\protected@file@percent }}
+....\penalty 10000
+....\glue 9.90276 plus 0.86108
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 1.85558
+....\hbox(6.94444+2.15277)x345.0, glue set 301.38914fil
+.....\hbox(6.94444+1.94444)x21.66673
+......\OT1/cmr/m/n/10 p
+......\OT1/cmr/m/n/10 l
+......\OT1/cmr/m/n/10 a
+......\OT1/cmr/m/n/10 i
+......\OT1/cmr/m/n/10 n
+.....\penalty 10000
+.....\glue 3.33333 plus 1.66666 minus 1.11111
+.....\OT1/cmr/m/n/10 T
+.....\kern -1.66702
+.....\hbox(6.83331+0.0)x6.80557, shifted 2.15277
+......\OT1/cmr/m/n/10 E
+.....\kern -1.25
+.....\OT1/cmr/m/n/10 X
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\penalty -300
+....\glue 15.0694 plus 4.30554 minus 0.86108
+....\pdfdest name{section.48} xyz
+....\penalty 10000
+....\glue -15.0694 plus -4.30554 minus -0.86108
+....\glue 15.0694 plus 4.30554 minus 0.86108
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 5.84724
+....\hbox(9.99998+3.19998)x345.0, glue set 161.26802fil
+.....\hbox(9.27998+0.0)x32.39996
+......\glue 0.0
+......\OT1/cmr/bx/sc/14.4 4
+......\OT1/cmr/bx/sc/14.4 8
+......\glue 16.19998
+.....\hbox(9.99998+2.79999)x34.87492
+......\OT1/cmr/bx/sc/14.4 p
+......\OT1/cmr/bx/sc/14.4 l
+......\OT1/cmr/bx/sc/14.4 a
+......\OT1/cmr/bx/sc/14.4 i
+......\OT1/cmr/bx/sc/14.4 n
 .....\hbox(6.39998+0.0)x5.4
 ......\OT1/cmr/bx/sc/14.4 -
 .....\OT1/cmr/bx/sc/14.4 T
@@ -3388,8 +3452,8 @@ Completed box being shipped out [5]
 .....\penalty 10000
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
-....\write3{\protect \BOOKMARK [1][-]{section.47}{\376\377\000p\000l\000a\000i\000n\000-\000T\000e\000X\000,\000\040\000P\000l\000a\000i\000n\000-\000T\000e\000X}{}% 47}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {47}\NoCaseChange {\HoLogo@tag@actualtext {first}{plainTeX}{\hologoRobust {plainTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{plainTeX}{\HologoRobust {plainTeX}}}}{\thepage }{section.47}\protected@file@percent }}
+....\write3{\protect \BOOKMARK [1][-]{section.48}{\376\377\000p\000l\000a\000i\000n\000-\000T\000e\000X\000,\000\040\000P\000l\000a\000i\000n\000-\000T\000e\000X}{}% 48}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {48}\NoCaseChange {\HoLogo@tag@actualtext {first}{plainTeX}{\hologoRobust {plainTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{plainTeX}{\HologoRobust {plainTeX}}}}{\thepage }{section.48}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.90276 plus 0.86108
 ....\glue(\parskip) 0.0 plus 1.0
@@ -3415,7 +3479,7 @@ Completed box being shipped out [5]
 .....\glue(\rightskip) 0.0
 ....\penalty -300
 ....\glue 15.0694 plus 4.30554 minus 0.86108
-....\pdfdest name{section.48} xyz
+....\pdfdest name{section.49} xyz
 ....\penalty 10000
 ....\glue -15.0694 plus -4.30554 minus -0.86108
 ....\glue 15.0694 plus 4.30554 minus 0.86108
@@ -3426,7 +3490,7 @@ Completed box being shipped out [5]
 .....\hbox(9.27998+0.0)x32.39996
 ......\glue 0.0
 ......\OT1/cmr/bx/sc/14.4 4
-......\OT1/cmr/bx/sc/14.4 8
+......\OT1/cmr/bx/sc/14.4 9
 ......\glue 16.19998
 .....\hbox(9.99998+3.19998)x64.28268
 ......\OT1/cmr/bx/sc/14.4 p
@@ -3457,8 +3521,8 @@ Completed box being shipped out [5]
 .....\penalty 10000
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
-....\write3{\protect \BOOKMARK [1][-]{section.48}{\376\377\000p\000l\000a\000i\000n\000T\000e\000X\000,\000\040\000P\000l\000a\000i\000n\000T\000e\000X}{}% 48}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {48}\NoCaseChange {\HoLogo@tag@actualtext {first}{plainTeX}{\hologoRobust {plainTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{plainTeX}{\HologoRobust {plainTeX}}}}{\thepage }{section.48}\protected@file@percent }}
+....\write3{\protect \BOOKMARK [1][-]{section.49}{\376\377\000p\000l\000a\000i\000n\000T\000e\000X\000,\000\040\000P\000l\000a\000i\000n\000T\000e\000X}{}% 49}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {49}\NoCaseChange {\HoLogo@tag@actualtext {first}{plainTeX}{\hologoRobust {plainTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{plainTeX}{\HologoRobust {plainTeX}}}}{\thepage }{section.49}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.90276 plus 0.86108
 ....\glue(\parskip) 0.0 plus 1.0
@@ -3482,7 +3546,7 @@ Completed box being shipped out [5]
 .....\glue(\rightskip) 0.0
 ....\penalty -300
 ....\glue 15.0694 plus 4.30554 minus 0.86108
-....\pdfdest name{section.49} xyz
+....\pdfdest name{section.50} xyz
 ....\penalty 10000
 ....\glue -15.0694 plus -4.30554 minus -0.86108
 ....\glue 15.0694 plus 4.30554 minus 0.86108
@@ -3492,8 +3556,8 @@ Completed box being shipped out [5]
 ....\hbox(9.87999+3.19998)x345.0, glue set 207.17299fil
 .....\hbox(9.27998+0.0)x32.39996
 ......\glue 0.0
-......\OT1/cmr/bx/sc/14.4 4
-......\OT1/cmr/bx/sc/14.4 9
+......\OT1/cmr/bx/sc/14.4 5
+......\OT1/cmr/bx/sc/14.4 0
 ......\glue 16.19998
 .....\hbox(6.39998+2.79999)x8.18994
 ......\OT1/cmr/bx/sc/14.4 p
@@ -3532,8 +3596,8 @@ Completed box being shipped out [5]
 .....\penalty 10000
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
-....\write3{\protect \BOOKMARK [1][-]{section.49}{\376\377\000p\000L\000a\000T\000e\000X\000,\000\040\000p\000L\000a\000T\000e\000X}{}% 49}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {49}\NoCaseChange {\HoLogo@tag@actualtext {first}{pLaTeX}{\hologoRobust {pLaTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{pLaTeX}{\HologoRobust {pLaTeX}}}}{\thepage }{section.49}\protected@file@percent }}
+....\write3{\protect \BOOKMARK [1][-]{section.50}{\376\377\000p\000L\000a\000T\000e\000X\000,\000\040\000p\000L\000a\000T\000e\000X}{}% 50}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {50}\NoCaseChange {\HoLogo@tag@actualtext {first}{pLaTeX}{\hologoRobust {pLaTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{pLaTeX}{\HologoRobust {pLaTeX}}}}{\thepage }{section.50}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.90276 plus 0.86108
 ....\glue(\parskip) 0.0 plus 1.0
@@ -3550,64 +3614,6 @@ Completed box being shipped out [5]
 .......\OT1/cmr/m/n/7 A
 ......\glue 0.0 plus 1.0fil minus 1.0fil
 .....\kern -1.49994
-.....\OT1/cmr/m/n/10 T
-.....\kern -1.66702
-.....\hbox(6.83331+0.0)x6.80557, shifted 2.15277
-......\OT1/cmr/m/n/10 E
-.....\kern -1.25
-.....\OT1/cmr/m/n/10 X
-.....\penalty 10000
-.....\glue(\parfillskip) 0.0 plus 1.0fil
-.....\glue(\rightskip) 0.0
-....\penalty -300
-....\glue 15.0694 plus 4.30554 minus 0.86108
-....\pdfdest name{section.50} xyz
-....\penalty 10000
-....\glue -15.0694 plus -4.30554 minus -0.86108
-....\glue 15.0694 plus 4.30554 minus 0.86108
-....\glue(\parskip) 0.0 plus 1.0
-....\glue(\parskip) 0.0
-....\glue(\baselineskip) 5.96724
-....\hbox(9.87999+3.19998)x345.0, glue set 230.74434fil
-.....\hbox(9.27998+0.0)x32.39996
-......\glue 0.0
-......\OT1/cmr/bx/sc/14.4 5
-......\OT1/cmr/bx/sc/14.4 0
-......\glue 16.19998
-.....\hbox(6.39998+2.79999)x6.5701
-......\OT1/cmr/bx/sc/14.4 p
-......\kern -2.42989
-.....\OT1/cmr/bx/sc/14.4 T
-.....\kern -2.70056
-.....\hbox(9.87999+0.0)x10.63333, shifted 3.19998
-......\OT1/cmr/bx/sc/14.4 E
-.....\kern -2.025
-.....\OT1/cmr/bx/sc/14.4 X
-.....\OT1/cmr/bx/sc/14.4 ,
-.....\glue 5.4 plus 3.37498 minus 1.43999
-.....\hbox(6.39998+2.79999)x6.5701
-......\OT1/cmr/bx/sc/14.4 p
-......\kern -2.42989
-.....\OT1/cmr/bx/sc/14.4 T
-.....\kern -2.70056
-.....\hbox(9.87999+0.0)x10.63333, shifted 3.19998
-......\OT1/cmr/bx/sc/14.4 E
-.....\kern -2.025
-.....\OT1/cmr/bx/sc/14.4 X
-.....\penalty 10000
-.....\glue(\parfillskip) 0.0 plus 1.0fil
-.....\glue(\rightskip) 0.0
-....\write3{\protect \BOOKMARK [1][-]{section.50}{\376\377\000p\000T\000e\000X\000,\000\040\000p\000T\000e\000X}{}% 50}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {50}\NoCaseChange {\HoLogo@tag@actualtext {first}{pTeX}{\hologoRobust {pTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{pTeX}{\HologoRobust {pTeX}}}}{\thepage }{section.50}\protected@file@percent }}
-....\penalty 10000
-....\glue 9.90276 plus 0.86108
-....\glue(\parskip) 0.0 plus 1.0
-....\glue(\parskip) 0.0
-....\glue(\baselineskip) 1.9667
-....\hbox(6.83331+2.15277)x345.0, glue set 322.33357fil
-.....\hbox(4.30554+1.94444)x4.05563
-......\OT1/cmr/m/n/10 p
-......\kern -1.49994
 .....\OT1/cmr/m/n/10 T
 .....\kern -1.66702
 .....\hbox(6.83331+0.0)x6.80557, shifted 2.15277
@@ -3652,18 +3658,15 @@ Completed box being shipped out [6]
 ...\vbox(550.0+0.0)x345.0, glue set >20000.0fil
 ....\pdfdest name{section.51} xyz
 ....\glue(\topskip) 0.12001
-....\hbox(9.87999+3.19998)x345.0, glue set 181.8513fil
+....\hbox(9.87999+3.19998)x345.0, glue set 230.74434fil
 .....\hbox(9.27998+0.0)x32.39996
 ......\glue 0.0
 ......\OT1/cmr/bx/sc/14.4 5
 ......\OT1/cmr/bx/sc/14.4 1
 ......\glue 16.19998
-.....\hbox(9.87999+2.79999)x32.36662
-......\OT1/cmr/bx/sc/14.4 S
-......\OT1/cmr/bx/sc/14.4 a
-......\OT1/cmr/bx/sc/14.4 g
-......\OT1/cmr/bx/sc/14.4 e
-.....\kern -1.35
+.....\hbox(6.39998+2.79999)x6.5701
+......\OT1/cmr/bx/sc/14.4 p
+......\kern -2.42989
 .....\OT1/cmr/bx/sc/14.4 T
 .....\kern -2.70056
 .....\hbox(9.87999+0.0)x10.63333, shifted 3.19998
@@ -3672,12 +3675,9 @@ Completed box being shipped out [6]
 .....\OT1/cmr/bx/sc/14.4 X
 .....\OT1/cmr/bx/sc/14.4 ,
 .....\glue 5.4 plus 3.37498 minus 1.43999
-.....\hbox(9.87999+2.79999)x32.36662
-......\OT1/cmr/bx/sc/14.4 S
-......\OT1/cmr/bx/sc/14.4 a
-......\OT1/cmr/bx/sc/14.4 g
-......\OT1/cmr/bx/sc/14.4 e
-.....\kern -1.35
+.....\hbox(6.39998+2.79999)x6.5701
+......\OT1/cmr/bx/sc/14.4 p
+......\kern -2.42989
 .....\OT1/cmr/bx/sc/14.4 T
 .....\kern -2.70056
 .....\hbox(9.87999+0.0)x10.63333, shifted 3.19998
@@ -3687,20 +3687,17 @@ Completed box being shipped out [6]
 .....\penalty 10000
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
-....\write3{\protect \BOOKMARK [1][-]{section.51}{\376\377\000S\000a\000g\000e\000T\000e\000X\000,\000\040\000S\000a\000g\000e\000T\000e\000X}{}% 51}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {51}\NoCaseChange {\HoLogo@tag@actualtext {first}{SageTeX}{\hologoRobust {SageTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{SageTeX}{\HologoRobust {SageTeX}}}}{\thepage }{section.51}\protected@file@percent }}
+....\write3{\protect \BOOKMARK [1][-]{section.51}{\376\377\000p\000T\000e\000X\000,\000\040\000p\000T\000e\000X}{}% 51}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {51}\NoCaseChange {\HoLogo@tag@actualtext {first}{pTeX}{\hologoRobust {pTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{pTeX}{\HologoRobust {pTeX}}}}{\thepage }{section.51}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.90276 plus 0.86108
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 1.9667
-....\hbox(6.83331+2.15277)x345.0, glue set 307.2225fil
-.....\hbox(6.83331+1.94444)x20.00005
-......\OT1/cmr/m/n/10 S
-......\OT1/cmr/m/n/10 a
-......\OT1/cmr/m/n/10 g
-......\OT1/cmr/m/n/10 e
-.....\kern -0.83334
+....\hbox(6.83331+2.15277)x345.0, glue set 322.33357fil
+.....\hbox(4.30554+1.94444)x4.05563
+......\OT1/cmr/m/n/10 p
+......\kern -1.49994
 .....\OT1/cmr/m/n/10 T
 .....\kern -1.66702
 .....\hbox(6.83331+0.0)x6.80557, shifted 2.15277
@@ -3718,20 +3715,19 @@ Completed box being shipped out [6]
 ....\glue 15.0694 plus 4.30554 minus 0.86108
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
-....\glue(\baselineskip) 3.79921
-....\hbox(12.04802+3.19998)x345.0, glue set 207.1375fil
+....\glue(\baselineskip) 5.96724
+....\hbox(9.87999+3.19998)x345.0, glue set 181.8513fil
 .....\hbox(9.27998+0.0)x32.39996
 ......\glue 0.0
 ......\OT1/cmr/bx/sc/14.4 5
 ......\OT1/cmr/bx/sc/14.4 2
 ......\glue 16.19998
-.....\OT1/cmr/bx/sc/14.4 S
-.....\kern -0.97195
-.....\OT1/cmr/bx/sc/14.4 L
-.....\kern -2.91586
-.....\hbox(9.99998+0.0)x4.49998, shifted -2.04803
-......\OT1/cmr/bx/sc/14.4 i
-.....\kern -0.97195
+.....\hbox(9.87999+2.79999)x32.36662
+......\OT1/cmr/bx/sc/14.4 S
+......\OT1/cmr/bx/sc/14.4 a
+......\OT1/cmr/bx/sc/14.4 g
+......\OT1/cmr/bx/sc/14.4 e
+.....\kern -1.35
 .....\OT1/cmr/bx/sc/14.4 T
 .....\kern -2.70056
 .....\hbox(9.87999+0.0)x10.63333, shifted 3.19998
@@ -3740,13 +3736,12 @@ Completed box being shipped out [6]
 .....\OT1/cmr/bx/sc/14.4 X
 .....\OT1/cmr/bx/sc/14.4 ,
 .....\glue 5.4 plus 3.37498 minus 1.43999
-.....\OT1/cmr/bx/sc/14.4 S
-.....\kern -0.97195
-.....\OT1/cmr/bx/sc/14.4 L
-.....\kern -2.91586
-.....\hbox(9.99998+0.0)x4.49998, shifted -2.04803
-......\OT1/cmr/bx/sc/14.4 i
-.....\kern -0.97195
+.....\hbox(9.87999+2.79999)x32.36662
+......\OT1/cmr/bx/sc/14.4 S
+......\OT1/cmr/bx/sc/14.4 a
+......\OT1/cmr/bx/sc/14.4 g
+......\OT1/cmr/bx/sc/14.4 e
+.....\kern -1.35
 .....\OT1/cmr/bx/sc/14.4 T
 .....\kern -2.70056
 .....\hbox(9.87999+0.0)x10.63333, shifted 3.19998
@@ -3756,21 +3751,20 @@ Completed box being shipped out [6]
 .....\penalty 10000
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
-....\write3{\protect \BOOKMARK [1][-]{section.52}{\376\377\000S\000L\000i\000T\000e\000X\000,\000\040\000S\000L\000i\000T\000e\000X}{}% 52}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {52}\NoCaseChange {\HoLogo@tag@actualtext {first}{SLiTeX}{\hologoRobust {SLiTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{SLiTeX}{\HologoRobust {SLiTeX}}}}{\thepage }{section.52}\protected@file@percent }}
+....\write3{\protect \BOOKMARK [1][-]{section.52}{\376\377\000S\000a\000g\000e\000T\000e\000X\000,\000\040\000S\000a\000g\000e\000T\000e\000X}{}% 52}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {52}\NoCaseChange {\HoLogo@tag@actualtext {first}{SageTeX}{\hologoRobust {SageTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{SageTeX}{\HologoRobust {SageTeX}}}}{\thepage }{section.52}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.90276 plus 0.86108
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 1.9667
-....\hbox(6.83331+2.15277)x345.0, glue set 314.5613fil
-.....\OT1/cmr/m/n/10 S
-.....\kern -0.59998
-.....\OT1/cmr/m/n/10 L
-.....\kern -1.79993
-.....\hbox(5.13887+0.0)x3.0222, shifted -1.37779
-......\OT1/cmr/m/sc/10 i
-.....\kern -0.59998
+....\hbox(6.83331+2.15277)x345.0, glue set 307.2225fil
+.....\hbox(6.83331+1.94444)x20.00005
+......\OT1/cmr/m/n/10 S
+......\OT1/cmr/m/n/10 a
+......\OT1/cmr/m/n/10 g
+......\OT1/cmr/m/n/10 e
+.....\kern -0.83334
 .....\OT1/cmr/m/n/10 T
 .....\kern -1.66702
 .....\hbox(6.83331+0.0)x6.80557, shifted 2.15277
@@ -3858,18 +3852,18 @@ Completed box being shipped out [6]
 ....\glue 15.0694 plus 4.30554 minus 0.86108
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
-....\glue(\baselineskip) 5.84724
-....\hbox(9.99998+3.19998)x345.0, glue set 212.90654fil
+....\glue(\baselineskip) 3.79921
+....\hbox(12.04802+3.19998)x345.0, glue set 207.1375fil
 .....\hbox(9.27998+0.0)x32.39996
 ......\glue 0.0
 ......\OT1/cmr/bx/sc/14.4 5
 ......\OT1/cmr/bx/sc/14.4 4
 ......\glue 16.19998
-.....\hbox(9.99998+0.0)x16.46095
-......\OT1/cmr/bx/sc/14.4 S
-......\kern -0.97195
-......\OT1/cmr/bx/sc/14.4 l
-......\kern -0.56705
+.....\OT1/cmr/bx/sc/14.4 S
+.....\kern -0.97195
+.....\OT1/cmr/bx/sc/14.4 L
+.....\kern -2.91586
+.....\hbox(9.99998+0.0)x4.49998, shifted -2.04803
 ......\OT1/cmr/bx/sc/14.4 i
 .....\kern -0.97195
 .....\OT1/cmr/bx/sc/14.4 T
@@ -3880,11 +3874,11 @@ Completed box being shipped out [6]
 .....\OT1/cmr/bx/sc/14.4 X
 .....\OT1/cmr/bx/sc/14.4 ,
 .....\glue 5.4 plus 3.37498 minus 1.43999
-.....\hbox(9.99998+0.0)x16.46095
-......\OT1/cmr/bx/sc/14.4 S
-......\kern -0.97195
-......\OT1/cmr/bx/sc/14.4 l
-......\kern -0.56705
+.....\OT1/cmr/bx/sc/14.4 S
+.....\kern -0.97195
+.....\OT1/cmr/bx/sc/14.4 L
+.....\kern -2.91586
+.....\hbox(9.99998+0.0)x4.49998, shifted -2.04803
 ......\OT1/cmr/bx/sc/14.4 i
 .....\kern -0.97195
 .....\OT1/cmr/bx/sc/14.4 T
@@ -3896,19 +3890,19 @@ Completed box being shipped out [6]
 .....\penalty 10000
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
-....\write3{\protect \BOOKMARK [1][-]{section.54}{\376\377\000S\000l\000i\000T\000e\000X\000,\000\040\000S\000l\000i\000T\000e\000X}{}% 54}
+....\write3{\protect \BOOKMARK [1][-]{section.54}{\376\377\000S\000L\000i\000T\000e\000X\000,\000\040\000S\000L\000i\000T\000e\000X}{}% 54}
 ....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {54}\NoCaseChange {\HoLogo@tag@actualtext {first}{SLiTeX}{\hologoRobust {SLiTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{SLiTeX}{\HologoRobust {SLiTeX}}}}{\thepage }{section.54}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.90276 plus 0.86108
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 1.9667
-....\hbox(6.83331+2.15277)x345.0, glue set 314.26506fil
-.....\hbox(6.83331+0.0)x12.72412
-......\OT1/cmr/m/n/10 S
-......\kern -0.59998
-......\OT1/cmr/m/sc/10 l
-......\kern -0.38698
+....\hbox(6.83331+2.15277)x345.0, glue set 314.5613fil
+.....\OT1/cmr/m/n/10 S
+.....\kern -0.59998
+.....\OT1/cmr/m/n/10 L
+.....\kern -1.79993
+.....\hbox(5.13887+0.0)x3.0222, shifted -1.37779
 ......\OT1/cmr/m/sc/10 i
 .....\kern -0.59998
 .....\OT1/cmr/m/n/10 T
@@ -3929,16 +3923,19 @@ Completed box being shipped out [6]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 5.84724
-....\hbox(9.99998+3.19998)x345.0, glue set 207.88463fil
+....\hbox(9.99998+3.19998)x345.0, glue set 212.90654fil
 .....\hbox(9.27998+0.0)x32.39996
 ......\glue 0.0
 ......\OT1/cmr/bx/sc/14.4 5
 ......\OT1/cmr/bx/sc/14.4 5
 ......\glue 16.19998
-.....\hbox(9.99998+0.0)x17.99995
+.....\hbox(9.99998+0.0)x16.46095
 ......\OT1/cmr/bx/sc/14.4 S
+......\kern -0.97195
 ......\OT1/cmr/bx/sc/14.4 l
+......\kern -0.56705
 ......\OT1/cmr/bx/sc/14.4 i
+.....\kern -0.97195
 .....\OT1/cmr/bx/sc/14.4 T
 .....\kern -2.70056
 .....\hbox(9.87999+0.0)x10.63333, shifted 3.19998
@@ -3947,10 +3944,13 @@ Completed box being shipped out [6]
 .....\OT1/cmr/bx/sc/14.4 X
 .....\OT1/cmr/bx/sc/14.4 ,
 .....\glue 5.4 plus 3.37498 minus 1.43999
-.....\hbox(9.99998+0.0)x17.99995
+.....\hbox(9.99998+0.0)x16.46095
 ......\OT1/cmr/bx/sc/14.4 S
+......\kern -0.97195
 ......\OT1/cmr/bx/sc/14.4 l
+......\kern -0.56705
 ......\OT1/cmr/bx/sc/14.4 i
+.....\kern -0.97195
 .....\OT1/cmr/bx/sc/14.4 T
 .....\kern -2.70056
 .....\hbox(9.87999+0.0)x10.63333, shifted 3.19998
@@ -3967,11 +3967,14 @@ Completed box being shipped out [6]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 1.9667
-....\hbox(6.83331+2.15277)x345.0, glue set 312.12267fil
-.....\hbox(6.83331+0.0)x14.26654
-......\OT1/cmr/m/sc/10 S
+....\hbox(6.83331+2.15277)x345.0, glue set 314.26506fil
+.....\hbox(6.83331+0.0)x12.72412
+......\OT1/cmr/m/n/10 S
+......\kern -0.59998
 ......\OT1/cmr/m/sc/10 l
+......\kern -0.38698
 ......\OT1/cmr/m/sc/10 i
+.....\kern -0.59998
 .....\OT1/cmr/m/n/10 T
 .....\kern -1.66702
 .....\hbox(6.83331+0.0)x6.80557, shifted 2.15277
@@ -3990,19 +3993,16 @@ Completed box being shipped out [6]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 5.84724
-....\hbox(9.99998+3.19998)x345.0, glue set 212.90654fil
+....\hbox(9.99998+3.19998)x345.0, glue set 207.88463fil
 .....\hbox(9.27998+0.0)x32.39996
 ......\glue 0.0
 ......\OT1/cmr/bx/sc/14.4 5
 ......\OT1/cmr/bx/sc/14.4 6
 ......\glue 16.19998
-.....\hbox(9.99998+0.0)x16.46095
+.....\hbox(9.99998+0.0)x17.99995
 ......\OT1/cmr/bx/sc/14.4 S
-......\kern -0.97195
 ......\OT1/cmr/bx/sc/14.4 l
-......\kern -0.56705
 ......\OT1/cmr/bx/sc/14.4 i
-.....\kern -0.97195
 .....\OT1/cmr/bx/sc/14.4 T
 .....\kern -2.70056
 .....\hbox(9.87999+0.0)x10.63333, shifted 3.19998
@@ -4011,13 +4011,10 @@ Completed box being shipped out [6]
 .....\OT1/cmr/bx/sc/14.4 X
 .....\OT1/cmr/bx/sc/14.4 ,
 .....\glue 5.4 plus 3.37498 minus 1.43999
-.....\hbox(9.99998+0.0)x16.46095
+.....\hbox(9.99998+0.0)x17.99995
 ......\OT1/cmr/bx/sc/14.4 S
-......\kern -0.97195
 ......\OT1/cmr/bx/sc/14.4 l
-......\kern -0.56705
 ......\OT1/cmr/bx/sc/14.4 i
-.....\kern -0.97195
 .....\OT1/cmr/bx/sc/14.4 T
 .....\kern -2.70056
 .....\hbox(9.87999+0.0)x10.63333, shifted 3.19998
@@ -4028,20 +4025,17 @@ Completed box being shipped out [6]
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
 ....\write3{\protect \BOOKMARK [1][-]{section.56}{\376\377\000S\000l\000i\000T\000e\000X\000,\000\040\000S\000l\000i\000T\000e\000X}{}% 56}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {56}\NoCaseChange {\HoLogo@tag@actualtext {first}{SliTeX}{\hologoRobust {SliTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{SliTeX}{\HologoRobust {SliTeX}}}}{\thepage }{section.56}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {56}\NoCaseChange {\HoLogo@tag@actualtext {first}{SLiTeX}{\hologoRobust {SLiTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{SLiTeX}{\HologoRobust {SLiTeX}}}}{\thepage }{section.56}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.90276 plus 0.86108
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 1.9667
-....\hbox(6.83331+2.15277)x345.0, glue set 314.26506fil
-.....\hbox(6.83331+0.0)x12.72412
-......\OT1/cmr/m/n/10 S
-......\kern -0.59998
+....\hbox(6.83331+2.15277)x345.0, glue set 312.12267fil
+.....\hbox(6.83331+0.0)x14.26654
+......\OT1/cmr/m/sc/10 S
 ......\OT1/cmr/m/sc/10 l
-......\kern -0.38698
 ......\OT1/cmr/m/sc/10 i
-.....\kern -0.59998
 .....\OT1/cmr/m/n/10 T
 .....\kern -1.66702
 .....\hbox(6.83331+0.0)x6.80557, shifted 2.15277
@@ -4130,11 +4124,81 @@ Completed box being shipped out [6]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 5.84724
-....\hbox(9.99998+3.19998)x345.0, glue set 207.88463fil
+....\hbox(9.99998+3.19998)x345.0, glue set 212.90654fil
 .....\hbox(9.27998+0.0)x32.39996
 ......\glue 0.0
 ......\OT1/cmr/bx/sc/14.4 5
 ......\OT1/cmr/bx/sc/14.4 8
+......\glue 16.19998
+.....\hbox(9.99998+0.0)x16.46095
+......\OT1/cmr/bx/sc/14.4 S
+......\kern -0.97195
+......\OT1/cmr/bx/sc/14.4 l
+......\kern -0.56705
+......\OT1/cmr/bx/sc/14.4 i
+.....\kern -0.97195
+.....\OT1/cmr/bx/sc/14.4 T
+.....\kern -2.70056
+.....\hbox(9.87999+0.0)x10.63333, shifted 3.19998
+......\OT1/cmr/bx/sc/14.4 E
+.....\kern -2.025
+.....\OT1/cmr/bx/sc/14.4 X
+.....\OT1/cmr/bx/sc/14.4 ,
+.....\glue 5.4 plus 3.37498 minus 1.43999
+.....\hbox(9.99998+0.0)x16.46095
+......\OT1/cmr/bx/sc/14.4 S
+......\kern -0.97195
+......\OT1/cmr/bx/sc/14.4 l
+......\kern -0.56705
+......\OT1/cmr/bx/sc/14.4 i
+.....\kern -0.97195
+.....\OT1/cmr/bx/sc/14.4 T
+.....\kern -2.70056
+.....\hbox(9.87999+0.0)x10.63333, shifted 3.19998
+......\OT1/cmr/bx/sc/14.4 E
+.....\kern -2.025
+.....\OT1/cmr/bx/sc/14.4 X
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\write3{\protect \BOOKMARK [1][-]{section.58}{\376\377\000S\000l\000i\000T\000e\000X\000,\000\040\000S\000l\000i\000T\000e\000X}{}% 58}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {58}\NoCaseChange {\HoLogo@tag@actualtext {first}{SliTeX}{\hologoRobust {SliTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{SliTeX}{\HologoRobust {SliTeX}}}}{\thepage }{section.58}\protected@file@percent }}
+....\penalty 10000
+....\glue 9.90276 plus 0.86108
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 1.9667
+....\hbox(6.83331+2.15277)x345.0, glue set 314.26506fil
+.....\hbox(6.83331+0.0)x12.72412
+......\OT1/cmr/m/n/10 S
+......\kern -0.59998
+......\OT1/cmr/m/sc/10 l
+......\kern -0.38698
+......\OT1/cmr/m/sc/10 i
+.....\kern -0.59998
+.....\OT1/cmr/m/n/10 T
+.....\kern -1.66702
+.....\hbox(6.83331+0.0)x6.80557, shifted 2.15277
+......\OT1/cmr/m/n/10 E
+.....\kern -1.25
+.....\OT1/cmr/m/n/10 X
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\penalty -300
+....\glue 15.0694 plus 4.30554 minus 0.86108
+....\pdfdest name{section.59} xyz
+....\penalty 10000
+....\glue -15.0694 plus -4.30554 minus -0.86108
+....\glue 15.0694 plus 4.30554 minus 0.86108
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 5.84724
+....\hbox(9.99998+3.19998)x345.0, glue set 207.88463fil
+.....\hbox(9.27998+0.0)x32.39996
+......\glue 0.0
+......\OT1/cmr/bx/sc/14.4 5
+......\OT1/cmr/bx/sc/14.4 9
 ......\glue 16.19998
 .....\hbox(9.99998+0.0)x17.99995
 ......\OT1/cmr/bx/sc/14.4 S
@@ -4161,8 +4225,8 @@ Completed box being shipped out [6]
 .....\penalty 10000
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
-....\write3{\protect \BOOKMARK [1][-]{section.58}{\376\377\000S\000l\000i\000T\000e\000X\000,\000\040\000S\000l\000i\000T\000e\000X}{}% 58}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {58}\NoCaseChange {\HoLogo@tag@actualtext {first}{SliTeX}{\hologoRobust {SliTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{SliTeX}{\HologoRobust {SliTeX}}}}{\thepage }{section.58}\protected@file@percent }}
+....\write3{\protect \BOOKMARK [1][-]{section.59}{\376\377\000S\000l\000i\000T\000e\000X\000,\000\040\000S\000l\000i\000T\000e\000X}{}% 59}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {59}\NoCaseChange {\HoLogo@tag@actualtext {first}{SliTeX}{\hologoRobust {SliTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{SliTeX}{\HologoRobust {SliTeX}}}}{\thepage }{section.59}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.90276 plus 0.86108
 ....\glue(\parskip) 0.0 plus 1.0
@@ -4184,7 +4248,7 @@ Completed box being shipped out [6]
 .....\glue(\rightskip) 0.0
 ....\penalty -300
 ....\glue 15.0694 plus 4.30554 minus 0.86108
-....\pdfdest name{section.59} xyz
+....\pdfdest name{section.60} xyz
 ....\penalty 10000
 ....\glue -15.0694 plus -4.30554 minus -0.86108
 ....\glue 15.0694 plus 4.30554 minus 0.86108
@@ -4194,8 +4258,8 @@ Completed box being shipped out [6]
 ....\hbox(12.04802+3.19998)x345.0, glue set 207.1375fil
 .....\hbox(9.27998+0.0)x32.39996
 ......\glue 0.0
-......\OT1/cmr/bx/sc/14.4 5
-......\OT1/cmr/bx/sc/14.4 9
+......\OT1/cmr/bx/sc/14.4 6
+......\OT1/cmr/bx/sc/14.4 0
 ......\glue 16.19998
 .....\OT1/cmr/bx/sc/14.4 S
 .....\kern -0.97195
@@ -4228,8 +4292,8 @@ Completed box being shipped out [6]
 .....\penalty 10000
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
-....\write3{\protect \BOOKMARK [1][-]{section.59}{\376\377\000S\000L\000i\000T\000e\000X\000,\000\040\000S\000L\000i\000T\000e\000X}{}% 59}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {59}\NoCaseChange {\HoLogo@tag@actualtext {first}{SliTeX}{\hologoRobust {SliTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{SliTeX}{\HologoRobust {SliTeX}}}}{\thepage }{section.59}\protected@file@percent }}
+....\write3{\protect \BOOKMARK [1][-]{section.60}{\376\377\000S\000L\000i\000T\000e\000X\000,\000\040\000S\000L\000i\000T\000e\000X}{}% 60}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {60}\NoCaseChange {\HoLogo@tag@actualtext {first}{SliTeX}{\hologoRobust {SliTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{SliTeX}{\HologoRobust {SliTeX}}}}{\thepage }{section.60}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.90276 plus 0.86108
 ....\glue(\parskip) 0.0 plus 1.0
@@ -4243,65 +4307,6 @@ Completed box being shipped out [6]
 .....\hbox(5.13887+0.0)x3.0222, shifted -1.37779
 ......\OT1/cmr/m/sc/10 i
 .....\kern -0.59998
-.....\OT1/cmr/m/n/10 T
-.....\kern -1.66702
-.....\hbox(6.83331+0.0)x6.80557, shifted 2.15277
-......\OT1/cmr/m/n/10 E
-.....\kern -1.25
-.....\OT1/cmr/m/n/10 X
-.....\penalty 10000
-.....\glue(\parfillskip) 0.0 plus 1.0fil
-.....\glue(\rightskip) 0.0
-....\penalty -300
-....\glue 15.0694 plus 4.30554 minus 0.86108
-....\pdfdest name{section.60} xyz
-....\penalty 10000
-....\glue -15.0694 plus -4.30554 minus -0.86108
-....\glue 15.0694 plus 4.30554 minus 0.86108
-....\glue(\parskip) 0.0 plus 1.0
-....\glue(\parskip) 0.0
-....\glue(\baselineskip) 5.96724
-....\hbox(9.87999+3.19998)x345.0, glue set 212.88458fil
-.....\hbox(9.27998+0.0)x32.39996
-......\glue 0.0
-......\OT1/cmr/bx/sc/14.4 6
-......\OT1/cmr/bx/sc/14.4 0
-......\glue 16.19998
-.....\hbox(9.14285+0.0)x13.69165
-......\OT1/cmr/bx/sc/14.4 t
-......\OT1/cmr/bx/sc/14.4 e
-.....\OT1/cmr/bx/sc/14.4 T
-.....\kern -2.70056
-.....\hbox(9.87999+0.0)x10.63333, shifted 3.19998
-......\OT1/cmr/bx/sc/14.4 E
-.....\kern -2.025
-.....\OT1/cmr/bx/sc/14.4 X
-.....\OT1/cmr/bx/sc/14.4 ,
-.....\glue 5.4 plus 3.37498 minus 1.43999
-.....\hbox(9.87999+0.0)x17.3083
-......\OT1/cmr/bx/sc/14.4 T
-......\kern-1.35
-......\OT1/cmr/bx/sc/14.4 e
-.....\OT1/cmr/bx/sc/14.4 T
-.....\kern -2.70056
-.....\hbox(9.87999+0.0)x10.63333, shifted 3.19998
-......\OT1/cmr/bx/sc/14.4 E
-.....\kern -2.025
-.....\OT1/cmr/bx/sc/14.4 X
-.....\penalty 10000
-.....\glue(\parfillskip) 0.0 plus 1.0fil
-.....\glue(\rightskip) 0.0
-....\write3{\protect \BOOKMARK [1][-]{section.60}{\376\377\000t\000e\000T\000e\000X\000,\000\040\000T\000e\000T\000e\000X}{}% 60}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {60}\NoCaseChange {\HoLogo@tag@actualtext {first}{teTeX}{\hologoRobust {teTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{teTeX}{\HologoRobust {teTeX}}}}{\thepage }{section.60}\protected@file@percent }}
-....\penalty 10000
-....\glue 9.90276 plus 0.86108
-....\glue(\parskip) 0.0 plus 1.0
-....\glue(\parskip) 0.0
-....\glue(\baselineskip) 1.9667
-....\hbox(6.83331+2.15277)x345.0, glue set 318.05586fil
-.....\hbox(6.15079+0.0)x8.33334
-......\OT1/cmr/m/n/10 t
-......\OT1/cmr/m/n/10 e
 .....\OT1/cmr/m/n/10 T
 .....\kern -1.66702
 .....\hbox(6.83331+0.0)x6.80557, shifted 2.15277
@@ -4346,12 +4351,15 @@ Completed box being shipped out [7]
 ...\vbox(550.0+0.0)x345.0, glue set >20000.0fil
 ....\pdfdest name{section.61} xyz
 ....\glue(\topskip) 0.12001
-....\hbox(9.87999+3.19998)x345.0, glue set 243.88454fil
+....\hbox(9.87999+3.19998)x345.0, glue set 212.88458fil
 .....\hbox(9.27998+0.0)x32.39996
 ......\glue 0.0
 ......\OT1/cmr/bx/sc/14.4 6
 ......\OT1/cmr/bx/sc/14.4 1
 ......\glue 16.19998
+.....\hbox(9.14285+0.0)x13.69165
+......\OT1/cmr/bx/sc/14.4 t
+......\OT1/cmr/bx/sc/14.4 e
 .....\OT1/cmr/bx/sc/14.4 T
 .....\kern -2.70056
 .....\hbox(9.87999+0.0)x10.63333, shifted 3.19998
@@ -4360,6 +4368,10 @@ Completed box being shipped out [7]
 .....\OT1/cmr/bx/sc/14.4 X
 .....\OT1/cmr/bx/sc/14.4 ,
 .....\glue 5.4 plus 3.37498 minus 1.43999
+.....\hbox(9.87999+0.0)x17.3083
+......\OT1/cmr/bx/sc/14.4 T
+......\kern-1.35
+......\OT1/cmr/bx/sc/14.4 e
 .....\OT1/cmr/bx/sc/14.4 T
 .....\kern -2.70056
 .....\hbox(9.87999+0.0)x10.63333, shifted 3.19998
@@ -4369,14 +4381,17 @@ Completed box being shipped out [7]
 .....\penalty 10000
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
-....\write3{\protect \BOOKMARK [1][-]{section.61}{\376\377\000T\000e\000X\000,\000\040\000T\000e\000X}{}% 61}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {61}\NoCaseChange {\HoLogo@tag@actualtext {first}{TeX}{\hologoRobust {TeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{TeX}{\HologoRobust {TeX}}}}{\thepage }{section.61}\protected@file@percent }}
+....\write3{\protect \BOOKMARK [1][-]{section.61}{\376\377\000t\000e\000T\000e\000X\000,\000\040\000T\000e\000T\000e\000X}{}% 61}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {61}\NoCaseChange {\HoLogo@tag@actualtext {first}{teTeX}{\hologoRobust {teTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{teTeX}{\HologoRobust {teTeX}}}}{\thepage }{section.61}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.90276 plus 0.86108
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 1.9667
-....\hbox(6.83331+2.15277)x345.0, glue set 326.3892fil
+....\hbox(6.83331+2.15277)x345.0, glue set 318.05586fil
+.....\hbox(6.15079+0.0)x8.33334
+......\OT1/cmr/m/n/10 t
+......\OT1/cmr/m/n/10 e
 .....\OT1/cmr/m/n/10 T
 .....\kern -1.66702
 .....\hbox(6.83331+0.0)x6.80557, shifted 2.15277
@@ -4394,12 +4409,61 @@ Completed box being shipped out [7]
 ....\glue 15.0694 plus 4.30554 minus 0.86108
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
+....\glue(\baselineskip) 5.96724
+....\hbox(9.87999+3.19998)x345.0, glue set 243.88454fil
+.....\hbox(9.27998+0.0)x32.39996
+......\glue 0.0
+......\OT1/cmr/bx/sc/14.4 6
+......\OT1/cmr/bx/sc/14.4 2
+......\glue 16.19998
+.....\OT1/cmr/bx/sc/14.4 T
+.....\kern -2.70056
+.....\hbox(9.87999+0.0)x10.63333, shifted 3.19998
+......\OT1/cmr/bx/sc/14.4 E
+.....\kern -2.025
+.....\OT1/cmr/bx/sc/14.4 X
+.....\OT1/cmr/bx/sc/14.4 ,
+.....\glue 5.4 plus 3.37498 minus 1.43999
+.....\OT1/cmr/bx/sc/14.4 T
+.....\kern -2.70056
+.....\hbox(9.87999+0.0)x10.63333, shifted 3.19998
+......\OT1/cmr/bx/sc/14.4 E
+.....\kern -2.025
+.....\OT1/cmr/bx/sc/14.4 X
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\write3{\protect \BOOKMARK [1][-]{section.62}{\376\377\000T\000e\000X\000,\000\040\000T\000e\000X}{}% 62}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {62}\NoCaseChange {\HoLogo@tag@actualtext {first}{TeX}{\hologoRobust {TeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{TeX}{\HologoRobust {TeX}}}}{\thepage }{section.62}\protected@file@percent }}
+....\penalty 10000
+....\glue 9.90276 plus 0.86108
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 1.9667
+....\hbox(6.83331+2.15277)x345.0, glue set 326.3892fil
+.....\OT1/cmr/m/n/10 T
+.....\kern -1.66702
+.....\hbox(6.83331+0.0)x6.80557, shifted 2.15277
+......\OT1/cmr/m/n/10 E
+.....\kern -1.25
+.....\OT1/cmr/m/n/10 X
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\penalty -300
+....\glue 15.0694 plus 4.30554 minus 0.86108
+....\pdfdest name{section.63} xyz
+....\penalty 10000
+....\glue -15.0694 plus -4.30554 minus -0.86108
+....\glue 15.0694 plus 4.30554 minus 0.86108
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 5.84724
 ....\hbox(9.99998+3.19998)x345.0, glue set 197.98463fil
 .....\hbox(9.27998+0.0)x32.39996
 ......\glue 0.0
 ......\OT1/cmr/bx/sc/14.4 6
-......\OT1/cmr/bx/sc/14.4 2
+......\OT1/cmr/bx/sc/14.4 3
 ......\glue 16.19998
 .....\hbox(9.99998+3.19998)x52.35771
 ......\OT1/cmr/bx/sc/14.4 T
@@ -4428,8 +4492,8 @@ Completed box being shipped out [7]
 .....\penalty 10000
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
-....\write3{\protect \BOOKMARK [1][-]{section.62}{\376\377\000T\000e\000X\0004\000h\000t\000,\000\040\000T\000e\000X\0004\000h\000t}{}% 62}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {62}\NoCaseChange {\HoLogo@tag@actualtext {first}{TeX4ht}{\hologoRobust {TeX4ht}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{TeX4ht}{\HologoRobust {TeX4ht}}}}{\thepage }{section.62}\protected@file@percent }}
+....\write3{\protect \BOOKMARK [1][-]{section.63}{\376\377\000T\000e\000X\0004\000h\000t\000,\000\040\000T\000e\000X\0004\000h\000t}{}% 63}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {63}\NoCaseChange {\HoLogo@tag@actualtext {first}{TeX4ht}{\hologoRobust {TeX4ht}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{TeX4ht}{\HologoRobust {TeX4ht}}}}{\thepage }{section.63}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.90276 plus 0.86108
 ....\glue(\parskip) 0.0 plus 1.0
@@ -4452,7 +4516,7 @@ Completed box being shipped out [7]
 .....\glue(\rightskip) 0.0
 ....\penalty -300
 ....\glue 15.0694 plus 4.30554 minus 0.86108
-....\pdfdest name{section.63} xyz
+....\pdfdest name{section.64} xyz
 ....\penalty 10000
 ....\glue -15.0694 plus -4.30554 minus -0.86108
 ....\glue 15.0694 plus 4.30554 minus 0.86108
@@ -4463,7 +4527,7 @@ Completed box being shipped out [7]
 .....\hbox(9.27998+0.0)x32.39996
 ......\glue 0.0
 ......\OT1/cmr/bx/sc/14.4 6
-......\OT1/cmr/bx/sc/14.4 3
+......\OT1/cmr/bx/sc/14.4 4
 ......\glue 16.19998
 .....\OT1/cmr/bx/sc/14.4 T
 .....\kern -2.70056
@@ -4498,8 +4562,8 @@ Completed box being shipped out [7]
 .....\penalty 10000
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
-....\write3{\protect \BOOKMARK [1][-]{section.63}{\376\377\000T\000e\000X\000L\000i\000v\000e\000,\000\040\000T\000e\000X\000L\000i\000v\000e}{}% 63}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {63}\NoCaseChange {\HoLogo@tag@actualtext {first}{TeXLive}{\hologoRobust {TeXLive}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{TeXLive}{\HologoRobust {TeXLive}}}}{\thepage }{section.63}\protected@file@percent }}
+....\write3{\protect \BOOKMARK [1][-]{section.64}{\376\377\000T\000e\000X\000L\000i\000v\000e\000,\000\040\000T\000e\000X\000L\000i\000v\000e}{}% 64}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {64}\NoCaseChange {\HoLogo@tag@actualtext {first}{TeXLive}{\hologoRobust {TeXLive}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{TeXLive}{\HologoRobust {TeXLive}}}}{\thepage }{section.64}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.90276 plus 0.86108
 ....\glue(\parskip) 0.0 plus 1.0
@@ -4525,7 +4589,7 @@ Completed box being shipped out [7]
 .....\glue(\rightskip) 0.0
 ....\penalty -300
 ....\glue 15.0694 plus 4.30554 minus 0.86108
-....\pdfdest name{section.64} xyz
+....\pdfdest name{section.65} xyz
 ....\penalty 10000
 ....\glue -15.0694 plus -4.30554 minus -0.86108
 ....\glue 15.0694 plus 4.30554 minus 0.86108
@@ -4536,7 +4600,7 @@ Completed box being shipped out [7]
 .....\hbox(9.27998+0.0)x32.39996
 ......\glue 0.0
 ......\OT1/cmr/bx/sc/14.4 6
-......\OT1/cmr/bx/sc/14.4 4
+......\OT1/cmr/bx/sc/14.4 5
 ......\glue 16.19998
 .....\hbox(9.87999+2.15999)x32.43327
 ......\OT1/cmr/bx/sc/14.4 T
@@ -4557,8 +4621,8 @@ Completed box being shipped out [7]
 .....\penalty 10000
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
-....\write3{\protect \BOOKMARK [1][-]{section.64}{\376\377\000T\000T\000H\000,\000\040\000T\000T\000H}{}% 64}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {64}\NoCaseChange {\HoLogo@tag@actualtext {first}{TTH}{\hologoRobust {TTH}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{TTH}{\HologoRobust {TTH}}}}{\thepage }{section.64}\protected@file@percent }}
+....\write3{\protect \BOOKMARK [1][-]{section.65}{\376\377\000T\000T\000H\000,\000\040\000T\000T\000H}{}% 65}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {65}\NoCaseChange {\HoLogo@tag@actualtext {first}{TTH}{\hologoRobust {TTH}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{TTH}{\HologoRobust {TTH}}}}{\thepage }{section.65}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.90276 plus 0.86108
 ....\glue(\parskip) 0.0 plus 1.0
@@ -4577,21 +4641,22 @@ Completed box being shipped out [7]
 .....\glue(\rightskip) 0.0
 ....\penalty -300
 ....\glue 15.0694 plus 4.30554 minus 0.86108
-....\pdfdest name{section.65} xyz
+....\pdfdest name{section.66} xyz
 ....\penalty 10000
 ....\glue -15.0694 plus -4.30554 minus -0.86108
 ....\glue 15.0694 plus 4.30554 minus 0.86108
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 6.62003
-....\hbox(9.87999+3.19998)x345.0, glue set 189.17302fil
+....\hbox(9.87999+3.19998)x345.0, glue set 190.7931fil
 .....\hbox(9.27998+0.0)x32.39996
 ......\glue 0.0
 ......\OT1/cmr/bx/sc/14.4 6
-......\OT1/cmr/bx/sc/14.4 5
+......\OT1/cmr/bx/sc/14.4 6
 ......\glue 16.19998
-.....\hbox(6.39998+0.0)x8.99998
+.....\hbox(6.39998+0.0)x8.18994
 ......\OT1/cmr/bx/sc/14.4 u
+......\kern -0.81004
 .....\hbox(6.39998+2.79999)x8.18994
 ......\OT1/cmr/bx/sc/14.4 p
 ......\kern -0.81004
@@ -4610,8 +4675,9 @@ Completed box being shipped out [7]
 .....\OT1/cmr/bx/sc/14.4 X
 .....\OT1/cmr/bx/sc/14.4 ,
 .....\glue 5.4 plus 3.37498 minus 1.43999
-.....\hbox(6.39998+0.0)x8.99998
+.....\hbox(6.39998+0.0)x8.18994
 ......\OT1/cmr/bx/sc/14.4 u
+......\kern -0.81004
 .....\hbox(6.39998+2.79999)x8.18994
 ......\OT1/cmr/bx/sc/14.4 p
 ......\kern -0.81004
@@ -4631,16 +4697,17 @@ Completed box being shipped out [7]
 .....\penalty 10000
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
-....\write3{\protect \BOOKMARK [1][-]{section.65}{\376\377\000u\000p\000L\000a\000T\000e\000X\000,\000\040\000u\000p\000L\000a\000T\000e\000X}{}% 65}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {65}\NoCaseChange {\HoLogo@tag@actualtext {first}{upLaTeX}{\hologoRobust {upLaTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{upLaTeX}{\HologoRobust {upLaTeX}}}}{\thepage }{section.65}\protected@file@percent }}
+....\write3{\protect \BOOKMARK [1][-]{section.66}{\376\377\000u\000p\000L\000a\000T\000e\000X\000,\000\040\000u\000p\000L\000a\000T\000e\000X}{}% 66}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {66}\NoCaseChange {\HoLogo@tag@actualtext {first}{upLaTeX}{\hologoRobust {upLaTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{upLaTeX}{\HologoRobust {upLaTeX}}}}{\thepage }{section.66}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.90276 plus 0.86108
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 1.9667
-....\hbox(6.83331+2.15277)x345.0, glue set 308.7252fil
-.....\hbox(4.30554+0.0)x5.55557
+....\hbox(6.83331+2.15277)x345.0, glue set 309.22523fil
+.....\hbox(4.30554+0.0)x5.05554
 ......\OT1/cmr/m/n/10 u
+......\kern -0.50003
 .....\hbox(4.30554+1.94444)x5.05554
 ......\OT1/cmr/m/n/10 p
 ......\kern -0.50003
@@ -4662,7 +4729,7 @@ Completed box being shipped out [7]
 .....\glue(\rightskip) 0.0
 ....\penalty -300
 ....\glue 15.0694 plus 4.30554 minus 0.86108
-....\pdfdest name{section.66} xyz
+....\pdfdest name{section.67} xyz
 ....\penalty 10000
 ....\glue -15.0694 plus -4.30554 minus -0.86108
 ....\glue 15.0694 plus 4.30554 minus 0.86108
@@ -4673,7 +4740,7 @@ Completed box being shipped out [7]
 .....\hbox(9.27998+0.0)x32.39996
 ......\glue 0.0
 ......\OT1/cmr/bx/sc/14.4 6
-......\OT1/cmr/bx/sc/14.4 6
+......\OT1/cmr/bx/sc/14.4 7
 ......\glue 16.19998
 .....\hbox(6.39998+0.0)x8.18994
 ......\OT1/cmr/bx/sc/14.4 u
@@ -4704,8 +4771,8 @@ Completed box being shipped out [7]
 .....\penalty 10000
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
-....\write3{\protect \BOOKMARK [1][-]{section.66}{\376\377\000u\000p\000T\000e\000X\000,\000\040\000u\000p\000T\000e\000X}{}% 66}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {66}\NoCaseChange {\HoLogo@tag@actualtext {first}{upTeX}{\hologoRobust {upTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{upTeX}{\HologoRobust {upTeX}}}}{\thepage }{section.66}\protected@file@percent }}
+....\write3{\protect \BOOKMARK [1][-]{section.67}{\376\377\000u\000p\000T\000e\000X\000,\000\040\000u\000p\000T\000e\000X}{}% 67}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {67}\NoCaseChange {\HoLogo@tag@actualtext {first}{upTeX}{\hologoRobust {upTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{upTeX}{\HologoRobust {upTeX}}}}{\thepage }{section.67}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.90276 plus 0.86108
 ....\glue(\parskip) 0.0 plus 1.0
@@ -4729,7 +4796,7 @@ Completed box being shipped out [7]
 .....\glue(\rightskip) 0.0
 ....\penalty -300
 ....\glue 15.0694 plus 4.30554 minus 0.86108
-....\pdfdest name{section.67} xyz
+....\pdfdest name{section.68} xyz
 ....\penalty 10000
 ....\glue -15.0694 plus -4.30554 minus -0.86108
 ....\glue 15.0694 plus 4.30554 minus 0.86108
@@ -4740,7 +4807,7 @@ Completed box being shipped out [7]
 .....\hbox(9.27998+0.0)x32.39996
 ......\glue 0.0
 ......\OT1/cmr/bx/sc/14.4 6
-......\OT1/cmr/bx/sc/14.4 7
+......\OT1/cmr/bx/sc/14.4 8
 ......\glue 16.19998
 .....\hbox(9.99998+3.19998)x49.0744
 ......\OT1/cmr/bx/sc/14.4 v
@@ -4767,8 +4834,8 @@ Completed box being shipped out [7]
 .....\penalty 10000
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
-....\write3{\protect \BOOKMARK [1][-]{section.67}{\376\377\000v\000i\000r\000T\000e\000X\000,\000\040\000V\000i\000r\000T\000e\000X}{}% 67}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {67}\NoCaseChange {\HoLogo@tag@actualtext {first}{virTeX}{\hologoRobust {virTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{virTeX}{\HologoRobust {virTeX}}}}{\thepage }{section.67}\protected@file@percent }}
+....\write3{\protect \BOOKMARK [1][-]{section.68}{\376\377\000v\000i\000r\000T\000e\000X\000,\000\040\000V\000i\000r\000T\000e\000X}{}% 68}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {68}\NoCaseChange {\HoLogo@tag@actualtext {first}{virTeX}{\hologoRobust {virTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{virTeX}{\HologoRobust {virTeX}}}}{\thepage }{section.68}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.90276 plus 0.86108
 ....\glue(\parskip) 0.0 plus 1.0
@@ -4790,7 +4857,7 @@ Completed box being shipped out [7]
 .....\glue(\rightskip) 0.0
 ....\penalty -300
 ....\glue 15.0694 plus 4.30554 minus 0.86108
-....\pdfdest name{section.68} xyz
+....\pdfdest name{section.69} xyz
 ....\penalty 10000
 ....\glue -15.0694 plus -4.30554 minus -0.86108
 ....\glue 15.0694 plus 4.30554 minus 0.86108
@@ -4801,7 +4868,7 @@ Completed box being shipped out [7]
 .....\hbox(9.27998+0.0)x32.39996
 ......\glue 0.0
 ......\OT1/cmr/bx/sc/14.4 6
-......\OT1/cmr/bx/sc/14.4 8
+......\OT1/cmr/bx/sc/14.4 9
 ......\glue 16.19998
 .....\hbox(9.87999+3.19998)x41.6411
 ......\OT1/cmr/bx/sc/14.4 V
@@ -4824,8 +4891,8 @@ Completed box being shipped out [7]
 .....\penalty 10000
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
-....\write3{\protect \BOOKMARK [1][-]{section.68}{\376\377\000V\000T\000e\000X\000,\000\040\000V\000T\000e\000X}{}% 68}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {68}\NoCaseChange {\HoLogo@tag@actualtext {first}{VTeX}{\hologoRobust {VTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{VTeX}{\HologoRobust {VTeX}}}}{\thepage }{section.68}\protected@file@percent }}
+....\write3{\protect \BOOKMARK [1][-]{section.69}{\376\377\000V\000T\000e\000X\000,\000\040\000V\000T\000e\000X}{}% 69}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {69}\NoCaseChange {\HoLogo@tag@actualtext {first}{VTeX}{\hologoRobust {VTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{VTeX}{\HologoRobust {VTeX}}}}{\thepage }{section.69}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.90276 plus 0.86108
 ....\glue(\parskip) 0.0 plus 1.0
@@ -4845,7 +4912,7 @@ Completed box being shipped out [7]
 .....\glue(\rightskip) 0.0
 ....\penalty -300
 ....\glue 15.0694 plus 4.30554 minus 0.86108
-....\pdfdest name{section.69} xyz
+....\pdfdest name{section.70} xyz
 ....\penalty 10000
 ....\glue -15.0694 plus -4.30554 minus -0.86108
 ....\glue 15.0694 plus 4.30554 minus 0.86108
@@ -4855,8 +4922,8 @@ Completed box being shipped out [7]
 ....\hbox(9.87999+3.19998)x345.0, glue set 260.2069fil
 .....\hbox(9.27998+0.0)x32.39996
 ......\glue 0.0
-......\OT1/cmr/bx/sc/14.4 6
-......\OT1/cmr/bx/sc/14.4 9
+......\OT1/cmr/bx/sc/14.4 7
+......\OT1/cmr/bx/sc/14.4 0
 ......\glue 16.19998
 .....\OT1/cmr/bx/sc/14.4 X
 .....\kern -1.62009
@@ -4885,8 +4952,8 @@ Completed box being shipped out [7]
 .....\penalty 10000
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
-....\write3{\protect \BOOKMARK [1][-]{section.69}{\376\377\000X\000e\000,\000\040\000X\000e}{}% 69}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {69}\NoCaseChange {\HoLogo@tag@actualtext {first}{Xe}{\hologoRobust {Xe}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{Xe}{\HologoRobust {Xe}}}}{\thepage }{section.69}\protected@file@percent }}
+....\write3{\protect \BOOKMARK [1][-]{section.70}{\376\377\000X\000e\000,\000\040\000X\000e}{}% 70}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {70}\NoCaseChange {\HoLogo@tag@actualtext {first}{Xe}{\hologoRobust {Xe}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{Xe}{\HologoRobust {Xe}}}}{\thepage }{section.70}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.90276 plus 0.86108
 ....\glue(\parskip) 0.0 plus 1.0
@@ -4904,112 +4971,6 @@ Completed box being shipped out [7]
 .........\OT1/cmr/m/n/10 E
 ........\glue 0.0 plus 1.0fil minus 1.0fil
 .......\pdfliteral{Q}
-.....\penalty 10000
-.....\glue(\parfillskip) 0.0 plus 1.0fil
-.....\glue(\rightskip) 0.0
-....\penalty -300
-....\glue 15.0694 plus 4.30554 minus 0.86108
-....\pdfdest name{section.70} xyz
-....\penalty 10000
-....\glue -15.0694 plus -4.30554 minus -0.86108
-....\glue 15.0694 plus 4.30554 minus 0.86108
-....\glue(\parskip) 0.0 plus 1.0
-....\glue(\parskip) 0.0
-....\glue(\baselineskip) 5.96724
-....\hbox(9.87999+3.19998)x345.0, glue set 185.27184fil
-.....\hbox(9.27998+0.0)x32.39996
-......\glue 0.0
-......\OT1/cmr/bx/sc/14.4 7
-......\OT1/cmr/bx/sc/14.4 0
-......\glue 16.19998
-.....\OT1/cmr/bx/sc/14.4 X
-.....\kern -1.62009
-.....\hbox(9.87999+0.0)x10.63333, shifted 3.19998
-......\hbox(9.87999+0.0)x10.63333
-.......\kern 10.63333
-.......\pdfliteral{q -1 0 0 1 0 0 cm}
-.......\hbox(9.87999+0.0)x0.0, glue set - 10.63333fil
-........\hbox(9.87999+0.0)x10.63333
-.........\OT1/cmr/bx/sc/14.4 E
-........\glue 0.0 plus 1.0fil minus 1.0fil
-.......\pdfliteral{Q}
-.....\kern -2.10606
-.....\OT1/cmr/bx/sc/14.4 L
-.....\kern -5.832
-.....\vbox(9.87999+0.0)x8.6944, glue set 3.01888fil
-......\hbox(6.86111+0.0)x8.6944
-.......\OT1/cmr/bx/n/10 A
-......\glue 0.0 plus 1.0fil minus 1.0fil
-.....\kern -2.42989
-.....\OT1/cmr/bx/sc/14.4 T
-.....\kern -2.70056
-.....\hbox(9.87999+0.0)x10.63333, shifted 3.19998
-......\OT1/cmr/bx/sc/14.4 E
-.....\kern -2.025
-.....\OT1/cmr/bx/sc/14.4 X
-.....\OT1/cmr/bx/sc/14.4 ,
-.....\glue 5.4 plus 3.37498 minus 1.43999
-.....\OT1/cmr/bx/sc/14.4 X
-.....\kern -1.62009
-.....\hbox(9.87999+0.0)x10.63333, shifted 3.19998
-......\hbox(9.87999+0.0)x10.63333
-.......\kern 10.63333
-.......\pdfliteral{q -1 0 0 1 0 0 cm}
-.......\hbox(9.87999+0.0)x0.0, glue set - 10.63333fil
-........\hbox(9.87999+0.0)x10.63333
-.........\OT1/cmr/bx/sc/14.4 E
-........\glue 0.0 plus 1.0fil minus 1.0fil
-.......\pdfliteral{Q}
-.....\kern -2.10606
-.....\OT1/cmr/bx/sc/14.4 L
-.....\kern -5.832
-.....\vbox(9.87999+0.0)x8.6944, glue set 3.01888fil
-......\hbox(6.86111+0.0)x8.6944
-.......\OT1/cmr/bx/n/10 A
-......\glue 0.0 plus 1.0fil minus 1.0fil
-.....\kern -2.42989
-.....\OT1/cmr/bx/sc/14.4 T
-.....\kern -2.70056
-.....\hbox(9.87999+0.0)x10.63333, shifted 3.19998
-......\OT1/cmr/bx/sc/14.4 E
-.....\kern -2.025
-.....\OT1/cmr/bx/sc/14.4 X
-.....\penalty 10000
-.....\glue(\parfillskip) 0.0 plus 1.0fil
-.....\glue(\rightskip) 0.0
-....\write3{\protect \BOOKMARK [1][-]{section.70}{\376\377\000X\000e\000L\000a\000T\000e\000X\000,\000\040\000X\000e\000L\000a\000T\000e\000X}{}% 70}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {70}\NoCaseChange {\HoLogo@tag@actualtext {first}{XeLaTeX}{\hologoRobust {XeLaTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{XeLaTeX}{\HologoRobust {XeLaTeX}}}}{\thepage }{section.70}\protected@file@percent }}
-....\penalty 10000
-....\glue 9.90276 plus 0.86108
-....\glue(\parskip) 0.0 plus 1.0
-....\glue(\parskip) 0.0
-....\glue(\baselineskip) 1.9667
-....\hbox(6.83331+2.15277)x345.0, glue set 307.33084fil
-.....\OT1/cmr/m/n/10 X
-.....\kern -1.00006
-.....\hbox(6.83331+0.0)x6.80557, shifted 2.15277
-......\hbox(6.83331+0.0)x6.80557
-.......\kern 6.80557
-.......\pdfliteral{q -1 0 0 1 0 0 cm}
-.......\hbox(6.83331+0.0)x0.0, glue set - 6.80557fil
-........\hbox(6.83331+0.0)x6.80557
-.........\OT1/cmr/m/n/10 E
-........\glue 0.0 plus 1.0fil minus 1.0fil
-.......\pdfliteral{Q}
-.....\kern -1.30005
-.....\OT1/cmr/m/n/10 L
-.....\kern -3.6
-.....\vbox(6.83331+0.0)x5.90282, glue set 2.04997fil
-......\hbox(4.78334+0.0)x5.90282
-.......\OT1/cmr/m/n/7 A
-......\glue 0.0 plus 1.0fil minus 1.0fil
-.....\kern -1.49994
-.....\OT1/cmr/m/n/10 T
-.....\kern -1.66702
-.....\hbox(6.83331+0.0)x6.80557, shifted 2.15277
-......\OT1/cmr/m/n/10 E
-.....\kern -1.25
-.....\OT1/cmr/m/n/10 X
 .....\penalty 10000
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
@@ -5045,14 +5006,120 @@ Completed box being shipped out [8]
 .....\hbox(0.0+0.0)x345.0
 ...\glue 25.0
 ...\glue(\lineskip) 0.0
-...\vbox(550.0+0.0)x345.0, glue set 518.04192fil
+...\vbox(550.0+0.0)x345.0, glue set 463.07562fil
 ....\pdfdest name{section.71} xyz
 ....\glue(\topskip) 0.12001
-....\hbox(9.87999+3.19998)x345.0, glue set 206.25114fil
+....\hbox(9.87999+3.19998)x345.0, glue set 185.27184fil
 .....\hbox(9.27998+0.0)x32.39996
 ......\glue 0.0
 ......\OT1/cmr/bx/sc/14.4 7
 ......\OT1/cmr/bx/sc/14.4 1
+......\glue 16.19998
+.....\OT1/cmr/bx/sc/14.4 X
+.....\kern -1.62009
+.....\hbox(9.87999+0.0)x10.63333, shifted 3.19998
+......\hbox(9.87999+0.0)x10.63333
+.......\kern 10.63333
+.......\pdfliteral{q -1 0 0 1 0 0 cm}
+.......\hbox(9.87999+0.0)x0.0, glue set - 10.63333fil
+........\hbox(9.87999+0.0)x10.63333
+.........\OT1/cmr/bx/sc/14.4 E
+........\glue 0.0 plus 1.0fil minus 1.0fil
+.......\pdfliteral{Q}
+.....\kern -2.10606
+.....\OT1/cmr/bx/sc/14.4 L
+.....\kern -5.832
+.....\vbox(9.87999+0.0)x8.6944, glue set 3.01888fil
+......\hbox(6.86111+0.0)x8.6944
+.......\OT1/cmr/bx/n/10 A
+......\glue 0.0 plus 1.0fil minus 1.0fil
+.....\kern -2.42989
+.....\OT1/cmr/bx/sc/14.4 T
+.....\kern -2.70056
+.....\hbox(9.87999+0.0)x10.63333, shifted 3.19998
+......\OT1/cmr/bx/sc/14.4 E
+.....\kern -2.025
+.....\OT1/cmr/bx/sc/14.4 X
+.....\OT1/cmr/bx/sc/14.4 ,
+.....\glue 5.4 plus 3.37498 minus 1.43999
+.....\OT1/cmr/bx/sc/14.4 X
+.....\kern -1.62009
+.....\hbox(9.87999+0.0)x10.63333, shifted 3.19998
+......\hbox(9.87999+0.0)x10.63333
+.......\kern 10.63333
+.......\pdfliteral{q -1 0 0 1 0 0 cm}
+.......\hbox(9.87999+0.0)x0.0, glue set - 10.63333fil
+........\hbox(9.87999+0.0)x10.63333
+.........\OT1/cmr/bx/sc/14.4 E
+........\glue 0.0 plus 1.0fil minus 1.0fil
+.......\pdfliteral{Q}
+.....\kern -2.10606
+.....\OT1/cmr/bx/sc/14.4 L
+.....\kern -5.832
+.....\vbox(9.87999+0.0)x8.6944, glue set 3.01888fil
+......\hbox(6.86111+0.0)x8.6944
+.......\OT1/cmr/bx/n/10 A
+......\glue 0.0 plus 1.0fil minus 1.0fil
+.....\kern -2.42989
+.....\OT1/cmr/bx/sc/14.4 T
+.....\kern -2.70056
+.....\hbox(9.87999+0.0)x10.63333, shifted 3.19998
+......\OT1/cmr/bx/sc/14.4 E
+.....\kern -2.025
+.....\OT1/cmr/bx/sc/14.4 X
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\write3{\protect \BOOKMARK [1][-]{section.71}{\376\377\000X\000e\000L\000a\000T\000e\000X\000,\000\040\000X\000e\000L\000a\000T\000e\000X}{}% 71}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {71}\NoCaseChange {\HoLogo@tag@actualtext {first}{XeLaTeX}{\hologoRobust {XeLaTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{XeLaTeX}{\HologoRobust {XeLaTeX}}}}{\thepage }{section.71}\protected@file@percent }}
+....\penalty 10000
+....\glue 9.90276 plus 0.86108
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 1.9667
+....\hbox(6.83331+2.15277)x345.0, glue set 307.33084fil
+.....\OT1/cmr/m/n/10 X
+.....\kern -1.00006
+.....\hbox(6.83331+0.0)x6.80557, shifted 2.15277
+......\hbox(6.83331+0.0)x6.80557
+.......\kern 6.80557
+.......\pdfliteral{q -1 0 0 1 0 0 cm}
+.......\hbox(6.83331+0.0)x0.0, glue set - 6.80557fil
+........\hbox(6.83331+0.0)x6.80557
+.........\OT1/cmr/m/n/10 E
+........\glue 0.0 plus 1.0fil minus 1.0fil
+.......\pdfliteral{Q}
+.....\kern -1.30005
+.....\OT1/cmr/m/n/10 L
+.....\kern -3.6
+.....\vbox(6.83331+0.0)x5.90282, glue set 2.04997fil
+......\hbox(4.78334+0.0)x5.90282
+.......\OT1/cmr/m/n/7 A
+......\glue 0.0 plus 1.0fil minus 1.0fil
+.....\kern -1.49994
+.....\OT1/cmr/m/n/10 T
+.....\kern -1.66702
+.....\hbox(6.83331+0.0)x6.80557, shifted 2.15277
+......\OT1/cmr/m/n/10 E
+.....\kern -1.25
+.....\OT1/cmr/m/n/10 X
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\penalty -300
+....\glue 15.0694 plus 4.30554 minus 0.86108
+....\pdfdest name{section.72} xyz
+....\penalty 10000
+....\glue -15.0694 plus -4.30554 minus -0.86108
+....\glue 15.0694 plus 4.30554 minus 0.86108
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 5.96724
+....\hbox(9.87999+3.19998)x345.0, glue set 206.25114fil
+.....\hbox(9.27998+0.0)x32.39996
+......\glue 0.0
+......\OT1/cmr/bx/sc/14.4 7
+......\OT1/cmr/bx/sc/14.4 2
 ......\glue 16.19998
 .....\OT1/cmr/bx/sc/14.4 X
 .....\kern -1.62009
@@ -5095,8 +5162,8 @@ Completed box being shipped out [8]
 .....\penalty 10000
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
-....\write3{\protect \BOOKMARK [1][-]{section.71}{\376\377\000X\000e\000T\000e\000X\000,\000\040\000X\000e\000T\000e\000X}{}% 71}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {71}\NoCaseChange {\HoLogo@tag@actualtext {first}{XeTeX}{\hologoRobust {XeTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{XeTeX}{\HologoRobust {XeTeX}}}}{\thepage }{section.71}\protected@file@percent }}
+....\write3{\protect \BOOKMARK [1][-]{section.72}{\376\377\000X\000e\000T\000e\000X\000,\000\040\000X\000e\000T\000e\000X}{}% 72}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {72}\NoCaseChange {\HoLogo@tag@actualtext {first}{XeTeX}{\hologoRobust {XeTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{XeTeX}{\HologoRobust {XeTeX}}}}{\thepage }{section.72}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.90276 plus 0.86108
 ....\glue(\parskip) 0.0 plus 1.0
@@ -5137,4 +5204,4 @@ Completed box being shipped out [8]
 (hologo-test-bookmark.aux)
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Package rerunfilecheck Info: File `hologo-test-bookmark.out' has not changed.
-(rerunfilecheck)             Checksum: 35ED8D4AC4B92ADFA449022B6499F05A;8546.
+(rerunfilecheck)             Checksum: 479A33A0F3627060C6F90CD910C0AD74;8684.

@@ -5,7 +5,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line ....
 > \box...=
-\hbox(6.94444+2.15277)x151.91322
+\hbox(6.94444+2.15277)x151.4132
 .\hbox(4.30554+0.0)x5.05554
 ..\OT1/cmr/m/n/10 u
 ..\kern -0.50003
@@ -23,8 +23,9 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 .\OT1/cmr/m/n/10 n
 .\OT1/cmr/m/n/10 d
 .\glue 3.33333 plus 1.66666 minus 1.11111
-.\hbox(6.83331+0.0)x7.50002
+.\hbox(6.83331+0.0)x6.99998
 ..\OT1/cmr/m/n/10 A
+..\kern -0.50003
 .\hbox(4.30554+1.94444)x5.05554
 ..\OT1/cmr/m/n/10 p
 ..\kern -0.50003
