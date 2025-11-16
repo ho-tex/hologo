@@ -1663,7 +1663,7 @@ and the derived files
 %
 % \subsection{Tagging support}
 % 
-% \begin{macro}{\HoLogo@tag@actualtext}
+%    \begin{macro}{\HoLogo@tag@actualtext}
 % \cs{HoLogo@tag@actualtext} is the core command to add tagging support.
 % It is used in the various logo commands. With \LaTeX{} it calls a tagging socket.
 % To avoid that nested logos are tagged twice it redefines itself locally.
@@ -1703,7 +1703,7 @@ and the derived files
   \def\HoLogo@tag@actualtext#1#2#3{#3}
 \fi
 %    \end{macrocode}
-% \end{macro}
+%    \end{macro}
 % \subsection{\hologo{TeX} and friends}
 %
 % \subsubsection{\hologo{TeX}}
@@ -1841,11 +1841,11 @@ and the derived files
 %    \end{macrocode}
 %    \end{macro}
 %    
-% \begin{macro}{\HoLogo@tag@plainTeX}
+%    \begin{macro}{\HoLogo@tag@plainTeX}
 %    \begin{macrocode}
 \def\HoLogo@tag@plainTeX#1{#1{p}{P}lain TeX}
 %    \end{macrocode}
-% \end{macro}
+%    \end{macro}
 %
 %    \begin{macro}{\HoLogoCs@plainTeX}
 %    \begin{macrocode}
@@ -2000,11 +2000,11 @@ and the derived files
 }
 %    \end{macrocode}
 %    \end{macro}
-% \begin{macro}{\HoLogo@tag@LaTeXTeX}
+%    \begin{macro}{\HoLogo@tag@LaTeXTeX}
 %    \begin{macrocode}
 \def\HoLogo@tag@LaTeXTeX#1{(La)TeX}
 %    \end{macrocode}
-% \end{macro}
+%    \end{macro}
 
 %    \begin{macro}{\HoLogoBkm@LaTeXTeX}
 %    \begin{macrocode}
@@ -2091,11 +2091,11 @@ and the derived files
 %    \end{macrocode}
 %    \end{macro}
 %    
-% \begin{macro}{\HoLogo@tag@LaTeXe}
+%    \begin{macro}{\HoLogo@tag@LaTeXe}
 %    \begin{macrocode}
 \def\HoLogo@tag@LaTeXe#1{LaTeX2e}
 %    \end{macrocode}
-% \end{macro}
+%    \end{macro}
 %
 %    \begin{macro}{\HoLogoCs@LaTeXe}
 %    \begin{macrocode}
@@ -2167,11 +2167,11 @@ $ \string ^^^^0395%
 \let\csname HoLogo@LaTeX2e\endcsname\HoLogo@LaTeXe
 %    \end{macrocode}
 %    \end{macro}
-% \begin{macro}{\HoLogo@tag@LaTeX2e}
+%    \begin{macro}{\HoLogo@tag@LaTeX2e}
 %    \begin{macrocode}
 \expandafter\let\csname HoLogo@tag@LaTeX2e\endcsname\HoLogo@tag@LaTeXe
 %    \end{macrocode}
-% \end{macro}
+%    \end{macro}
 
 %    \begin{macro}{\HoLogoCs@LaTeX2e}
 %    \begin{macrocode}
@@ -2330,11 +2330,11 @@ $ #1{\string ^^^^0395}{\string ^^^^03b5}%
 %    \end{macrocode}
 %    \end{macro}
 %    
-% \begin{macro}{\HoLogo@tag@iniTeX}
+%    \begin{macro}{\HoLogo@tag@iniTeX}
 %    \begin{macrocode}
 \def\HoLogo@tag@iniTeX#1{#1{i}{I}niTeX}
 %    \end{macrocode}
-% \end{macro}
+%    \end{macro}
 %    
 %    \begin{macro}{\HoLogoCs@iniTeX}
 %    \begin{macrocode}
@@ -2366,11 +2366,11 @@ $ #1{\string ^^^^0395}{\string ^^^^03b5}%
 %    \end{macrocode}
 %    \end{macro}
 %
-% \begin{macro}{\HoLogo@tag@virTeX}
+%    \begin{macro}{\HoLogo@tag@virTeX}
 %    \begin{macrocode}
 \def\HoLogo@tag@virTeX#1{#1{v}{V}irTeX}
 %    \end{macrocode}
-% \end{macro}
+%    \end{macro}
 %    
 %    \begin{macro}{\HoLogoCs@virTeX}
 %    \begin{macrocode}
@@ -3080,11 +3080,11 @@ $ #1{\string ^^^^0395}{\string ^^^^03b5}%
 %    \end{macrocode}
 %    \end{macro}
 %    
-% \begin{macro}{\HoLogo@tag@pdfTeX}
+%    \begin{macro}{\HoLogo@tag@pdfTeX}
 %    \begin{macrocode}
 \def\HoLogo@tag@pdfTeX#1{#1{p}{P}dfTeX}
 %    \end{macrocode}
-% \end{macro}
+%    \end{macro}
 %
 %    \begin{macro}{\HoLogoCs@pdfTeX}
 %    \begin{macrocode}
@@ -3114,11 +3114,11 @@ $ #1{\string ^^^^0395}{\string ^^^^03b5}%
 %    \end{macrocode}
 %    \end{macro}
 %    
-% \begin{macro}{\HoLogo@tag@pdfLaTeX}
+%    \begin{macro}{\HoLogo@tag@pdfLaTeX}
 %    \begin{macrocode}
 \def\HoLogo@tag@pdfLaTeX#1{#1{p}{P}dfLaTeX}
 %    \end{macrocode}
-% \end{macro}
+%    \end{macro}
 %    
 %    \begin{macro}{\HoLogoCs@pdfLaTeX}
 %    \begin{macrocode}
@@ -3218,11 +3218,11 @@ $ #1{\string ^^^^0395}{\string ^^^^03b5}%
 %    \end{macrocode}
 %    \end{macro}
 %    
-% \begin{macro}{\HoLogo@tag@AmSTeX}
+%    \begin{macro}{\HoLogo@tag@AmSTeX}
 %    \begin{macrocode}
 \def\HoLogo@tag@AmsTeX#1{AmS-TeX}
 %    \end{macrocode}
-% \end{macro}
+%    \end{macro}
     
 %    \begin{macro}{\HoLogoBkm@AmSTeX}
 %    \begin{macrocode}
@@ -3530,11 +3530,11 @@ $ #1{\string ^^^^0395}{\string ^^^^03b5}%
 %    \end{macrocode}
 %    \end{macro}
 %    
-% \begin{macro}{\HoLogo@tag@emTeX}
+%    \begin{macro}{\HoLogo@tag@emTeX}
 %    \begin{macrocode}
 \def\HoLogo@tag@emTeX#1{#1{e}{E}mTeX}
 %    \end{macrocode}
-% \end{macro}
+%    \end{macro}
 %    
 %    \begin{macro}{\HoLogoCs@emTeX}
 %    \begin{macrocode}
@@ -3597,11 +3597,11 @@ $ #1{\string ^^^^0395}{\string ^^^^03b5}%
 }
 %    \end{macrocode}
 %    \end{macro}
-% \begin{macro}{\HoLogo@tag@ExTeX}
+%    \begin{macro}{\HoLogo@tag@ExTeX}
 %    \begin{macrocode}
 \def\HoLogo@tag@ExTeX#1{#1{e}{E}xTeX}
 %    \end{macrocode}
-% \end{macro}
+%    \end{macro}
     
 %    \begin{macro}{\HoLogoHtml@ExTeX}
 %    \begin{macrocode}
@@ -3657,12 +3657,16 @@ $ #1{\string ^^^^0395}{\string ^^^^03b5}%
 }
 %    \end{macrocode}
 %    \end{macro}
-% \begin{macro}{\HoLogo@tag@TeXLive}
+%    \begin{macro}{\HoLogo@tag@TeXLive}
 %    \begin{macrocode}
 \def\HoLogo@tag@TeXLive#1{TeX Live}
 %    \end{macrocode}
-% \end{macro}
-%
+%    \end{macro}
+%    \begin{macro}{\HoLogoBkm@TeXLive}
+%    \begin{macrocode}
+\def\HoLogoBkm@TeXLive#1{TeX Live}
+%    \end{macrocode}
+%    \end{macro}
 %    \begin{macro}{\HoLogoHtml@TeXLive}
 %    \begin{macrocode}
 \let\HoLogoHtml@TeXLive\HoLogo@TeXLive
@@ -3988,11 +3992,11 @@ $ #1{\string ^^^^0395}{\string ^^^^03b5}%
 }
 %    \end{macrocode}
 %    \end{macro}
-% \begin{macro}{\HoLogo@tag@biber}
+%    \begin{macro}{\HoLogo@tag@biber}
 %    \begin{macrocode}
 \def\HoLogo@tag@biber#1{#1{b}{B}iber}
 %    \end{macrocode}
-% \end{macro}
+%    \end{macro}
 %    
 %    \begin{macro}{\HoLogoCs@biber}
 %    \begin{macrocode}
@@ -4267,11 +4271,11 @@ $ #1{\string ^^^^0395}{\string ^^^^03b5}%
 }
 %    \end{macrocode}
 %    \end{macro}
-% \begin{macro}{\HoLogo@tag@HanTheThanh}
+%    \begin{macro}{\HoLogo@tag@HanTheThanh}
 %    \begin{macrocode}
 \def\HoLogo@tag@HanTheThanh#1{Hàn Thế Thành}
 %    \end{macrocode}
-% \end{macro}
+%    \end{macro}
     
 %    \begin{macro}{\HoLogoBkm@HanTheThanh}
 %    \begin{macrocode}
