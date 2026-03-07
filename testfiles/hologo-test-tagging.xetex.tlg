@@ -211,8 +211,8 @@ Completed box being shipped out [1]
 ....\glue 15.08499 plus 4.31 minus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
-....\glue(\baselineskip) 5.42001
-....\hbox(10.08+3.1968)x345.0, glue set 180.16982fil
+....\glue(\baselineskip) 5.62161
+....\hbox(9.8784+3.1968)x345.0, glue set 142.3488fil
 .....\write1{\new@label@record{mcid-10}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{10}{tagmcid}{\__property_code_tagmcid: }}}
 .....\special shipout{pdf:code /section-number <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\hbox(9.4464+0.0)x22.50719
@@ -235,12 +235,14 @@ Completed box being shipped out [1]
 .....\special{pdf:code EMC}
 .....\write1{\new@label@record{mcid-12}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{12}{tagmcid}{\__property_code_tagmcid: }}}
 .....\special shipout{pdf:code /Span <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
-.....\hbox(10.08+0.0)x11.51996
-......\TU/lmr/bx/sc/14.4 A
-......\kern -0.72003
-.....\hbox(6.48+2.79358)x8.27997
-......\TU/lmr/bx/sc/14.4 p
-......\kern -0.72003
+.....\OMS/cmsy/m/n/14.4 A
+.....\kern -2.40051
+.....\hbox(9.83998+0.0)x17.29295, shifted 3.09999
+......\OMS/cmsy/m/n/14.4 M
+.....\kern -1.8
+.....\OMS/cmsy/m/n/14.4 S
+.....\hbox(3.85919+0.0)x5.4
+......\TU/lmr/bx/sc/14.4 -
 .....\TU/lmr/bx/sc/14.4 L
 .....\kern -5.184
 .....\vbox(9.7488+0.0)x8.69, glue set 2.7688fil
@@ -263,12 +265,14 @@ Completed box being shipped out [1]
 .....\special{pdf:code EMC}
 .....\write1{\new@label@record{mcid-14}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{14}{tagmcid}{\__property_code_tagmcid: }}}
 .....\special shipout{pdf:code /Span <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
-.....\hbox(10.08+0.0)x11.51996
-......\TU/lmr/bx/sc/14.4 A
-......\kern -0.72003
-.....\hbox(6.48+2.79358)x8.27997
-......\TU/lmr/bx/sc/14.4 p
-......\kern -0.72003
+.....\OMS/cmsy/m/n/14.4 A
+.....\kern -2.40051
+.....\hbox(9.83998+0.0)x17.29295, shifted 3.09999
+......\OMS/cmsy/m/n/14.4 M
+.....\kern -1.8
+.....\OMS/cmsy/m/n/14.4 S
+.....\hbox(3.85919+0.0)x5.4
+......\TU/lmr/bx/sc/14.4 -
 .....\TU/lmr/bx/sc/14.4 L
 .....\kern -5.184
 .....\vbox(9.7488+0.0)x8.69, glue set 2.7688fil
@@ -314,25 +318,27 @@ Completed box being shipped out [1]
 ....\marks4{b+,15,14,section,,,}
 ....\marks4{e-,15,14,}
 ....\marks4{e+,15,14,}
-....\special{pdf:out [-] 1<</Title(\376\377\000A\000p\000L\000a\000T\000e\000X\000,\000\040\000A\000p\000L\000a\000T\000e\000X)/A<<../SD @pdf.SDest.section.2>>>>}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {2}\NoCaseChange {\HoLogo@tag@actualtext {first}{ApLaTeX}{\hologoRobust {ApLaTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{ApLaTeX}{\HologoRobust {ApLaTeX}}}}{\thepage }{section.2}\protected@file@percent }}
+....\special{pdf:out [-] 1<</Title(\376\377\000A\000m\000S\000-\000L\000a\000T\000e\000X\000,\000\040\000A\000m\000S\000-\000L\000a\000T\000e\000X)/A<<../SD @pdf.SDest.section.2>>>>}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {2}\NoCaseChange {\HoLogo@tag@actualtext {first}{AmSLaTeX}{\hologoRobust {AmSLaTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{AmSLaTeX}{\HologoRobust {AmSLaTeX}}}}{\thepage }{section.2}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
-....\glue(\baselineskip) 1.6432
-....\hbox(7.16+2.155)x345.0, glue set 303.94603fil
+....\glue(\baselineskip) 1.9699
+....\hbox(6.83331+2.155)x345.0, glue set 289.54372fil
 .....\write1{\new@label@record{mcid-16}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{16}{tagmcid}{\__property_code_tagmcid: }}}
 .....\special shipout{pdf:code /text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\special{pdf:code EMC}
 .....\write1{\new@label@record{mcid-17}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{17}{tagmcid}{\__property_code_tagmcid: }}}
 .....\special shipout{pdf:code /Span <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
-.....\hbox(7.16+0.0)x6.99997
-......\TU/lmr/m/n/10 A
-......\kern -0.50003
-.....\hbox(4.42+1.93999)x5.05997
-......\TU/lmr/m/n/10 p
-......\kern -0.50003
+.....\OMS/cmsy/m/n/10 A
+.....\kern -1.66702
+.....\hbox(6.83331+0.0)x12.00899, shifted 2.15277
+......\OMS/cmsy/m/n/10 M
+.....\kern -1.25
+.....\OMS/cmsy/m/n/10 S
+.....\hbox(2.45+0.0)x3.33
+......\TU/lmr/m/n/10 -
 .....\TU/lmr/m/n/10 L
 .....\kern -3.6
 .....\vbox(6.77+0.0)x5.901, glue set 1.779fil
@@ -370,8 +376,8 @@ Completed box being shipped out [1]
 ....\glue 15.08499 plus 4.31 minus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
-....\glue(\baselineskip) 5.765
-....\hbox(10.08+3.1968)x345.0, glue set 205.21053fil
+....\glue(\baselineskip) 5.9666
+....\hbox(9.8784+3.1968)x345.0, glue set 164.50978fil
 .....\write1{\new@label@record{mcid-19}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{19}{tagmcid}{\__property_code_tagmcid: }}}
 .....\special shipout{pdf:code /section-number <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\hbox(9.4464+0.17279)x22.50719
@@ -394,12 +400,14 @@ Completed box being shipped out [1]
 .....\special{pdf:code EMC}
 .....\write1{\new@label@record{mcid-21}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{21}{tagmcid}{\__property_code_tagmcid: }}}
 .....\special shipout{pdf:code /Span <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
-.....\hbox(10.08+0.0)x11.51996
-......\TU/lmr/bx/sc/14.4 A
-......\kern -0.72003
-.....\hbox(6.48+2.79358)x6.8401
-......\TU/lmr/bx/sc/14.4 p
-......\kern -2.1599
+.....\OMS/cmsy/m/n/14.4 A
+.....\kern -2.40051
+.....\hbox(9.83998+0.0)x17.29295, shifted 3.09999
+......\OMS/cmsy/m/n/14.4 M
+.....\kern -1.8
+.....\OMS/cmsy/m/n/14.4 S
+.....\hbox(3.85919+0.0)x5.4
+......\TU/lmr/bx/sc/14.4 -
 .....\TU/lmr/bx/sc/14.4 T
 .....\kern -2.4005
 .....\hbox(9.8064+0.0)x10.6272, shifted 3.1968
@@ -415,12 +423,14 @@ Completed box being shipped out [1]
 .....\special{pdf:code EMC}
 .....\write1{\new@label@record{mcid-23}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{23}{tagmcid}{\__property_code_tagmcid: }}}
 .....\special shipout{pdf:code /Span <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
-.....\hbox(10.08+0.0)x11.51996
-......\TU/lmr/bx/sc/14.4 A
-......\kern -0.72003
-.....\hbox(6.48+2.79358)x6.8401
-......\TU/lmr/bx/sc/14.4 p
-......\kern -2.1599
+.....\OMS/cmsy/m/n/14.4 A
+.....\kern -2.40051
+.....\hbox(9.83998+0.0)x17.29295, shifted 3.09999
+......\OMS/cmsy/m/n/14.4 M
+.....\kern -1.8
+.....\OMS/cmsy/m/n/14.4 S
+.....\hbox(3.85919+0.0)x5.4
+......\TU/lmr/bx/sc/14.4 -
 .....\TU/lmr/bx/sc/14.4 T
 .....\kern -2.4005
 .....\hbox(9.8064+0.0)x10.6272, shifted 3.1968
@@ -459,25 +469,27 @@ Completed box being shipped out [1]
 ....\marks4{b+,24,22,section,,,}
 ....\marks4{e-,24,22,}
 ....\marks4{e+,24,22,}
-....\special{pdf:out [-] 1<</Title(\376\377\000A\000p\000T\000e\000X\000,\000\040\000A\000p\000T\000e\000X)/A<<../SD @pdf.SDest.section.3>>>>}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {3}\NoCaseChange {\HoLogo@tag@actualtext {first}{ApTeX}{\hologoRobust {ApTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{ApTeX}{\HologoRobust {ApTeX}}}}{\thepage }{section.3}\protected@file@percent }}
+....\special{pdf:out [-] 1<</Title(\376\377\000A\000m\000S\000-\000T\000e\000X\000,\000\040\000A\000m\000S\000-\000T\000e\000X)/A<<../SD @pdf.SDest.section.3>>>>}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {3}\NoCaseChange {\HoLogo@tag@actualtext {first}{AmSTeX}{\hologoRobust {AmSTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{AmSTeX}{\HologoRobust {AmSTeX}}}}{\thepage }{section.3}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
-....\glue(\baselineskip) 1.6432
-....\hbox(7.16+2.155)x345.0, glue set 311.997fil
+....\glue(\baselineskip) 1.9699
+....\hbox(6.83331+2.155)x345.0, glue set 296.59477fil
 .....\write1{\new@label@record{mcid-25}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{25}{tagmcid}{\__property_code_tagmcid: }}}
 .....\special shipout{pdf:code /text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\special{pdf:code EMC}
 .....\write1{\new@label@record{mcid-26}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{26}{tagmcid}{\__property_code_tagmcid: }}}
 .....\special shipout{pdf:code /Span <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
-.....\hbox(7.16+0.0)x6.99997
-......\TU/lmr/m/n/10 A
-......\kern -0.50003
-.....\hbox(4.42+1.93999)x4.06006
-......\TU/lmr/m/n/10 p
-......\kern -1.49994
+.....\OMS/cmsy/m/n/10 A
+.....\kern -1.66702
+.....\hbox(6.83331+0.0)x12.00899, shifted 2.15277
+......\OMS/cmsy/m/n/10 M
+.....\kern -1.25
+.....\OMS/cmsy/m/n/10 S
+.....\hbox(2.45+0.0)x3.33
+......\TU/lmr/m/n/10 -
 .....\TU/lmr/m/n/10 T
 .....\kern -1.66702
 .....\hbox(6.8+0.0)x6.81, shifted 2.155
@@ -508,8 +520,8 @@ Completed box being shipped out [1]
 ....\glue 15.08499 plus 4.31 minus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
-....\glue(\baselineskip) 5.9666
-....\hbox(9.8784+3.1968)x345.0, glue set 142.3488fil
+....\glue(\baselineskip) 5.765
+....\hbox(10.08+3.1968)x345.0, glue set 180.16982fil
 .....\write1{\new@label@record{mcid-28}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{28}{tagmcid}{\__property_code_tagmcid: }}}
 .....\special shipout{pdf:code /section-number <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\hbox(9.47519+0.0)x22.50719
@@ -532,14 +544,12 @@ Completed box being shipped out [1]
 .....\special{pdf:code EMC}
 .....\write1{\new@label@record{mcid-30}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{30}{tagmcid}{\__property_code_tagmcid: }}}
 .....\special shipout{pdf:code /Span <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
-.....\OMS/cmsy/m/n/14.4 A
-.....\kern -2.40051
-.....\hbox(9.83998+0.0)x17.29295, shifted 3.09999
-......\OMS/cmsy/m/n/14.4 M
-.....\kern -1.8
-.....\OMS/cmsy/m/n/14.4 S
-.....\hbox(3.85919+0.0)x5.4
-......\TU/lmr/bx/sc/14.4 -
+.....\hbox(10.08+0.0)x11.51996
+......\TU/lmr/bx/sc/14.4 A
+......\kern -0.72003
+.....\hbox(6.48+2.79358)x8.27997
+......\TU/lmr/bx/sc/14.4 p
+......\kern -0.72003
 .....\TU/lmr/bx/sc/14.4 L
 .....\kern -5.184
 .....\vbox(9.7488+0.0)x8.69, glue set 2.7688fil
@@ -562,14 +572,12 @@ Completed box being shipped out [1]
 .....\special{pdf:code EMC}
 .....\write1{\new@label@record{mcid-32}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{32}{tagmcid}{\__property_code_tagmcid: }}}
 .....\special shipout{pdf:code /Span <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
-.....\OMS/cmsy/m/n/14.4 A
-.....\kern -2.40051
-.....\hbox(9.83998+0.0)x17.29295, shifted 3.09999
-......\OMS/cmsy/m/n/14.4 M
-.....\kern -1.8
-.....\OMS/cmsy/m/n/14.4 S
-.....\hbox(3.85919+0.0)x5.4
-......\TU/lmr/bx/sc/14.4 -
+.....\hbox(10.08+0.0)x11.51996
+......\TU/lmr/bx/sc/14.4 A
+......\kern -0.72003
+.....\hbox(6.48+2.79358)x8.27997
+......\TU/lmr/bx/sc/14.4 p
+......\kern -0.72003
 .....\TU/lmr/bx/sc/14.4 L
 .....\kern -5.184
 .....\vbox(9.7488+0.0)x8.69, glue set 2.7688fil
@@ -615,27 +623,25 @@ Completed box being shipped out [1]
 ....\marks4{b+,33,30,section,,,}
 ....\marks4{e-,33,30,}
 ....\marks4{e+,33,30,}
-....\special{pdf:out [-] 1<</Title(\376\377\000A\000m\000S\000-\000L\000a\000T\000e\000X\000,\000\040\000A\000m\000S\000-\000L\000a\000T\000e\000X)/A<<../SD @pdf.SDest.section.4>>>>}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {4}\NoCaseChange {\HoLogo@tag@actualtext {first}{AmSLaTeX}{\hologoRobust {AmSLaTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{AmSLaTeX}{\HologoRobust {AmSLaTeX}}}}{\thepage }{section.4}\protected@file@percent }}
+....\special{pdf:out [-] 1<</Title(\376\377\000A\000p\000L\000a\000T\000e\000X\000,\000\040\000A\000p\000L\000a\000T\000e\000X)/A<<../SD @pdf.SDest.section.4>>>>}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {4}\NoCaseChange {\HoLogo@tag@actualtext {first}{ApLaTeX}{\hologoRobust {ApLaTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{ApLaTeX}{\HologoRobust {ApLaTeX}}}}{\thepage }{section.4}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
-....\glue(\baselineskip) 1.9699
-....\hbox(6.83331+2.155)x345.0, glue set 289.54372fil
+....\glue(\baselineskip) 1.6432
+....\hbox(7.16+2.155)x345.0, glue set 303.94603fil
 .....\write1{\new@label@record{mcid-34}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{34}{tagmcid}{\__property_code_tagmcid: }}}
 .....\special shipout{pdf:code /text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\special{pdf:code EMC}
 .....\write1{\new@label@record{mcid-35}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{35}{tagmcid}{\__property_code_tagmcid: }}}
 .....\special shipout{pdf:code /Span <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
-.....\OMS/cmsy/m/n/10 A
-.....\kern -1.66702
-.....\hbox(6.83331+0.0)x12.00899, shifted 2.15277
-......\OMS/cmsy/m/n/10 M
-.....\kern -1.25
-.....\OMS/cmsy/m/n/10 S
-.....\hbox(2.45+0.0)x3.33
-......\TU/lmr/m/n/10 -
+.....\hbox(7.16+0.0)x6.99997
+......\TU/lmr/m/n/10 A
+......\kern -0.50003
+.....\hbox(4.42+1.93999)x5.05997
+......\TU/lmr/m/n/10 p
+......\kern -0.50003
 .....\TU/lmr/m/n/10 L
 .....\kern -3.6
 .....\vbox(6.77+0.0)x5.901, glue set 1.779fil
@@ -673,8 +679,8 @@ Completed box being shipped out [1]
 ....\glue 15.08499 plus 4.31 minus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
-....\glue(\baselineskip) 5.9666
-....\hbox(9.8784+3.1968)x345.0, glue set 164.50978fil
+....\glue(\baselineskip) 5.765
+....\hbox(10.08+3.1968)x345.0, glue set 205.21053fil
 .....\write1{\new@label@record{mcid-37}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{37}{tagmcid}{\__property_code_tagmcid: }}}
 .....\special shipout{pdf:code /section-number <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\hbox(9.4464+0.17279)x22.50719
@@ -697,14 +703,12 @@ Completed box being shipped out [1]
 .....\special{pdf:code EMC}
 .....\write1{\new@label@record{mcid-39}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{39}{tagmcid}{\__property_code_tagmcid: }}}
 .....\special shipout{pdf:code /Span <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
-.....\OMS/cmsy/m/n/14.4 A
-.....\kern -2.40051
-.....\hbox(9.83998+0.0)x17.29295, shifted 3.09999
-......\OMS/cmsy/m/n/14.4 M
-.....\kern -1.8
-.....\OMS/cmsy/m/n/14.4 S
-.....\hbox(3.85919+0.0)x5.4
-......\TU/lmr/bx/sc/14.4 -
+.....\hbox(10.08+0.0)x11.51996
+......\TU/lmr/bx/sc/14.4 A
+......\kern -0.72003
+.....\hbox(6.48+2.79358)x6.8401
+......\TU/lmr/bx/sc/14.4 p
+......\kern -2.1599
 .....\TU/lmr/bx/sc/14.4 T
 .....\kern -2.4005
 .....\hbox(9.8064+0.0)x10.6272, shifted 3.1968
@@ -720,14 +724,12 @@ Completed box being shipped out [1]
 .....\special{pdf:code EMC}
 .....\write1{\new@label@record{mcid-41}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{41}{tagmcid}{\__property_code_tagmcid: }}}
 .....\special shipout{pdf:code /Span <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
-.....\OMS/cmsy/m/n/14.4 A
-.....\kern -2.40051
-.....\hbox(9.83998+0.0)x17.29295, shifted 3.09999
-......\OMS/cmsy/m/n/14.4 M
-.....\kern -1.8
-.....\OMS/cmsy/m/n/14.4 S
-.....\hbox(3.85919+0.0)x5.4
-......\TU/lmr/bx/sc/14.4 -
+.....\hbox(10.08+0.0)x11.51996
+......\TU/lmr/bx/sc/14.4 A
+......\kern -0.72003
+.....\hbox(6.48+2.79358)x6.8401
+......\TU/lmr/bx/sc/14.4 p
+......\kern -2.1599
 .....\TU/lmr/bx/sc/14.4 T
 .....\kern -2.4005
 .....\hbox(9.8064+0.0)x10.6272, shifted 3.1968
@@ -766,27 +768,25 @@ Completed box being shipped out [1]
 ....\marks4{b+,42,38,section,,,}
 ....\marks4{e-,42,38,}
 ....\marks4{e+,42,38,}
-....\special{pdf:out [-] 1<</Title(\376\377\000A\000m\000S\000-\000T\000e\000X\000,\000\040\000A\000m\000S\000-\000T\000e\000X)/A<<../SD @pdf.SDest.section.5>>>>}
-....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {5}\NoCaseChange {\HoLogo@tag@actualtext {first}{AmSTeX}{\hologoRobust {AmSTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{AmSTeX}{\HologoRobust {AmSTeX}}}}{\thepage }{section.5}\protected@file@percent }}
+....\special{pdf:out [-] 1<</Title(\376\377\000A\000p\000T\000e\000X\000,\000\040\000A\000p\000T\000e\000X)/A<<../SD @pdf.SDest.section.5>>>>}
+....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {5}\NoCaseChange {\HoLogo@tag@actualtext {first}{ApTeX}{\hologoRobust {ApTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{ApTeX}{\HologoRobust {ApTeX}}}}{\thepage }{section.5}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
-....\glue(\baselineskip) 1.9699
-....\hbox(6.83331+2.155)x345.0, glue set 296.59477fil
+....\glue(\baselineskip) 1.6432
+....\hbox(7.16+2.155)x345.0, glue set 311.997fil
 .....\write1{\new@label@record{mcid-43}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{43}{tagmcid}{\__property_code_tagmcid: }}}
 .....\special shipout{pdf:code /text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\special{pdf:code EMC}
 .....\write1{\new@label@record{mcid-44}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{44}{tagmcid}{\__property_code_tagmcid: }}}
 .....\special shipout{pdf:code /Span <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
-.....\OMS/cmsy/m/n/10 A
-.....\kern -1.66702
-.....\hbox(6.83331+0.0)x12.00899, shifted 2.15277
-......\OMS/cmsy/m/n/10 M
-.....\kern -1.25
-.....\OMS/cmsy/m/n/10 S
-.....\hbox(2.45+0.0)x3.33
-......\TU/lmr/m/n/10 -
+.....\hbox(7.16+0.0)x6.99997
+......\TU/lmr/m/n/10 A
+......\kern -0.50003
+.....\hbox(4.42+1.93999)x4.06006
+......\TU/lmr/m/n/10 p
+......\kern -1.49994
 .....\TU/lmr/m/n/10 T
 .....\kern -1.66702
 .....\hbox(6.8+0.0)x6.81, shifted 2.155
@@ -1075,8 +1075,8 @@ Completed box being shipped out [1]
 ....\glue 15.08499 plus 4.31 minus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
-....\glue(\baselineskip) 5.9666
-....\hbox(9.8784+3.1968)x345.0, glue set 198.05464fil
+....\glue(\baselineskip) 5.85141
+....\hbox(9.99359+3.1968)x345.0, glue set 196.3402fil
 .....\write1{\new@label@record{mcid-64}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{64}{tagmcid}{\__property_code_tagmcid: }}}
 .....\special shipout{pdf:code /section-number <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\hbox(9.4464+0.17279)x22.50719
@@ -1101,11 +1101,9 @@ Completed box being shipped out [1]
 .....\special shipout{pdf:code /Span <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\TU/lmr/bx/sc/14.4 B
 .....\kern -0.72003
-.....\mathon
-.....\mathoff
-.....\TU/lmr/bx/n/10 I
-.....\kern -0.24994
-.....\TU/lmr/bx/n/10 B
+.....\TU/lmr/bx/sc/14.4 i
+.....\kern -0.35991
+.....\TU/lmr/bx/sc/14.4 b
 .....\kern -1.15202
 .....\TU/lmr/bx/sc/14.4 T
 .....\kern -2.4005
@@ -1124,11 +1122,9 @@ Completed box being shipped out [1]
 .....\special shipout{pdf:code /Span <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\TU/lmr/bx/sc/14.4 B
 .....\kern -0.72003
-.....\mathon
-.....\mathoff
-.....\TU/lmr/bx/n/10 I
-.....\kern -0.24994
-.....\TU/lmr/bx/n/10 B
+.....\TU/lmr/bx/sc/14.4 i
+.....\kern -0.35991
+.....\TU/lmr/bx/sc/14.4 b
 .....\kern -1.15202
 .....\TU/lmr/bx/sc/14.4 T
 .....\kern -2.4005
@@ -1175,7 +1171,7 @@ Completed box being shipped out [1]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 1.9732
-....\hbox(6.83+2.155)x345.0, glue set 308.96802fil
+....\hbox(6.83+2.155)x345.0, glue set 308.707fil
 .....\write1{\new@label@record{mcid-70}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{70}{tagmcid}{\__property_code_tagmcid: }}}
 .....\special shipout{pdf:code /text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\special{pdf:code EMC}
@@ -1183,11 +1179,9 @@ Completed box being shipped out [1]
 .....\special shipout{pdf:code /Span <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\TU/lmr/m/n/10 B
 .....\kern -0.50003
-.....\mathon
-.....\mathoff
-.....\TU/lmr/m/n/7 I
-.....\kern -0.17496
-.....\TU/lmr/m/n/7 B
+.....\TU/lmr/m/sc/10 i
+.....\kern -0.24994
+.....\TU/lmr/m/sc/10 b
 .....\kern -0.80002
 .....\TU/lmr/m/n/10 T
 .....\kern -1.66702
@@ -1219,8 +1213,8 @@ Completed box being shipped out [1]
 ....\glue 15.08499 plus 4.31 minus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
-....\glue(\baselineskip) 5.85141
-....\hbox(9.99359+3.1968)x345.0, glue set 196.3402fil
+....\glue(\baselineskip) 5.9666
+....\hbox(9.8784+3.1968)x345.0, glue set 198.05464fil
 .....\write1{\new@label@record{mcid-73}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{73}{tagmcid}{\__property_code_tagmcid: }}}
 .....\special shipout{pdf:code /section-number <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\hbox(9.4464+0.17279)x22.50719
@@ -1245,9 +1239,11 @@ Completed box being shipped out [1]
 .....\special shipout{pdf:code /Span <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\TU/lmr/bx/sc/14.4 B
 .....\kern -0.72003
-.....\TU/lmr/bx/sc/14.4 i
-.....\kern -0.35991
-.....\TU/lmr/bx/sc/14.4 b
+.....\mathon
+.....\mathoff
+.....\TU/lmr/bx/n/10 I
+.....\kern -0.24994
+.....\TU/lmr/bx/n/10 B
 .....\kern -1.15202
 .....\TU/lmr/bx/sc/14.4 T
 .....\kern -2.4005
@@ -1266,9 +1262,11 @@ Completed box being shipped out [1]
 .....\special shipout{pdf:code /Span <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\TU/lmr/bx/sc/14.4 B
 .....\kern -0.72003
-.....\TU/lmr/bx/sc/14.4 i
-.....\kern -0.35991
-.....\TU/lmr/bx/sc/14.4 b
+.....\mathon
+.....\mathoff
+.....\TU/lmr/bx/n/10 I
+.....\kern -0.24994
+.....\TU/lmr/bx/n/10 B
 .....\kern -1.15202
 .....\TU/lmr/bx/sc/14.4 T
 .....\kern -2.4005
@@ -1315,7 +1313,7 @@ Completed box being shipped out [1]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 1.9732
-....\hbox(6.83+2.155)x345.0, glue set 308.707fil
+....\hbox(6.83+2.155)x345.0, glue set 308.96802fil
 .....\write1{\new@label@record{mcid-79}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{79}{tagmcid}{\__property_code_tagmcid: }}}
 .....\special shipout{pdf:code /text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\special{pdf:code EMC}
@@ -1323,9 +1321,11 @@ Completed box being shipped out [1]
 .....\special shipout{pdf:code /Span <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\TU/lmr/m/n/10 B
 .....\kern -0.50003
-.....\TU/lmr/m/sc/10 i
-.....\kern -0.24994
-.....\TU/lmr/m/sc/10 b
+.....\mathon
+.....\mathoff
+.....\TU/lmr/m/n/7 I
+.....\kern -0.17496
+.....\TU/lmr/m/n/7 B
 .....\kern -0.80002
 .....\TU/lmr/m/n/10 T
 .....\kern -1.66702
@@ -1357,8 +1357,8 @@ Completed box being shipped out [1]
 ....\glue 15.08499 plus 4.31 minus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
-....\glue(\baselineskip) 5.85141
-....\hbox(9.99359+3.1968)x345.0, glue set 172.01857fil
+....\glue(\baselineskip) 5.9666
+....\hbox(9.8784+3.1968)x345.0, glue set 173.73302fil
 .....\write1{\new@label@record{mcid-82}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{82}{tagmcid}{\__property_code_tagmcid: }}}
 .....\special shipout{pdf:code /section-number <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\hbox(9.4464+0.17279)x30.6144
@@ -1383,9 +1383,11 @@ Completed box being shipped out [1]
 .....\special shipout{pdf:code /Span <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\TU/lmr/bx/sc/14.4 B
 .....\kern -0.72003
-.....\TU/lmr/bx/sc/14.4 i
-.....\kern -0.35991
-.....\TU/lmr/bx/sc/14.4 b
+.....\mathon
+.....\mathoff
+.....\TU/lmr/bx/n/10 I
+.....\kern -0.24994
+.....\TU/lmr/bx/n/10 B
 .....\kern -1.15202
 .....\TU/lmr/bx/sc/14.4 T
 .....\kern -2.4005
@@ -1404,9 +1406,11 @@ Completed box being shipped out [1]
 .....\special shipout{pdf:code /Span <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\TU/lmr/bx/sc/14.4 B
 .....\kern -0.72003
-.....\TU/lmr/bx/sc/14.4 i
-.....\kern -0.35991
-.....\TU/lmr/bx/sc/14.4 b
+.....\mathon
+.....\mathoff
+.....\TU/lmr/bx/n/10 I
+.....\kern -0.24994
+.....\TU/lmr/bx/n/10 B
 .....\kern -1.15202
 .....\TU/lmr/bx/sc/14.4 T
 .....\kern -2.4005
@@ -1453,7 +1457,7 @@ Completed box being shipped out [1]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 1.9732
-....\hbox(6.83+2.155)x345.0, glue set 303.707fil
+....\hbox(6.83+2.155)x345.0, glue set 303.96802fil
 .....\write1{\new@label@record{mcid-88}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{88}{tagmcid}{\__property_code_tagmcid: }}}
 .....\special shipout{pdf:code /text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\special{pdf:code EMC}
@@ -1461,9 +1465,11 @@ Completed box being shipped out [1]
 .....\special shipout{pdf:code /Span <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\TU/lmr/m/n/10 B
 .....\kern -0.50003
-.....\TU/lmr/m/sc/10 i
-.....\kern -0.24994
-.....\TU/lmr/m/sc/10 b
+.....\mathon
+.....\mathoff
+.....\TU/lmr/m/n/7 I
+.....\kern -0.17496
+.....\TU/lmr/m/n/7 B
 .....\kern -0.80002
 .....\TU/lmr/m/n/10 T
 .....\kern -1.66702
@@ -6505,8 +6511,8 @@ Completed box being shipped out [5]
 .....\special shipout{pdf:code /Span <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\hbox(9.99359+2.79358)x34.89119
 ......\TU/lmr/bx/sc/14.4 plain
-.....\penalty 10000
-.....\glue 5.4 plus 2.7 minus 1.79999
+.....\hbox(3.85919+0.0)x5.4
+......\TU/lmr/bx/sc/14.4 -
 .....\TU/lmr/bx/sc/14.4 T
 .....\kern -2.4005
 .....\hbox(9.8064+0.0)x10.6272, shifted 3.1968
@@ -6524,8 +6530,8 @@ Completed box being shipped out [5]
 .....\special shipout{pdf:code /Span <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\hbox(9.99359+0.08638)x36.96478
 ......\TU/lmr/bx/sc/14.4 Plain
-.....\penalty 10000
-.....\glue 5.4 plus 2.7 minus 1.79999
+.....\hbox(3.85919+0.0)x5.4
+......\TU/lmr/bx/sc/14.4 -
 .....\TU/lmr/bx/sc/14.4 T
 .....\kern -2.4005
 .....\hbox(9.8064+0.0)x10.6272, shifted 3.1968
@@ -6564,7 +6570,7 @@ Completed box being shipped out [5]
 ....\marks4{b+,428,374,section,,,}
 ....\marks4{e-,428,374,}
 ....\marks4{e+,428,374,}
-....\special{pdf:out [-] 1<</Title(\376\377\000p\000l\000a\000i\000n\000\040\000T\000e\000X\000,\000\040\000P\000l\000a\000i\000n\000\040\000T\000e\000X)/A<<../SD @pdf.SDest.section.47>>>>}
+....\special{pdf:out [-] 1<</Title(\376\377\000p\000l\000a\000i\000n\000-\000T\000e\000X\000,\000\040\000P\000l\000a\000i\000n\000-\000T\000e\000X)/A<<../SD @pdf.SDest.section.47>>>>}
 ....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {47}\NoCaseChange {\HoLogo@tag@actualtext {first}{plainTeX}{\hologoRobust {plainTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{plainTeX}{\HologoRobust {plainTeX}}}}{\thepage }{section.47}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
@@ -6579,8 +6585,8 @@ Completed box being shipped out [5]
 .....\special shipout{pdf:code /Span <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\hbox(6.94+1.93999)x21.68001
 ......\TU/lmr/m/n/10 plain
-.....\penalty 10000
-.....\glue 3.33 plus 1.665 minus 1.11
+.....\hbox(2.45+0.0)x3.33
+......\TU/lmr/m/n/10 -
 .....\TU/lmr/m/n/10 T
 .....\kern -1.66702
 .....\hbox(6.8+0.0)x6.81, shifted 2.155
@@ -6612,7 +6618,7 @@ Completed box being shipped out [5]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 5.85141
-....\hbox(9.99359+3.1968)x345.0, glue set 151.16748fil
+....\hbox(9.99359+3.1968)x345.0, glue set 161.96745fil
 .....\write1{\new@label@record{mcid-432}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{432}{tagmcid}{\__property_code_tagmcid: }}}
 .....\special shipout{pdf:code /section-number <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\hbox(9.47519+0.17279)x30.6144
@@ -6635,16 +6641,13 @@ Completed box being shipped out [5]
 .....\special{pdf:code EMC}
 .....\write1{\new@label@record{mcid-434}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{434}{tagmcid}{\__property_code_tagmcid: }}}
 .....\special shipout{pdf:code /Span <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
-.....\hbox(9.99359+2.79358)x34.89119
-......\TU/lmr/bx/sc/14.4 plain
-.....\hbox(3.85919+0.0)x5.4
-......\TU/lmr/bx/sc/14.4 -
-.....\TU/lmr/bx/sc/14.4 T
-.....\kern -2.4005
-.....\hbox(9.8064+0.0)x10.6272, shifted 3.1968
-......\TU/lmr/bx/sc/14.4 E
-.....\kern -1.79999
-.....\TU/lmr/bx/sc/14.4 X
+.....\hbox(9.99359+3.1968)x64.81868
+......\TU/lmr/bx/sc/14.4 plainT
+......\kern -2.4005
+......\hbox(9.8064+0.0)x10.6272, shifted 3.1968
+.......\TU/lmr/bx/sc/14.4 E
+......\kern -1.79999
+......\TU/lmr/bx/sc/14.4 X
 .....\glue 5.4 plus 2.7 minus 1.79999
 .....\special{pdf:code EMC}
 .....\write1{\new@label@record{mcid-435}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{435}{tagmcid}{\__property_code_tagmcid: }}}
@@ -6654,16 +6657,13 @@ Completed box being shipped out [5]
 .....\special{pdf:code EMC}
 .....\write1{\new@label@record{mcid-436}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{436}{tagmcid}{\__property_code_tagmcid: }}}
 .....\special shipout{pdf:code /Span <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
-.....\hbox(9.99359+0.08638)x36.96478
-......\TU/lmr/bx/sc/14.4 Plain
-.....\hbox(3.85919+0.0)x5.4
-......\TU/lmr/bx/sc/14.4 -
-.....\TU/lmr/bx/sc/14.4 T
-.....\kern -2.4005
-.....\hbox(9.8064+0.0)x10.6272, shifted 3.1968
-......\TU/lmr/bx/sc/14.4 E
-.....\kern -1.79999
-.....\TU/lmr/bx/sc/14.4 X
+.....\hbox(9.99359+3.1968)x66.89229
+......\TU/lmr/bx/sc/14.4 PlainT
+......\kern -2.4005
+......\hbox(9.8064+0.0)x10.6272, shifted 3.1968
+.......\TU/lmr/bx/sc/14.4 E
+......\kern -1.79999
+......\TU/lmr/bx/sc/14.4 X
 .....\glue 5.4 plus 2.7 minus 1.79999
 .....\special{pdf:code EMC}
 .....\write1{\new@label@record{mcid-437}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{437}{tagmcid}{\__property_code_tagmcid: }}}
@@ -6696,29 +6696,26 @@ Completed box being shipped out [5]
 ....\marks4{b+,437,382,section,,,}
 ....\marks4{e-,437,382,}
 ....\marks4{e+,437,382,}
-....\special{pdf:out [-] 1<</Title(\376\377\000p\000l\000a\000i\000n\000-\000T\000e\000X\000,\000\040\000P\000l\000a\000i\000n\000-\000T\000e\000X)/A<<../SD @pdf.SDest.section.48>>>>}
+....\special{pdf:out [-] 1<</Title(\376\377\000p\000l\000a\000i\000n\000T\000e\000X\000,\000\040\000P\000l\000a\000i\000n\000T\000e\000X)/A<<../SD @pdf.SDest.section.48>>>>}
 ....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {48}\NoCaseChange {\HoLogo@tag@actualtext {first}{plainTeX}{\hologoRobust {plainTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{plainTeX}{\HologoRobust {plainTeX}}}}{\thepage }{section.48}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 1.8632
-....\hbox(6.94+2.155)x345.0, glue set 298.04701fil
+....\hbox(6.94+2.155)x345.0, glue set 301.37703fil
 .....\write1{\new@label@record{mcid-438}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{438}{tagmcid}{\__property_code_tagmcid: }}}
 .....\special shipout{pdf:code /text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\special{pdf:code EMC}
 .....\write1{\new@label@record{mcid-439}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{439}{tagmcid}{\__property_code_tagmcid: }}}
 .....\special shipout{pdf:code /Span <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
-.....\hbox(6.94+1.93999)x21.68001
-......\TU/lmr/m/n/10 plain
-.....\hbox(2.45+0.0)x3.33
-......\TU/lmr/m/n/10 -
-.....\TU/lmr/m/n/10 T
-.....\kern -1.66702
-.....\hbox(6.8+0.0)x6.81, shifted 2.155
-......\TU/lmr/m/n/10 E
-.....\kern -1.25
-.....\TU/lmr/m/n/10 X
+.....\hbox(6.94+2.155)x40.29297
+......\TU/lmr/m/n/10 plainT
+......\kern -1.66702
+......\hbox(6.8+0.0)x6.81, shifted 2.155
+.......\TU/lmr/m/n/10 E
+......\kern -1.25
+......\TU/lmr/m/n/10 X
 .....\glue 3.33 plus 1.665 minus 1.11
 .....\special{pdf:code EMC}
 .....\write1{\new@label@record{mcid-440}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{440}{tagmcid}{\__property_code_tagmcid: }}}
@@ -6744,7 +6741,7 @@ Completed box being shipped out [5]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 5.85141
-....\hbox(9.99359+3.1968)x345.0, glue set 161.96745fil
+....\hbox(9.99359+3.1968)x345.0, glue set 151.16748fil
 .....\write1{\new@label@record{mcid-441}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{441}{tagmcid}{\__property_code_tagmcid: }}}
 .....\special shipout{pdf:code /section-number <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\hbox(9.47519+0.17279)x30.6144
@@ -6767,13 +6764,16 @@ Completed box being shipped out [5]
 .....\special{pdf:code EMC}
 .....\write1{\new@label@record{mcid-443}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{443}{tagmcid}{\__property_code_tagmcid: }}}
 .....\special shipout{pdf:code /Span <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
-.....\hbox(9.99359+3.1968)x64.81868
-......\TU/lmr/bx/sc/14.4 plainT
-......\kern -2.4005
-......\hbox(9.8064+0.0)x10.6272, shifted 3.1968
-.......\TU/lmr/bx/sc/14.4 E
-......\kern -1.79999
-......\TU/lmr/bx/sc/14.4 X
+.....\hbox(9.99359+2.79358)x34.89119
+......\TU/lmr/bx/sc/14.4 plain
+.....\penalty 10000
+.....\glue 5.4 plus 2.7 minus 1.79999
+.....\TU/lmr/bx/sc/14.4 T
+.....\kern -2.4005
+.....\hbox(9.8064+0.0)x10.6272, shifted 3.1968
+......\TU/lmr/bx/sc/14.4 E
+.....\kern -1.79999
+.....\TU/lmr/bx/sc/14.4 X
 .....\glue 5.4 plus 2.7 minus 1.79999
 .....\special{pdf:code EMC}
 .....\write1{\new@label@record{mcid-444}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{444}{tagmcid}{\__property_code_tagmcid: }}}
@@ -6783,13 +6783,16 @@ Completed box being shipped out [5]
 .....\special{pdf:code EMC}
 .....\write1{\new@label@record{mcid-445}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{445}{tagmcid}{\__property_code_tagmcid: }}}
 .....\special shipout{pdf:code /Span <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
-.....\hbox(9.99359+3.1968)x66.89229
-......\TU/lmr/bx/sc/14.4 PlainT
-......\kern -2.4005
-......\hbox(9.8064+0.0)x10.6272, shifted 3.1968
-.......\TU/lmr/bx/sc/14.4 E
-......\kern -1.79999
-......\TU/lmr/bx/sc/14.4 X
+.....\hbox(9.99359+0.08638)x36.96478
+......\TU/lmr/bx/sc/14.4 Plain
+.....\penalty 10000
+.....\glue 5.4 plus 2.7 minus 1.79999
+.....\TU/lmr/bx/sc/14.4 T
+.....\kern -2.4005
+.....\hbox(9.8064+0.0)x10.6272, shifted 3.1968
+......\TU/lmr/bx/sc/14.4 E
+.....\kern -1.79999
+.....\TU/lmr/bx/sc/14.4 X
 .....\glue 5.4 plus 2.7 minus 1.79999
 .....\special{pdf:code EMC}
 .....\write1{\new@label@record{mcid-446}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{446}{tagmcid}{\__property_code_tagmcid: }}}
@@ -6822,26 +6825,29 @@ Completed box being shipped out [5]
 ....\marks4{b+,446,390,section,,,}
 ....\marks4{e-,446,390,}
 ....\marks4{e+,446,390,}
-....\special{pdf:out [-] 1<</Title(\376\377\000p\000l\000a\000i\000n\000T\000e\000X\000,\000\040\000P\000l\000a\000i\000n\000T\000e\000X)/A<<../SD @pdf.SDest.section.49>>>>}
+....\special{pdf:out [-] 1<</Title(\376\377\000p\000l\000a\000i\000n\000\040\000T\000e\000X\000,\000\040\000P\000l\000a\000i\000n\000\040\000T\000e\000X)/A<<../SD @pdf.SDest.section.49>>>>}
 ....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {49}\NoCaseChange {\HoLogo@tag@actualtext {first}{plainTeX}{\hologoRobust {plainTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{plainTeX}{\HologoRobust {plainTeX}}}}{\thepage }{section.49}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 1.8632
-....\hbox(6.94+2.155)x345.0, glue set 301.37703fil
+....\hbox(6.94+2.155)x345.0, glue set 298.04701fil
 .....\write1{\new@label@record{mcid-447}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{447}{tagmcid}{\__property_code_tagmcid: }}}
 .....\special shipout{pdf:code /text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\special{pdf:code EMC}
 .....\write1{\new@label@record{mcid-448}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{448}{tagmcid}{\__property_code_tagmcid: }}}
 .....\special shipout{pdf:code /Span <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
-.....\hbox(6.94+2.155)x40.29297
-......\TU/lmr/m/n/10 plainT
-......\kern -1.66702
-......\hbox(6.8+0.0)x6.81, shifted 2.155
-.......\TU/lmr/m/n/10 E
-......\kern -1.25
-......\TU/lmr/m/n/10 X
+.....\hbox(6.94+1.93999)x21.68001
+......\TU/lmr/m/n/10 plain
+.....\penalty 10000
+.....\glue 3.33 plus 1.665 minus 1.11
+.....\TU/lmr/m/n/10 T
+.....\kern -1.66702
+.....\hbox(6.8+0.0)x6.81, shifted 2.155
+......\TU/lmr/m/n/10 E
+.....\kern -1.25
+.....\TU/lmr/m/n/10 X
 .....\glue 3.33 plus 1.665 minus 1.11
 .....\special{pdf:code EMC}
 .....\write1{\new@label@record{mcid-449}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{449}{tagmcid}{\__property_code_tagmcid: }}}
@@ -8021,8 +8027,8 @@ Completed box being shipped out [6]
 ....\glue 15.08499 plus 4.31 minus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
-....\glue(\baselineskip) 5.79381
-....\hbox(10.0512+3.1968)x345.0, glue set 202.25853fil
+....\glue(\baselineskip) 4.00702
+....\hbox(11.83798+3.1968)x345.0, glue set 195.97984fil
 .....\write1{\new@label@record{mcid-524}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{524}{tagmcid}{\__property_code_tagmcid: }}}
 .....\special shipout{pdf:code /section-number <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\hbox(9.4464+0.17279)x30.6144
@@ -8045,11 +8051,11 @@ Completed box being shipped out [6]
 .....\special{pdf:code EMC}
 .....\write1{\new@label@record{mcid-526}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{526}{tagmcid}{\__property_code_tagmcid: }}}
 .....\special shipout{pdf:code /Span <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
-.....\hbox(10.0512+0.17279)x16.64641
-......\TU/lmr/bx/sc/14.4 S
-......\kern -0.86395
-......\TU/lmr/bx/sc/14.4 l
-......\kern -0.50404
+.....\TU/lmr/bx/sc/14.4 S
+.....\kern -0.86395
+.....\TU/lmr/bx/sc/14.4 L
+.....\kern -2.59189
+.....\hbox(9.79199+0.0)x4.5072, shifted -2.04599
 ......\TU/lmr/bx/sc/14.4 i
 .....\kern -0.86395
 .....\TU/lmr/bx/sc/14.4 T
@@ -8067,11 +8073,11 @@ Completed box being shipped out [6]
 .....\special{pdf:code EMC}
 .....\write1{\new@label@record{mcid-528}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{528}{tagmcid}{\__property_code_tagmcid: }}}
 .....\special shipout{pdf:code /Span <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
-.....\hbox(10.0512+0.17279)x16.64641
-......\TU/lmr/bx/sc/14.4 S
-......\kern -0.86395
-......\TU/lmr/bx/sc/14.4 l
-......\kern -0.50404
+.....\TU/lmr/bx/sc/14.4 S
+.....\kern -0.86395
+.....\TU/lmr/bx/sc/14.4 L
+.....\kern -2.59189
+.....\hbox(9.79199+0.0)x4.5072, shifted -2.04599
 ......\TU/lmr/bx/sc/14.4 i
 .....\kern -0.86395
 .....\TU/lmr/bx/sc/14.4 T
@@ -8112,24 +8118,24 @@ Completed box being shipped out [6]
 ....\marks4{b+,529,462,section,,,}
 ....\marks4{e-,529,462,}
 ....\marks4{e+,529,462,}
-....\special{pdf:out [-] 1<</Title(\376\377\000S\000l\000i\000T\000e\000X\000,\000\040\000S\000l\000i\000T\000e\000X)/A<<../SD @pdf.SDest.section.58>>>>}
+....\special{pdf:out [-] 1<</Title(\376\377\000S\000L\000i\000T\000e\000X\000,\000\040\000S\000L\000i\000T\000e\000X)/A<<../SD @pdf.SDest.section.58>>>>}
 ....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {58}\NoCaseChange {\HoLogo@tag@actualtext {first}{SliTeX}{\hologoRobust {SliTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{SliTeX}{\HologoRobust {SliTeX}}}}{\thepage }{section.58}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 1.7532
-....\hbox(7.05+2.155)x345.0, glue set 310.897fil
+....\hbox(7.05+2.155)x345.0, glue set 311.2269fil
 .....\write1{\new@label@record{mcid-530}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{530}{tagmcid}{\__property_code_tagmcid: }}}
 .....\special shipout{pdf:code /text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\special{pdf:code EMC}
 .....\write1{\new@label@record{mcid-531}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{531}{tagmcid}{\__property_code_tagmcid: }}}
 .....\special shipout{pdf:code /Span <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
-.....\hbox(7.05+0.21999)x12.76
-......\TU/lmr/m/n/10 S
-......\kern -0.59998
-......\TU/lmr/m/sc/10 l
-......\kern -0.35004
+.....\TU/lmr/m/n/10 S
+.....\kern -0.59998
+.....\TU/lmr/m/n/10 L
+.....\kern -1.79993
+.....\hbox(5.14+0.0)x3.02, shifted -1.37923
 ......\TU/lmr/m/sc/10 i
 .....\kern -0.59998
 .....\TU/lmr/m/n/10 T
@@ -8163,7 +8169,7 @@ Completed box being shipped out [6]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 5.79381
-....\hbox(10.0512+3.1968)x345.0, glue set 197.79466fil
+....\hbox(10.0512+3.1968)x345.0, glue set 202.25853fil
 .....\write1{\new@label@record{mcid-533}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{533}{tagmcid}{\__property_code_tagmcid: }}}
 .....\special shipout{pdf:code /section-number <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\hbox(9.4464+0.17279)x30.6144
@@ -8186,8 +8192,13 @@ Completed box being shipped out [6]
 .....\special{pdf:code EMC}
 .....\write1{\new@label@record{mcid-535}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{535}{tagmcid}{\__property_code_tagmcid: }}}
 .....\special shipout{pdf:code /Span <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
-.....\hbox(10.0512+0.17279)x18.01439
-......\TU/lmr/bx/sc/14.4 Sli
+.....\hbox(10.0512+0.17279)x16.64641
+......\TU/lmr/bx/sc/14.4 S
+......\kern -0.86395
+......\TU/lmr/bx/sc/14.4 l
+......\kern -0.50404
+......\TU/lmr/bx/sc/14.4 i
+.....\kern -0.86395
 .....\TU/lmr/bx/sc/14.4 T
 .....\kern -2.4005
 .....\hbox(9.8064+0.0)x10.6272, shifted 3.1968
@@ -8203,8 +8214,13 @@ Completed box being shipped out [6]
 .....\special{pdf:code EMC}
 .....\write1{\new@label@record{mcid-537}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{537}{tagmcid}{\__property_code_tagmcid: }}}
 .....\special shipout{pdf:code /Span <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
-.....\hbox(10.0512+0.17279)x18.01439
-......\TU/lmr/bx/sc/14.4 Sli
+.....\hbox(10.0512+0.17279)x16.64641
+......\TU/lmr/bx/sc/14.4 S
+......\kern -0.86395
+......\TU/lmr/bx/sc/14.4 l
+......\kern -0.50404
+......\TU/lmr/bx/sc/14.4 i
+.....\kern -0.86395
 .....\TU/lmr/bx/sc/14.4 T
 .....\kern -2.4005
 .....\hbox(9.8064+0.0)x10.6272, shifted 3.1968
@@ -8250,14 +8266,19 @@ Completed box being shipped out [6]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 1.7532
-....\hbox(7.05+2.155)x345.0, glue set 308.79703fil
+....\hbox(7.05+2.155)x345.0, glue set 310.897fil
 .....\write1{\new@label@record{mcid-539}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{539}{tagmcid}{\__property_code_tagmcid: }}}
 .....\special shipout{pdf:code /text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\special{pdf:code EMC}
 .....\write1{\new@label@record{mcid-540}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{540}{tagmcid}{\__property_code_tagmcid: }}}
 .....\special shipout{pdf:code /Span <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
-.....\hbox(7.05+0.21999)x14.26
-......\TU/lmr/m/sc/10 Sli
+.....\hbox(7.05+0.21999)x12.76
+......\TU/lmr/m/n/10 S
+......\kern -0.59998
+......\TU/lmr/m/sc/10 l
+......\kern -0.35004
+......\TU/lmr/m/sc/10 i
+.....\kern -0.59998
 .....\TU/lmr/m/n/10 T
 .....\kern -1.66702
 .....\hbox(6.8+0.0)x6.81, shifted 2.155
@@ -8288,8 +8309,8 @@ Completed box being shipped out [6]
 ....\glue 15.08499 plus 4.31 minus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
-....\glue(\baselineskip) 4.00702
-....\hbox(11.83798+3.1968)x345.0, glue set 195.97984fil
+....\glue(\baselineskip) 5.79381
+....\hbox(10.0512+3.1968)x345.0, glue set 197.79466fil
 .....\write1{\new@label@record{mcid-542}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{542}{tagmcid}{\__property_code_tagmcid: }}}
 .....\special shipout{pdf:code /section-number <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\hbox(9.4464+0.17279)x30.6144
@@ -8312,13 +8333,8 @@ Completed box being shipped out [6]
 .....\special{pdf:code EMC}
 .....\write1{\new@label@record{mcid-544}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{544}{tagmcid}{\__property_code_tagmcid: }}}
 .....\special shipout{pdf:code /Span <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
-.....\TU/lmr/bx/sc/14.4 S
-.....\kern -0.86395
-.....\TU/lmr/bx/sc/14.4 L
-.....\kern -2.59189
-.....\hbox(9.79199+0.0)x4.5072, shifted -2.04599
-......\TU/lmr/bx/sc/14.4 i
-.....\kern -0.86395
+.....\hbox(10.0512+0.17279)x18.01439
+......\TU/lmr/bx/sc/14.4 Sli
 .....\TU/lmr/bx/sc/14.4 T
 .....\kern -2.4005
 .....\hbox(9.8064+0.0)x10.6272, shifted 3.1968
@@ -8334,13 +8350,8 @@ Completed box being shipped out [6]
 .....\special{pdf:code EMC}
 .....\write1{\new@label@record{mcid-546}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{546}{tagmcid}{\__property_code_tagmcid: }}}
 .....\special shipout{pdf:code /Span <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
-.....\TU/lmr/bx/sc/14.4 S
-.....\kern -0.86395
-.....\TU/lmr/bx/sc/14.4 L
-.....\kern -2.59189
-.....\hbox(9.79199+0.0)x4.5072, shifted -2.04599
-......\TU/lmr/bx/sc/14.4 i
-.....\kern -0.86395
+.....\hbox(10.0512+0.17279)x18.01439
+......\TU/lmr/bx/sc/14.4 Sli
 .....\TU/lmr/bx/sc/14.4 T
 .....\kern -2.4005
 .....\hbox(9.8064+0.0)x10.6272, shifted 3.1968
@@ -8379,26 +8390,21 @@ Completed box being shipped out [6]
 ....\marks4{b+,547,478,section,,,}
 ....\marks4{e-,547,478,}
 ....\marks4{e+,547,478,}
-....\special{pdf:out [-] 1<</Title(\376\377\000S\000L\000i\000T\000e\000X\000,\000\040\000S\000L\000i\000T\000e\000X)/A<<../SD @pdf.SDest.section.60>>>>}
+....\special{pdf:out [-] 1<</Title(\376\377\000S\000l\000i\000T\000e\000X\000,\000\040\000S\000l\000i\000T\000e\000X)/A<<../SD @pdf.SDest.section.60>>>>}
 ....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {60}\NoCaseChange {\HoLogo@tag@actualtext {first}{SliTeX}{\hologoRobust {SliTeX}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{SliTeX}{\HologoRobust {SliTeX}}}}{\thepage }{section.60}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 1.7532
-....\hbox(7.05+2.155)x345.0, glue set 311.2269fil
+....\hbox(7.05+2.155)x345.0, glue set 308.79703fil
 .....\write1{\new@label@record{mcid-548}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{548}{tagmcid}{\__property_code_tagmcid: }}}
 .....\special shipout{pdf:code /text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\special{pdf:code EMC}
 .....\write1{\new@label@record{mcid-549}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{549}{tagmcid}{\__property_code_tagmcid: }}}
 .....\special shipout{pdf:code /Span <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
-.....\TU/lmr/m/n/10 S
-.....\kern -0.59998
-.....\TU/lmr/m/n/10 L
-.....\kern -1.79993
-.....\hbox(5.14+0.0)x3.02, shifted -1.37923
-......\TU/lmr/m/sc/10 i
-.....\kern -0.59998
+.....\hbox(7.05+0.21999)x14.26
+......\TU/lmr/m/sc/10 Sli
 .....\TU/lmr/m/n/10 T
 .....\kern -1.66702
 .....\hbox(6.8+0.0)x6.81, shifted 2.155
@@ -8942,7 +8948,7 @@ Completed box being shipped out [7]
 ....\marks4{b+,585,510,section,,,}
 ....\marks4{e-,585,510,}
 ....\marks4{e+,585,510,}
-....\special{pdf:out [-] 1<</Title(\376\377\000T\000e\000X\000L\000i\000v\000e\000,\000\040\000T\000e\000X\000L\000i\000v\000e)/A<<../SD @pdf.SDest.section.64>>>>}
+....\special{pdf:out [-] 1<</Title(\376\377\000T\000e\000X\000\040\000L\000i\000v\000e\000,\000\040\000T\000e\000X\000\040\000L\000i\000v\000e)/A<<../SD @pdf.SDest.section.64>>>>}
 ....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {64}\NoCaseChange {\HoLogo@tag@actualtext {first}{TeXLive}{\hologoRobust {TeXLive}}}, \NoCaseChange {\HoLogo@tag@actualtext {second}{TeXLive}{\HologoRobust {TeXLive}}}}{\thepage }{section.64}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
@@ -10171,7 +10177,8 @@ Completed box being shipped out [8]
     xmlns:pdfaSchema="http://www.aiim.org/pdfa/ns/schema#"
     xmlns:pdfaProperty="http://www.aiim.org/pdfa/ns/property#"
     xmlns:pdfaType="http://www.aiim.org/pdfa/ns/type#"
-    xmlns:pdfaField="http://www.aiim.org/pdfa/ns/field#">
+    xmlns:pdfaField="http://www.aiim.org/pdfa/ns/field#"
+    xmlns:tdm="http://www.w3.org/ns/tdmrep/">
    <pdfaExtension:schemas>
     <rdf:Bag>
      <rdf:li rdf:parseType="Resource">
@@ -10330,27 +10337,15 @@ Completed box being shipped out [8]
        </rdf:Seq>
       </pdfaSchema:property>
      </rdf:li>
-    </rdf:Bag>
-   </pdfaExtension:schemas>
-   <pdf:Producer>xetex-NN.NN.NN</pdf:Producer>
-   <pdf:PDFVersion>2.0</pdf:PDFVersion>
-   <dc:type>
-    <rdf:Bag>
-     <rdf:li>Text</rdf:li>
-    </rdf:Bag>
-   </dc:type>
-   <dc:language>
-    <rdf:Bag>
-     <rdf:li>en</rdf:li>
-    </rdf:Bag>
-   </dc:language>
-   <dc:date>
-    <rdf:Seq>
-     <rdf:li>....-..-..T09:00:00Z</rdf:li>
-    </rdf:Seq>
-   </dc:date>
-   <dc:format>application/pdf</dc:format>
-   <dc:sour\ETC.}
+     <rdf:li rdf:parseType="Resource">
+      <pdfaSchema:schema>TDMRep</pdfaSchema:schema>
+      <pdfaSchema:prefix>tdm</pdfaSchema:prefix>
+      <pdfaSchema:namespaceURI>http://www.w3.org/ns/tdmrep/</pdfaSchema:namespaceURI>
+      <pdfaSchema:property>
+       <rdf:Seq>
+        <rdf:li rdf:parseType="Resource">
+         <pdfaProperty:name>reservation</pdfaProperty:name>
+         <pdfaProperty:va\ETC.}
 ..\special{pdf:obj @pdf.obj6 << /Nums [0 [ @pdf.obj26 @pdf.obj25 @pdf.obj27 @pdf.obj25 @pdf.obj28 @pdf.obj25 @pdf.obj30 @pdf.obj31 @pdf.obj30 @pdf.obj34 @pdf.obj33 @pdf.obj35 @pdf.obj33 @pdf.obj36 @pdf.obj33 @pdf.obj38 @pdf.obj39 @pdf.obj38 @pdf.obj42 @pdf.obj41 @pdf.obj43 @pdf.obj41 @pdf.obj44 @pdf.obj41 @pdf.obj46 @pdf.obj47 @pdf.obj46 @pdf.obj50 @pdf.obj49 @pdf.obj51 @pdf.obj49 @pdf.obj52 @pdf.obj49 @pdf.obj54 @pdf.obj55 @pdf.obj54 @pdf.obj58 @pdf.obj57 @pdf.obj59 @pdf.obj57 @pdf.obj60 @pdf.obj57 @pdf.obj62 @pdf.obj63 @pdf.obj62 @pdf.obj66 @pdf.obj65 @pdf.obj67 @pdf.obj65 @pdf.obj68 @pdf.obj65 @pdf.obj70 @pdf.obj71 @pdf.obj70 @pdf.obj74 @pdf.obj73 @pdf.obj75 @pdf.obj73 @pdf.obj76 @pdf.obj73 @pdf.obj78 @pdf.obj79 @pdf.obj78 @pdf.obj82 @pdf.obj81 @pdf.obj83 @pdf.obj81 @pdf.obj84 @pdf.obj81 @pdf.obj86 @pdf.obj87 @pdf.obj86 @pdf.obj90 @pdf.obj89 @pdf.obj91 @pdf.obj89 @pdf.obj92 @pdf.obj89 @pdf.obj94 @pdf.obj95 @pdf.obj94 @pdf.obj98 @pdf.obj97 @pdf.obj99 @pdf.obj97 @pdf.obj100 @pdf.obj97 @pdf.obj102 @pdf.obj103 @pdf.obj102 ]
 1 [ @pdf.obj106 @pdf.obj105 @pdf.obj107 @pdf.obj105 @pdf.obj108 @pdf.obj105 @pdf.obj110 @pdf.obj111 @pdf.obj110 @pdf.obj114 @pdf.obj113 @pdf.obj115 @pdf.obj113 @pdf.obj116 @pdf.obj113 @pdf.obj118 @pdf.obj119 @pdf.obj118 @pdf.obj122 @pdf.obj121 @pdf.obj123 @pdf.obj121 @pdf.obj124 @pdf.obj121 @pdf.obj126 @pdf.obj127 @pdf.obj126 @pdf.obj130 @pdf.obj129 @pdf.obj131 @pdf.obj129 @pdf.obj132 @pdf.obj129 @pdf.obj134 @pdf.obj135 @pdf.obj134 @pdf.obj138 @pdf.obj137 @pdf.obj139 @pdf.obj137 @pdf.obj140 @pdf.obj137 @pdf.obj142 @pdf.obj143 @pdf.obj142 @pdf.obj146 @pdf.obj145 @pdf.obj147 @pdf.obj145 @pdf.obj148 @pdf.obj145 @pdf.obj150 @pdf.obj151 @pdf.obj150 @pdf.obj154 @pdf.obj153 @pdf.obj155 @pdf.obj153 @pdf.obj156 @pdf.obj153 @pdf.obj158 @pdf.obj159 @pdf.obj158 @pdf.obj162 @pdf.obj161 @pdf.obj163 @pdf.obj161 @pdf.obj164 @pdf.obj161 @pdf.obj166 @pdf.obj167 @pdf.obj166 @pdf.obj170 @pdf.obj169 @pdf.obj171 @pdf.obj169 @pdf.obj172 @pdf.obj169 @pdf.obj174 @pdf.obj175 @pdf.obj174 @pdf.obj178 @pdf.obj177 @pdf.obj179 @pdf.obj177 @pdf.obj180 @pdf.obj177 @pdf.obj182 @pdf.obj183 @pdf.obj182 ]
 2 [ @pdf.obj186 @pdf.obj185 @pdf.obj187 @pdf.obj185 @pdf.obj188 @pdf.obj185 @pdf.obj190 @pdf.obj191 @pdf.obj190 @pdf.obj194 @pdf.obj193 @pdf.obj195 @pdf.obj193 @pdf.obj196 @pdf.obj193 @pdf.obj198 @pdf.obj199 @pdf.obj198 @pdf.obj202 @pdf.obj201 @pdf.obj203 @pdf.obj201 @pdf.obj204 @pdf.obj201 @pdf.obj206 @pdf.obj207 @pdf.obj206 @pdf.obj210 @pdf.obj209 @pdf.obj211 @pdf.obj209 @pdf.obj212 @pdf.obj209 @pdf.obj214 @pdf.obj215 @pdf.obj214 @pdf.obj218 @pdf.obj217 @pdf.obj219 @pdf.obj217 @pdf.obj220 @pdf.obj217 @pdf.obj222 @pdf.obj223 @pdf.obj222 @pdf.obj226 @pdf.obj225 @pdf.obj227 @pdf.obj225 @pdf.obj228 @pdf.obj225 @pdf.obj230 @pdf.obj231 @pdf.obj230 @pdf.obj234 @pdf.obj233 @pdf.obj235 @pdf.obj233 @pdf.obj236 @pdf.obj233 @pdf.obj238 @pdf.obj239 @pdf.obj238 @pdf.obj242 @pdf.obj241 @pdf.obj243 @pdf.obj241 @pdf.obj244 @pdf.obj241 @pdf.obj246 @pdf.obj247 @pdf.obj246 @pdf.obj250 @pdf.obj249 @pdf.obj251 @pdf.obj249 @pdf.obj252 @pdf.obj249 @pdf.obj254 @pdf.obj255 @pdf.obj254 @pdf.obj258 @pdf.obj257 @pdf.obj259 @pdf.obj257 @pdf.obj260 @pdf.obj257 @pdf.obj262 @pdf.obj263 @pdf.obj262 ]
@@ -10400,37 +10395,37 @@ Completed box being shipped out [8]
 ..\special{pdf:obj @pdf.obj30 <<  /Type /StructElem /C /justify /S /text /NS @pdf.obj15  /P @pdf.obj29 /K [<</Type /MCR /Pg @page1/MCID 6>> @pdf.obj31 <</Type /MCR /Pg @page1/MCID 8>>] /ID (ID.0011) >>}
 ..\special{pdf:obj @pdf.obj31 <<  /Type /StructElem /ActualText <FEFF0028004C00610029005400650058> /S /Span /NS @pdf.obj11  /P @pdf.obj30 /K <</Type /MCR /Pg @page1/MCID 7>> /ID (ID.0012) >>}
 ..\special{pdf:obj @pdf.obj32 <<  /Type /StructElem /S /Sect /NS @pdf.obj11  /P @pdf.obj21 /K [@pdf.obj33 @pdf.obj37] /ID (ID.0013) >>}
-..\special{pdf:obj @pdf.obj33 <<  /Type /StructElem /T <FEFF005C006900660069006E00630073006E0061006D00650020005C006C007400780040006900660075006E0064006500660069006E006500640020007B0048006F004C006F0067006F004300730040005C0048004F004C004F0047004F004000560061007200690061006E00740020007B00410070004C0061005400650058007D007D007B00410070004C0061005400650058007D007B005C00630073006E0061006D006500200048006F004C006F0067006F004300730040005C0048004F004C004F0047004F004000560061007200690061006E00740020007B00410070004C0061005400650058007D005C0065006E006400630073006E0061006D00650020005C006C00740078004000660069007200730074006F006600740077006F0020007D005C0065006C007300650020005C0048004F004C004F0047004F0040004900660045007800690073007400730020005C007400650078006F00720070006400660073007400720069006E00670020005C007400650078006F00720070006400660073007400720069006E00670020005C006C00740078004000660069007200730074006F006600740077006F0020007B005C004E006F0043006100730065004300680061006E006700650020007B005C0048006F004C006F0067006F0040007400610067004000610063007400750061006C00740065007800740020007B00660069007200730074007D007B00410070004C0061005400650058007D007B005C0068006F006C006F0067006F0052006F00620075007300740020007B00410070004C0061005400650058007D007D007D007D007B005C006C007400780040006900660075006E0064006500660069006E006500640020007B0048006F004C006F0067006F0042006B006D0040005C0048004F004C004F0047004F004000560061007200690061006E00740020007B00410070004C0061005400650058007D007D007B005C006C007400780040006900660075006E0064006500660069006E006500640020007B0048006F004C006F0067006F004000410070004C0061005400650058007D007B003F00410070004C0061005400650058003F007D007B00410070004C0061005400650058007D007D007B005C00630073006E0061006D006500200048006F004C006F0067006F0042006B006D0040005C0048004F004C004F0047004F004000560061007200690061006E00740020007B00410070004C0061005400650058007D005C0065006E006400630073006E0061006D00650020005C006C00740078004000660069007200730074006F006600740077006F0020007D007D005C006600690020002C0020005C0048006F006C006F0067006F0020007B00410070004C0061005400650058007D> /S /section /NS @pdf.obj15  /P @pdf.obj32 /K [@pdf.obj34 <</Type /MCR /Pg @page1/MCID 10>> @pdf.obj35 <</Type /MCR /Pg @page1/MCID 12>> @pdf.obj36 <</Type /MCR /Pg @page1/MCID 14>>] /ID (ID.0014) >>}
+..\special{pdf:obj @pdf.obj33 <<  /Type /StructElem /T <FEFF005C006900660069006E00630073006E0061006D00650020005C006C007400780040006900660075006E0064006500660069006E006500640020007B0048006F004C006F0067006F004300730040005C0048004F004C004F0047004F004000560061007200690061006E00740020007B0041006D0053004C0061005400650058007D007D007B0041006D0053004C0061005400650058007D007B005C00630073006E0061006D006500200048006F004C006F0067006F004300730040005C0048004F004C004F0047004F004000560061007200690061006E00740020007B0041006D0053004C0061005400650058007D005C0065006E006400630073006E0061006D00650020005C006C00740078004000660069007200730074006F006600740077006F0020007D005C0065006C007300650020005C0048004F004C004F0047004F0040004900660045007800690073007400730020005C007400650078006F00720070006400660073007400720069006E00670020005C007400650078006F00720070006400660073007400720069006E00670020005C006C00740078004000660069007200730074006F006600740077006F0020007B005C004E006F0043006100730065004300680061006E006700650020007B005C0048006F004C006F0067006F0040007400610067004000610063007400750061006C00740065007800740020007B00660069007200730074007D007B0041006D0053004C0061005400650058007D007B005C0068006F006C006F0067006F0052006F00620075007300740020007B0041006D0053004C0061005400650058007D007D007D007D007B005C006C007400780040006900660075006E0064006500660069006E006500640020007B0048006F004C006F0067006F0042006B006D0040005C0048004F004C004F0047004F004000560061007200690061006E00740020007B0041006D0053004C0061005400650058007D007D007B005C006C007400780040006900660075006E0064006500660069006E006500640020007B0048006F004C006F0067006F00400041006D0053004C0061005400650058007D007B003F0041006D0053004C0061005400650058003F007D007B0041006D0053004C0061005400650058007D007D007B005C00630073006E0061006D006500200048006F004C006F0067006F0042006B006D0040005C0048004F004C004F0047004F004000560061007200690061006E00740020007B0041006D0053004C0061005400650058007D005C0065006E006400630073006E0061006D00650020005C006C00740078004000660069007200730074006F006600740077006F0020007D007D005C006600690020002C0020005C0048006F006C006F0067006F0020007B0041006D0053004C0061005400650058007D> /S /section /NS @pdf.obj15  /P @pdf.obj32 /K [@pdf.obj34 <</Type /MCR /Pg @page1/MCID 10>> @pdf.obj35 <</Type /MCR /Pg @page1/MCID 12>> @pdf.obj36 <</Type /MCR /Pg @page1/MCID 14>>] /ID (ID.0014) >>}
 ..\special{pdf:obj @pdf.obj34 <<  /Type /StructElem /S /section-number /NS @pdf.obj15  /P @pdf.obj33 /K <</Type /MCR /Pg @page1/MCID 9>> /ID (ID.0015) >>}
-..\special{pdf:obj @pdf.obj35 <<  /Type /StructElem /ActualText <FEFF00410070004C0061005400650058> /S /Span /NS @pdf.obj11  /P @pdf.obj33 /K <</Type /MCR /Pg @page1/MCID 11>> /ID (ID.0016) >>}
-..\special{pdf:obj @pdf.obj36 <<  /Type /StructElem /ActualText <FEFF00410070004C0061005400650058> /S /Span /NS @pdf.obj11  /P @pdf.obj33 /K <</Type /MCR /Pg @page1/MCID 13>> /ID (ID.0017) >>}
+..\special{pdf:obj @pdf.obj35 <<  /Type /StructElem /ActualText <FEFF0041006D0053004C0061005400650058> /S /Span /NS @pdf.obj11  /P @pdf.obj33 /K <</Type /MCR /Pg @page1/MCID 11>> /ID (ID.0016) >>}
+..\special{pdf:obj @pdf.obj36 <<  /Type /StructElem /ActualText <FEFF0041006D0053004C0061005400650058> /S /Span /NS @pdf.obj11  /P @pdf.obj33 /K <</Type /MCR /Pg @page1/MCID 13>> /ID (ID.0017) >>}
 ..\special{pdf:obj @pdf.obj37 <<  /Type /StructElem /S /text-unit /NS @pdf.obj15  /P @pdf.obj32 /K @pdf.obj38 /ID (ID.0018) >>}
 ..\special{pdf:obj @pdf.obj38 <<  /Type /StructElem /C /justify /S /text /NS @pdf.obj15  /P @pdf.obj37 /K [<</Type /MCR /Pg @page1/MCID 15>> @pdf.obj39 <</Type /MCR /Pg @page1/MCID 17>>] /ID (ID.0019) >>}
-..\special{pdf:obj @pdf.obj39 <<  /Type /StructElem /ActualText <FEFF00410070004C0061005400650058> /S /Span /NS @pdf.obj11  /P @pdf.obj38 /K <</Type /MCR /Pg @page1/MCID 16>> /ID (ID.0020) >>}
+..\special{pdf:obj @pdf.obj39 <<  /Type /StructElem /ActualText <FEFF0041006D0053004C0061005400650058> /S /Span /NS @pdf.obj11  /P @pdf.obj38 /K <</Type /MCR /Pg @page1/MCID 16>> /ID (ID.0020) >>}
 ..\special{pdf:obj @pdf.obj40 <<  /Type /StructElem /S /Sect /NS @pdf.obj11  /P @pdf.obj21 /K [@pdf.obj41 @pdf.obj45] /ID (ID.0021) >>}
-..\special{pdf:obj @pdf.obj41 <<  /Type /StructElem /T <FEFF005C006900660069006E00630073006E0061006D00650020005C006C007400780040006900660075006E0064006500660069006E006500640020007B0048006F004C006F0067006F004300730040005C0048004F004C004F0047004F004000560061007200690061006E00740020007B00410070005400650058007D007D007B00410070005400650058007D007B005C00630073006E0061006D006500200048006F004C006F0067006F004300730040005C0048004F004C004F0047004F004000560061007200690061006E00740020007B00410070005400650058007D005C0065006E006400630073006E0061006D00650020005C006C00740078004000660069007200730074006F006600740077006F0020007D005C0065006C007300650020005C0048004F004C004F0047004F0040004900660045007800690073007400730020005C007400650078006F00720070006400660073007400720069006E00670020005C007400650078006F00720070006400660073007400720069006E00670020005C006C00740078004000660069007200730074006F006600740077006F0020007B005C004E006F0043006100730065004300680061006E006700650020007B005C0048006F004C006F0067006F0040007400610067004000610063007400750061006C00740065007800740020007B00660069007200730074007D007B00410070005400650058007D007B005C0068006F006C006F0067006F0052006F00620075007300740020007B00410070005400650058007D007D007D007D007B005C006C007400780040006900660075006E0064006500660069006E006500640020007B0048006F004C006F0067006F0042006B006D0040005C0048004F004C004F0047004F004000560061007200690061006E00740020007B00410070005400650058007D007D007B005C006C007400780040006900660075006E0064006500660069006E006500640020007B0048006F004C006F0067006F004000410070005400650058007D007B003F00410070005400650058003F007D007B00410070005400650058007D007D007B005C00630073006E0061006D006500200048006F004C006F0067006F0042006B006D0040005C0048004F004C004F0047004F004000560061007200690061006E00740020007B00410070005400650058007D005C0065006E006400630073006E0061006D00650020005C006C00740078004000660069007200730074006F006600740077006F0020007D007D005C006600690020002C0020005C0048006F006C006F0067006F0020007B00410070005400650058007D> /S /section /NS @pdf.obj15  /P @pdf.obj40 /K [@pdf.obj42 <</Type /MCR /Pg @page1/MCID 19>> @pdf.obj43 <</Type /MCR /Pg @page1/MCID 21>> @pdf.obj44 <</Type /MCR /Pg @page1/MCID 23>>] /ID (ID.0022) >>}
+..\special{pdf:obj @pdf.obj41 <<  /Type /StructElem /T <FEFF005C006900660069006E00630073006E0061006D00650020005C006C007400780040006900660075006E0064006500660069006E006500640020007B0048006F004C006F0067006F004300730040005C0048004F004C004F0047004F004000560061007200690061006E00740020007B0041006D0053005400650058007D007D007B0041006D0053005400650058007D007B005C00630073006E0061006D006500200048006F004C006F0067006F004300730040005C0048004F004C004F0047004F004000560061007200690061006E00740020007B0041006D0053005400650058007D005C0065006E006400630073006E0061006D00650020005C006C00740078004000660069007200730074006F006600740077006F0020007D005C0065006C007300650020005C0048004F004C004F0047004F0040004900660045007800690073007400730020005C007400650078006F00720070006400660073007400720069006E00670020005C007400650078006F00720070006400660073007400720069006E00670020005C006C00740078004000660069007200730074006F006600740077006F0020007B005C004E006F0043006100730065004300680061006E006700650020007B005C0048006F004C006F0067006F0040007400610067004000610063007400750061006C00740065007800740020007B00660069007200730074007D007B0041006D0053005400650058007D007B005C0068006F006C006F0067006F0052006F00620075007300740020007B0041006D0053005400650058007D007D007D007D007B005C006C007400780040006900660075006E0064006500660069006E006500640020007B0048006F004C006F0067006F0042006B006D0040005C0048004F004C004F0047004F004000560061007200690061006E00740020007B0041006D0053005400650058007D007D007B005C006C007400780040006900660075006E0064006500660069006E006500640020007B0048006F004C006F0067006F00400041006D0053005400650058007D007B003F0041006D0053005400650058003F007D007B0041006D0053005400650058007D007D007B005C00630073006E0061006D006500200048006F004C006F0067006F0042006B006D0040005C0048004F004C004F0047004F004000560061007200690061006E00740020007B0041006D0053005400650058007D005C0065006E006400630073006E0061006D00650020005C006C00740078004000660069007200730074006F006600740077006F0020007D007D005C006600690020002C0020005C0048006F006C006F0067006F0020007B0041006D0053005400650058007D> /S /section /NS @pdf.obj15  /P @pdf.obj40 /K [@pdf.obj42 <</Type /MCR /Pg @page1/MCID 19>> @pdf.obj43 <</Type /MCR /Pg @page1/MCID 21>> @pdf.obj44 <</Type /MCR /Pg @page1/MCID 23>>] /ID (ID.0022) >>}
 ..\special{pdf:obj @pdf.obj42 <<  /Type /StructElem /S /section-number /NS @pdf.obj15  /P @pdf.obj41 /K <</Type /MCR /Pg @page1/MCID 18>> /ID (ID.0023) >>}
-..\special{pdf:obj @pdf.obj43 <<  /Type /StructElem /ActualText <FEFF00410070005400650058> /S /Span /NS @pdf.obj11  /P @pdf.obj41 /K <</Type /MCR /Pg @page1/MCID 20>> /ID (ID.0024) >>}
-..\special{pdf:obj @pdf.obj44 <<  /Type /StructElem /ActualText <FEFF00410070005400650058> /S /Span /NS @pdf.obj11  /P @pdf.obj41 /K <</Type /MCR /Pg @page1/MCID 22>> /ID (ID.0025) >>}
+..\special{pdf:obj @pdf.obj43 <<  /Type /StructElem /ActualText <FEFF0041006D0053005400650058> /S /Span /NS @pdf.obj11  /P @pdf.obj41 /K <</Type /MCR /Pg @page1/MCID 20>> /ID (ID.0024) >>}
+..\special{pdf:obj @pdf.obj44 <<  /Type /StructElem /ActualText <FEFF0041006D0053005400650058> /S /Span /NS @pdf.obj11  /P @pdf.obj41 /K <</Type /MCR /Pg @page1/MCID 22>> /ID (ID.0025) >>}
 ..\special{pdf:obj @pdf.obj45 <<  /Type /StructElem /S /text-unit /NS @pdf.obj15  /P @pdf.obj40 /K @pdf.obj46 /ID (ID.0026) >>}
 ..\special{pdf:obj @pdf.obj46 <<  /Type /StructElem /C /justify /S /text /NS @pdf.obj15  /P @pdf.obj45 /K [<</Type /MCR /Pg @page1/MCID 24>> @pdf.obj47 <</Type /MCR /Pg @page1/MCID 26>>] /ID (ID.0027) >>}
-..\special{pdf:obj @pdf.obj47 <<  /Type /StructElem /ActualText <FEFF00410070005400650058> /S /Span /NS @pdf.obj11  /P @pdf.obj46 /K <</Type /MCR /Pg @page1/MCID 25>> /ID (ID.0028) >>}
+..\special{pdf:obj @pdf.obj47 <<  /Type /StructElem /ActualText <FEFF0041006D0053005400650058> /S /Span /NS @pdf.obj11  /P @pdf.obj46 /K <</Type /MCR /Pg @page1/MCID 25>> /ID (ID.0028) >>}
 ..\special{pdf:obj @pdf.obj48 <<  /Type /StructElem /S /Sect /NS @pdf.obj11  /P @pdf.obj21 /K [@pdf.obj49 @pdf.obj53] /ID (ID.0029) >>}
-..\special{pdf:obj @pdf.obj49 <<  /Type /StructElem /T <FEFF005C006900660069006E00630073006E0061006D00650020005C006C007400780040006900660075006E0064006500660069006E006500640020007B0048006F004C006F0067006F004300730040005C0048004F004C004F0047004F004000560061007200690061006E00740020007B0041006D0053004C0061005400650058007D007D007B0041006D0053004C0061005400650058007D007B005C00630073006E0061006D006500200048006F004C006F0067006F004300730040005C0048004F004C004F0047004F004000560061007200690061006E00740020007B0041006D0053004C0061005400650058007D005C0065006E006400630073006E0061006D00650020005C006C00740078004000660069007200730074006F006600740077006F0020007D005C0065006C007300650020005C0048004F004C004F0047004F0040004900660045007800690073007400730020005C007400650078006F00720070006400660073007400720069006E00670020005C007400650078006F00720070006400660073007400720069006E00670020005C006C00740078004000660069007200730074006F006600740077006F0020007B005C004E006F0043006100730065004300680061006E006700650020007B005C0048006F004C006F0067006F0040007400610067004000610063007400750061006C00740065007800740020007B00660069007200730074007D007B0041006D0053004C0061005400650058007D007B005C0068006F006C006F0067006F0052006F00620075007300740020007B0041006D0053004C0061005400650058007D007D007D007D007B005C006C007400780040006900660075006E0064006500660069006E006500640020007B0048006F004C006F0067006F0042006B006D0040005C0048004F004C004F0047004F004000560061007200690061006E00740020007B0041006D0053004C0061005400650058007D007D007B005C006C007400780040006900660075006E0064006500660069006E006500640020007B0048006F004C006F0067006F00400041006D0053004C0061005400650058007D007B003F0041006D0053004C0061005400650058003F007D007B0041006D0053004C0061005400650058007D007D007B005C00630073006E0061006D006500200048006F004C006F0067006F0042006B006D0040005C0048004F004C004F0047004F004000560061007200690061006E00740020007B0041006D0053004C0061005400650058007D005C0065006E006400630073006E0061006D00650020005C006C00740078004000660069007200730074006F006600740077006F0020007D007D005C006600690020002C0020005C0048006F006C006F0067006F0020007B0041006D0053004C0061005400650058007D> /S /section /NS @pdf.obj15  /P @pdf.obj48 /K [@pdf.obj50 <</Type /MCR /Pg @page1/MCID 28>> @pdf.obj51 <</Type /MCR /Pg @page1/MCID 30>> @pdf.obj52 <</Type /MCR /Pg @page1/MCID 32>>] /ID (ID.0030) >>}
+..\special{pdf:obj @pdf.obj49 <<  /Type /StructElem /T <FEFF005C006900660069006E00630073006E0061006D00650020005C006C007400780040006900660075006E0064006500660069006E006500640020007B0048006F004C006F0067006F004300730040005C0048004F004C004F0047004F004000560061007200690061006E00740020007B00410070004C0061005400650058007D007D007B00410070004C0061005400650058007D007B005C00630073006E0061006D006500200048006F004C006F0067006F004300730040005C0048004F004C004F0047004F004000560061007200690061006E00740020007B00410070004C0061005400650058007D005C0065006E006400630073006E0061006D00650020005C006C00740078004000660069007200730074006F006600740077006F0020007D005C0065006C007300650020005C0048004F004C004F0047004F0040004900660045007800690073007400730020005C007400650078006F00720070006400660073007400720069006E00670020005C007400650078006F00720070006400660073007400720069006E00670020005C006C00740078004000660069007200730074006F006600740077006F0020007B005C004E006F0043006100730065004300680061006E006700650020007B005C0048006F004C006F0067006F0040007400610067004000610063007400750061006C00740065007800740020007B00660069007200730074007D007B00410070004C0061005400650058007D007B005C0068006F006C006F0067006F0052006F00620075007300740020007B00410070004C0061005400650058007D007D007D007D007B005C006C007400780040006900660075006E0064006500660069006E006500640020007B0048006F004C006F0067006F0042006B006D0040005C0048004F004C004F0047004F004000560061007200690061006E00740020007B00410070004C0061005400650058007D007D007B005C006C007400780040006900660075006E0064006500660069006E006500640020007B0048006F004C006F0067006F004000410070004C0061005400650058007D007B003F00410070004C0061005400650058003F007D007B00410070004C0061005400650058007D007D007B005C00630073006E0061006D006500200048006F004C006F0067006F0042006B006D0040005C0048004F004C004F0047004F004000560061007200690061006E00740020007B00410070004C0061005400650058007D005C0065006E006400630073006E0061006D00650020005C006C00740078004000660069007200730074006F006600740077006F0020007D007D005C006600690020002C0020005C0048006F006C006F0067006F0020007B00410070004C0061005400650058007D> /S /section /NS @pdf.obj15  /P @pdf.obj48 /K [@pdf.obj50 <</Type /MCR /Pg @page1/MCID 28>> @pdf.obj51 <</Type /MCR /Pg @page1/MCID 30>> @pdf.obj52 <</Type /MCR /Pg @page1/MCID 32>>] /ID (ID.0030) >>}
 ..\special{pdf:obj @pdf.obj50 <<  /Type /StructElem /S /section-number /NS @pdf.obj15  /P @pdf.obj49 /K <</Type /MCR /Pg @page1/MCID 27>> /ID (ID.0031) >>}
-..\special{pdf:obj @pdf.obj51 <<  /Type /StructElem /ActualText <FEFF0041006D0053004C0061005400650058> /S /Span /NS @pdf.obj11  /P @pdf.obj49 /K <</Type /MCR /Pg @page1/MCID 29>> /ID (ID.0032) >>}
-..\special{pdf:obj @pdf.obj52 <<  /Type /StructElem /ActualText <FEFF0041006D0053004C0061005400650058> /S /Span /NS @pdf.obj11  /P @pdf.obj49 /K <</Type /MCR /Pg @page1/MCID 31>> /ID (ID.0033) >>}
+..\special{pdf:obj @pdf.obj51 <<  /Type /StructElem /ActualText <FEFF00410070004C0061005400650058> /S /Span /NS @pdf.obj11  /P @pdf.obj49 /K <</Type /MCR /Pg @page1/MCID 29>> /ID (ID.0032) >>}
+..\special{pdf:obj @pdf.obj52 <<  /Type /StructElem /ActualText <FEFF00410070004C0061005400650058> /S /Span /NS @pdf.obj11  /P @pdf.obj49 /K <</Type /MCR /Pg @page1/MCID 31>> /ID (ID.0033) >>}
 ..\special{pdf:obj @pdf.obj53 <<  /Type /StructElem /S /text-unit /NS @pdf.obj15  /P @pdf.obj48 /K @pdf.obj54 /ID (ID.0034) >>}
 ..\special{pdf:obj @pdf.obj54 <<  /Type /StructElem /C /justify /S /text /NS @pdf.obj15  /P @pdf.obj53 /K [<</Type /MCR /Pg @page1/MCID 33>> @pdf.obj55 <</Type /MCR /Pg @page1/MCID 35>>] /ID (ID.0035) >>}
-..\special{pdf:obj @pdf.obj55 <<  /Type /StructElem /ActualText <FEFF0041006D0053004C0061005400650058> /S /Span /NS @pdf.obj11  /P @pdf.obj54 /K <</Type /MCR /Pg @page1/MCID 34>> /ID (ID.0036) >>}
+..\special{pdf:obj @pdf.obj55 <<  /Type /StructElem /ActualText <FEFF00410070004C0061005400650058> /S /Span /NS @pdf.obj11  /P @pdf.obj54 /K <</Type /MCR /Pg @page1/MCID 34>> /ID (ID.0036) >>}
 ..\special{pdf:obj @pdf.obj56 <<  /Type /StructElem /S /Sect /NS @pdf.obj11  /P @pdf.obj21 /K [@pdf.obj57 @pdf.obj61] /ID (ID.0037) >>}
-..\special{pdf:obj @pdf.obj57 <<  /Type /StructElem /T <FEFF005C006900660069006E00630073006E0061006D00650020005C006C007400780040006900660075006E0064006500660069006E006500640020007B0048006F004C006F0067006F004300730040005C0048004F004C004F0047004F004000560061007200690061006E00740020007B0041006D0053005400650058007D007D007B0041006D0053005400650058007D007B005C00630073006E0061006D006500200048006F004C006F0067006F004300730040005C0048004F004C004F0047004F004000560061007200690061006E00740020007B0041006D0053005400650058007D005C0065006E006400630073006E0061006D00650020005C006C00740078004000660069007200730074006F006600740077006F0020007D005C0065006C007300650020005C0048004F004C004F0047004F0040004900660045007800690073007400730020005C007400650078006F00720070006400660073007400720069006E00670020005C007400650078006F00720070006400660073007400720069006E00670020005C006C00740078004000660069007200730074006F006600740077006F0020007B005C004E006F0043006100730065004300680061006E006700650020007B005C0048006F004C006F0067006F0040007400610067004000610063007400750061006C00740065007800740020007B00660069007200730074007D007B0041006D0053005400650058007D007B005C0068006F006C006F0067006F0052006F00620075007300740020007B0041006D0053005400650058007D007D007D007D007B005C006C007400780040006900660075006E0064006500660069006E006500640020007B0048006F004C006F0067006F0042006B006D0040005C0048004F004C004F0047004F004000560061007200690061006E00740020007B0041006D0053005400650058007D007D007B005C006C007400780040006900660075006E0064006500660069006E006500640020007B0048006F004C006F0067006F00400041006D0053005400650058007D007B003F0041006D0053005400650058003F007D007B0041006D0053005400650058007D007D007B005C00630073006E0061006D006500200048006F004C006F0067006F0042006B006D0040005C0048004F004C004F0047004F004000560061007200690061006E00740020007B0041006D0053005400650058007D005C0065006E006400630073006E0061006D00650020005C006C00740078004000660069007200730074006F006600740077006F0020007D007D005C006600690020002C0020005C0048006F006C006F0067006F0020007B0041006D0053005400650058007D> /S /section /NS @pdf.obj15  /P @pdf.obj56 /K [@pdf.obj58 <</Type /MCR /Pg @page1/MCID 37>> @pdf.obj59 <</Type /MCR /Pg @page1/MCID 39>> @pdf.obj60 <</Type /MCR /Pg @page1/MCID 41>>] /ID (ID.0038) >>}
+..\special{pdf:obj @pdf.obj57 <<  /Type /StructElem /T <FEFF005C006900660069006E00630073006E0061006D00650020005C006C007400780040006900660075006E0064006500660069006E006500640020007B0048006F004C006F0067006F004300730040005C0048004F004C004F0047004F004000560061007200690061006E00740020007B00410070005400650058007D007D007B00410070005400650058007D007B005C00630073006E0061006D006500200048006F004C006F0067006F004300730040005C0048004F004C004F0047004F004000560061007200690061006E00740020007B00410070005400650058007D005C0065006E006400630073006E0061006D00650020005C006C00740078004000660069007200730074006F006600740077006F0020007D005C0065006C007300650020005C0048004F004C004F0047004F0040004900660045007800690073007400730020005C007400650078006F00720070006400660073007400720069006E00670020005C007400650078006F00720070006400660073007400720069006E00670020005C006C00740078004000660069007200730074006F006600740077006F0020007B005C004E006F0043006100730065004300680061006E006700650020007B005C0048006F004C006F0067006F0040007400610067004000610063007400750061006C00740065007800740020007B00660069007200730074007D007B00410070005400650058007D007B005C0068006F006C006F0067006F0052006F00620075007300740020007B00410070005400650058007D007D007D007D007B005C006C007400780040006900660075006E0064006500660069006E006500640020007B0048006F004C006F0067006F0042006B006D0040005C0048004F004C004F0047004F004000560061007200690061006E00740020007B00410070005400650058007D007D007B005C006C007400780040006900660075006E0064006500660069006E006500640020007B0048006F004C006F0067006F004000410070005400650058007D007B003F00410070005400650058003F007D007B00410070005400650058007D007D007B005C00630073006E0061006D006500200048006F004C006F0067006F0042006B006D0040005C0048004F004C004F0047004F004000560061007200690061006E00740020007B00410070005400650058007D005C0065006E006400630073006E0061006D00650020005C006C00740078004000660069007200730074006F006600740077006F0020007D007D005C006600690020002C0020005C0048006F006C006F0067006F0020007B00410070005400650058007D> /S /section /NS @pdf.obj15  /P @pdf.obj56 /K [@pdf.obj58 <</Type /MCR /Pg @page1/MCID 37>> @pdf.obj59 <</Type /MCR /Pg @page1/MCID 39>> @pdf.obj60 <</Type /MCR /Pg @page1/MCID 41>>] /ID (ID.0038) >>}
 ..\special{pdf:obj @pdf.obj58 <<  /Type /StructElem /S /section-number /NS @pdf.obj15  /P @pdf.obj57 /K <</Type /MCR /Pg @page1/MCID 36>> /ID (ID.0039) >>}
-..\special{pdf:obj @pdf.obj59 <<  /Type /StructElem /ActualText <FEFF0041006D0053005400650058> /S /Span /NS @pdf.obj11  /P @pdf.obj57 /K <</Type /MCR /Pg @page1/MCID 38>> /ID (ID.0040) >>}
-..\special{pdf:obj @pdf.obj60 <<  /Type /StructElem /ActualText <FEFF0041006D0053005400650058> /S /Span /NS @pdf.obj11  /P @pdf.obj57 /K <</Type /MCR /Pg @page1/MCID 40>> /ID (ID.0041) >>}
+..\special{pdf:obj @pdf.obj59 <<  /Type /StructElem /ActualText <FEFF00410070005400650058> /S /Span /NS @pdf.obj11  /P @pdf.obj57 /K <</Type /MCR /Pg @page1/MCID 38>> /ID (ID.0040) >>}
+..\special{pdf:obj @pdf.obj60 <<  /Type /StructElem /ActualText <FEFF00410070005400650058> /S /Span /NS @pdf.obj11  /P @pdf.obj57 /K <</Type /MCR /Pg @page1/MCID 40>> /ID (ID.0041) >>}
 ..\special{pdf:obj @pdf.obj61 <<  /Type /StructElem /S /text-unit /NS @pdf.obj15  /P @pdf.obj56 /K @pdf.obj62 /ID (ID.0042) >>}
 ..\special{pdf:obj @pdf.obj62 <<  /Type /StructElem /C /justify /S /text /NS @pdf.obj15  /P @pdf.obj61 /K [<</Type /MCR /Pg @page1/MCID 42>> @pdf.obj63 <</Type /MCR /Pg @page1/MCID 44>>] /ID (ID.0043) >>}
-..\special{pdf:obj @pdf.obj63 <<  /Type /StructElem /ActualText <FEFF0041006D0053005400650058> /S /Span /NS @pdf.obj11  /P @pdf.obj62 /K <</Type /MCR /Pg @page1/MCID 43>> /ID (ID.0044) >>}
+..\special{pdf:obj @pdf.obj63 <<  /Type /StructElem /ActualText <FEFF00410070005400650058> /S /Span /NS @pdf.obj11  /P @pdf.obj62 /K <</Type /MCR /Pg @page1/MCID 43>> /ID (ID.0044) >>}
 ..\special{pdf:obj @pdf.obj64 <<  /Type /StructElem /S /Sect /NS @pdf.obj11  /P @pdf.obj21 /K [@pdf.obj65 @pdf.obj69] /ID (ID.0045) >>}
 ..\special{pdf:obj @pdf.obj65 <<  /Type /StructElem /T <FEFF005C006900660069006E00630073006E0061006D00650020005C006C007400780040006900660075006E0064006500660069006E006500640020007B0048006F004C006F0067006F004300730040005C0048004F004C004F0047004F004000560061007200690061006E00740020007B00620069006200650072007D007D007B00620069006200650072007D007B005C00630073006E0061006D006500200048006F004C006F0067006F004300730040005C0048004F004C004F0047004F004000560061007200690061006E00740020007B00620069006200650072007D005C0065006E006400630073006E0061006D00650020005C006C00740078004000660069007200730074006F006600740077006F0020007D005C0065006C007300650020005C0048004F004C004F0047004F0040004900660045007800690073007400730020005C007400650078006F00720070006400660073007400720069006E00670020005C007400650078006F00720070006400660073007400720069006E00670020005C006C00740078004000660069007200730074006F006600740077006F0020007B005C004E006F0043006100730065004300680061006E006700650020007B005C0048006F004C006F0067006F0040007400610067004000610063007400750061006C00740065007800740020007B00660069007200730074007D007B00620069006200650072007D007B005C0068006F006C006F0067006F0052006F00620075007300740020007B00620069006200650072007D007D007D007D007B005C006C007400780040006900660075006E0064006500660069006E006500640020007B0048006F004C006F0067006F0042006B006D0040005C0048004F004C004F0047004F004000560061007200690061006E00740020007B00620069006200650072007D007D007B005C006C007400780040006900660075006E0064006500660069006E006500640020007B0048006F004C006F0067006F004000620069006200650072007D007B003F00620069006200650072003F007D007B00620069006200650072007D007D007B005C00630073006E0061006D006500200048006F004C006F0067006F0042006B006D0040005C0048004F004C004F0047004F004000560061007200690061006E00740020007B00620069006200650072007D005C0065006E006400630073006E0061006D00650020005C006C00740078004000660069007200730074006F006600740077006F0020007D007D005C006600690020002C0020005C0048006F006C006F0067006F0020007B00620069006200650072007D> /S /section /NS @pdf.obj15  /P @pdf.obj64 /K [@pdf.obj66 <</Type /MCR /Pg @page1/MCID 46>> @pdf.obj67 <</Type /MCR /Pg @page1/MCID 48>> @pdf.obj68 <</Type /MCR /Pg @page1/MCID 50>>] /ID (ID.0046) >>}
 ..\special{pdf:obj @pdf.obj66 <<  /Type /StructElem /S /section-number /NS @pdf.obj15  /P @pdf.obj65 /K <</Type /MCR /Pg @page1/MCID 45>> /ID (ID.0047) >>}

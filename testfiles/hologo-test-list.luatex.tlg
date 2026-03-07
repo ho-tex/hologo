@@ -47,64 +47,7 @@ Completed box being shipped out [1]
 ....\glue(\rightskip) 0.0
 ...\glue(\parskip) 0.0 plus 1.0
 ...\glue(\parskip) 0.0
-...\glue(\baselineskip) 2.34
-...\hbox(7.16+2.155)x345.0, glue set 292.27603fil, direction TLT
-....\localpar
-.....\localinterlinepenalty=0
-.....\localbrokenpenalty=0
-.....\localleftbox=null
-.....\localrightbox=null
-....\hbox(0.0+0.0)x15.0, direction TLT
-....\hbox(7.16+0.0)x6.99997, direction TLT
-.....\TU/lmr/m/n/10 A
-.....\kern-0.50003
-....\hbox(4.42+1.94)x5.05997, direction TLT
-.....\TU/lmr/m/n/10 p
-.....\kern-0.50003
-....\TU/lmr/m/n/10 L
-....\kern-3.6
-....\vbox(6.77+0.0)x5.901, glue set 1.779fil, direction TLT
-.....\hbox(4.991+0.0)x5.901, direction TLT
-......\TU/lmr/m/n/7 A
-.....\glue 0.0 plus 1.0fil minus 1.0fil
-....\kern-1.49994
-....\TU/lmr/m/n/10 T
-....\kern-1.66702
-....\hbox(6.8+0.0)x6.81, shifted 2.155, direction TLT
-.....\TU/lmr/m/n/10 E
-....\kern-1.25
-....\TU/lmr/m/n/10 X
-....\penalty 10000
-....\glue(\parfillskip) 0.0 plus 1.0fil
-....\glue(\rightskip) 0.0
-...\glue(\parskip) 0.0 plus 1.0
-...\glue(\parskip) 0.0
-...\glue(\baselineskip) 2.685
-...\hbox(7.16+2.155)x345.0, glue set 300.327fil, direction TLT
-....\localpar
-.....\localinterlinepenalty=0
-.....\localbrokenpenalty=0
-.....\localleftbox=null
-.....\localrightbox=null
-....\hbox(0.0+0.0)x15.0, direction TLT
-....\hbox(7.16+0.0)x6.99997, direction TLT
-.....\TU/lmr/m/n/10 A
-.....\kern-0.50003
-....\hbox(4.42+1.94)x4.06006, direction TLT
-.....\TU/lmr/m/n/10 p
-.....\kern-1.49994
-....\TU/lmr/m/n/10 T
-....\kern-1.66702
-....\hbox(6.8+0.0)x6.81, shifted 2.155, direction TLT
-.....\TU/lmr/m/n/10 E
-....\kern-1.25
-....\TU/lmr/m/n/10 X
-....\penalty 10000
-....\glue(\parfillskip) 0.0 plus 1.0fil
-....\glue(\rightskip) 0.0
-...\glue(\parskip) 0.0 plus 1.0
-...\glue(\parskip) 0.0
-...\glue(\baselineskip) 3.01169
+...\glue(\baselineskip) 2.66669
 ...\hbox(6.83331+2.155)x345.0, glue set 277.87372fil, direction TLT
 ....\localpar
 .....\localinterlinepenalty=0
@@ -165,6 +108,63 @@ Completed box being shipped out [1]
 ....\glue(\rightskip) 0.0
 ...\glue(\parskip) 0.0 plus 1.0
 ...\glue(\parskip) 0.0
+...\glue(\baselineskip) 2.685
+...\hbox(7.16+2.155)x345.0, glue set 292.27603fil, direction TLT
+....\localpar
+.....\localinterlinepenalty=0
+.....\localbrokenpenalty=0
+.....\localleftbox=null
+.....\localrightbox=null
+....\hbox(0.0+0.0)x15.0, direction TLT
+....\hbox(7.16+0.0)x6.99997, direction TLT
+.....\TU/lmr/m/n/10 A
+.....\kern-0.50003
+....\hbox(4.42+1.94)x5.05997, direction TLT
+.....\TU/lmr/m/n/10 p
+.....\kern-0.50003
+....\TU/lmr/m/n/10 L
+....\kern-3.6
+....\vbox(6.77+0.0)x5.901, glue set 1.779fil, direction TLT
+.....\hbox(4.991+0.0)x5.901, direction TLT
+......\TU/lmr/m/n/7 A
+.....\glue 0.0 plus 1.0fil minus 1.0fil
+....\kern-1.49994
+....\TU/lmr/m/n/10 T
+....\kern-1.66702
+....\hbox(6.8+0.0)x6.81, shifted 2.155, direction TLT
+.....\TU/lmr/m/n/10 E
+....\kern-1.25
+....\TU/lmr/m/n/10 X
+....\penalty 10000
+....\glue(\parfillskip) 0.0 plus 1.0fil
+....\glue(\rightskip) 0.0
+...\glue(\parskip) 0.0 plus 1.0
+...\glue(\parskip) 0.0
+...\glue(\baselineskip) 2.685
+...\hbox(7.16+2.155)x345.0, glue set 300.327fil, direction TLT
+....\localpar
+.....\localinterlinepenalty=0
+.....\localbrokenpenalty=0
+.....\localleftbox=null
+.....\localrightbox=null
+....\hbox(0.0+0.0)x15.0, direction TLT
+....\hbox(7.16+0.0)x6.99997, direction TLT
+.....\TU/lmr/m/n/10 A
+.....\kern-0.50003
+....\hbox(4.42+1.94)x4.06006, direction TLT
+.....\TU/lmr/m/n/10 p
+.....\kern-1.49994
+....\TU/lmr/m/n/10 T
+....\kern-1.66702
+....\hbox(6.8+0.0)x6.81, shifted 2.155, direction TLT
+.....\TU/lmr/m/n/10 E
+....\kern-1.25
+....\TU/lmr/m/n/10 X
+....\penalty 10000
+....\glue(\parfillskip) 0.0 plus 1.0fil
+....\glue(\rightskip) 0.0
+...\glue(\parskip) 0.0 plus 1.0
+...\glue(\parskip) 0.0
 ...\glue(\baselineskip) 2.905
 ...\hbox(6.94+0.11)x345.0, glue set 307.46002fil, direction TLT
 ....\localpar
@@ -187,33 +187,6 @@ Completed box being shipped out [1]
 ...\glue(\parskip) 0.0 plus 1.0
 ...\glue(\parskip) 0.0
 ...\glue(\baselineskip) 5.06
-...\hbox(6.83+2.155)x345.0, glue set 297.29803fil, direction TLT
-....\localpar
-.....\localinterlinepenalty=0
-.....\localbrokenpenalty=0
-.....\localleftbox=null
-.....\localrightbox=null
-....\hbox(0.0+0.0)x15.0, direction TLT
-....\TU/lmr/m/n/10 B
-....\kern-0.50003
-....\mathon
-....\mathoff
-....\TU/lmr/m/n/7 I
-....\kern-0.17496
-....\TU/lmr/m/n/7 B
-....\kern-0.80002
-....\TU/lmr/m/n/10 T
-....\kern-1.66702
-....\hbox(6.8+0.0)x6.81, shifted 2.155, direction TLT
-.....\TU/lmr/m/n/10 E
-....\kern-1.25
-....\TU/lmr/m/n/10 X
-....\penalty 10000
-....\glue(\parfillskip) 0.0 plus 1.0fil
-....\glue(\rightskip) 0.0
-...\glue(\parskip) 0.0 plus 1.0
-...\glue(\parskip) 0.0
-...\glue(\baselineskip) 3.015
 ...\hbox(6.83+2.155)x345.0, glue set 297.29803fil, direction TLT
 ....\localpar
 .....\localinterlinepenalty=0
@@ -266,7 +239,7 @@ Completed box being shipped out [1]
 ...\glue(\parskip) 0.0 plus 1.0
 ...\glue(\parskip) 0.0
 ...\glue(\baselineskip) 3.015
-...\hbox(6.83+2.155)x345.0, glue set 292.03699fil, direction TLT
+...\hbox(6.83+2.155)x345.0, glue set 297.29803fil, direction TLT
 ....\localpar
 .....\localinterlinepenalty=0
 .....\localbrokenpenalty=0
@@ -275,9 +248,38 @@ Completed box being shipped out [1]
 ....\hbox(0.0+0.0)x15.0, direction TLT
 ....\TU/lmr/m/n/10 B
 ....\kern-0.50003
-....\TU/lmr/m/sc/10 i
-....\kern-0.24994
-....\TU/lmr/m/sc/10 b
+....\mathon
+....\mathoff
+....\TU/lmr/m/n/7 I
+....\kern-0.17496
+....\TU/lmr/m/n/7 B
+....\kern-0.80002
+....\TU/lmr/m/n/10 T
+....\kern-1.66702
+....\hbox(6.8+0.0)x6.81, shifted 2.155, direction TLT
+.....\TU/lmr/m/n/10 E
+....\kern-1.25
+....\TU/lmr/m/n/10 X
+....\penalty 10000
+....\glue(\parfillskip) 0.0 plus 1.0fil
+....\glue(\rightskip) 0.0
+...\glue(\parskip) 0.0 plus 1.0
+...\glue(\parskip) 0.0
+...\glue(\baselineskip) 3.015
+...\hbox(6.83+2.155)x345.0, glue set 292.29803fil, direction TLT
+....\localpar
+.....\localinterlinepenalty=0
+.....\localbrokenpenalty=0
+.....\localleftbox=null
+.....\localrightbox=null
+....\hbox(0.0+0.0)x15.0, direction TLT
+....\TU/lmr/m/n/10 B
+....\kern-0.50003
+....\mathon
+....\mathoff
+....\TU/lmr/m/n/7 I
+....\kern-0.17496
+....\TU/lmr/m/n/7 B
 ....\kern-0.80002
 ....\TU/lmr/m/n/10 T
 ....\kern-1.66702
@@ -1228,33 +1230,6 @@ Completed box being shipped out [2]
 .....\TU/lmr/m/n/10 a
 .....\TU/lmr/m/n/10 i
 .....\TU/lmr/m/n/10 n
-....\penalty 10000
-....\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
-....\TU/lmr/m/n/10 T
-....\kern-1.66702
-....\hbox(6.8+0.0)x6.81, shifted 2.155, direction TLT
-.....\TU/lmr/m/n/10 E
-....\kern-1.25
-....\TU/lmr/m/n/10 X
-....\penalty 10000
-....\glue(\parfillskip) 0.0 plus 1.0fil
-....\glue(\rightskip) 0.0
-...\glue(\parskip) 0.0 plus 1.0
-...\glue(\parskip) 0.0
-...\glue(\baselineskip) 2.905
-...\hbox(6.94+2.155)x345.0, glue set 286.37701fil, direction TLT
-....\localpar
-.....\localinterlinepenalty=0
-.....\localbrokenpenalty=0
-.....\localleftbox=null
-.....\localrightbox=null
-....\hbox(0.0+0.0)x15.0, direction TLT
-....\hbox(6.94+1.94)x21.68, direction TLT
-.....\TU/lmr/m/n/10 p
-.....\TU/lmr/m/n/10 l
-.....\TU/lmr/m/n/10 a
-.....\TU/lmr/m/n/10 i
-.....\TU/lmr/m/n/10 n
 ....\hbox(2.45+0.0)x3.33, direction TLT
 .....\TU/lmr/m/n/10 -
 ....\TU/lmr/m/n/10 T
@@ -1288,6 +1263,33 @@ Completed box being shipped out [2]
 ......\TU/lmr/m/n/10 E
 .....\kern-1.25
 .....\TU/lmr/m/n/10 X
+....\penalty 10000
+....\glue(\parfillskip) 0.0 plus 1.0fil
+....\glue(\rightskip) 0.0
+...\glue(\parskip) 0.0 plus 1.0
+...\glue(\parskip) 0.0
+...\glue(\baselineskip) 2.905
+...\hbox(6.94+2.155)x345.0, glue set 286.37701fil, direction TLT
+....\localpar
+.....\localinterlinepenalty=0
+.....\localbrokenpenalty=0
+.....\localleftbox=null
+.....\localrightbox=null
+....\hbox(0.0+0.0)x15.0, direction TLT
+....\hbox(6.94+1.94)x21.68, direction TLT
+.....\TU/lmr/m/n/10 p
+.....\TU/lmr/m/n/10 l
+.....\TU/lmr/m/n/10 a
+.....\TU/lmr/m/n/10 i
+.....\TU/lmr/m/n/10 n
+....\penalty 10000
+....\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+....\TU/lmr/m/n/10 T
+....\kern-1.66702
+....\hbox(6.8+0.0)x6.81, shifted 2.155, direction TLT
+.....\TU/lmr/m/n/10 E
+....\kern-1.25
+....\TU/lmr/m/n/10 X
 ....\penalty 10000
 ....\glue(\parfillskip) 0.0 plus 1.0fil
 ....\glue(\rightskip) 0.0
@@ -1497,6 +1499,32 @@ Completed box being shipped out [2]
 ...\glue(\parskip) 0.0 plus 1.0
 ...\glue(\parskip) 0.0
 ...\glue(\baselineskip) 2.795
+...\hbox(7.05+2.155)x345.0, glue set 299.55688fil, direction TLT
+....\localpar
+.....\localinterlinepenalty=0
+.....\localbrokenpenalty=0
+.....\localleftbox=null
+.....\localrightbox=null
+....\hbox(0.0+0.0)x15.0, direction TLT
+....\TU/lmr/m/n/10 S
+....\kern-0.59998
+....\TU/lmr/m/n/10 L
+....\kern-1.79993
+....\hbox(5.14+0.0)x3.02, shifted -1.37923, direction TLT
+.....\TU/lmr/m/sc/10 i
+....\kern-0.59998
+....\TU/lmr/m/n/10 T
+....\kern-1.66702
+....\hbox(6.8+0.0)x6.81, shifted 2.155, direction TLT
+.....\TU/lmr/m/n/10 E
+....\kern-1.25
+....\TU/lmr/m/n/10 X
+....\penalty 10000
+....\glue(\parfillskip) 0.0 plus 1.0fil
+....\glue(\rightskip) 0.0
+...\glue(\parskip) 0.0 plus 1.0
+...\glue(\parskip) 0.0
+...\glue(\baselineskip) 2.795
 ...\hbox(7.05+2.155)x345.0, glue set 299.22699fil, direction TLT
 ....\localpar
 .....\localinterlinepenalty=0
@@ -1534,32 +1562,6 @@ Completed box being shipped out [2]
 .....\TU/lmr/m/sc/10 S
 .....\TU/lmr/m/sc/10 l
 .....\TU/lmr/m/sc/10 i
-....\TU/lmr/m/n/10 T
-....\kern-1.66702
-....\hbox(6.8+0.0)x6.81, shifted 2.155, direction TLT
-.....\TU/lmr/m/n/10 E
-....\kern-1.25
-....\TU/lmr/m/n/10 X
-....\penalty 10000
-....\glue(\parfillskip) 0.0 plus 1.0fil
-....\glue(\rightskip) 0.0
-...\glue(\parskip) 0.0 plus 1.0
-...\glue(\parskip) 0.0
-...\glue(\baselineskip) 2.795
-...\hbox(7.05+2.155)x345.0, glue set 299.55688fil, direction TLT
-....\localpar
-.....\localinterlinepenalty=0
-.....\localbrokenpenalty=0
-.....\localleftbox=null
-.....\localrightbox=null
-....\hbox(0.0+0.0)x15.0, direction TLT
-....\TU/lmr/m/n/10 S
-....\kern-0.59998
-....\TU/lmr/m/n/10 L
-....\kern-1.79993
-....\hbox(5.14+0.0)x3.02, shifted -1.37923, direction TLT
-.....\TU/lmr/m/sc/10 i
-....\kern-0.59998
 ....\TU/lmr/m/n/10 T
 ....\kern-1.66702
 ....\hbox(6.8+0.0)x6.81, shifted 2.155, direction TLT

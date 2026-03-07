@@ -42,54 +42,7 @@ Completed box being shipped out [1]
 ....\glue(\rightskip) 0.0
 ...\glue(\parskip) 0.0 plus 1.0
 ...\glue(\parskip) 0.0
-...\glue(\baselineskip) 2.34001
-...\hbox(7.16+2.155)x345.0, glue set 292.27603fil
-....\hbox(0.0+0.0)x15.0
-....\hbox(7.16+0.0)x6.99997
-.....\TU/lmr/m/n/10 A
-.....\kern -0.50003
-....\hbox(4.42+1.93999)x5.05997
-.....\TU/lmr/m/n/10 p
-.....\kern -0.50003
-....\TU/lmr/m/n/10 L
-....\kern -3.6
-....\vbox(6.77+0.0)x5.901, glue set 1.779fil
-.....\hbox(4.991+0.0)x5.901
-......\TU/lmr/m/n/7 A
-.....\glue 0.0 plus 1.0fil minus 1.0fil
-....\kern -1.49994
-....\TU/lmr/m/n/10 T
-....\kern -1.66702
-....\hbox(6.8+0.0)x6.81, shifted 2.155
-.....\TU/lmr/m/n/10 E
-....\kern -1.25
-....\TU/lmr/m/n/10 X
-....\penalty 10000
-....\glue(\parfillskip) 0.0 plus 1.0fil
-....\glue(\rightskip) 0.0
-...\glue(\parskip) 0.0 plus 1.0
-...\glue(\parskip) 0.0
-...\glue(\baselineskip) 2.685
-...\hbox(7.16+2.155)x345.0, glue set 300.327fil
-....\hbox(0.0+0.0)x15.0
-....\hbox(7.16+0.0)x6.99997
-.....\TU/lmr/m/n/10 A
-.....\kern -0.50003
-....\hbox(4.42+1.93999)x4.06006
-.....\TU/lmr/m/n/10 p
-.....\kern -1.49994
-....\TU/lmr/m/n/10 T
-....\kern -1.66702
-....\hbox(6.8+0.0)x6.81, shifted 2.155
-.....\TU/lmr/m/n/10 E
-....\kern -1.25
-....\TU/lmr/m/n/10 X
-....\penalty 10000
-....\glue(\parfillskip) 0.0 plus 1.0fil
-....\glue(\rightskip) 0.0
-...\glue(\parskip) 0.0 plus 1.0
-...\glue(\parskip) 0.0
-...\glue(\baselineskip) 3.01169
+...\glue(\baselineskip) 2.6667
 ...\hbox(6.83331+2.155)x345.0, glue set 277.87372fil
 ....\hbox(0.0+0.0)x15.0
 ....\OMS/cmsy/m/n/10 A
@@ -140,6 +93,53 @@ Completed box being shipped out [1]
 ....\glue(\rightskip) 0.0
 ...\glue(\parskip) 0.0 plus 1.0
 ...\glue(\parskip) 0.0
+...\glue(\baselineskip) 2.685
+...\hbox(7.16+2.155)x345.0, glue set 292.27603fil
+....\hbox(0.0+0.0)x15.0
+....\hbox(7.16+0.0)x6.99997
+.....\TU/lmr/m/n/10 A
+.....\kern -0.50003
+....\hbox(4.42+1.93999)x5.05997
+.....\TU/lmr/m/n/10 p
+.....\kern -0.50003
+....\TU/lmr/m/n/10 L
+....\kern -3.6
+....\vbox(6.77+0.0)x5.901, glue set 1.779fil
+.....\hbox(4.991+0.0)x5.901
+......\TU/lmr/m/n/7 A
+.....\glue 0.0 plus 1.0fil minus 1.0fil
+....\kern -1.49994
+....\TU/lmr/m/n/10 T
+....\kern -1.66702
+....\hbox(6.8+0.0)x6.81, shifted 2.155
+.....\TU/lmr/m/n/10 E
+....\kern -1.25
+....\TU/lmr/m/n/10 X
+....\penalty 10000
+....\glue(\parfillskip) 0.0 plus 1.0fil
+....\glue(\rightskip) 0.0
+...\glue(\parskip) 0.0 plus 1.0
+...\glue(\parskip) 0.0
+...\glue(\baselineskip) 2.685
+...\hbox(7.16+2.155)x345.0, glue set 300.327fil
+....\hbox(0.0+0.0)x15.0
+....\hbox(7.16+0.0)x6.99997
+.....\TU/lmr/m/n/10 A
+.....\kern -0.50003
+....\hbox(4.42+1.93999)x4.06006
+.....\TU/lmr/m/n/10 p
+.....\kern -1.49994
+....\TU/lmr/m/n/10 T
+....\kern -1.66702
+....\hbox(6.8+0.0)x6.81, shifted 2.155
+.....\TU/lmr/m/n/10 E
+....\kern -1.25
+....\TU/lmr/m/n/10 X
+....\penalty 10000
+....\glue(\parfillskip) 0.0 plus 1.0fil
+....\glue(\rightskip) 0.0
+...\glue(\parskip) 0.0 plus 1.0
+...\glue(\parskip) 0.0
 ...\glue(\baselineskip) 2.905
 ...\hbox(6.94+0.10999)x345.0, glue set 307.46fil
 ....\hbox(0.0+0.0)x15.0
@@ -153,28 +153,6 @@ Completed box being shipped out [1]
 ...\glue(\parskip) 0.0 plus 1.0
 ...\glue(\parskip) 0.0
 ...\glue(\baselineskip) 5.06001
-...\hbox(6.83+2.155)x345.0, glue set 297.29802fil
-....\hbox(0.0+0.0)x15.0
-....\TU/lmr/m/n/10 B
-....\kern -0.50003
-....\mathon
-....\mathoff
-....\TU/lmr/m/n/7 I
-....\kern -0.17496
-....\TU/lmr/m/n/7 B
-....\kern -0.80002
-....\TU/lmr/m/n/10 T
-....\kern -1.66702
-....\hbox(6.8+0.0)x6.81, shifted 2.155
-.....\TU/lmr/m/n/10 E
-....\kern -1.25
-....\TU/lmr/m/n/10 X
-....\penalty 10000
-....\glue(\parfillskip) 0.0 plus 1.0fil
-....\glue(\rightskip) 0.0
-...\glue(\parskip) 0.0 plus 1.0
-...\glue(\parskip) 0.0
-...\glue(\baselineskip) 3.015
 ...\hbox(6.83+2.155)x345.0, glue set 297.29802fil
 ....\hbox(0.0+0.0)x15.0
 ....\TU/lmr/m/n/10 B
@@ -217,13 +195,37 @@ Completed box being shipped out [1]
 ...\glue(\parskip) 0.0 plus 1.0
 ...\glue(\parskip) 0.0
 ...\glue(\baselineskip) 3.015
-...\hbox(6.83+2.155)x345.0, glue set 292.037fil
+...\hbox(6.83+2.155)x345.0, glue set 297.29802fil
 ....\hbox(0.0+0.0)x15.0
 ....\TU/lmr/m/n/10 B
 ....\kern -0.50003
-....\TU/lmr/m/sc/10 i
-....\kern -0.24994
-....\TU/lmr/m/sc/10 b
+....\mathon
+....\mathoff
+....\TU/lmr/m/n/7 I
+....\kern -0.17496
+....\TU/lmr/m/n/7 B
+....\kern -0.80002
+....\TU/lmr/m/n/10 T
+....\kern -1.66702
+....\hbox(6.8+0.0)x6.81, shifted 2.155
+.....\TU/lmr/m/n/10 E
+....\kern -1.25
+....\TU/lmr/m/n/10 X
+....\penalty 10000
+....\glue(\parfillskip) 0.0 plus 1.0fil
+....\glue(\rightskip) 0.0
+...\glue(\parskip) 0.0 plus 1.0
+...\glue(\parskip) 0.0
+...\glue(\baselineskip) 3.015
+...\hbox(6.83+2.155)x345.0, glue set 292.29802fil
+....\hbox(0.0+0.0)x15.0
+....\TU/lmr/m/n/10 B
+....\kern -0.50003
+....\mathon
+....\mathoff
+....\TU/lmr/m/n/7 I
+....\kern -0.17496
+....\TU/lmr/m/n/7 B
 ....\kern -0.80002
 ....\TU/lmr/m/n/10 T
 ....\kern -1.66702
@@ -906,24 +908,6 @@ Completed box being shipped out [2]
 ....\hbox(0.0+0.0)x15.0
 ....\hbox(6.94+1.93999)x21.68001
 .....\TU/lmr/m/n/10 plain
-....\penalty 10000
-....\glue 3.33 plus 1.665 minus 1.11
-....\TU/lmr/m/n/10 T
-....\kern -1.66702
-....\hbox(6.8+0.0)x6.81, shifted 2.155
-.....\TU/lmr/m/n/10 E
-....\kern -1.25
-....\TU/lmr/m/n/10 X
-....\penalty 10000
-....\glue(\parfillskip) 0.0 plus 1.0fil
-....\glue(\rightskip) 0.0
-...\glue(\parskip) 0.0 plus 1.0
-...\glue(\parskip) 0.0
-...\glue(\baselineskip) 2.905
-...\hbox(6.94+2.155)x345.0, glue set 286.37701fil
-....\hbox(0.0+0.0)x15.0
-....\hbox(6.94+1.93999)x21.68001
-.....\TU/lmr/m/n/10 plain
 ....\hbox(2.45+0.0)x3.33
 .....\TU/lmr/m/n/10 -
 ....\TU/lmr/m/n/10 T
@@ -947,6 +931,24 @@ Completed box being shipped out [2]
 ......\TU/lmr/m/n/10 E
 .....\kern -1.25
 .....\TU/lmr/m/n/10 X
+....\penalty 10000
+....\glue(\parfillskip) 0.0 plus 1.0fil
+....\glue(\rightskip) 0.0
+...\glue(\parskip) 0.0 plus 1.0
+...\glue(\parskip) 0.0
+...\glue(\baselineskip) 2.905
+...\hbox(6.94+2.155)x345.0, glue set 286.37701fil
+....\hbox(0.0+0.0)x15.0
+....\hbox(6.94+1.93999)x21.68001
+.....\TU/lmr/m/n/10 plain
+....\penalty 10000
+....\glue 3.33 plus 1.665 minus 1.11
+....\TU/lmr/m/n/10 T
+....\kern -1.66702
+....\hbox(6.8+0.0)x6.81, shifted 2.155
+.....\TU/lmr/m/n/10 E
+....\kern -1.25
+....\TU/lmr/m/n/10 X
 ....\penalty 10000
 ....\glue(\parfillskip) 0.0 plus 1.0fil
 ....\glue(\rightskip) 0.0
@@ -1111,6 +1113,27 @@ Completed box being shipped out [2]
 ...\glue(\parskip) 0.0 plus 1.0
 ...\glue(\parskip) 0.0
 ...\glue(\baselineskip) 2.795
+...\hbox(7.05+2.155)x345.0, glue set 299.5569fil
+....\hbox(0.0+0.0)x15.0
+....\TU/lmr/m/n/10 S
+....\kern -0.59998
+....\TU/lmr/m/n/10 L
+....\kern -1.79993
+....\hbox(5.14+0.0)x3.02, shifted -1.37923
+.....\TU/lmr/m/sc/10 i
+....\kern -0.59998
+....\TU/lmr/m/n/10 T
+....\kern -1.66702
+....\hbox(6.8+0.0)x6.81, shifted 2.155
+.....\TU/lmr/m/n/10 E
+....\kern -1.25
+....\TU/lmr/m/n/10 X
+....\penalty 10000
+....\glue(\parfillskip) 0.0 plus 1.0fil
+....\glue(\rightskip) 0.0
+...\glue(\parskip) 0.0 plus 1.0
+...\glue(\parskip) 0.0
+...\glue(\baselineskip) 2.795
 ...\hbox(7.05+2.155)x345.0, glue set 299.227fil
 ....\hbox(0.0+0.0)x15.0
 ....\hbox(7.05+0.21999)x12.76
@@ -1136,27 +1159,6 @@ Completed box being shipped out [2]
 ....\hbox(0.0+0.0)x15.0
 ....\hbox(7.05+0.21999)x14.26
 .....\TU/lmr/m/sc/10 Sli
-....\TU/lmr/m/n/10 T
-....\kern -1.66702
-....\hbox(6.8+0.0)x6.81, shifted 2.155
-.....\TU/lmr/m/n/10 E
-....\kern -1.25
-....\TU/lmr/m/n/10 X
-....\penalty 10000
-....\glue(\parfillskip) 0.0 plus 1.0fil
-....\glue(\rightskip) 0.0
-...\glue(\parskip) 0.0 plus 1.0
-...\glue(\parskip) 0.0
-...\glue(\baselineskip) 2.795
-...\hbox(7.05+2.155)x345.0, glue set 299.5569fil
-....\hbox(0.0+0.0)x15.0
-....\TU/lmr/m/n/10 S
-....\kern -0.59998
-....\TU/lmr/m/n/10 L
-....\kern -1.79993
-....\hbox(5.14+0.0)x3.02, shifted -1.37923
-.....\TU/lmr/m/sc/10 i
-....\kern -0.59998
 ....\TU/lmr/m/n/10 T
 ....\kern -1.66702
 ....\hbox(6.8+0.0)x6.81, shifted 2.155
