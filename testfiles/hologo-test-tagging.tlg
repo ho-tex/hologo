@@ -48,7 +48,7 @@ Completed box being shipped out [1]
 ....\pdfdest name{Doc-Start} xyz
 ....\pdfdest struct22 name{Doc-Start} xyz
 ....\glue(\topskip) 0.0
-....\hbox(10.6874+3.5991)x345.0, glue set 209.73106fil
+....\hbox(10.6874+3.5991)x345.0, glue set 220.28856fil
 .....\write1{\new@label@record{mcid-1}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{1}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section-number <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\hbox(9.20918+0.0)x23.75433
@@ -88,7 +88,6 @@ Completed box being shipped out [1]
 ......\T1/cmr/bx/n/14.4 E
 .....\kern -1.97952
 .....\T1/cmr/bx/n/14.4 X
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-4}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{4}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -114,7 +113,6 @@ Completed box being shipped out [1]
 ......\T1/cmr/bx/n/14.4 E
 .....\kern -1.97952
 .....\T1/cmr/bx/n/14.4 X
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-6}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{6}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -152,7 +150,7 @@ Completed box being shipped out [1]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 0.90273
-....\hbox(7.49817+2.49939)x345.0, glue set 311.73332fil
+....\hbox(7.49817+2.49939)x345.0, glue set 315.06584fil
 .....\write1{\new@label@record{mcid-7}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{7}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\pdfliteral page{EMC}
@@ -175,7 +173,6 @@ Completed box being shipped out [1]
 ......\T1/cmr/m/n/10 E
 .....\kern -1.2497
 .....\T1/cmr/m/n/10 X
-.....\glue 3.33252 plus 1.66626 minus 1.11084
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-9}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{9}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -200,7 +197,7 @@ Completed box being shipped out [1]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 5.56303
-....\hbox(9.93758+3.1992)x345.0, glue set 146.10173fil
+....\hbox(9.93758+3.1992)x345.0, glue set 156.65923fil
 .....\write1{\new@label@record{mcid-10}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{10}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section-number <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\hbox(9.20918+0.0)x23.75433
@@ -244,7 +241,6 @@ Completed box being shipped out [1]
 ......\T1/cmr/bx/n/14.4 E
 .....\kern -1.97952
 .....\T1/cmr/bx/n/14.4 X
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-13}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{13}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -274,7 +270,6 @@ Completed box being shipped out [1]
 ......\T1/cmr/bx/n/14.4 E
 .....\kern -1.97952
 .....\T1/cmr/bx/n/14.4 X
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-15}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{15}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -312,7 +307,7 @@ Completed box being shipped out [1]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 1.91359
-....\hbox(6.8872+2.15277)x345.0, glue set 289.54538fil
+....\hbox(6.8872+2.15277)x345.0, glue set 292.8779fil
 .....\write1{\new@label@record{mcid-16}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{16}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\pdfliteral page{EMC}
@@ -339,7 +334,6 @@ Completed box being shipped out [1]
 ......\T1/cmr/m/n/10 E
 .....\kern -1.2497
 .....\T1/cmr/m/n/10 X
-.....\glue 3.33252 plus 1.66626 minus 1.11084
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-18}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{18}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -364,7 +358,7 @@ Completed box being shipped out [1]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 5.90965
-....\hbox(9.93758+3.1992)x345.0, glue set 166.35576fil
+....\hbox(9.93758+3.1992)x345.0, glue set 176.91325fil
 .....\write1{\new@label@record{mcid-19}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{19}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section-number <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\hbox(9.20918+0.0)x23.75433
@@ -401,7 +395,6 @@ Completed box being shipped out [1]
 ......\T1/cmr/bx/n/14.4 E
 .....\kern -1.97952
 .....\T1/cmr/bx/n/14.4 X
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-22}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{22}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -424,7 +417,6 @@ Completed box being shipped out [1]
 ......\T1/cmr/bx/n/14.4 E
 .....\kern -1.97952
 .....\T1/cmr/bx/n/14.4 X
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-24}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{24}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -462,7 +454,7 @@ Completed box being shipped out [1]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 1.91359
-....\hbox(6.8872+2.15277)x345.0, glue set 296.5965fil
+....\hbox(6.8872+2.15277)x345.0, glue set 299.92902fil
 .....\write1{\new@label@record{mcid-25}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{25}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\pdfliteral page{EMC}
@@ -482,7 +474,6 @@ Completed box being shipped out [1]
 ......\T1/cmr/m/n/10 E
 .....\kern -1.2497
 .....\T1/cmr/m/n/10 X
-.....\glue 3.33252 plus 1.66626 minus 1.11084
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-27}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{27}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -507,7 +498,7 @@ Completed box being shipped out [1]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 5.90965
-....\hbox(9.93758+3.1992)x345.0, glue set 184.94179fil
+....\hbox(9.93758+3.1992)x345.0, glue set 195.49928fil
 .....\write1{\new@label@record{mcid-28}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{28}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section-number <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\hbox(9.20918+0.0)x23.75433
@@ -549,7 +540,6 @@ Completed box being shipped out [1]
 ......\T1/cmr/bx/n/14.4 E
 .....\kern -1.97952
 .....\T1/cmr/bx/n/14.4 X
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-31}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{31}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -577,7 +567,6 @@ Completed box being shipped out [1]
 ......\T1/cmr/bx/n/14.4 E
 .....\kern -1.97952
 .....\T1/cmr/bx/n/14.4 X
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-33}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{33}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -615,7 +604,7 @@ Completed box being shipped out [1]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 1.91359
-....\hbox(6.8872+2.15225)x345.0, glue set 303.95757fil
+....\hbox(6.8872+2.15225)x345.0, glue set 307.29008fil
 .....\write1{\new@label@record{mcid-34}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{34}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\pdfliteral page{EMC}
@@ -640,7 +629,6 @@ Completed box being shipped out [1]
 ......\T1/cmr/m/n/10 E
 .....\kern -1.2497
 .....\T1/cmr/m/n/10 X
-.....\glue 3.33252 plus 1.66626 minus 1.11084
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-36}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{36}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -665,7 +653,7 @@ Completed box being shipped out [1]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 5.91017
-....\hbox(9.93758+3.1992)x345.0, glue set 208.36278fil
+....\hbox(9.93758+3.1992)x345.0, glue set 218.92027fil
 .....\write1{\new@label@record{mcid-37}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{37}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section-number <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\hbox(9.20918+0.0)x23.75433
@@ -700,7 +688,6 @@ Completed box being shipped out [1]
 ......\T1/cmr/bx/n/14.4 E
 .....\kern -1.97952
 .....\T1/cmr/bx/n/14.4 X
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-40}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{40}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -721,7 +708,6 @@ Completed box being shipped out [1]
 ......\T1/cmr/bx/n/14.4 E
 .....\kern -1.97952
 .....\T1/cmr/bx/n/14.4 X
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-42}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{42}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -759,7 +745,7 @@ Completed box being shipped out [1]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 1.91359
-....\hbox(6.8872+2.15225)x345.0, glue set 312.00836fil
+....\hbox(6.8872+2.15225)x345.0, glue set 315.34088fil
 .....\write1{\new@label@record{mcid-43}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{43}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\pdfliteral page{EMC}
@@ -777,7 +763,6 @@ Completed box being shipped out [1]
 ......\T1/cmr/m/n/10 E
 .....\kern -1.2497
 .....\T1/cmr/m/n/10 X
-.....\glue 3.33252 plus 1.66626 minus 1.11084
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-45}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{45}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -802,7 +787,7 @@ Completed box being shipped out [1]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 5.91017
-....\hbox(9.93758+2.7993)x345.0, glue set 226.42714fil
+....\hbox(9.93758+2.7993)x345.0, glue set 236.98463fil
 .....\write1{\new@label@record{mcid-46}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{46}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section-number <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\hbox(9.20918+0.0)x23.75433
@@ -833,7 +818,6 @@ Completed box being shipped out [1]
 ......\kern0.43988
 ......\T1/cmr/bx/n/14.4 e
 ......\T1/cmr/bx/n/14.4 r
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-49}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{49}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -850,7 +834,6 @@ Completed box being shipped out [1]
 ......\kern0.43988
 ......\T1/cmr/bx/n/14.4 e
 ......\T1/cmr/bx/n/14.4 r
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-51}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{51}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -888,7 +871,7 @@ Completed box being shipped out [1]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 2.31349
-....\hbox(6.8872+0.0)x345.0, glue set 319.1452fil
+....\hbox(6.8872+0.0)x345.0, glue set 322.47772fil
 .....\write1{\new@label@record{mcid-52}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{52}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\pdfliteral page{EMC}
@@ -902,7 +885,6 @@ Completed box being shipped out [1]
 ......\kern0.27771
 ......\T1/cmr/m/n/10 e
 ......\T1/cmr/m/n/10 r
-.....\glue 3.33252 plus 1.66626 minus 1.11084
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-54}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{54}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -927,7 +909,7 @@ Completed box being shipped out [1]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 8.06242
-....\hbox(9.93758+3.1992)x345.0, glue set 200.63673fil
+....\hbox(9.93758+3.1992)x345.0, glue set 211.19423fil
 .....\write1{\new@label@record{mcid-55}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{55}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section-number <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\hbox(9.20918+0.0)x23.75433
@@ -964,7 +946,6 @@ Completed box being shipped out [1]
 ......\T1/cmr/bx/n/14.4 E
 .....\kern -1.97952
 .....\T1/cmr/bx/n/14.4 X
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-58}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{58}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -987,7 +968,6 @@ Completed box being shipped out [1]
 ......\T1/cmr/bx/n/14.4 E
 .....\kern -1.97952
 .....\T1/cmr/bx/n/14.4 X
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-60}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{60}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -1025,7 +1005,7 @@ Completed box being shipped out [1]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 1.91359
-....\hbox(6.8872+2.15225)x345.0, glue set 309.00148fil
+....\hbox(6.8872+2.15225)x345.0, glue set 312.334fil
 .....\write1{\new@label@record{mcid-61}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{61}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\pdfliteral page{EMC}
@@ -1045,7 +1025,6 @@ Completed box being shipped out [1]
 ......\T1/cmr/m/n/10 E
 .....\kern -1.2497
 .....\T1/cmr/m/n/10 X
-.....\glue 3.33252 plus 1.66626 minus 1.11084
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-63}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{63}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -1070,7 +1049,7 @@ Completed box being shipped out [1]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 5.91017
-....\hbox(9.93758+3.1992)x345.0, glue set 198.61888fil
+....\hbox(9.93758+3.1992)x345.0, glue set 209.17638fil
 .....\write1{\new@label@record{mcid-64}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{64}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section-number <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\hbox(9.20918+0.0)x23.75433
@@ -1105,7 +1084,6 @@ Completed box being shipped out [1]
 ......\T1/cmr/bx/n/14.4 E
 .....\kern -1.97952
 .....\T1/cmr/bx/n/14.4 X
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-67}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{67}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -1126,7 +1104,6 @@ Completed box being shipped out [1]
 ......\T1/cmr/bx/n/14.4 E
 .....\kern -1.97952
 .....\T1/cmr/bx/n/14.4 X
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-69}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{69}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -1164,7 +1141,7 @@ Completed box being shipped out [1]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 1.91359
-....\hbox(6.8872+2.15225)x345.0, glue set 308.73555fil
+....\hbox(6.8872+2.15225)x345.0, glue set 312.06807fil
 .....\write1{\new@label@record{mcid-70}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{70}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\pdfliteral page{EMC}
@@ -1182,7 +1159,6 @@ Completed box being shipped out [1]
 ......\T1/cmr/m/n/10 E
 .....\kern -1.2497
 .....\T1/cmr/m/n/10 X
-.....\glue 3.33252 plus 1.66626 minus 1.11084
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-72}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{72}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -1207,7 +1183,7 @@ Completed box being shipped out [1]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 5.91017
-....\hbox(9.93758+3.1992)x345.0, glue set 200.63673fil
+....\hbox(9.93758+3.1992)x345.0, glue set 211.19423fil
 .....\write1{\new@label@record{mcid-73}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{73}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section-number <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\hbox(9.20918+0.0)x23.75433
@@ -1244,7 +1220,6 @@ Completed box being shipped out [1]
 ......\T1/cmr/bx/n/14.4 E
 .....\kern -1.97952
 .....\T1/cmr/bx/n/14.4 X
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-76}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{76}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -1267,7 +1242,6 @@ Completed box being shipped out [1]
 ......\T1/cmr/bx/n/14.4 E
 .....\kern -1.97952
 .....\T1/cmr/bx/n/14.4 X
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-78}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{78}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -1305,7 +1279,7 @@ Completed box being shipped out [1]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 1.91359
-....\hbox(6.8872+2.15225)x345.0, glue set 309.00148fil
+....\hbox(6.8872+2.15225)x345.0, glue set 312.334fil
 .....\write1{\new@label@record{mcid-79}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{79}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\pdfliteral page{EMC}
@@ -1325,7 +1299,6 @@ Completed box being shipped out [1]
 ......\T1/cmr/m/n/10 E
 .....\kern -1.2497
 .....\T1/cmr/m/n/10 X
-.....\glue 3.33252 plus 1.66626 minus 1.11084
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-81}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{81}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -1350,7 +1323,7 @@ Completed box being shipped out [1]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 5.91017
-....\hbox(9.93758+3.1992)x345.0, glue set 176.88242fil
+....\hbox(9.93758+3.1992)x345.0, glue set 187.43991fil
 .....\write1{\new@label@record{mcid-82}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{82}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section-number <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\hbox(9.20918+0.0)x31.67244
@@ -1389,7 +1362,6 @@ Completed box being shipped out [1]
 .....\kern -1.97952
 .....\T1/cmr/bx/n/14.4 X
 .....\T1/cmr/bx/n/14.4 8
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-85}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{85}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -1413,7 +1385,6 @@ Completed box being shipped out [1]
 .....\kern -1.97952
 .....\T1/cmr/bx/n/14.4 X
 .....\T1/cmr/bx/n/14.4 8
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-87}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{87}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -1451,7 +1422,7 @@ Completed box being shipped out [1]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 1.91359
-....\hbox(6.8872+2.15225)x345.0, glue set 304.0027fil
+....\hbox(6.8872+2.15225)x345.0, glue set 307.33522fil
 .....\write1{\new@label@record{mcid-88}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{88}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\pdfliteral page{EMC}
@@ -1472,7 +1443,6 @@ Completed box being shipped out [1]
 .....\kern -1.2497
 .....\T1/cmr/m/n/10 X
 .....\T1/cmr/m/n/10 8
-.....\glue 3.33252 plus 1.66626 minus 1.11084
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-90}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{90}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -1555,7 +1525,7 @@ Completed box being shipped out [2]
 ...\vbox(550.0+0.0)x345.0, glue set >20000.0fil
 ....\hbox(0.0+0.0)x0.0
 ....\glue(\topskip) 0.06242
-....\hbox(9.93758+3.1992)x345.0, glue set 171.21384fil
+....\hbox(9.93758+3.1992)x345.0, glue set 181.77133fil
 .....\write1{\new@label@record{mcid-91}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{91}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section-number <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\hbox(9.20918+0.0)x31.67244
@@ -1594,7 +1564,6 @@ Completed box being shipped out [2]
 ......\T1/cmr/bx/n/14.4 X
 ......\kern -0.52725
 ......\T1/cmr/bx/n/14.4 t
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-94}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{94}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -1618,7 +1587,6 @@ Completed box being shipped out [2]
 ......\T1/cmr/bx/n/14.4 X
 ......\kern -0.52725
 ......\T1/cmr/bx/n/14.4 t
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-96}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{96}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -1656,7 +1624,7 @@ Completed box being shipped out [2]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 1.91359
-....\hbox(6.8872+2.15225)x345.0, glue set 302.73239fil
+....\hbox(6.8872+2.15225)x345.0, glue set 306.06491fil
 .....\write1{\new@label@record{mcid-97}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{97}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\pdfliteral page{EMC}
@@ -1677,7 +1645,6 @@ Completed box being shipped out [2]
 ......\T1/cmr/m/n/10 X
 ......\kern -0.33286
 ......\T1/cmr/m/n/10 t
-.....\glue 3.33252 plus 1.66626 minus 1.11084
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-99}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{99}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -1702,7 +1669,7 @@ Completed box being shipped out [2]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 5.91017
-....\hbox(9.93758+3.1992)x345.0, glue set 171.21384fil
+....\hbox(9.93758+3.1992)x345.0, glue set 181.77133fil
 .....\write1{\new@label@record{mcid-102}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{102}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section-number <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\hbox(9.20918+0.0)x31.67244
@@ -1741,7 +1708,6 @@ Completed box being shipped out [2]
 ......\T1/cmr/bx/n/14.4 X
 ......\kern -0.52725
 ......\T1/cmr/bx/n/14.4 t
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-105}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{105}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -1765,7 +1731,6 @@ Completed box being shipped out [2]
 ......\T1/cmr/bx/n/14.4 X
 ......\kern -0.52725
 ......\T1/cmr/bx/n/14.4 t
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-107}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{107}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -1803,7 +1768,7 @@ Completed box being shipped out [2]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 1.91359
-....\hbox(6.8872+2.15225)x345.0, glue set 302.73239fil
+....\hbox(6.8872+2.15225)x345.0, glue set 306.06491fil
 .....\write1{\new@label@record{mcid-108}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{108}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\pdfliteral page{EMC}
@@ -1824,7 +1789,6 @@ Completed box being shipped out [2]
 ......\T1/cmr/m/n/10 X
 ......\kern -0.33286
 ......\T1/cmr/m/n/10 t
-.....\glue 3.33252 plus 1.66626 minus 1.11084
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-110}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{110}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -1849,7 +1813,7 @@ Completed box being shipped out [2]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 5.91017
-....\hbox(9.93758+3.1992)x345.0, glue set 166.9924fil
+....\hbox(9.93758+3.1992)x345.0, glue set 177.5499fil
 .....\write1{\new@label@record{mcid-111}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{111}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section-number <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\hbox(9.20918+0.0)x31.67244
@@ -1885,7 +1849,6 @@ Completed box being shipped out [2]
 ......\kern -1.97952
 ......\T1/cmr/bx/n/14.4 X
 ......\T1/cmr/bx/n/14.4 t
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-114}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{114}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -1906,7 +1869,6 @@ Completed box being shipped out [2]
 ......\kern -1.97952
 ......\T1/cmr/bx/n/14.4 X
 ......\T1/cmr/bx/n/14.4 t
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-116}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{116}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -1944,7 +1906,7 @@ Completed box being shipped out [2]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 1.91359
-....\hbox(6.8872+2.15225)x345.0, glue set 301.39989fil
+....\hbox(6.8872+2.15225)x345.0, glue set 304.7324fil
 .....\write1{\new@label@record{mcid-117}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{117}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\pdfliteral page{EMC}
@@ -1962,7 +1924,6 @@ Completed box being shipped out [2]
 ......\kern -1.2497
 ......\T1/cmr/m/n/10 X
 ......\T1/cmr/m/n/10 t
-.....\glue 3.33252 plus 1.66626 minus 1.11084
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-119}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{119}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -1987,7 +1948,7 @@ Completed box being shipped out [2]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 5.91017
-....\hbox(9.93758+2.7993)x345.0, glue set 121.56647fil
+....\hbox(9.93758+2.7993)x345.0, glue set 132.12396fil
 .....\write1{\new@label@record{mcid-120}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{120}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section-number <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\hbox(9.20918+0.0)x31.67244
@@ -2021,7 +1982,6 @@ Completed box being shipped out [2]
 ......\T1/cmr/bx/n/14.4 F
 ......\T1/cmr/bx/n/14.4 M
 ......\T1/cmr/bx/n/14.4 x
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-123}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{123}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -2040,7 +2000,6 @@ Completed box being shipped out [2]
 ......\T1/cmr/bx/n/14.4 F
 ......\T1/cmr/bx/n/14.4 M
 ......\T1/cmr/bx/n/14.4 x
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-125}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{125}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -2078,7 +2037,7 @@ Completed box being shipped out [2]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 2.31349
-....\hbox(6.8872+0.0)x345.0, glue set 287.79175fil
+....\hbox(6.8872+0.0)x345.0, glue set 291.12427fil
 .....\write1{\new@label@record{mcid-126}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{126}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\pdfliteral page{EMC}
@@ -2094,7 +2053,6 @@ Completed box being shipped out [2]
 ......\T1/cmr/m/n/10 F
 ......\T1/cmr/m/n/10 M
 ......\T1/cmr/m/n/10 x
-.....\glue 3.33252 plus 1.66626 minus 1.11084
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-128}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{128}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -2119,7 +2077,7 @@ Completed box being shipped out [2]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 8.06242
-....\hbox(9.93758+3.1992)x345.0, glue set 191.63095fil
+....\hbox(9.93758+3.1992)x345.0, glue set 202.18845fil
 .....\write1{\new@label@record{mcid-129}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{129}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section-number <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\hbox(9.20918+0.0)x31.67244
@@ -2152,7 +2110,6 @@ Completed box being shipped out [2]
 ......\T1/cmr/bx/n/14.4 E
 .....\kern -1.97952
 .....\T1/cmr/bx/n/14.4 X
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-132}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{132}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -2170,7 +2127,6 @@ Completed box being shipped out [2]
 ......\T1/cmr/bx/n/14.4 E
 .....\kern -1.97952
 .....\T1/cmr/bx/n/14.4 X
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-134}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{134}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -2208,7 +2164,7 @@ Completed box being shipped out [2]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 1.91359
-....\hbox(6.8872+2.15225)x345.0, glue set 310.2866fil
+....\hbox(6.8872+2.15225)x345.0, glue set 313.61913fil
 .....\write1{\new@label@record{mcid-135}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{135}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\pdfliteral page{EMC}
@@ -2223,7 +2179,6 @@ Completed box being shipped out [2]
 ......\T1/cmr/m/n/10 E
 .....\kern -1.2497
 .....\T1/cmr/m/n/10 X
-.....\glue 3.33252 plus 1.66626 minus 1.11084
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-137}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{137}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -2248,7 +2203,7 @@ Completed box being shipped out [2]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 5.91017
-....\hbox(9.93758+3.1992)x345.0, glue set 212.46799fil
+....\hbox(9.93758+3.1992)x345.0, glue set 223.02548fil
 .....\write1{\new@label@record{mcid-138}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{138}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section-number <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\hbox(9.20918+0.0)x31.67244
@@ -2284,7 +2239,6 @@ Completed box being shipped out [2]
 .......\T1/cmr/bx/n/14.4 E
 ......\kern -1.97952
 ......\T1/cmr/bx/n/14.4 X
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-141}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{141}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -2305,7 +2259,6 @@ Completed box being shipped out [2]
 .......\T1/cmr/bx/n/14.4 E
 ......\kern -1.97952
 ......\T1/cmr/bx/n/14.4 X
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-143}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{143}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -2343,7 +2296,7 @@ Completed box being shipped out [2]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 1.91359
-....\hbox(6.8872+2.15225)x345.0, glue set 315.8987fil
+....\hbox(6.8872+2.15225)x345.0, glue set 319.23122fil
 .....\write1{\new@label@record{mcid-144}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{144}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\pdfliteral page{EMC}
@@ -2361,7 +2314,6 @@ Completed box being shipped out [2]
 .......\T1/cmr/m/n/10 E
 ......\kern -1.2497
 ......\T1/cmr/m/n/10 X
-.....\glue 3.33252 plus 1.66626 minus 1.11084
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-146}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{146}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -2386,7 +2338,7 @@ Completed box being shipped out [2]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 5.91017
-....\hbox(9.93758+3.1992)x345.0, glue set 208.38757fil
+....\hbox(9.93758+3.1992)x345.0, glue set 218.94507fil
 .....\write1{\new@label@record{mcid-147}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{147}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section-number <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\hbox(9.20918+0.0)x31.67244
@@ -2425,7 +2377,6 @@ Completed box being shipped out [2]
 ......\T1/cmr/bx/n/14.4 E
 .....\kern -1.97952
 .....\T1/cmr/bx/n/14.4 X
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-150}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{150}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -2449,7 +2400,6 @@ Completed box being shipped out [2]
 ......\T1/cmr/bx/n/14.4 E
 .....\kern -1.97952
 .....\T1/cmr/bx/n/14.4 X
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-152}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{152}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -2487,7 +2437,7 @@ Completed box being shipped out [2]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 1.91359
-....\hbox(6.8872+2.15225)x345.0, glue set 313.79512fil
+....\hbox(6.8872+2.15225)x345.0, glue set 317.12764fil
 .....\write1{\new@label@record{mcid-153}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{153}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\pdfliteral page{EMC}
@@ -2508,7 +2458,6 @@ Completed box being shipped out [2]
 ......\T1/cmr/m/n/10 E
 .....\kern -1.2497
 .....\T1/cmr/m/n/10 X
-.....\glue 3.33252 plus 1.66626 minus 1.11084
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-155}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{155}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -2533,7 +2482,7 @@ Completed box being shipped out [2]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 3.25085
-....\hbox(12.5969+2.7993)x345.0, glue set 69.11673fil
+....\hbox(12.5969+2.7993)x345.0, glue set 79.67422fil
 .....\write1{\new@label@record{mcid-156}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{156}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section-number <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\hbox(9.20918+0.0)x31.67244
@@ -2579,7 +2528,6 @@ Completed box being shipped out [2]
 ......\T1/cmr/bx/n/14.4 ^^e0
 ......\T1/cmr/bx/n/14.4 n
 ......\T1/cmr/bx/n/14.4 h
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-159}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{159}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -2610,7 +2558,6 @@ Completed box being shipped out [2]
 ......\T1/cmr/bx/n/14.4 ^^e0
 ......\T1/cmr/bx/n/14.4 n
 ......\T1/cmr/bx/n/14.4 h
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-161}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{161}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -2648,7 +2595,7 @@ Completed box being shipped out [2]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 0.63335
-....\hbox(8.56735+0.0)x345.0, glue set 270.85144fil
+....\hbox(8.56735+0.0)x345.0, glue set 274.18396fil
 .....\write1{\new@label@record{mcid-162}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{162}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\pdfliteral page{EMC}
@@ -2676,7 +2623,6 @@ Completed box being shipped out [2]
 ......\T1/cmr/m/n/10 ^^e0
 ......\T1/cmr/m/n/10 n
 ......\T1/cmr/m/n/10 h
-.....\glue 3.33252 plus 1.66626 minus 1.11084
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-164}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{164}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -2701,7 +2647,7 @@ Completed box being shipped out [2]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 8.06242
-....\hbox(9.93758+3.1992)x345.0, glue set 198.99254fil
+....\hbox(9.93758+3.1992)x345.0, glue set 209.55003fil
 .....\write1{\new@label@record{mcid-165}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{165}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section-number <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\hbox(9.20918+0.0)x31.67244
@@ -2735,7 +2681,6 @@ Completed box being shipped out [2]
 .......\T1/cmr/bx/n/14.4 E
 ......\kern -1.97952
 ......\T1/cmr/bx/n/14.4 X
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-168}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{168}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -2754,7 +2699,6 @@ Completed box being shipped out [2]
 .......\T1/cmr/bx/n/14.4 E
 ......\kern -1.97952
 ......\T1/cmr/bx/n/14.4 X
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-170}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{170}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -2792,7 +2736,7 @@ Completed box being shipped out [2]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 1.91359
-....\hbox(6.8872+2.15225)x345.0, glue set 311.95287fil
+....\hbox(6.8872+2.15225)x345.0, glue set 315.28539fil
 .....\write1{\new@label@record{mcid-171}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{171}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\pdfliteral page{EMC}
@@ -2808,7 +2752,6 @@ Completed box being shipped out [2]
 .......\T1/cmr/m/n/10 E
 ......\kern -1.2497
 ......\T1/cmr/m/n/10 X
-.....\glue 3.33252 plus 1.66626 minus 1.11084
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-173}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{173}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -2833,7 +2776,7 @@ Completed box being shipped out [2]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 5.64197
-....\hbox(10.20578+2.7993)x345.0, glue set 90.8982fil
+....\hbox(10.20578+2.7993)x345.0, glue set 101.45569fil
 .....\write1{\new@label@record{mcid-174}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{174}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section-number <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\hbox(9.20918+0.0)x31.67244
@@ -2876,7 +2819,6 @@ Completed box being shipped out [2]
 ......\T1/cmss/bx/n/14.4 i
 ......\T1/cmss/bx/n/14.4 p
 ......\T1/cmss/bx/n/14.4 t
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-177}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{177}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -2904,7 +2846,6 @@ Completed box being shipped out [2]
 ......\T1/cmss/bx/n/14.4 i
 ......\T1/cmss/bx/n/14.4 p
 ......\T1/cmss/bx/n/14.4 t
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-179}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{179}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -2942,7 +2883,7 @@ Completed box being shipped out [2]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 2.25795
-....\hbox(6.94275+1.94397)x345.0, glue set 280.54338fil
+....\hbox(6.94275+1.94397)x345.0, glue set 283.8759fil
 .....\write1{\new@label@record{mcid-180}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{180}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\pdfliteral page{EMC}
@@ -2967,7 +2908,6 @@ Completed box being shipped out [2]
 ......\T1/cmss/m/n/10 i
 ......\T1/cmss/m/n/10 p
 ......\T1/cmss/m/n/10 t
-.....\glue 3.33252 plus 1.66626 minus 1.11084
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-182}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{182}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -3052,7 +2992,7 @@ Completed box being shipped out [3]
 ...\vbox(550.0+0.0)x345.0, glue set >20000.0fil
 ....\hbox(0.0+0.0)x0.0
 ....\glue(\topskip) 0.06242
-....\hbox(9.93758+2.7993)x345.0, glue set 268.08768fil
+....\hbox(9.93758+2.7993)x345.0, glue set 278.64517fil
 .....\write1{\new@label@record{mcid-183}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{183}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section-number <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\hbox(9.20918+0.0)x31.67244
@@ -3082,7 +3022,6 @@ Completed box being shipped out [3]
 ......\hbox(6.9011+0.0)x8.69232
 .......\T1/cmr/bx/n/10 A
 ......\glue 0.0 plus 1.0fil minus 1.0fil
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-186}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{186}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -3097,7 +3036,6 @@ Completed box being shipped out [3]
 ......\hbox(6.9011+0.0)x8.69232
 .......\T1/cmr/bx/n/10 A
 ......\glue 0.0 plus 1.0fil minus 1.0fil
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-188}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{188}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -3135,7 +3073,7 @@ Completed box being shipped out [3]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 2.31349
-....\hbox(6.8872+0.0)x345.0, glue set 333.11679fil
+....\hbox(6.8872+0.0)x345.0, glue set 336.44931fil
 .....\write1{\new@label@record{mcid-189}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{189}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\pdfliteral page{EMC}
@@ -3147,7 +3085,6 @@ Completed box being shipped out [3]
 ......\hbox(4.82104+0.0)x5.90134
 .......\T1/cmr/m/n/7 A
 ......\glue 0.0 plus 1.0fil minus 1.0fil
-.....\glue 3.33252 plus 1.66626 minus 1.11084
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-191}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{191}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -3172,7 +3109,7 @@ Completed box being shipped out [3]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 8.06242
-....\hbox(9.93758+3.1992)x345.0, glue set 215.362fil
+....\hbox(9.93758+3.1992)x345.0, glue set 225.9195fil
 .....\write1{\new@label@record{mcid-194}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{194}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section-number <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\hbox(9.20918+0.0)x31.67244
@@ -3209,7 +3146,6 @@ Completed box being shipped out [3]
 ......\T1/cmr/bx/n/14.4 E
 .....\kern -1.97952
 .....\T1/cmr/bx/n/14.4 X
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-197}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{197}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -3231,7 +3167,6 @@ Completed box being shipped out [3]
 ......\T1/cmr/bx/n/14.4 E
 .....\kern -1.97952
 .....\T1/cmr/bx/n/14.4 X
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-199}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{199}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -3269,7 +3204,7 @@ Completed box being shipped out [3]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 1.91359
-....\hbox(6.8872+2.15225)x345.0, glue set 316.01015fil
+....\hbox(6.8872+2.15225)x345.0, glue set 319.34267fil
 .....\write1{\new@label@record{mcid-200}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{200}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\pdfliteral page{EMC}
@@ -3288,7 +3223,6 @@ Completed box being shipped out [3]
 ......\T1/cmr/m/n/10 E
 .....\kern -1.2497
 .....\T1/cmr/m/n/10 X
-.....\glue 3.33252 plus 1.66626 minus 1.11084
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-202}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{202}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -3313,7 +3247,7 @@ Completed box being shipped out [3]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 5.91017
-....\hbox(9.93758+3.1992)x345.0, glue set 178.54517fil
+....\hbox(9.93758+3.1992)x345.0, glue set 189.10266fil
 .....\write1{\new@label@record{mcid-203}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{203}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section-number <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\hbox(9.20918+0.0)x31.67244
@@ -3357,7 +3291,6 @@ Completed box being shipped out [3]
 ......\hbox(6.4+0.0)x8.11497, shifted 2.15999
 .......\OML/cmm/b/it/14.4 "
 ......\mathoff
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-206}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{206}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -3386,7 +3319,6 @@ Completed box being shipped out [3]
 ......\hbox(6.4+0.0)x8.11497, shifted 2.15999
 .......\OML/cmm/b/it/14.4 "
 ......\mathoff
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-208}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{208}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -3424,7 +3356,7 @@ Completed box being shipped out [3]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 1.91359
-....\hbox(6.8872+2.15225)x345.0, glue set 304.34862fil
+....\hbox(6.8872+2.15225)x345.0, glue set 307.68114fil
 .....\write1{\new@label@record{mcid-209}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{209}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\pdfliteral page{EMC}
@@ -3450,7 +3382,6 @@ Completed box being shipped out [3]
 ......\hbox(4.30554+0.0)x5.16318, shifted 1.49998
 .......\OML/cmm/m/it/10 "
 ......\mathoff
-.....\glue 3.33252 plus 1.66626 minus 1.11084
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-211}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{211}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -3475,7 +3406,7 @@ Completed box being shipped out [3]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 5.91017
-....\hbox(9.93758+3.1992)x345.0, glue set 199.52579fil
+....\hbox(9.93758+3.1992)x345.0, glue set 210.08328fil
 .....\write1{\new@label@record{mcid-212}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{212}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section-number <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\hbox(9.20918+0.0)x31.67244
@@ -3513,7 +3444,6 @@ Completed box being shipped out [3]
 .....\kern -1.97952
 .....\T1/cmr/bx/n/14.4 X
 .....\T1/cmr/bx/n/14.4 3
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-215}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{215}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -3536,7 +3466,6 @@ Completed box being shipped out [3]
 .....\kern -1.97952
 .....\T1/cmr/bx/n/14.4 X
 .....\T1/cmr/bx/n/14.4 3
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-217}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{217}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -3574,7 +3503,7 @@ Completed box being shipped out [3]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 1.91359
-....\hbox(6.8872+2.15225)x345.0, glue set 311.01137fil
+....\hbox(6.8872+2.15225)x345.0, glue set 314.34389fil
 .....\write1{\new@label@record{mcid-218}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{218}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\pdfliteral page{EMC}
@@ -3594,7 +3523,6 @@ Completed box being shipped out [3]
 .....\kern -1.2497
 .....\T1/cmr/m/n/10 X
 .....\T1/cmr/m/n/10 3
-.....\glue 3.33252 plus 1.66626 minus 1.11084
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-220}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{220}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -3619,7 +3547,7 @@ Completed box being shipped out [3]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 5.91017
-....\hbox(9.93758+3.1992)x345.0, glue set 178.54517fil
+....\hbox(9.93758+3.1992)x345.0, glue set 189.10266fil
 .....\write1{\new@label@record{mcid-221}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{221}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section-number <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\hbox(9.20918+0.0)x31.67244
@@ -3663,7 +3591,6 @@ Completed box being shipped out [3]
 ......\hbox(6.4+0.0)x8.11497, shifted 2.15999
 .......\OML/cmm/b/it/14.4 "
 ......\mathoff
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-224}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{224}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -3692,7 +3619,6 @@ Completed box being shipped out [3]
 ......\hbox(6.4+0.0)x8.11497, shifted 2.15999
 .......\OML/cmm/b/it/14.4 "
 ......\mathoff
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-226}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{226}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -3730,7 +3656,7 @@ Completed box being shipped out [3]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 1.91359
-....\hbox(6.8872+2.15225)x345.0, glue set 304.34862fil
+....\hbox(6.8872+2.15225)x345.0, glue set 307.68114fil
 .....\write1{\new@label@record{mcid-227}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{227}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\pdfliteral page{EMC}
@@ -3756,7 +3682,6 @@ Completed box being shipped out [3]
 ......\hbox(4.30554+0.0)x5.16318, shifted 1.49998
 .......\OML/cmm/m/it/10 "
 ......\mathoff
-.....\glue 3.33252 plus 1.66626 minus 1.11084
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-229}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{229}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -3781,7 +3706,7 @@ Completed box being shipped out [3]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 5.91017
-....\hbox(9.93758+3.1992)x345.0, glue set 181.33835fil
+....\hbox(9.93758+3.1992)x345.0, glue set 191.89584fil
 .....\write1{\new@label@record{mcid-230}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{230}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section-number <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\hbox(9.20918+0.0)x31.67244
@@ -3821,7 +3746,6 @@ Completed box being shipped out [3]
 ......\T1/cmr/bx/sc/14.4 x
 ......\T1/cmr/bx/sc/14.4 m
 ......\T1/cmr/bx/sc/14.4 l
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-233}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{233}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -3846,7 +3770,6 @@ Completed box being shipped out [3]
 ......\T1/cmr/bx/sc/14.4 x
 ......\T1/cmr/bx/sc/14.4 m
 ......\T1/cmr/bx/sc/14.4 l
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-235}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{235}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -3884,7 +3807,7 @@ Completed box being shipped out [3]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 1.91359
-....\hbox(6.8872+2.15225)x345.0, glue set 304.77956fil
+....\hbox(6.8872+2.15225)x345.0, glue set 308.11208fil
 .....\write1{\new@label@record{mcid-236}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{236}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\pdfliteral page{EMC}
@@ -3906,7 +3829,6 @@ Completed box being shipped out [3]
 ......\T1/cmr/m/sc/10 x
 ......\T1/cmr/m/sc/10 m
 ......\T1/cmr/m/sc/10 l
-.....\glue 3.33252 plus 1.66626 minus 1.11084
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-238}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{238}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -3931,7 +3853,7 @@ Completed box being shipped out [3]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 5.16035
-....\hbox(10.6874+3.5991)x345.0, glue set 201.81296fil
+....\hbox(10.6874+3.5991)x345.0, glue set 212.37045fil
 .....\write1{\new@label@record{mcid-239}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{239}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section-number <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\hbox(9.20918+0.0)x31.67244
@@ -3972,7 +3894,6 @@ Completed box being shipped out [3]
 ......\T1/cmr/bx/n/14.4 E
 .....\kern -1.97952
 .....\T1/cmr/bx/n/14.4 X
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-242}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{242}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -3998,7 +3919,6 @@ Completed box being shipped out [3]
 ......\T1/cmr/bx/n/14.4 E
 .....\kern -1.97952
 .....\T1/cmr/bx/n/14.4 X
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-244}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{244}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -4036,7 +3956,7 @@ Completed box being shipped out [3]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 0.90273
-....\hbox(7.49817+2.49939)x345.0, glue set 311.73332fil
+....\hbox(7.49817+2.49939)x345.0, glue set 315.06584fil
 .....\write1{\new@label@record{mcid-245}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{245}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\pdfliteral page{EMC}
@@ -4059,7 +3979,6 @@ Completed box being shipped out [3]
 ......\T1/cmr/m/n/10 E
 .....\kern -1.2497
 .....\T1/cmr/m/n/10 X
-.....\glue 3.33252 plus 1.66626 minus 1.11084
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-247}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{247}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -4084,7 +4003,7 @@ Completed box being shipped out [3]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 5.56303
-....\hbox(9.93758+3.1992)x345.0, glue set 162.9078fil
+....\hbox(9.93758+3.1992)x345.0, glue set 173.4653fil
 .....\write1{\new@label@record{mcid-248}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{248}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section-number <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\hbox(9.20918+0.0)x31.67244
@@ -4125,7 +4044,6 @@ Completed box being shipped out [3]
 .......\T1/cmr/bx/n/14.4 E
 ......\kern -1.97952
 ......\T1/cmr/bx/n/14.4 X
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-251}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{251}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -4151,7 +4069,6 @@ Completed box being shipped out [3]
 .......\T1/cmr/bx/n/14.4 E
 ......\kern -1.97952
 ......\T1/cmr/bx/n/14.4 X
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-253}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{253}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -4189,7 +4106,7 @@ Completed box being shipped out [3]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 1.91359
-....\hbox(6.8872+2.15225)x345.0, glue set 299.2087fil
+....\hbox(6.8872+2.15225)x345.0, glue set 302.54121fil
 .....\write1{\new@label@record{mcid-254}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{254}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\pdfliteral page{EMC}
@@ -4212,7 +4129,6 @@ Completed box being shipped out [3]
 .......\T1/cmr/m/n/10 E
 ......\kern -1.2497
 ......\T1/cmr/m/n/10 X
-.....\glue 3.33252 plus 1.66626 minus 1.11084
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-256}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{256}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -4237,7 +4153,7 @@ Completed box being shipped out [3]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 5.91017
-....\hbox(9.93758+3.1992)x345.0, glue set 185.80124fil
+....\hbox(9.93758+3.1992)x345.0, glue set 196.35873fil
 .....\write1{\new@label@record{mcid-257}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{257}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section-number <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\hbox(9.20918+0.0)x31.67244
@@ -4272,7 +4188,6 @@ Completed box being shipped out [3]
 .......\T1/cmr/bx/n/14.4 E
 ......\kern -1.97952
 ......\T1/cmr/bx/n/14.4 X
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-260}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{260}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -4292,7 +4207,6 @@ Completed box being shipped out [3]
 .......\T1/cmr/bx/n/14.4 E
 ......\kern -1.97952
 ......\T1/cmr/bx/n/14.4 X
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-262}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{262}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -4330,7 +4244,7 @@ Completed box being shipped out [3]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 1.91359
-....\hbox(6.8872+2.15225)x345.0, glue set 307.09294fil
+....\hbox(6.8872+2.15225)x345.0, glue set 310.42546fil
 .....\write1{\new@label@record{mcid-263}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{263}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\pdfliteral page{EMC}
@@ -4347,7 +4261,6 @@ Completed box being shipped out [3]
 .......\T1/cmr/m/n/10 E
 ......\kern -1.2497
 ......\T1/cmr/m/n/10 X
-.....\glue 3.33252 plus 1.66626 minus 1.11084
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-265}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{265}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -4372,7 +4285,7 @@ Completed box being shipped out [3]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 5.91017
-....\hbox(9.93758+3.95905)x345.0, glue set 235.48929fil
+....\hbox(9.93758+3.95905)x345.0, glue set 246.04678fil
 .....\write1{\new@label@record{mcid-266}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{266}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section-number <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\hbox(9.20918+0.0)x31.67244
@@ -4402,7 +4315,6 @@ Completed box being shipped out [3]
 ......\T1/cmr/bx/n/14.4 Y
 .....\kern -1.97952
 .....\T1/cmr/bx/n/14.4 X
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-269}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{269}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -4417,7 +4329,6 @@ Completed box being shipped out [3]
 ......\T1/cmr/bx/n/14.4 Y
 .....\kern -1.97952
 .....\T1/cmr/bx/n/14.4 X
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-271}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{271}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -4455,7 +4366,7 @@ Completed box being shipped out [3]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 1.15375
-....\hbox(6.8872+2.49939)x345.0, glue set 323.33897fil
+....\hbox(6.8872+2.49939)x345.0, glue set 326.6715fil
 .....\write1{\new@label@record{mcid-272}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{272}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\pdfliteral page{EMC}
@@ -4467,7 +4378,6 @@ Completed box being shipped out [3]
 ......\T1/cmr/m/n/10 Y
 .....\kern -1.2497
 .....\T1/cmr/m/n/10 X
-.....\glue 3.33252 plus 1.66626 minus 1.11084
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-274}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{274}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -4549,7 +4459,7 @@ Completed box being shipped out [4]
 ...\vbox(550.0+0.0)x345.0, glue set >20000.0fil
 ....\hbox(0.0+0.0)x0.0
 ....\glue(\topskip) 0.79082
-....\hbox(9.20918+2.7993)x345.0, glue set 137.86304fil
+....\hbox(9.20918+2.7993)x345.0, glue set 148.42053fil
 .....\write1{\new@label@record{mcid-275}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{275}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section-number <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\hbox(9.20918+0.0)x31.67244
@@ -4585,7 +4495,6 @@ Completed box being shipped out [4]
 ......\U/logo/b/n/14.4 O
 ......\U/logo/b/n/14.4 N
 ......\U/logo/b/n/14.4 T
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-278}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{278}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -4606,7 +4515,6 @@ Completed box being shipped out [4]
 ......\U/logo/b/n/14.4 O
 ......\U/logo/b/n/14.4 N
 ......\U/logo/b/n/14.4 T
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-280}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{280}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -4644,7 +4552,7 @@ Completed box being shipped out [4]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 3.2007
-....\hbox(6.0+0.0)x345.0, glue set 290.33435fil
+....\hbox(6.0+0.0)x345.0, glue set 293.66687fil
 .....\write1{\new@label@record{mcid-281}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{281}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\pdfliteral page{EMC}
@@ -4662,7 +4570,6 @@ Completed box being shipped out [4]
 ......\U/logo/m/n/10 O
 ......\U/logo/m/n/10 N
 ......\U/logo/m/n/10 T
-.....\glue 3.33252 plus 1.66626 minus 1.11084
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-283}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{283}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -4687,7 +4594,7 @@ Completed box being shipped out [4]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 8.06242
-....\hbox(9.93758+2.7993)x345.0, glue set 168.04437fil
+....\hbox(9.93758+2.7993)x345.0, glue set 178.60187fil
 .....\write1{\new@label@record{mcid-286}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{286}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section-number <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\hbox(9.20918+0.0)x31.67244
@@ -4721,7 +4628,6 @@ Completed box being shipped out [4]
 ......\kern-1.3197
 ......\T1/cmr/bx/n/14.4 u
 ......\T1/cmr/bx/n/14.4 n
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-289}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{289}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -4740,7 +4646,6 @@ Completed box being shipped out [4]
 ......\kern-1.3197
 ......\T1/cmr/bx/n/14.4 u
 ......\T1/cmr/bx/n/14.4 n
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-291}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{291}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -4778,7 +4683,7 @@ Completed box being shipped out [4]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 2.31349
-....\hbox(6.8872+0.0)x345.0, glue set 302.37152fil
+....\hbox(6.8872+0.0)x345.0, glue set 305.70404fil
 .....\write1{\new@label@record{mcid-292}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{292}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\pdfliteral page{EMC}
@@ -4794,7 +4699,6 @@ Completed box being shipped out [4]
 ......\kern-0.83313
 ......\T1/cmr/m/n/10 u
 ......\T1/cmr/m/n/10 n
-.....\glue 3.33252 plus 1.66626 minus 1.11084
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-294}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{294}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -4819,7 +4723,7 @@ Completed box being shipped out [4]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 8.79082
-....\hbox(9.20918+2.7993)x345.0, glue set 136.51907fil
+....\hbox(9.20918+2.7993)x345.0, glue set 147.07657fil
 .....\write1{\new@label@record{mcid-295}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{295}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section-number <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\hbox(9.20918+0.0)x31.67244
@@ -4855,7 +4759,6 @@ Completed box being shipped out [4]
 ......\U/logo/b/n/14.4 O
 ......\U/logo/b/n/14.4 S
 ......\U/logo/b/n/14.4 T
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-298}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{298}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -4876,7 +4779,6 @@ Completed box being shipped out [4]
 ......\U/logo/b/n/14.4 O
 ......\U/logo/b/n/14.4 S
 ......\U/logo/b/n/14.4 T
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-300}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{300}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -4914,7 +4816,7 @@ Completed box being shipped out [4]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 3.2007
-....\hbox(6.0+0.0)x345.0, glue set 289.88992fil
+....\hbox(6.0+0.0)x345.0, glue set 293.22244fil
 .....\write1{\new@label@record{mcid-301}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{301}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\pdfliteral page{EMC}
@@ -4932,7 +4834,6 @@ Completed box being shipped out [4]
 ......\U/logo/m/n/10 O
 ......\U/logo/m/n/10 S
 ......\U/logo/m/n/10 T
-.....\glue 3.33252 plus 1.66626 minus 1.11084
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-303}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{303}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -4957,7 +4858,7 @@ Completed box being shipped out [4]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 8.06242
-....\hbox(9.93758+2.7993)x345.0, glue set 159.0994fil
+....\hbox(9.93758+2.7993)x345.0, glue set 169.65689fil
 .....\write1{\new@label@record{mcid-304}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{304}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section-number <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\hbox(9.20918+0.0)x31.67244
@@ -4992,7 +4893,6 @@ Completed box being shipped out [4]
 ......\T1/cmr/bx/n/14.4 o
 ......\T1/cmr/bx/n/14.4 s
 ......\T1/cmr/bx/n/14.4 t
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-307}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{307}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -5012,7 +4912,6 @@ Completed box being shipped out [4]
 ......\T1/cmr/bx/n/14.4 o
 ......\T1/cmr/bx/n/14.4 s
 ......\T1/cmr/bx/n/14.4 t
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-309}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{309}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -5050,7 +4949,7 @@ Completed box being shipped out [4]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 2.31349
-....\hbox(6.8872+0.0)x345.0, glue set 299.81659fil
+....\hbox(6.8872+0.0)x345.0, glue set 303.14911fil
 .....\write1{\new@label@record{mcid-310}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{310}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\pdfliteral page{EMC}
@@ -5067,7 +4966,6 @@ Completed box being shipped out [4]
 ......\T1/cmr/m/n/10 o
 ......\T1/cmr/m/n/10 s
 ......\T1/cmr/m/n/10 t
-.....\glue 3.33252 plus 1.66626 minus 1.11084
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-312}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{312}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -5092,7 +4990,7 @@ Completed box being shipped out [4]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 8.06242
-....\hbox(9.93758+3.1992)x345.0, glue set 171.98889fil
+....\hbox(9.93758+3.1992)x345.0, glue set 182.54639fil
 .....\write1{\new@label@record{mcid-313}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{313}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section-number <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\hbox(9.20918+0.0)x31.67244
@@ -5126,7 +5024,6 @@ Completed box being shipped out [4]
 ......\T1/cmr/bx/n/14.4 E
 .....\kern -1.97952
 .....\T1/cmr/bx/n/14.4 X
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-316}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{316}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -5145,7 +5042,6 @@ Completed box being shipped out [4]
 ......\T1/cmr/bx/n/14.4 E
 .....\kern -1.97952
 .....\T1/cmr/bx/n/14.4 X
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-318}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{318}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -5183,7 +5079,7 @@ Completed box being shipped out [4]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 1.91359
-....\hbox(6.8872+2.15225)x345.0, glue set 303.34386fil
+....\hbox(6.8872+2.15225)x345.0, glue set 306.67638fil
 .....\write1{\new@label@record{mcid-319}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{319}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\pdfliteral page{EMC}
@@ -5199,7 +5095,6 @@ Completed box being shipped out [4]
 ......\T1/cmr/m/n/10 E
 .....\kern -1.2497
 .....\T1/cmr/m/n/10 X
-.....\glue 3.33252 plus 1.66626 minus 1.11084
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-321}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{321}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -5224,7 +5119,7 @@ Completed box being shipped out [4]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 6.00777
-....\hbox(9.83998+3.09999)x345.0, glue set 238.45276fil
+....\hbox(9.83998+3.09999)x345.0, glue set 249.01025fil
 .....\write1{\new@label@record{mcid-322}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{322}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section-number <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\hbox(9.20918+0.0)x31.67244
@@ -5257,7 +5152,6 @@ Completed box being shipped out [4]
 .....\kern -2.87996
 .....\OMS/cmsy/m/n/14.4 S
 .....\kern 1.07993
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-325}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{325}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -5275,7 +5169,6 @@ Completed box being shipped out [4]
 .....\kern -2.87996
 .....\OMS/cmsy/m/n/14.4 S
 .....\kern 1.07993
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-327}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{327}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -5313,7 +5206,7 @@ Completed box being shipped out [4]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 2.0667
-....\hbox(6.83331+2.15277)x345.0, glue set 322.6954fil
+....\hbox(6.83331+2.15277)x345.0, glue set 326.02792fil
 .....\write1{\new@label@record{mcid-328}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{328}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\pdfliteral page{EMC}
@@ -5328,7 +5221,6 @@ Completed box being shipped out [4]
 .....\kern -1.99997
 .....\OMS/cmsy/m/n/10 S
 .....\kern 0.74994
-.....\glue 3.33252 plus 1.66626 minus 1.11084
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-330}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{330}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -5353,7 +5245,7 @@ Completed box being shipped out [4]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 5.90965
-....\hbox(9.93758+2.7993)x345.0, glue set 205.29105fil
+....\hbox(9.93758+2.7993)x345.0, glue set 215.84854fil
 .....\write1{\new@label@record{mcid-331}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{331}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section-number <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\hbox(9.20918+0.0)x31.67244
@@ -5382,7 +5274,6 @@ Completed box being shipped out [4]
 ......\T1/cmr/bx/n/14.4 z
 ......\T1/cmr/bx/n/14.4 M
 ......\T1/cmr/bx/n/14.4 F
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-334}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{334}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -5396,7 +5287,6 @@ Completed box being shipped out [4]
 ......\T1/cmr/bx/n/14.4 z
 ......\T1/cmr/bx/n/14.4 M
 ......\T1/cmr/bx/n/14.4 F
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-336}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{336}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -5434,7 +5324,7 @@ Completed box being shipped out [4]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 2.31349
-....\hbox(6.8872+0.0)x345.0, glue set 313.75763fil
+....\hbox(6.8872+0.0)x345.0, glue set 317.09015fil
 .....\write1{\new@label@record{mcid-337}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{337}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\pdfliteral page{EMC}
@@ -5445,7 +5335,6 @@ Completed box being shipped out [4]
 ......\T1/cmr/m/n/10 z
 ......\T1/cmr/m/n/10 M
 ......\T1/cmr/m/n/10 F
-.....\glue 3.33252 plus 1.66626 minus 1.11084
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-339}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{339}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -5470,7 +5359,7 @@ Completed box being shipped out [4]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 8.06242
-....\hbox(9.93758+2.7993)x345.0, glue set 203.56033fil
+....\hbox(9.93758+2.7993)x345.0, glue set 214.11783fil
 .....\write1{\new@label@record{mcid-340}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{340}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section-number <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\hbox(9.20918+0.0)x31.67244
@@ -5499,7 +5388,6 @@ Completed box being shipped out [4]
 ......\T1/cmr/bx/n/14.4 z
 ......\T1/cmr/bx/n/14.4 M
 ......\T1/cmr/bx/n/14.4 P
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-343}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{343}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -5513,7 +5401,6 @@ Completed box being shipped out [4]
 ......\T1/cmr/bx/n/14.4 z
 ......\T1/cmr/bx/n/14.4 M
 ......\T1/cmr/bx/n/14.4 P
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-345}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{345}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -5551,7 +5438,7 @@ Completed box being shipped out [4]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 2.31349
-....\hbox(6.8872+0.0)x345.0, glue set 313.47992fil
+....\hbox(6.8872+0.0)x345.0, glue set 316.81244fil
 .....\write1{\new@label@record{mcid-346}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{346}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\pdfliteral page{EMC}
@@ -5562,7 +5449,6 @@ Completed box being shipped out [4]
 ......\T1/cmr/m/n/10 z
 ......\T1/cmr/m/n/10 M
 ......\T1/cmr/m/n/10 P
-.....\glue 3.33252 plus 1.66626 minus 1.11084
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-348}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{348}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -5587,7 +5473,7 @@ Completed box being shipped out [4]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 8.06242
-....\hbox(9.93758+3.1992)x345.0, glue set 203.45697fil
+....\hbox(9.93758+3.1992)x345.0, glue set 214.01447fil
 .....\write1{\new@label@record{mcid-349}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{349}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section-number <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\hbox(9.20918+0.0)x31.67244
@@ -5621,7 +5507,6 @@ Completed box being shipped out [4]
 ......\T1/cmr/bx/n/14.4 E
 .....\kern -1.97952
 .....\T1/cmr/bx/n/14.4 X
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-352}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{352}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -5640,7 +5525,6 @@ Completed box being shipped out [4]
 ......\T1/cmr/bx/n/14.4 E
 .....\kern -1.97952
 .....\T1/cmr/bx/n/14.4 X
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-354}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{354}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -5678,7 +5562,7 @@ Completed box being shipped out [4]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 1.91359
-....\hbox(6.8872+2.15225)x345.0, glue set 312.64151fil
+....\hbox(6.8872+2.15225)x345.0, glue set 315.97403fil
 .....\write1{\new@label@record{mcid-355}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{355}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\pdfliteral page{EMC}
@@ -5694,7 +5578,6 @@ Completed box being shipped out [4]
 ......\T1/cmr/m/n/10 E
 .....\kern -1.2497
 .....\T1/cmr/m/n/10 X
-.....\glue 3.33252 plus 1.66626 minus 1.11084
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-357}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{357}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -5719,7 +5602,7 @@ Completed box being shipped out [4]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 5.91017
-....\hbox(9.93758+2.7993)x345.0, glue set 196.13101fil
+....\hbox(9.93758+2.7993)x345.0, glue set 206.6885fil
 .....\write1{\new@label@record{mcid-358}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{358}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section-number <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\hbox(9.20918+0.0)x31.67244
@@ -5749,7 +5632,6 @@ Completed box being shipped out [4]
 ......\T1/cmr/bx/n/14.4 T
 ......\T1/cmr/bx/n/14.4 t
 ......\T1/cmr/bx/n/14.4 H
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-361}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{361}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -5764,7 +5646,6 @@ Completed box being shipped out [4]
 ......\T1/cmr/bx/n/14.4 T
 ......\T1/cmr/bx/n/14.4 t
 ......\T1/cmr/bx/n/14.4 H
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-363}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{363}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -5802,7 +5683,7 @@ Completed box being shipped out [4]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 2.31349
-....\hbox(6.8872+0.0)x345.0, glue set 310.84167fil
+....\hbox(6.8872+0.0)x345.0, glue set 314.1742fil
 .....\write1{\new@label@record{mcid-364}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{364}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\pdfliteral page{EMC}
@@ -5814,7 +5695,6 @@ Completed box being shipped out [4]
 ......\T1/cmr/m/n/10 T
 ......\T1/cmr/m/n/10 t
 ......\T1/cmr/m/n/10 H
-.....\glue 3.33252 plus 1.66626 minus 1.11084
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-366}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{366}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -5896,7 +5776,7 @@ Completed box being shipped out [5]
 ...\vbox(550.0+0.0)x345.0, glue set >20000.0fil
 ....\hbox(0.0+0.0)x0.0
 ....\glue(\topskip) 0.06242
-....\hbox(9.93758+3.1992)x345.0, glue set 191.10886fil
+....\hbox(9.93758+3.1992)x345.0, glue set 201.66635fil
 .....\write1{\new@label@record{mcid-367}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{367}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section-number <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\hbox(9.20918+0.0)x31.67244
@@ -5929,7 +5809,6 @@ Completed box being shipped out [5]
 ......\T1/cmr/bx/n/14.4 E
 .....\kern -1.97952
 .....\T1/cmr/bx/n/14.4 X
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-370}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{370}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -5947,7 +5826,6 @@ Completed box being shipped out [5]
 ......\T1/cmr/bx/n/14.4 E
 .....\kern -1.97952
 .....\T1/cmr/bx/n/14.4 X
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-372}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{372}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -5985,7 +5863,7 @@ Completed box being shipped out [5]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 1.91359
-....\hbox(6.8872+2.15225)x345.0, glue set 309.03691fil
+....\hbox(6.8872+2.15225)x345.0, glue set 312.36943fil
 .....\write1{\new@label@record{mcid-373}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{373}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\pdfliteral page{EMC}
@@ -6000,7 +5878,6 @@ Completed box being shipped out [5]
 ......\T1/cmr/m/n/10 E
 .....\kern -1.2497
 .....\T1/cmr/m/n/10 X
-.....\glue 3.33252 plus 1.66626 minus 1.11084
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-375}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{375}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -6025,7 +5902,7 @@ Completed box being shipped out [5]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 5.91017
-....\hbox(9.93758+3.1992)x345.0, glue set 188.28839fil
+....\hbox(9.93758+3.1992)x345.0, glue set 198.84589fil
 .....\write1{\new@label@record{mcid-378}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{378}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section-number <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\hbox(9.20918+0.0)x31.67244
@@ -6060,7 +5937,6 @@ Completed box being shipped out [5]
 .......\T1/cmr/bx/n/14.4 E
 ......\kern -1.97952
 ......\T1/cmr/bx/n/14.4 X
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-381}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{381}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -6079,7 +5955,6 @@ Completed box being shipped out [5]
 .......\T1/cmr/bx/n/14.4 E
 ......\kern -1.97952
 ......\T1/cmr/bx/n/14.4 X
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-383}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{383}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -6117,7 +5992,7 @@ Completed box being shipped out [5]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 1.91359
-....\hbox(6.8872+2.15225)x345.0, glue set 308.62035fil
+....\hbox(6.8872+2.15225)x345.0, glue set 311.95287fil
 .....\write1{\new@label@record{mcid-384}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{384}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\pdfliteral page{EMC}
@@ -6134,7 +6009,6 @@ Completed box being shipped out [5]
 .......\T1/cmr/m/n/10 E
 ......\kern -1.2497
 ......\T1/cmr/m/n/10 X
-.....\glue 3.33252 plus 1.66626 minus 1.11084
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-386}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{386}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -6159,7 +6033,7 @@ Completed box being shipped out [5]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 5.91017
-....\hbox(9.93758+3.1992)x345.0, glue set 168.03436fil
+....\hbox(9.93758+3.1992)x345.0, glue set 178.59186fil
 .....\write1{\new@label@record{mcid-387}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{387}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section-number <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\hbox(9.20918+0.0)x31.67244
@@ -6201,7 +6075,6 @@ Completed box being shipped out [5]
 .......\T1/cmr/bx/n/14.4 E
 ......\kern -1.97952
 ......\T1/cmr/bx/n/14.4 X
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-390}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{390}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -6227,7 +6100,6 @@ Completed box being shipped out [5]
 .......\T1/cmr/bx/n/14.4 E
 ......\kern -1.97952
 ......\T1/cmr/bx/n/14.4 X
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-392}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{392}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -6265,7 +6137,7 @@ Completed box being shipped out [5]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 1.91359
-....\hbox(6.8872+2.15225)x345.0, glue set 301.56923fil
+....\hbox(6.8872+2.15225)x345.0, glue set 304.90175fil
 .....\write1{\new@label@record{mcid-393}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{393}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\pdfliteral page{EMC}
@@ -6289,7 +6161,6 @@ Completed box being shipped out [5]
 .......\T1/cmr/m/n/10 E
 ......\kern -1.2497
 ......\T1/cmr/m/n/10 X
-.....\glue 3.33252 plus 1.66626 minus 1.11084
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-395}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{395}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -6314,7 +6185,7 @@ Completed box being shipped out [5]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 5.91017
-....\hbox(9.93758+3.1992)x345.0, glue set 243.0994fil
+....\hbox(9.93758+3.1992)x345.0, glue set 253.65689fil
 .....\write1{\new@label@record{mcid-396}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{396}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section-number <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\hbox(9.20918+0.0)x31.67244
@@ -6344,7 +6215,6 @@ Completed box being shipped out [5]
 ......\T1/cmr/bx/n/14.4 I
 .....\kern -1.18767
 .....\T1/cmr/bx/n/14.4 C
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-399}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{399}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -6359,7 +6229,6 @@ Completed box being shipped out [5]
 ......\T1/cmr/bx/n/14.4 I
 .....\kern -1.18767
 .....\T1/cmr/bx/n/14.4 C
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-401}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{401}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -6397,7 +6266,7 @@ Completed box being shipped out [5]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 1.91359
-....\hbox(6.8872+2.15225)x345.0, glue set 325.98233fil
+....\hbox(6.8872+2.15225)x345.0, glue set 329.31485fil
 .....\write1{\new@label@record{mcid-402}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{402}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\pdfliteral page{EMC}
@@ -6409,7 +6278,6 @@ Completed box being shipped out [5]
 ......\T1/cmr/m/n/10 I
 .....\kern -0.74979
 .....\T1/cmr/m/n/10 C
-.....\glue 3.33252 plus 1.66626 minus 1.11084
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-404}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{404}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -6434,7 +6302,7 @@ Completed box being shipped out [5]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 5.91017
-....\hbox(9.93758+3.1992)x345.0, glue set 189.10703fil
+....\hbox(9.93758+3.1992)x345.0, glue set 199.66452fil
 .....\write1{\new@label@record{mcid-405}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{405}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section-number <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\hbox(9.20918+0.0)x31.67244
@@ -6471,7 +6339,6 @@ Completed box being shipped out [5]
 ......\T1/cmr/bx/n/14.4 E
 .....\kern -1.97952
 .....\T1/cmr/bx/n/14.4 X
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-408}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{408}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -6493,7 +6360,6 @@ Completed box being shipped out [5]
 ......\T1/cmr/bx/n/14.4 E
 .....\kern -1.97952
 .....\T1/cmr/bx/n/14.4 X
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-410}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{410}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -6531,7 +6397,7 @@ Completed box being shipped out [5]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 1.91359
-....\hbox(6.8872+2.15225)x345.0, glue set 308.47585fil
+....\hbox(6.8872+2.15225)x345.0, glue set 311.80836fil
 .....\write1{\new@label@record{mcid-411}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{411}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\pdfliteral page{EMC}
@@ -6550,7 +6416,6 @@ Completed box being shipped out [5]
 ......\T1/cmr/m/n/10 E
 .....\kern -1.2497
 .....\T1/cmr/m/n/10 X
-.....\glue 3.33252 plus 1.66626 minus 1.11084
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-413}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{413}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -6575,7 +6440,7 @@ Completed box being shipped out [5]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 5.91017
-....\hbox(9.93758+3.1992)x345.0, glue set 154.4165fil
+....\hbox(9.93758+3.1992)x345.0, glue set 164.974fil
 .....\write1{\new@label@record{mcid-414}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{414}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section-number <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\hbox(9.20918+0.0)x31.67244
@@ -6613,7 +6478,6 @@ Completed box being shipped out [5]
 ......\T1/cmr/bx/n/14.4 E
 .....\kern -1.97952
 .....\T1/cmr/bx/n/14.4 X
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-417}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{417}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -6636,7 +6500,6 @@ Completed box being shipped out [5]
 ......\T1/cmr/bx/n/14.4 E
 .....\kern -1.97952
 .....\T1/cmr/bx/n/14.4 X
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-419}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{419}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -6674,7 +6537,7 @@ Completed box being shipped out [5]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 1.91359
-....\hbox(6.8872+2.15225)x345.0, glue set 298.06737fil
+....\hbox(6.8872+2.15225)x345.0, glue set 301.39989fil
 .....\write1{\new@label@record{mcid-420}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{420}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\pdfliteral page{EMC}
@@ -6694,7 +6557,6 @@ Completed box being shipped out [5]
 ......\T1/cmr/m/n/10 E
 .....\kern -1.2497
 .....\T1/cmr/m/n/10 X
-.....\glue 3.33252 plus 1.66626 minus 1.11084
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-422}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{422}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -6719,7 +6581,7 @@ Completed box being shipped out [5]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 5.91017
-....\hbox(9.93758+3.1992)x345.0, glue set 154.4165fil
+....\hbox(9.93758+3.1992)x345.0, glue set 164.974fil
 .....\write1{\new@label@record{mcid-423}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{423}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section-number <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\hbox(9.20918+0.0)x31.67244
@@ -6757,7 +6619,6 @@ Completed box being shipped out [5]
 ......\T1/cmr/bx/n/14.4 E
 .....\kern -1.97952
 .....\T1/cmr/bx/n/14.4 X
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-426}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{426}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -6780,7 +6641,6 @@ Completed box being shipped out [5]
 ......\T1/cmr/bx/n/14.4 E
 .....\kern -1.97952
 .....\T1/cmr/bx/n/14.4 X
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-428}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{428}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -6818,7 +6678,7 @@ Completed box being shipped out [5]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 1.91359
-....\hbox(6.8872+2.15225)x345.0, glue set 298.06737fil
+....\hbox(6.8872+2.15225)x345.0, glue set 301.39989fil
 .....\write1{\new@label@record{mcid-429}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{429}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\pdfliteral page{EMC}
@@ -6838,7 +6698,6 @@ Completed box being shipped out [5]
 ......\T1/cmr/m/n/10 E
 .....\kern -1.2497
 .....\T1/cmr/m/n/10 X
-.....\glue 3.33252 plus 1.66626 minus 1.11084
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-431}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{431}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -6863,7 +6722,7 @@ Completed box being shipped out [5]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 5.91017
-....\hbox(9.93758+3.1992)x345.0, glue set 164.974fil
+....\hbox(9.93758+3.1992)x345.0, glue set 175.5315fil
 .....\write1{\new@label@record{mcid-432}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{432}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section-number <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\hbox(9.20918+0.0)x31.67244
@@ -6899,7 +6758,6 @@ Completed box being shipped out [5]
 .......\T1/cmr/bx/n/14.4 E
 ......\kern -1.97952
 ......\T1/cmr/bx/n/14.4 X
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-435}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{435}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -6920,7 +6778,6 @@ Completed box being shipped out [5]
 .......\T1/cmr/bx/n/14.4 E
 ......\kern -1.97952
 ......\T1/cmr/bx/n/14.4 X
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-437}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{437}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -6958,7 +6815,7 @@ Completed box being shipped out [5]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 1.91359
-....\hbox(6.8872+2.15225)x345.0, glue set 301.39989fil
+....\hbox(6.8872+2.15225)x345.0, glue set 304.7324fil
 .....\write1{\new@label@record{mcid-438}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{438}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\pdfliteral page{EMC}
@@ -6976,7 +6833,6 @@ Completed box being shipped out [5]
 .......\T1/cmr/m/n/10 E
 ......\kern -1.2497
 ......\T1/cmr/m/n/10 X
-.....\glue 3.33252 plus 1.66626 minus 1.11084
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-440}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{440}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -7001,7 +6857,7 @@ Completed box being shipped out [5]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 5.91017
-....\hbox(9.93758+3.1992)x345.0, glue set 154.4165fil
+....\hbox(9.93758+3.1992)x345.0, glue set 164.974fil
 .....\write1{\new@label@record{mcid-441}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{441}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section-number <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\hbox(9.20918+0.0)x31.67244
@@ -7039,7 +6895,6 @@ Completed box being shipped out [5]
 ......\T1/cmr/bx/n/14.4 E
 .....\kern -1.97952
 .....\T1/cmr/bx/n/14.4 X
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-444}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{444}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -7062,7 +6917,6 @@ Completed box being shipped out [5]
 ......\T1/cmr/bx/n/14.4 E
 .....\kern -1.97952
 .....\T1/cmr/bx/n/14.4 X
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-446}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{446}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -7100,7 +6954,7 @@ Completed box being shipped out [5]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 1.91359
-....\hbox(6.8872+2.15225)x345.0, glue set 298.06737fil
+....\hbox(6.8872+2.15225)x345.0, glue set 301.39989fil
 .....\write1{\new@label@record{mcid-447}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{447}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\pdfliteral page{EMC}
@@ -7120,7 +6974,6 @@ Completed box being shipped out [5]
 ......\T1/cmr/m/n/10 E
 .....\kern -1.2497
 .....\T1/cmr/m/n/10 X
-.....\glue 3.33252 plus 1.66626 minus 1.11084
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-449}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{449}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -7145,7 +6998,7 @@ Completed box being shipped out [5]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 5.91017
-....\hbox(9.93758+3.1992)x345.0, glue set 199.34988fil
+....\hbox(9.93758+3.1992)x345.0, glue set 209.90738fil
 .....\write1{\new@label@record{mcid-450}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{450}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section-number <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\hbox(9.20918+0.0)x31.67244
@@ -7185,7 +7038,6 @@ Completed box being shipped out [5]
 ......\T1/cmr/bx/n/14.4 E
 .....\kern -1.97952
 .....\T1/cmr/bx/n/14.4 X
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-453}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{453}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -7210,7 +7062,6 @@ Completed box being shipped out [5]
 ......\T1/cmr/bx/n/14.4 E
 .....\kern -1.97952
 .....\T1/cmr/bx/n/14.4 X
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-455}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{455}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -7248,7 +7099,7 @@ Completed box being shipped out [5]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 1.91359
-....\hbox(6.8872+2.15225)x345.0, glue set 310.95584fil
+....\hbox(6.8872+2.15225)x345.0, glue set 314.28836fil
 .....\write1{\new@label@record{mcid-456}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{456}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\pdfliteral page{EMC}
@@ -7270,7 +7121,6 @@ Completed box being shipped out [5]
 ......\T1/cmr/m/n/10 E
 .....\kern -1.2497
 .....\T1/cmr/m/n/10 X
-.....\glue 3.33252 plus 1.66626 minus 1.11084
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-458}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{458}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -7352,7 +7202,7 @@ Completed box being shipped out [6]
 ...\vbox(550.0+0.0)x345.0, glue set >20000.0fil
 ....\hbox(0.0+0.0)x0.0
 ....\glue(\topskip) 0.06242
-....\hbox(9.93758+3.1992)x345.0, glue set 222.77087fil
+....\hbox(9.93758+3.1992)x345.0, glue set 233.32837fil
 .....\write1{\new@label@record{mcid-459}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{459}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section-number <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\hbox(9.20918+0.0)x31.67244
@@ -7385,7 +7235,6 @@ Completed box being shipped out [6]
 ......\T1/cmr/bx/n/14.4 E
 .....\kern -1.97952
 .....\T1/cmr/bx/n/14.4 X
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-462}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{462}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -7403,7 +7252,6 @@ Completed box being shipped out [6]
 ......\T1/cmr/bx/n/14.4 E
 .....\kern -1.97952
 .....\T1/cmr/bx/n/14.4 X
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-464}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{464}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -7441,7 +7289,7 @@ Completed box being shipped out [6]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 1.91359
-....\hbox(6.8872+2.15225)x345.0, glue set 319.00664fil
+....\hbox(6.8872+2.15225)x345.0, glue set 322.33916fil
 .....\write1{\new@label@record{mcid-465}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{465}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\pdfliteral page{EMC}
@@ -7456,7 +7304,6 @@ Completed box being shipped out [6]
 ......\T1/cmr/m/n/10 E
 .....\kern -1.2497
 .....\T1/cmr/m/n/10 X
-.....\glue 3.33252 plus 1.66626 minus 1.11084
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-467}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{467}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -7481,7 +7328,7 @@ Completed box being shipped out [6]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 5.91017
-....\hbox(9.93758+3.1992)x345.0, glue set 174.58615fil
+....\hbox(9.93758+3.1992)x345.0, glue set 185.14365fil
 .....\write1{\new@label@record{mcid-470}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{470}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section-number <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\hbox(9.20918+0.0)x31.67244
@@ -7517,7 +7364,6 @@ Completed box being shipped out [6]
 ......\T1/cmr/bx/n/14.4 E
 .....\kern -1.97952
 .....\T1/cmr/bx/n/14.4 X
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-473}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{473}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -7538,7 +7384,6 @@ Completed box being shipped out [6]
 ......\T1/cmr/bx/n/14.4 E
 .....\kern -1.97952
 .....\T1/cmr/bx/n/14.4 X
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-475}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{475}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -7576,7 +7421,7 @@ Completed box being shipped out [6]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 1.91359
-....\hbox(6.8872+2.15225)x345.0, glue set 303.89928fil
+....\hbox(6.8872+2.15225)x345.0, glue set 307.2318fil
 .....\write1{\new@label@record{mcid-476}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{476}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\pdfliteral page{EMC}
@@ -7594,7 +7439,6 @@ Completed box being shipped out [6]
 ......\T1/cmr/m/n/10 E
 .....\kern -1.2497
 .....\T1/cmr/m/n/10 X
-.....\glue 3.33252 plus 1.66626 minus 1.11084
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-478}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{478}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -7619,7 +7463,7 @@ Completed box being shipped out [6]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 5.91017
-....\hbox(9.93758+3.1992)x345.0, glue set 198.986fil
+....\hbox(9.93758+3.1992)x345.0, glue set 209.54349fil
 .....\write1{\new@label@record{mcid-479}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{479}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section-number <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\hbox(9.20918+0.0)x31.67244
@@ -7656,7 +7500,6 @@ Completed box being shipped out [6]
 ......\T1/cmr/bx/n/14.4 E
 .....\kern -1.97952
 .....\T1/cmr/bx/n/14.4 X
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-482}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{482}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -7678,7 +7521,6 @@ Completed box being shipped out [6]
 ......\T1/cmr/bx/n/14.4 E
 .....\kern -1.97952
 .....\T1/cmr/bx/n/14.4 X
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-484}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{484}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -7716,7 +7558,7 @@ Completed box being shipped out [6]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 1.91359
-....\hbox(6.8872+2.15225)x345.0, glue set 311.23624fil
+....\hbox(6.8872+2.15225)x345.0, glue set 314.56876fil
 .....\write1{\new@label@record{mcid-485}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{485}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\pdfliteral page{EMC}
@@ -7735,7 +7577,6 @@ Completed box being shipped out [6]
 ......\T1/cmr/m/n/10 E
 .....\kern -1.2497
 .....\T1/cmr/m/n/10 X
-.....\glue 3.33252 plus 1.66626 minus 1.11084
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-487}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{487}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -7760,7 +7601,7 @@ Completed box being shipped out [6]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 5.91017
-....\hbox(9.93758+3.1992)x345.0, glue set 198.986fil
+....\hbox(9.93758+3.1992)x345.0, glue set 209.54349fil
 .....\write1{\new@label@record{mcid-488}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{488}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section-number <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\hbox(9.20918+0.0)x31.67244
@@ -7797,7 +7638,6 @@ Completed box being shipped out [6]
 ......\T1/cmr/bx/n/14.4 E
 .....\kern -1.97952
 .....\T1/cmr/bx/n/14.4 X
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-491}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{491}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -7819,7 +7659,6 @@ Completed box being shipped out [6]
 ......\T1/cmr/bx/n/14.4 E
 .....\kern -1.97952
 .....\T1/cmr/bx/n/14.4 X
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-493}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{493}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -7857,7 +7696,7 @@ Completed box being shipped out [6]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 1.91359
-....\hbox(6.8872+2.15225)x345.0, glue set 311.23624fil
+....\hbox(6.8872+2.15225)x345.0, glue set 314.56876fil
 .....\write1{\new@label@record{mcid-494}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{494}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\pdfliteral page{EMC}
@@ -7876,7 +7715,6 @@ Completed box being shipped out [6]
 ......\T1/cmr/m/n/10 E
 .....\kern -1.2497
 .....\T1/cmr/m/n/10 X
-.....\glue 3.33252 plus 1.66626 minus 1.11084
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-496}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{496}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -7901,7 +7739,7 @@ Completed box being shipped out [6]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 5.91017
-....\hbox(9.93758+3.1992)x345.0, glue set 198.55853fil
+....\hbox(9.93758+3.1992)x345.0, glue set 209.11603fil
 .....\write1{\new@label@record{mcid-497}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{497}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section-number <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\hbox(9.20918+0.0)x31.67244
@@ -7938,7 +7776,6 @@ Completed box being shipped out [6]
 ......\T1/cmr/bx/n/14.4 E
 .....\kern -1.97952
 .....\T1/cmr/bx/n/14.4 X
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-500}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{500}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -7960,7 +7797,6 @@ Completed box being shipped out [6]
 ......\T1/cmr/bx/n/14.4 E
 .....\kern -1.97952
 .....\T1/cmr/bx/n/14.4 X
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-502}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{502}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -7998,7 +7834,7 @@ Completed box being shipped out [6]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 1.91359
-....\hbox(6.8872+2.15225)x345.0, glue set 310.94003fil
+....\hbox(6.8872+2.15225)x345.0, glue set 314.27255fil
 .....\write1{\new@label@record{mcid-503}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{503}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\pdfliteral page{EMC}
@@ -8017,7 +7853,6 @@ Completed box being shipped out [6]
 ......\T1/cmr/m/n/10 E
 .....\kern -1.2497
 .....\T1/cmr/m/n/10 X
-.....\glue 3.33252 plus 1.66626 minus 1.11084
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-505}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{505}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -8042,7 +7877,7 @@ Completed box being shipped out [6]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 5.87686
-....\hbox(9.97089+3.1992)x345.0, glue set 192.39395fil
+....\hbox(9.97089+3.1992)x345.0, glue set 202.95145fil
 .....\write1{\new@label@record{mcid-506}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{506}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section-number <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\hbox(9.20918+0.0)x31.67244
@@ -8076,7 +7911,6 @@ Completed box being shipped out [6]
 ......\T1/cmr/bx/n/14.4 E
 .....\kern -1.97952
 .....\T1/cmr/bx/n/14.4 X
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-509}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{509}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -8095,7 +7929,6 @@ Completed box being shipped out [6]
 ......\T1/cmr/bx/n/14.4 E
 .....\kern -1.97952
 .....\T1/cmr/bx/n/14.4 X
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-511}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{511}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -8133,7 +7966,7 @@ Completed box being shipped out [6]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 1.91359
-....\hbox(6.8872+2.15225)x345.0, glue set 308.79808fil
+....\hbox(6.8872+2.15225)x345.0, glue set 312.1306fil
 .....\write1{\new@label@record{mcid-512}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{512}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\pdfliteral page{EMC}
@@ -8149,7 +7982,6 @@ Completed box being shipped out [6]
 ......\T1/cmr/m/n/10 E
 .....\kern -1.2497
 .....\T1/cmr/m/n/10 X
-.....\glue 3.33252 plus 1.66626 minus 1.11084
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-514}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{514}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -8174,7 +8006,7 @@ Completed box being shipped out [6]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 5.91017
-....\hbox(9.93758+3.1992)x345.0, glue set 198.55853fil
+....\hbox(9.93758+3.1992)x345.0, glue set 209.11603fil
 .....\write1{\new@label@record{mcid-515}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{515}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section-number <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\hbox(9.20918+0.0)x31.67244
@@ -8211,7 +8043,6 @@ Completed box being shipped out [6]
 ......\T1/cmr/bx/n/14.4 E
 .....\kern -1.97952
 .....\T1/cmr/bx/n/14.4 X
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-518}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{518}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -8233,7 +8064,6 @@ Completed box being shipped out [6]
 ......\T1/cmr/bx/n/14.4 E
 .....\kern -1.97952
 .....\T1/cmr/bx/n/14.4 X
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-520}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{520}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -8271,7 +8101,7 @@ Completed box being shipped out [6]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 1.91359
-....\hbox(6.8872+2.15225)x345.0, glue set 310.94003fil
+....\hbox(6.8872+2.15225)x345.0, glue set 314.27255fil
 .....\write1{\new@label@record{mcid-521}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{521}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\pdfliteral page{EMC}
@@ -8290,7 +8120,6 @@ Completed box being shipped out [6]
 ......\T1/cmr/m/n/10 E
 .....\kern -1.2497
 .....\T1/cmr/m/n/10 X
-.....\glue 3.33252 plus 1.66626 minus 1.11084
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-523}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{523}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -8315,7 +8144,7 @@ Completed box being shipped out [6]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 5.91017
-....\hbox(9.93758+3.1992)x345.0, glue set 198.986fil
+....\hbox(9.93758+3.1992)x345.0, glue set 209.54349fil
 .....\write1{\new@label@record{mcid-524}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{524}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section-number <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\hbox(9.20918+0.0)x31.67244
@@ -8352,7 +8181,6 @@ Completed box being shipped out [6]
 ......\T1/cmr/bx/n/14.4 E
 .....\kern -1.97952
 .....\T1/cmr/bx/n/14.4 X
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-527}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{527}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -8374,7 +8202,6 @@ Completed box being shipped out [6]
 ......\T1/cmr/bx/n/14.4 E
 .....\kern -1.97952
 .....\T1/cmr/bx/n/14.4 X
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-529}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{529}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -8412,7 +8239,7 @@ Completed box being shipped out [6]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 1.91359
-....\hbox(6.8872+2.15225)x345.0, glue set 311.23624fil
+....\hbox(6.8872+2.15225)x345.0, glue set 314.56876fil
 .....\write1{\new@label@record{mcid-530}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{530}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\pdfliteral page{EMC}
@@ -8431,7 +8258,6 @@ Completed box being shipped out [6]
 ......\T1/cmr/m/n/10 E
 .....\kern -1.2497
 .....\T1/cmr/m/n/10 X
-.....\glue 3.33252 plus 1.66626 minus 1.11084
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-532}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{532}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -8456,7 +8282,7 @@ Completed box being shipped out [6]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 5.91017
-....\hbox(9.93758+3.1992)x345.0, glue set 198.55853fil
+....\hbox(9.93758+3.1992)x345.0, glue set 209.11603fil
 .....\write1{\new@label@record{mcid-533}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{533}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section-number <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\hbox(9.20918+0.0)x31.67244
@@ -8493,7 +8319,6 @@ Completed box being shipped out [6]
 ......\T1/cmr/bx/n/14.4 E
 .....\kern -1.97952
 .....\T1/cmr/bx/n/14.4 X
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-536}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{536}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -8515,7 +8340,6 @@ Completed box being shipped out [6]
 ......\T1/cmr/bx/n/14.4 E
 .....\kern -1.97952
 .....\T1/cmr/bx/n/14.4 X
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-538}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{538}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -8553,7 +8377,7 @@ Completed box being shipped out [6]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 1.91359
-....\hbox(6.8872+2.15225)x345.0, glue set 310.94003fil
+....\hbox(6.8872+2.15225)x345.0, glue set 314.27255fil
 .....\write1{\new@label@record{mcid-539}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{539}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\pdfliteral page{EMC}
@@ -8572,7 +8396,6 @@ Completed box being shipped out [6]
 ......\T1/cmr/m/n/10 E
 .....\kern -1.2497
 .....\T1/cmr/m/n/10 X
-.....\glue 3.33252 plus 1.66626 minus 1.11084
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-541}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{541}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -8597,7 +8420,7 @@ Completed box being shipped out [6]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 5.87686
-....\hbox(9.97089+3.1992)x345.0, glue set 192.39395fil
+....\hbox(9.97089+3.1992)x345.0, glue set 202.95145fil
 .....\write1{\new@label@record{mcid-542}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{542}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section-number <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\hbox(9.20918+0.0)x31.67244
@@ -8631,7 +8454,6 @@ Completed box being shipped out [6]
 ......\T1/cmr/bx/n/14.4 E
 .....\kern -1.97952
 .....\T1/cmr/bx/n/14.4 X
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-545}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{545}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -8650,7 +8472,6 @@ Completed box being shipped out [6]
 ......\T1/cmr/bx/n/14.4 E
 .....\kern -1.97952
 .....\T1/cmr/bx/n/14.4 X
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-547}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{547}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -8688,7 +8509,7 @@ Completed box being shipped out [6]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 1.91359
-....\hbox(6.8872+2.15225)x345.0, glue set 308.79808fil
+....\hbox(6.8872+2.15225)x345.0, glue set 312.1306fil
 .....\write1{\new@label@record{mcid-548}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{548}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\pdfliteral page{EMC}
@@ -8704,7 +8525,6 @@ Completed box being shipped out [6]
 ......\T1/cmr/m/n/10 E
 .....\kern -1.2497
 .....\T1/cmr/m/n/10 X
-.....\glue 3.33252 plus 1.66626 minus 1.11084
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-550}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{550}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -8786,7 +8606,7 @@ Completed box being shipped out [7]
 ...\vbox(550.0+0.0)x345.0, glue set >20000.0fil
 ....\hbox(0.0+0.0)x0.0
 ....\glue(\topskip) 0.06242
-....\hbox(9.93758+3.1992)x345.0, glue set 205.36436fil
+....\hbox(9.93758+3.1992)x345.0, glue set 215.92186fil
 .....\write1{\new@label@record{mcid-551}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{551}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section-number <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\hbox(9.20918+0.0)x31.67244
@@ -8819,7 +8639,6 @@ Completed box being shipped out [7]
 ......\T1/cmr/bx/n/14.4 E
 .....\kern -1.97952
 .....\T1/cmr/bx/n/14.4 X
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-554}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{554}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -8838,7 +8657,6 @@ Completed box being shipped out [7]
 ......\T1/cmr/bx/n/14.4 E
 .....\kern -1.97952
 .....\T1/cmr/bx/n/14.4 X
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-556}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{556}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -8876,7 +8694,7 @@ Completed box being shipped out [7]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 1.91359
-....\hbox(6.8872+2.15225)x345.0, glue set 314.72997fil
+....\hbox(6.8872+2.15225)x345.0, glue set 318.06248fil
 .....\write1{\new@label@record{mcid-557}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{557}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\pdfliteral page{EMC}
@@ -8891,7 +8709,6 @@ Completed box being shipped out [7]
 ......\T1/cmr/m/n/10 E
 .....\kern -1.2497
 .....\T1/cmr/m/n/10 X
-.....\glue 3.33252 plus 1.66626 minus 1.11084
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-559}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{559}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -8916,7 +8733,7 @@ Completed box being shipped out [7]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 5.91017
-....\hbox(9.93758+3.1992)x345.0, glue set 235.61603fil
+....\hbox(9.93758+3.1992)x345.0, glue set 246.17352fil
 .....\write1{\new@label@record{mcid-562}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{562}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section-number <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\hbox(9.20918+0.0)x31.67244
@@ -8946,7 +8763,6 @@ Completed box being shipped out [7]
 ......\T1/cmr/bx/n/14.4 E
 .....\kern -1.97952
 .....\T1/cmr/bx/n/14.4 X
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-565}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{565}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -8961,7 +8777,6 @@ Completed box being shipped out [7]
 ......\T1/cmr/bx/n/14.4 E
 .....\kern -1.97952
 .....\T1/cmr/bx/n/14.4 X
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-567}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{567}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -8999,7 +8814,7 @@ Completed box being shipped out [7]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 1.91359
-....\hbox(6.8872+2.15225)x345.0, glue set 323.06126fil
+....\hbox(6.8872+2.15225)x345.0, glue set 326.39378fil
 .....\write1{\new@label@record{mcid-568}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{568}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\pdfliteral page{EMC}
@@ -9011,7 +8826,6 @@ Completed box being shipped out [7]
 ......\T1/cmr/m/n/10 E
 .....\kern -1.2497
 .....\T1/cmr/m/n/10 X
-.....\glue 3.33252 plus 1.66626 minus 1.11084
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-570}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{570}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -9036,7 +8850,7 @@ Completed box being shipped out [7]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 5.91017
-....\hbox(9.93758+3.1992)x345.0, glue set 190.74673fil
+....\hbox(9.93758+3.1992)x345.0, glue set 201.30423fil
 .....\write1{\new@label@record{mcid-571}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{571}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section-number <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\hbox(9.20918+0.0)x31.67244
@@ -9071,7 +8885,6 @@ Completed box being shipped out [7]
 ......\T1/cmr/bx/n/14.4 h
 ......\kern-0.4399
 ......\T1/cmr/bx/n/14.4 t
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-574}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{574}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -9091,7 +8904,6 @@ Completed box being shipped out [7]
 ......\T1/cmr/bx/n/14.4 h
 ......\kern-0.4399
 ......\T1/cmr/bx/n/14.4 t
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-576}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{576}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -9129,7 +8941,7 @@ Completed box being shipped out [7]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 1.91359
-....\hbox(6.8872+2.15225)x345.0, glue set 308.89806fil
+....\hbox(6.8872+2.15225)x345.0, glue set 312.23058fil
 .....\write1{\new@label@record{mcid-577}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{577}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\pdfliteral page{EMC}
@@ -9146,7 +8958,6 @@ Completed box being shipped out [7]
 ......\T1/cmr/m/n/10 h
 ......\kern-0.27771
 ......\T1/cmr/m/n/10 t
-.....\glue 3.33252 plus 1.66626 minus 1.11084
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-579}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{579}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -9171,7 +8982,7 @@ Completed box being shipped out [7]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 5.91017
-....\hbox(9.93758+3.1992)x345.0, glue set 167.00125fil
+....\hbox(9.93758+3.1992)x345.0, glue set 177.55875fil
 .....\write1{\new@label@record{mcid-580}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{580}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section-number <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\hbox(9.20918+0.0)x31.67244
@@ -9209,7 +9020,6 @@ Completed box being shipped out [7]
 ......\T1/cmr/bx/n/14.4 v
 ......\kern-0.4399
 ......\T1/cmr/bx/n/14.4 e
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-583}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{583}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -9232,7 +9042,6 @@ Completed box being shipped out [7]
 ......\T1/cmr/bx/n/14.4 v
 ......\kern-0.4399
 ......\T1/cmr/bx/n/14.4 e
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-585}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{585}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -9270,7 +9079,7 @@ Completed box being shipped out [7]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 1.91359
-....\hbox(6.8872+2.15225)x345.0, glue set 301.26103fil
+....\hbox(6.8872+2.15225)x345.0, glue set 304.59355fil
 .....\write1{\new@label@record{mcid-586}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{586}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\pdfliteral page{EMC}
@@ -9290,7 +9099,6 @@ Completed box being shipped out [7]
 ......\T1/cmr/m/n/10 v
 ......\kern-0.27771
 ......\T1/cmr/m/n/10 e
-.....\glue 3.33252 plus 1.66626 minus 1.11084
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-588}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{588}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -9315,7 +9123,7 @@ Completed box being shipped out [7]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 5.91017
-....\hbox(9.93758+2.7993)x345.0, glue set 229.31183fil
+....\hbox(9.93758+2.7993)x345.0, glue set 239.86932fil
 .....\write1{\new@label@record{mcid-589}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{589}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section-number <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\hbox(9.20918+0.0)x31.67244
@@ -9346,7 +9154,6 @@ Completed box being shipped out [7]
 .......\T1/cmr/bx/n/10 T
 ......\mathoff
 ......\T1/cmr/bx/n/14.4 H
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-592}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{592}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -9362,7 +9169,6 @@ Completed box being shipped out [7]
 .......\T1/cmr/bx/n/10 T
 ......\mathoff
 ......\T1/cmr/bx/n/14.4 H
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-594}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{594}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -9400,7 +9206,7 @@ Completed box being shipped out [7]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 2.31349
-....\hbox(6.8872+1.49998)x345.0, glue set 320.74191fil
+....\hbox(6.8872+1.49998)x345.0, glue set 324.07443fil
 .....\write1{\new@label@record{mcid-595}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{595}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\pdfliteral page{EMC}
@@ -9413,7 +9219,6 @@ Completed box being shipped out [7]
 .......\T1/cmr/m/n/7 T
 ......\mathoff
 ......\T1/cmr/m/n/10 H
-.....\glue 3.33252 plus 1.66626 minus 1.11084
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-597}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{597}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -9438,7 +9243,7 @@ Completed box being shipped out [7]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 6.56244
-....\hbox(9.93758+3.1992)x345.0, glue set 183.33777fil
+....\hbox(9.93758+3.1992)x345.0, glue set 193.89526fil
 .....\write1{\new@label@record{mcid-598}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{598}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section-number <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\hbox(9.20918+0.0)x31.67244
@@ -9481,7 +9286,6 @@ Completed box being shipped out [7]
 ......\T1/cmr/bx/n/14.4 E
 .....\kern -1.97952
 .....\T1/cmr/bx/n/14.4 X
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-601}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{601}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -9509,7 +9313,6 @@ Completed box being shipped out [7]
 ......\T1/cmr/bx/n/14.4 E
 .....\kern -1.97952
 .....\T1/cmr/bx/n/14.4 X
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-603}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{603}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -9547,7 +9350,7 @@ Completed box being shipped out [7]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 1.91359
-....\hbox(6.8872+2.15225)x345.0, glue set 305.90154fil
+....\hbox(6.8872+2.15225)x345.0, glue set 309.23405fil
 .....\write1{\new@label@record{mcid-604}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{604}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\pdfliteral page{EMC}
@@ -9572,7 +9375,6 @@ Completed box being shipped out [7]
 ......\T1/cmr/m/n/10 E
 .....\kern -1.2497
 .....\T1/cmr/m/n/10 X
-.....\glue 3.33252 plus 1.66626 minus 1.11084
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-606}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{606}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -9597,7 +9399,7 @@ Completed box being shipped out [7]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 5.91017
-....\hbox(9.93758+3.1992)x345.0, glue set 206.75876fil
+....\hbox(9.93758+3.1992)x345.0, glue set 217.31625fil
 .....\write1{\new@label@record{mcid-607}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{607}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section-number <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\hbox(9.20918+0.0)x31.67244
@@ -9633,7 +9435,6 @@ Completed box being shipped out [7]
 ......\T1/cmr/bx/n/14.4 E
 .....\kern -1.97952
 .....\T1/cmr/bx/n/14.4 X
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-610}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{610}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -9654,7 +9455,6 @@ Completed box being shipped out [7]
 ......\T1/cmr/bx/n/14.4 E
 .....\kern -1.97952
 .....\T1/cmr/bx/n/14.4 X
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-612}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{612}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -9692,7 +9492,7 @@ Completed box being shipped out [7]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 1.91359
-....\hbox(6.8872+2.15225)x345.0, glue set 313.95233fil
+....\hbox(6.8872+2.15225)x345.0, glue set 317.28485fil
 .....\write1{\new@label@record{mcid-613}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{613}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\pdfliteral page{EMC}
@@ -9710,7 +9510,6 @@ Completed box being shipped out [7]
 ......\T1/cmr/m/n/10 E
 .....\kern -1.2497
 .....\T1/cmr/m/n/10 X
-.....\glue 3.33252 plus 1.66626 minus 1.11084
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-615}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{615}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -9735,7 +9534,7 @@ Completed box being shipped out [7]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 5.91017
-....\hbox(9.93758+3.1992)x345.0, glue set 193.65048fil
+....\hbox(9.93758+3.1992)x345.0, glue set 204.20798fil
 .....\write1{\new@label@record{mcid-616}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{616}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section-number <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\hbox(9.20918+0.0)x31.67244
@@ -9769,7 +9568,6 @@ Completed box being shipped out [7]
 .......\T1/cmr/bx/n/14.4 E
 ......\kern -1.97952
 ......\T1/cmr/bx/n/14.4 X
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-619}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{619}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -9788,7 +9586,6 @@ Completed box being shipped out [7]
 .......\T1/cmr/bx/n/14.4 E
 ......\kern -1.97952
 ......\T1/cmr/bx/n/14.4 X
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-621}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{621}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -9826,7 +9623,7 @@ Completed box being shipped out [7]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 1.91359
-....\hbox(6.8872+2.15225)x345.0, glue set 311.09196fil
+....\hbox(6.8872+2.15225)x345.0, glue set 314.42448fil
 .....\write1{\new@label@record{mcid-622}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{622}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\pdfliteral page{EMC}
@@ -9842,7 +9639,6 @@ Completed box being shipped out [7]
 .......\T1/cmr/m/n/10 E
 ......\kern -1.2497
 ......\T1/cmr/m/n/10 X
-.....\glue 3.33252 plus 1.66626 minus 1.11084
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-624}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{624}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -9867,7 +9663,7 @@ Completed box being shipped out [7]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 5.91017
-....\hbox(9.93758+3.1992)x345.0, glue set 211.70612fil
+....\hbox(9.93758+3.1992)x345.0, glue set 222.26361fil
 .....\write1{\new@label@record{mcid-625}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{625}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section-number <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\hbox(9.20918+0.0)x31.67244
@@ -9899,7 +9695,6 @@ Completed box being shipped out [7]
 .......\T1/cmr/bx/n/14.4 E
 ......\kern -1.97952
 ......\T1/cmr/bx/n/14.4 X
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-628}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{628}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -9916,7 +9711,6 @@ Completed box being shipped out [7]
 .......\T1/cmr/bx/n/14.4 E
 ......\kern -1.97952
 ......\T1/cmr/bx/n/14.4 X
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-630}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{630}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -9954,7 +9748,7 @@ Completed box being shipped out [7]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 1.91359
-....\hbox(6.8872+2.15225)x345.0, glue set 315.5631fil
+....\hbox(6.8872+2.15225)x345.0, glue set 318.89561fil
 .....\write1{\new@label@record{mcid-631}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{631}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\pdfliteral page{EMC}
@@ -9968,7 +9762,6 @@ Completed box being shipped out [7]
 .......\T1/cmr/m/n/10 E
 ......\kern -1.2497
 ......\T1/cmr/m/n/10 X
-.....\glue 3.33252 plus 1.66626 minus 1.11084
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-633}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{633}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -9993,7 +9786,7 @@ Completed box being shipped out [7]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 5.91017
-....\hbox(9.93758+3.1992)x345.0, glue set 251.56818fil
+....\hbox(9.93758+3.1992)x345.0, glue set 262.12567fil
 .....\write1{\new@label@record{mcid-634}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{634}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section-number <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\hbox(9.20918+0.0)x31.67244
@@ -10028,7 +9821,6 @@ Completed box being shipped out [7]
 .........\T1/cmr/bx/n/14.4 E
 ........\glue 0.0 plus 1.0fil minus 1.0fil
 .......\pdfliteral{Q}
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-637}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{637}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -10048,7 +9840,6 @@ Completed box being shipped out [7]
 .........\T1/cmr/bx/n/14.4 E
 ........\glue 0.0 plus 1.0fil minus 1.0fil
 .......\pdfliteral{Q}
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-639}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{639}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -10086,7 +9877,7 @@ Completed box being shipped out [7]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 1.91359
-....\hbox(6.8872+2.15225)x345.0, glue set 328.36522fil
+....\hbox(6.8872+2.15225)x345.0, glue set 331.69774fil
 .....\write1{\new@label@record{mcid-640}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{640}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\pdfliteral page{EMC}
@@ -10103,7 +9894,6 @@ Completed box being shipped out [7]
 .........\T1/cmr/m/n/10 E
 ........\glue 0.0 plus 1.0fil minus 1.0fil
 .......\pdfliteral{Q}
-.....\glue 3.33252 plus 1.66626 minus 1.11084
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-642}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{642}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -10185,7 +9975,7 @@ Completed box being shipped out [8]
 ...\vbox(550.0+0.0)x345.0, glue set 463.08405fil
 ....\hbox(0.0+0.0)x0.0
 ....\glue(\topskip) 0.06242
-....\hbox(9.93758+3.1992)x345.0, glue set 177.95535fil
+....\hbox(9.93758+3.1992)x345.0, glue set 188.51285fil
 .....\write1{\new@label@record{mcid-643}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{643}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section-number <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\hbox(9.20918+0.0)x31.67244
@@ -10234,7 +10024,6 @@ Completed box being shipped out [8]
 ......\T1/cmr/bx/n/14.4 E
 .....\kern -1.97952
 .....\T1/cmr/bx/n/14.4 X
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-646}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{646}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -10268,7 +10057,6 @@ Completed box being shipped out [8]
 ......\T1/cmr/bx/n/14.4 E
 .....\kern -1.97952
 .....\T1/cmr/bx/n/14.4 X
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-648}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{648}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -10306,7 +10094,7 @@ Completed box being shipped out [8]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 1.91359
-....\hbox(6.8872+2.15225)x345.0, glue set 304.00761fil
+....\hbox(6.8872+2.15225)x345.0, glue set 307.34013fil
 .....\write1{\new@label@record{mcid-649}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{649}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\pdfliteral page{EMC}
@@ -10337,7 +10125,6 @@ Completed box being shipped out [8]
 ......\T1/cmr/m/n/10 E
 .....\kern -1.2497
 .....\T1/cmr/m/n/10 X
-.....\glue 3.33252 plus 1.66626 minus 1.11084
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-651}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{651}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -10362,7 +10149,7 @@ Completed box being shipped out [8]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 5.91017
-....\hbox(9.93758+3.1992)x345.0, glue set 198.8425fil
+....\hbox(9.93758+3.1992)x345.0, glue set 209.4fil
 .....\write1{\new@label@record{mcid-654}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{654}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section-number <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\hbox(9.20918+0.0)x31.67244
@@ -10404,7 +10191,6 @@ Completed box being shipped out [8]
 ......\T1/cmr/bx/n/14.4 E
 .....\kern -1.97952
 .....\T1/cmr/bx/n/14.4 X
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-657}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{657}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -10431,7 +10217,6 @@ Completed box being shipped out [8]
 ......\T1/cmr/bx/n/14.4 E
 .....\kern -1.97952
 .....\T1/cmr/bx/n/14.4 X
-.....\glue 5.27875 plus 2.63936 minus 1.75958
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-659}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{659}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/section <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
@@ -10469,7 +10254,7 @@ Completed box being shipped out [8]
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 1.91359
-....\hbox(6.8872+2.15225)x345.0, glue set 311.25858fil
+....\hbox(6.8872+2.15225)x345.0, glue set 314.5911fil
 .....\write1{\new@label@record{mcid-660}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{660}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .....\pdfliteral page{EMC}
@@ -10493,7 +10278,6 @@ Completed box being shipped out [8]
 ......\T1/cmr/m/n/10 E
 .....\kern -1.2497
 .....\T1/cmr/m/n/10 X
-.....\glue 3.33252 plus 1.66626 minus 1.11084
 .....\pdfliteral page{EMC}
 .....\write1{\new@label@record{mcid-662}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{662}{tagmcid}{\__property_code_tagmcid: }}}
 .....\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
