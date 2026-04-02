@@ -172,6 +172,8 @@ and the derived files
 \usepackage{longtable}
 \usepackage{array}
 \usepackage{paralist}
+\usepackage{xcolor}
+\usepackage{multicol}
 %\usepackage[T1]{fontenc}
 %\usepackage{lmodern}
 \DeclareUnicodeCharacter{1EBF}{\^e\hbox to 0pt{\hss\raise .5ex\hbox{\'{}}}}
@@ -396,6 +398,23 @@ and the derived files
 % If this font is not setup, then the common font setup
 % by \cs{hologoFontSetup} is used. Otherwise a warning is given,
 % that there is no font configured.
+% 
+% \subsubsection{Example of font setup}
+% The following shows how the different font keys affect the logos.
+% It has been typeset with 
+% \begin{verbatim}
+% \hologoFontSetup{%
+%    sc=\color{red},
+%    bibsf=\color{green},
+%    rm=\color{blue},
+%    sy=\color{yellow},
+%    logo=\color{brown}}
+% \end{verbatim}
+% \begin{multicols}{2}
+% \hologoFontSetup{sc=\color{red},bibsf=\color{green},rm=\color{blue},sy=\color{yellow},logo=\color{brown}}
+% \newcommand\hologoEntry[3]{\hologoVariant{#1}{#2} \ifx!#2!\else (#2)\fi\par}
+% \hologoList
+% \end{multicols}
 %
 % \subsection{Additional user macros}
 %
@@ -444,7 +463,7 @@ and the derived files
 %   \hologo{LuaTeX}).
 % \end{itemize}
 %
-% \subsection{Example}
+% \subsection{Examples}
 % \label{sec:example}
 %
 % The following example prints the logos in different fonts.
@@ -1318,6 +1337,11 @@ and the derived files
 }
 \HOLOGO@temp{general}
 \HOLOGO@temp{sf}
+\HOLOGO@temp{sc}
+\HOLOGO@temp{bibsf}
+\HOLOGO@temp{rm}
+\HOLOGO@temp{sy}
+\HOLOGO@temp{logo}
 %    \end{macrocode}
 %
 % \subsection{Generic logo commands}
@@ -5023,6 +5047,9 @@ $ #1{\string ^^^^0395}{\string ^^^^03b5}%
 %   \item added tagging support  
 %   \item guard the logos against case changes, (GitHub \#3)  
 %   \item Preserve height in reflectbox (GitHub \#9)
+%   \end{Version}
+%   \begin{Version}{unreleased}
+%   \item correct font keys, (GitHub \#15, \#17)
 %   \end{Version}
 % \end{History}
 %

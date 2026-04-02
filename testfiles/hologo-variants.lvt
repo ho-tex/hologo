@@ -1,0 +1,9 @@
+\input{regression-test}
+\documentclass[twocolumn]{article}
+\usepackage{hologo,xcolor}
+\hologoFontSetup{sc=\color{red}\scshape,bibsf=\color{green}\sffamily,rm=\color{blue},sy=\color{yellow},logo=\color{brown}}
+\begin{document}
+\START \showoutput
+\newcommand\hologoEntry[3]{\hologoVariant{#1}{#2} (#2)\par}
+\hologoList
+\end{document}
